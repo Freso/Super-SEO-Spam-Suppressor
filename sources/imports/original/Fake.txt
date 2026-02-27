@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Feb 2026 09:41 UTC
-# Version: 2026.0226.0941.56
+# Last modified: 27 Feb 2026 03:32 UTC
+# Version: 2026.0227.0332.37
 # Syntax: Domains (without subdomains)
-# Number of entries: 14195
+# Number of entries: 14200
 #
 01broker.com
 01crypto.com
@@ -746,7 +746,6 @@ asfimarg.com
 asfinag.me
 asfinet.info
 asfintarg.com
-asflnag.bond
 asflnaq.me
 ashatoslombardini.com
 ashbergh.com
@@ -4451,6 +4450,7 @@ fitfloposterreich.at
 fitflopoutlet.at
 fitflopparis.net
 fitflopromania.com
+fitgirl-repacks.download
 fitiwelt.com
 de.fitlebenberlin.com
 fitliebe.de
@@ -5162,6 +5162,7 @@ glam-bay.de
 glam-gadgets.de
 glamantibeauty.com
 glamina.de
+glamkit.shop
 glamouralchemy.com
 glamourparadies.com
 glamstadt.com
@@ -6890,6 +6891,7 @@ kangaltree.com
 kanistyleshop.com
 kaniteo.com
 kanuonlineshop.com
+kanyecharms.store
 kaotikofire.shop
 kapackgmbh.com
 kaperes.com
@@ -8907,6 +8909,7 @@ mytruegadgets.com
 myvillaz.com
 mywhomeofficial.com
 mywonderfy.com
+myzenistitch.com
 nabenprada.com
 nachhaltigeherrenmode.com
 nada-nada.com
@@ -11542,6 +11545,7 @@ skinliy.com
 skinnfitts.com
 skinnycaps.com
 skinsociety.shop
+skinwell.store
 skiracedepartment.com
 skispeichern.com
 skisurfskate.com
@@ -14126,6 +14130,7 @@ zeltneu.com
 zeltundschlaf.com
 zendoo.de
 zengyt.com
+zenistitch.com
 zenla.de
 zenniagoods.com
 zeno-paris.shop
