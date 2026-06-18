@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Jun 2026 06:32 UTC
-# Version: 2026.0618.0632.59
+# Last modified: 18 Jun 2026 09:52 UTC
+# Version: 2026.0618.0952.29
 # Syntax: Domains (without subdomains)
-# Number of entries: 16927
+# Number of entries: 16926
 #
 trader.212group.de
 eu.2bagsvalley.cn
@@ -9361,7 +9361,6 @@ livoro-deutschland.com
 livsy.de
 lizabete.com
 ljekarna-osijek.com
-ljekarnazagreb.com
 ljuab.shop
 lkw-mieten-wien.at
 lkw-reifenpanne.com
