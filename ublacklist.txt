@@ -32025,6 +32025,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.achasingresmo.gq/*
 *://*.achasrimy.gq/*
 *://*.achat-compte-boost.fr/*
+*://*.achat-eliorgroup.fr/*
 *://*.achat-stromectol.fr/*
 *://*.achat-supermarchesmatch.fr/*
 *://*.achat-vehicule-acheteurlbc.fr/*
@@ -40499,6 +40500,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.amnarrome.tk/*
 *://*.amnazon.fr/*
 *://*.amncestry.fr/*
+*://*.amndesgouv.fr/*
 *://*.amnee.xyz/*
 *://*.amnepematta.gq/*
 *://*.amnesepartnicar.gq/*
@@ -42428,6 +42430,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.antaderra.tk/*
 *://*.antadinutpecal.gq/*
 *://*.antafanlikisfe.ga/*
+*://*.antafrance.fr/*
 *://*.antai-agence-nationaie.fr/*
 *://*.antai-agence-national.fr/*
 *://*.antai-agence-nationale.fr/*
@@ -49211,6 +49214,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.authsimpots.fr/*
 *://*.authsimpotsespaclientelles.fr/*
 *://*.authsso-prime.fr/*
+*://*.authsuiviappro.fr/*
 *://*.authtapostmaev.fr/*
 *://*.authtelemc.fr/*
 *://*.authvalidsecur.fr/*
@@ -60409,6 +60413,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bitcoin-pharmacy.com/*
 *://*.bitcoin-shop.ro/*
 *://*.bitcoin-trader.net/*
+*://*.bitcoin-up.io/*
 *://*.bitcoin-xact.fr/*
 *://*.bitcoinarchon.com/*
 *://*.bitcoinblackfriday.com/*
@@ -74393,6 +74398,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinovale.fr/*
 *://*.casinovale1.fr/*
 *://*.casinovalyss.fr/*
+*://*.casinovaonlinecasino.fr/*
 *://*.casinovasy.fr/*
 *://*.casinovave-online.fr/*
 *://*.casinovegashero.fr/*
@@ -113722,7 +113728,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dvenez.bar/*
 *://*.dventernipubta.ml/*
 *://*.dvenziopersconfifth.ml/*
-*://*.dvepare.com/*
 *://*.dverdabbhombspysnacoo.tk/*
 *://*.dvere-zarubne.eu/*
 *://*.dverestethesdu.gq/*
@@ -125563,6 +125568,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.espacemycreditdunord.fr/*
 *://*.espacemycreditmutuel.fr/*
 *://*.espacenetflix.fr/*
+*://*.espacepaiementsecurise.fr/*
 *://*.espacepart-impotsgouv.fr/*
 *://*.espaceparticulieclient.fr/*
 *://*.espaceparticulier-cmb.fr/*
@@ -138665,7 +138671,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fostercare.xyz/*
 *://*.fosterchildpublicitytower.com/*
 *://*.fosterits.eu/*
-*://*.fosterrefrigerator.de/*
 *://*.fosterrespite.com/*
 *://*.fostra-si.ch/*
 *://*.fosuldumpfrec.tk/*
@@ -139270,6 +139275,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fr-dysondestockage.fr/*
 *://*.fr-editions-dalloz.fr/*
 *://*.fr-eiffagetp.fr/*
+*://*.fr-electro-prodestock.fr/*
 *://*.fr-electrodepot.fr/*
 *://*.fr-electrodepotfrance.fr/*
 *://*.fr-electroindustrie.fr/*
@@ -144508,7 +144514,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.galidswordtingka.gq/*
 *://*.galihorlipee.tk/*
 *://*.galileo.blog/*
-*://*.galileofx.com/*
 *://*.galileuconcursos.com.br/*
 *://*.galimustiendolria.gq/*
 *://*.galisum.xyz/*
@@ -165581,6 +165586,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hiddendoor.co/*
 *://*.hiddenhertz.com/*
 *://*.hiddenjack-casino.fr/*
+*://*.hiddenjack-fr.fr/*
 *://*.hiddenjack.fr/*
 *://*.hiddenjackcasino.fr/*
 *://*.hiddentavern.fr/*
@@ -179857,6 +179863,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.instance-chronopost.fr/*
 *://*.instanonniatermy.ml/*
 *://*.instanoschanlibo.cf/*
+*://*.instant-cas1no.fr/*
 *://*.instant-casino-fr.fr/*
 *://*.instant-casino-officiel.fr/*
 *://*.instant-casino1.fr/*
@@ -192007,7 +192014,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kamagra-premium.net/*
 *://*.kamagra-pro.com/*
 *://*.kamagra-pro.net/*
-*://*.kamagra-pro.online/*
 *://*.kamagra-prodej-online.eu/*
 *://*.kamagra-prodej.cz/*
 *://*.kamagra-prodej.online/*
@@ -204692,6 +204698,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.legiano-fr.fr/*
 *://*.legiano-france.fr/*
 *://*.legiano-officiel.fr/*
+*://*.legianocas1no.fr/*
 *://*.legianocasino-enligne.fr/*
 *://*.legianocasino-fr.fr/*
 *://*.legianocasino-france.fr/*
@@ -210581,8 +210588,11 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lizardpoit.com/*
 *://*.lizaro-casino-online.fr/*
 *://*.lizaro-casinos.fr/*
+*://*.lizaro-offical.fr/*
 *://*.lizaro-online-casino.fr/*
+*://*.lizaro-online-fr.fr/*
 *://*.lizaros-fr.fr/*
+*://*.lizaros-online.fr/*
 *://*.lizatymun.cf/*
 *://*.lizearubarleu.ga/*
 *://*.lizgcv.bar/*
@@ -217802,6 +217812,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mafiacasinoavis.fr/*
 *://*.mafiacasinobonus365.fr/*
 *://*.mafiacasinocodepromo.fr/*
+*://*.mafiacasinoenligne.fr/*
 *://*.mafiacasinofr1.fr/*
 *://*.mafiacasinologin777.fr/*
 *://*.mafiacasinoo.fr/*
@@ -226112,6 +226123,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.millioner-cassino.fr/*
 *://*.millionerbonus.fr/*
 *://*.millionercasino-fr.fr/*
+*://*.millionercasinoenligne.fr/*
 *://*.millionercasinos.fr/*
 *://*.millioners-casino.fr/*
 *://*.millioners-casinos.fr/*
@@ -226128,6 +226140,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.millionz-code.fr/*
 *://*.millionz-enligne.fr/*
 *://*.millionz-fra.fr/*
+*://*.millionz-francais.fr/*
 *://*.millionz-france.fr/*
 *://*.millionz-jeu.fr/*
 *://*.millionz-online.fr/*
@@ -251772,7 +251785,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.oikpe.bar/*
 *://*.oiktzca.bar/*
 *://*.oil-direkt.de/*
-*://*.oil-profits.com/*
 *://*.oilav.xyz/*
 *://*.oilchangeasheville.com/*
 *://*.oilchangehendersonville.com/*
@@ -274869,6 +274881,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.prime-dc.fr/*
 *://*.prime-deals.fr/*
 *://*.prime-debut.fr/*
+*://*.prime-deflagrations.fr/*
 *://*.prime-delivery.fr/*
 *://*.prime-demarrage.fr/*
 *://*.prime-desactivation.fr/*
@@ -355579,6 +355592,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ubuntu.org/*
 *://*.ubuntuaa.com/*
 *://*.ubuntubin.com/*
+*://*.ubuntuconnect.fr/*
 *://*.ubuntugeeks.com/*
 *://*.ubuntuplace.info/*
 *://*.ubunturanders.dk/*
@@ -372400,6 +372414,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vivahost.host/*
 *://*.vivaia-schuhe.de/*
 *://*.vivaiaboutiques.fr/*
+*://*.vivaiacollection.com/*
 *://*.vivaiaparis.fr/*
 *://*.vivaiaschaussures.fr/*
 *://*.vivaiaschuhe.at/*
@@ -380503,6 +380518,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.whereswomanplayer.buzz/*
 *://*.whereter.my.id/*
 *://*.whereube.com/*
+*://*.whereverk.com/*
 *://*.wherewasit.com/*
 *://*.whesacosodop.gq/*
 *://*.whetcagetico.tk/*

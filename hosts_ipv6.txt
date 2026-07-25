@@ -64044,6 +64044,8 @@
 ::1 www.achasrimy.gq
 ::1 achat-compte-boost.fr
 ::1 www.achat-compte-boost.fr
+::1 achat-eliorgroup.fr
+::1 www.achat-eliorgroup.fr
 ::1 achat-stromectol.fr
 ::1 www.achat-stromectol.fr
 ::1 achat-supermarchesmatch.fr
@@ -80992,6 +80994,8 @@
 ::1 www.amnazon.fr
 ::1 amncestry.fr
 ::1 www.amncestry.fr
+::1 amndesgouv.fr
+::1 www.amndesgouv.fr
 ::1 amnee.xyz
 ::1 www.amnee.xyz
 ::1 amnepematta.gq
@@ -84850,6 +84854,8 @@
 ::1 www.antadinutpecal.gq
 ::1 antafanlikisfe.ga
 ::1 www.antafanlikisfe.ga
+::1 antafrance.fr
+::1 www.antafrance.fr
 ::1 antai-agence-nationaie.fr
 ::1 www.antai-agence-nationaie.fr
 ::1 antai-agence-national.fr
@@ -98416,6 +98422,8 @@
 ::1 www.authsimpotsespaclientelles.fr
 ::1 authsso-prime.fr
 ::1 www.authsso-prime.fr
+::1 authsuiviappro.fr
+::1 www.authsuiviappro.fr
 ::1 authtapostmaev.fr
 ::1 www.authtapostmaev.fr
 ::1 authtelemc.fr
@@ -120812,6 +120820,8 @@
 ::1 www.bitcoin-shop.ro
 ::1 bitcoin-trader.net
 ::1 www.bitcoin-trader.net
+::1 bitcoin-up.io
+::1 www.bitcoin-up.io
 ::1 bitcoin-xact.fr
 ::1 www.bitcoin-xact.fr
 ::1 bitcoinarchon.com
@@ -148780,6 +148790,8 @@
 ::1 www.casinovale1.fr
 ::1 casinovalyss.fr
 ::1 www.casinovalyss.fr
+::1 casinovaonlinecasino.fr
+::1 www.casinovaonlinecasino.fr
 ::1 casinovasy.fr
 ::1 www.casinovasy.fr
 ::1 casinovave-online.fr
@@ -227438,8 +227450,6 @@
 ::1 www.dventernipubta.ml
 ::1 dvenziopersconfifth.ml
 ::1 www.dvenziopersconfifth.ml
-::1 dvepare.com
-::1 www.dvepare.com
 ::1 dverdabbhombspysnacoo.tk
 ::1 www.dverdabbhombspysnacoo.tk
 ::1 dvere-zarubne.eu
@@ -251120,6 +251130,8 @@
 ::1 www.espacemycreditmutuel.fr
 ::1 espacenetflix.fr
 ::1 www.espacenetflix.fr
+::1 espacepaiementsecurise.fr
+::1 www.espacepaiementsecurise.fr
 ::1 espacepart-impotsgouv.fr
 ::1 www.espacepart-impotsgouv.fr
 ::1 espaceparticulieclient.fr
@@ -277324,8 +277336,6 @@
 ::1 www.fosterchildpublicitytower.com
 ::1 fosterits.eu
 ::1 www.fosterits.eu
-::1 fosterrefrigerator.de
-::1 www.fosterrefrigerator.de
 ::1 fosterrespite.com
 ::1 www.fosterrespite.com
 ::1 fostra-si.ch
@@ -278534,6 +278544,8 @@
 ::1 www.fr-editions-dalloz.fr
 ::1 fr-eiffagetp.fr
 ::1 www.fr-eiffagetp.fr
+::1 fr-electro-prodestock.fr
+::1 www.fr-electro-prodestock.fr
 ::1 fr-electrodepot.fr
 ::1 www.fr-electrodepot.fr
 ::1 fr-electrodepotfrance.fr
@@ -289010,8 +289022,6 @@
 ::1 www.galihorlipee.tk
 ::1 galileo.blog
 ::1 www.galileo.blog
-::1 galileofx.com
-::1 www.galileofx.com
 ::1 galileuconcursos.com.br
 ::1 www.galileuconcursos.com.br
 ::1 galimustiendolria.gq
@@ -331156,6 +331166,8 @@
 ::1 www.hiddenhertz.com
 ::1 hiddenjack-casino.fr
 ::1 www.hiddenjack-casino.fr
+::1 hiddenjack-fr.fr
+::1 www.hiddenjack-fr.fr
 ::1 hiddenjack.fr
 ::1 www.hiddenjack.fr
 ::1 hiddenjackcasino.fr
@@ -359708,6 +359720,8 @@
 ::1 www.instanonniatermy.ml
 ::1 instanoschanlibo.cf
 ::1 www.instanoschanlibo.cf
+::1 instant-cas1no.fr
+::1 www.instant-cas1no.fr
 ::1 instant-casino-fr.fr
 ::1 www.instant-casino-fr.fr
 ::1 instant-casino-officiel.fr
@@ -384008,8 +384022,6 @@
 ::1 www.kamagra-pro.com
 ::1 kamagra-pro.net
 ::1 www.kamagra-pro.net
-::1 kamagra-pro.online
-::1 www.kamagra-pro.online
 ::1 kamagra-prodej-online.eu
 ::1 www.kamagra-prodej-online.eu
 ::1 kamagra-prodej.cz
@@ -409378,6 +409390,8 @@
 ::1 www.legiano-france.fr
 ::1 legiano-officiel.fr
 ::1 www.legiano-officiel.fr
+::1 legianocas1no.fr
+::1 www.legianocas1no.fr
 ::1 legianocasino-enligne.fr
 ::1 www.legianocasino-enligne.fr
 ::1 legianocasino-fr.fr
@@ -421156,10 +421170,16 @@
 ::1 www.lizaro-casino-online.fr
 ::1 lizaro-casinos.fr
 ::1 www.lizaro-casinos.fr
+::1 lizaro-offical.fr
+::1 www.lizaro-offical.fr
 ::1 lizaro-online-casino.fr
 ::1 www.lizaro-online-casino.fr
+::1 lizaro-online-fr.fr
+::1 www.lizaro-online-fr.fr
 ::1 lizaros-fr.fr
 ::1 www.lizaros-fr.fr
+::1 lizaros-online.fr
+::1 www.lizaros-online.fr
 ::1 lizatymun.cf
 ::1 www.lizatymun.cf
 ::1 lizearubarleu.ga
@@ -435598,6 +435618,8 @@
 ::1 www.mafiacasinobonus365.fr
 ::1 mafiacasinocodepromo.fr
 ::1 www.mafiacasinocodepromo.fr
+::1 mafiacasinoenligne.fr
+::1 www.mafiacasinoenligne.fr
 ::1 mafiacasinofr1.fr
 ::1 www.mafiacasinofr1.fr
 ::1 mafiacasinologin777.fr
@@ -452218,6 +452240,8 @@
 ::1 www.millionerbonus.fr
 ::1 millionercasino-fr.fr
 ::1 www.millionercasino-fr.fr
+::1 millionercasinoenligne.fr
+::1 www.millionercasinoenligne.fr
 ::1 millionercasinos.fr
 ::1 www.millionercasinos.fr
 ::1 millioners-casino.fr
@@ -452250,6 +452274,8 @@
 ::1 www.millionz-enligne.fr
 ::1 millionz-fra.fr
 ::1 www.millionz-fra.fr
+::1 millionz-francais.fr
+::1 www.millionz-francais.fr
 ::1 millionz-france.fr
 ::1 www.millionz-france.fr
 ::1 millionz-jeu.fr
@@ -503538,8 +503564,6 @@
 ::1 www.oiktzca.bar
 ::1 oil-direkt.de
 ::1 www.oil-direkt.de
-::1 oil-profits.com
-::1 www.oil-profits.com
 ::1 oilav.xyz
 ::1 www.oilav.xyz
 ::1 oilchangeasheville.com
@@ -549732,6 +549756,8 @@
 ::1 www.prime-deals.fr
 ::1 prime-debut.fr
 ::1 www.prime-debut.fr
+::1 prime-deflagrations.fr
+::1 www.prime-deflagrations.fr
 ::1 prime-delivery.fr
 ::1 www.prime-delivery.fr
 ::1 prime-demarrage.fr
@@ -711152,6 +711178,8 @@
 ::1 www.ubuntuaa.com
 ::1 ubuntubin.com
 ::1 www.ubuntubin.com
+::1 ubuntuconnect.fr
+::1 www.ubuntuconnect.fr
 ::1 ubuntugeeks.com
 ::1 www.ubuntugeeks.com
 ::1 ubuntuplace.info
@@ -744794,6 +744822,8 @@
 ::1 www.vivaia-schuhe.de
 ::1 vivaiaboutiques.fr
 ::1 www.vivaiaboutiques.fr
+::1 vivaiacollection.com
+::1 www.vivaiacollection.com
 ::1 vivaiaparis.fr
 ::1 www.vivaiaparis.fr
 ::1 vivaiaschaussures.fr
@@ -761000,6 +761030,8 @@
 ::1 www.whereter.my.id
 ::1 whereube.com
 ::1 www.whereube.com
+::1 whereverk.com
+::1 www.whereverk.com
 ::1 wherewasit.com
 ::1 www.wherewasit.com
 ::1 whesacosodop.gq
