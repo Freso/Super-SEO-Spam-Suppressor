@@ -63498,6 +63498,8 @@
 ::1 www.accountpass-securedsg.fr
 ::1 accountpaypal.fr
 ::1 www.accountpaypal.fr
+::1 accounts-electrodepot.fr
+::1 www.accounts-electrodepot.fr
 ::1 accounts-google.fr
 ::1 www.accounts-google.fr
 ::1 accounts-logins.fr
@@ -67342,6 +67344,8 @@
 ::1 www.adolscx.rest
 ::1 adoltsarasin.tk
 ::1 www.adoltsarasin.tk
+::1 adomiassistance.fr
+::1 www.adomiassistance.fr
 ::1 adomonesra.tk
 ::1 www.adomonesra.tk
 ::1 adomusprow.tk
@@ -147620,6 +147624,8 @@
 ::1 www.casino-elysees-club.fr
 ::1 casino-en-ligne-argen-treel.fr
 ::1 www.casino-en-ligne-argen-treel.fr
+::1 casino-en-ligne-sans-verification.fr
+::1 www.casino-en-ligne-sans-verification.fr
 ::1 casino-enligne-argentreel.fr
 ::1 www.casino-enligne-argentreel.fr
 ::1 casino-enlignefiable.fr
@@ -148308,6 +148314,8 @@
 ::1 www.casinolevant1.fr
 ::1 casinoliraspin.fr
 ::1 www.casinoliraspin.fr
+::1 casinolizaroenligne.fr
+::1 www.casinolizaroenligne.fr
 ::1 casinolo-casino.fr
 ::1 www.casinolo-casino.fr
 ::1 casinolo-enligne.fr
@@ -148712,6 +148720,8 @@
 ::1 www.casinotalismania.fr
 ::1 casinotemple.fr
 ::1 www.casinotemple.fr
+::1 casinotikitakaenligne.fr
+::1 www.casinotikitakaenligne.fr
 ::1 casinotogether-fr.fr
 ::1 www.casinotogether-fr.fr
 ::1 casinotogether-official.fr
@@ -152524,12 +152534,20 @@
 ::1 www.celsiuscasinobonus.fr
 ::1 celsiuscasinofr.fr
 ::1 www.celsiuscasinofr.fr
+::1 celsiuscasinofra.fr
+::1 www.celsiuscasinofra.fr
+::1 celsiuscasinofrance.fr
+::1 www.celsiuscasinofrance.fr
 ::1 celsiuscasinologin.fr
 ::1 www.celsiuscasinologin.fr
 ::1 celsiuscasinopromo.fr
 ::1 www.celsiuscasinopromo.fr
 ::1 celsiusfr.fr
 ::1 www.celsiusfr.fr
+::1 celsiusfrancecasino.fr
+::1 www.celsiusfrancecasino.fr
+::1 celsiusfrcasino.fr
+::1 www.celsiusfrcasino.fr
 ::1 celtanghantaiconspawn.cf
 ::1 www.celtanghantaiconspawn.cf
 ::1 celtetemplanwhi.ga
@@ -159702,6 +159720,8 @@
 ::1 www.chicchaussures.fr
 ::1 chicco.com.de
 ::1 www.chicco.com.de
+::1 chiccofrance.fr
+::1 www.chiccofrance.fr
 ::1 chicdiefrizabacun.cf
 ::1 www.chicdiefrizabacun.cf
 ::1 chicensolde.fr
@@ -172152,6 +172172,8 @@
 ::1 www.coach-ksa.com
 ::1 coach-outlet-2011.info
 ::1 www.coach-outlet-2011.info
+::1 coach-outlet.fr
+::1 www.coach-outlet.fr
 ::1 coachartbatisicu.cf
 ::1 www.coachartbatisicu.cf
 ::1 coachattentions.biz
@@ -178108,6 +178130,8 @@
 ::1 www.confirmation-credit-agri.fr
 ::1 confirmation-details-rdv-leboncoin.fr
 ::1 www.confirmation-details-rdv-leboncoin.fr
+::1 confirmation-devotre-rendez-vous-securise-leboncoin.fr
+::1 www.confirmation-devotre-rendez-vous-securise-leboncoin.fr
 ::1 confirmation-du-rendez-vous-securise-leboncoin.fr
 ::1 www.confirmation-du-rendez-vous-securise-leboncoin.fr
 ::1 confirmation-free.fr
@@ -180630,6 +180654,8 @@
 ::1 www.contactconseilclient.fr
 ::1 contactcostco-france.fr
 ::1 www.contactcostco-france.fr
+::1 contactdiplogouv.fr
+::1 www.contactdiplogouv.fr
 ::1 contacte-service.fr
 ::1 www.contacte-service.fr
 ::1 contacte-sfr.fr
@@ -180644,6 +180670,8 @@
 ::1 www.contactform.dev
 ::1 contactfr.fr
 ::1 www.contactfr.fr
+::1 contactfree.fr
+::1 www.contactfree.fr
 ::1 contactgouv-info.fr
 ::1 www.contactgouv-info.fr
 ::1 contactinterpol.fr
@@ -238472,6 +238500,8 @@
 ::1 www.electrodeport.fr
 ::1 electrodepot-account.fr
 ::1 www.electrodepot-account.fr
+::1 electrodepot-accounts.fr
+::1 www.electrodepot-accounts.fr
 ::1 electrodepot-france.fr
 ::1 www.electrodepot-france.fr
 ::1 electrodepot-groupe.fr
@@ -238520,6 +238550,8 @@
 ::1 www.electronw.com
 ::1 electrophoridae.site
 ::1 www.electrophoridae.site
+::1 electroprodestock.fr
+::1 www.electroprodestock.fr
 ::1 electroshop24.de
 ::1 www.electroshop24.de
 ::1 electroshopp.fr
@@ -278426,6 +278458,8 @@
 ::1 www.fr-charal.fr
 ::1 fr-chericasino.fr
 ::1 www.fr-chericasino.fr
+::1 fr-chicken--road.fr
+::1 www.fr-chicken--road.fr
 ::1 fr-cimpa.fr
 ::1 www.fr-cimpa.fr
 ::1 fr-circet.fr
@@ -280100,6 +280134,8 @@
 ::1 www.frccga.rest
 ::1 frcglgu.tokyo
 ::1 www.frcglgu.tokyo
+::1 frchickenroad.fr
+::1 www.frchickenroad.fr
 ::1 frchronopost.fr
 ::1 www.frchronopost.fr
 ::1 frchs5v.tokyo
@@ -310178,6 +310214,8 @@
 ::1 www.groupe-goursat.fr
 ::1 groupe-iliade.fr
 ::1 www.groupe-iliade.fr
+::1 groupe-jean-floch.fr
+::1 www.groupe-jean-floch.fr
 ::1 groupe-laposte.fr
 ::1 www.groupe-laposte.fr
 ::1 groupe-laredoute.fr
@@ -492580,6 +492618,8 @@
 ::1 www.noutmolugeti.tk
 ::1 nouvalle-aquitaine.fr
 ::1 www.nouvalle-aquitaine.fr
+::1 nouveau-casino-2026.fr
+::1 www.nouveau-casino-2026.fr
 ::1 nouveau-compte-prime.fr
 ::1 www.nouveau-compte-prime.fr
 ::1 nouveau-prime.fr
@@ -522856,6 +522896,8 @@
 ::1 www.pariscybertek.fr
 ::1 parisdisneyland.fr
 ::1 www.parisdisneyland.fr
+::1 parisen.fr
+::1 www.parisen.fr
 ::1 parisenventicket.fr
 ::1 www.parisenventicket.fr
 ::1 pariseventicket.fr
@@ -603348,6 +603390,10 @@
 ::1 www.runacasino-france.fr
 ::1 runacasinoenligne.fr
 ::1 www.runacasinoenligne.fr
+::1 runacasinofr.fr
+::1 www.runacasinofr.fr
+::1 runacasinoligne.fr
+::1 www.runacasinoligne.fr
 ::1 runacasinoonline.fr
 ::1 www.runacasinoonline.fr
 ::1 runahoeve.nl
@@ -621572,6 +621618,8 @@
 ::1 www.service-intrabancaire.fr
 ::1 service-klarna.fr
 ::1 www.service-klarna.fr
+::1 service-la-macif.fr
+::1 www.service-la-macif.fr
 ::1 service-la-poste.fr
 ::1 www.service-la-poste.fr
 ::1 service-laposte.fr
@@ -684674,6 +684722,8 @@
 ::1 www.ticketconcerts.fr
 ::1 ticketcorner.fr
 ::1 www.ticketcorner.fr
+::1 ticketdrop.fr
+::1 www.ticketdrop.fr
 ::1 ticketery.fr
 ::1 www.ticketery.fr
 ::1 ticketfaster.fr
@@ -685946,6 +685996,8 @@
 ::1 www.tikitakacasino-official.fr
 ::1 tikitakacasino1.fr
 ::1 www.tikitakacasino1.fr
+::1 tikitakacasinoenligne.fr
+::1 www.tikitakacasinoenligne.fr
 ::1 tikitakacasinoonline.fr
 ::1 www.tikitakacasinoonline.fr
 ::1 tikitakaslots.fr
@@ -697864,6 +697916,8 @@
 ::1 www.trader-invest.com
 ::1 tradereasy.com
 ::1 www.tradereasy.com
+::1 traderepublic-support.fr
+::1 www.traderepublic-support.fr
 ::1 traderesgreeniz.ml
 ::1 www.traderesgreeniz.ml
 ::1 traderhouse.com
@@ -709168,6 +709222,8 @@
 ::1 www.u-upsud.fr
 ::1 u-watch.fr
 ::1 www.u-watch.fr
+::1 u003efree-mobile.fr
+::1 www.u003efree-mobile.fr
 ::1 u00x3.tokyo
 ::1 www.u00x3.tokyo
 ::1 u01281z.shop
