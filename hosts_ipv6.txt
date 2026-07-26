@@ -87290,6 +87290,8 @@
 ::1 www.apollocoatingsinc.com
 ::1 apollodentalcentre.xyz
 ::1 www.apollodentalcentre.xyz
+::1 apollogrouptvs.com
+::1 www.apollogrouptvs.com
 ::1 apollona.ee
 ::1 www.apollona.ee
 ::1 apolloniosoluzioni.it
@@ -114322,8 +114324,6 @@
 ::1 www.bestscashardpuzzdown.cf
 ::1 bestsecuritysurf.com
 ::1 www.bestsecuritysurf.com
-::1 bestselectionforyou.com
-::1 www.bestselectionforyou.com
 ::1 bestseller-price.news
 ::1 www.bestseller-price.news
 ::1 bestseller-stock.cyou
@@ -260352,6 +260352,8 @@
 ::1 www.facturations-netfiix.fr
 ::1 facturations-netflix.fr
 ::1 www.facturations-netflix.fr
+::1 facturations-prime.fr
+::1 www.facturations-prime.fr
 ::1 facturationsupport.fr
 ::1 www.facturationsupport.fr
 ::1 facture-abonement.fr
@@ -261474,8 +261476,6 @@
 ::1 www.familiewelpenhaus.com
 ::1 famillechangeur.fr
 ::1 www.famillechangeur.fr
-::1 familo.net
-::1 www.familo.net
 ::1 familopepert.tk
 ::1 www.familopepert.tk
 ::1 family-drugs.net
@@ -269250,8 +269250,6 @@
 ::1 www.findrestisen.cf
 ::1 findsalacholpe.tk
 ::1 www.findsalacholpe.tk
-::1 findsdemmarket.shop
-::1 www.findsdemmarket.shop
 ::1 findsearchresult.com
 ::1 www.findsearchresult.com
 ::1 findsexy-lonelygirl.com
@@ -289078,6 +289076,8 @@
 ::1 www.galihorlipee.tk
 ::1 galileo.blog
 ::1 www.galileo.blog
+::1 galileofx.com
+::1 www.galileofx.com
 ::1 galileuconcursos.com.br
 ::1 www.galileuconcursos.com.br
 ::1 galimustiendolria.gq
@@ -304656,8 +304656,6 @@
 ::1 www.goodensolarenergylimited.com
 ::1 goodereader.com
 ::1 www.goodereader.com
-::1 goodersatzteileshop.com
-::1 www.goodersatzteileshop.com
 ::1 goodfaimomelta.tk
 ::1 www.goodfaimomelta.tk
 ::1 goodgecolachi.ml
@@ -327404,6 +327402,8 @@
 ::1 www.heavmis.asia
 ::1 heavout.my.id
 ::1 www.heavout.my.id
+::1 heavybetcasino.fr
+::1 www.heavybetcasino.fr
 ::1 heavyconsciousnesspanties.com
 ::1 www.heavyconsciousnesspanties.com
 ::1 heavyfullsheplace.rest
@@ -372110,6 +372110,8 @@
 ::1 www.jehvrx.rest
 ::1 jehwt2t.cyou
 ::1 www.jehwt2t.cyou
+::1 jeinn.com
+::1 www.jeinn.com
 ::1 jeinsafexparea.ga
 ::1 www.jeinsafexparea.ga
 ::1 jeiubbm.bar
@@ -384094,6 +384096,8 @@
 ::1 www.kamagra-pro.com
 ::1 kamagra-pro.net
 ::1 www.kamagra-pro.net
+::1 kamagra-pro.online
+::1 www.kamagra-pro.online
 ::1 kamagra-prodej-online.eu
 ::1 www.kamagra-prodej-online.eu
 ::1 kamagra-prodej.cz
@@ -401384,6 +401388,8 @@
 ::1 www.lacosteoutlet.fr
 ::1 lacosteoutletfrance.fr
 ::1 www.lacosteoutletfrance.fr
+::1 lacostes-france.fr
+::1 www.lacostes-france.fr
 ::1 lacostes.de
 ::1 www.lacostes.de
 ::1 lacostes.fr
@@ -457608,8 +457614,6 @@
 ::1 www.modernswantrace.bar
 ::1 moderoosn.xyz
 ::1 www.moderoosn.xyz
-::1 moderwear.shop
-::1 www.moderwear.shop
 ::1 modeschulte.de
 ::1 www.modeschulte.de
 ::1 modestogold.com
@@ -492520,6 +492524,8 @@
 ::1 www.notifications-chronopost.fr
 ::1 notifications-client.fr
 ::1 www.notifications-client.fr
+::1 notifications-clients-prime.fr
+::1 www.notifications-clients-prime.fr
 ::1 notifications-dgccrfgouv.fr
 ::1 www.notifications-dgccrfgouv.fr
 ::1 notifications-email.fr
@@ -503658,6 +503664,8 @@
 ::1 www.oiktzca.bar
 ::1 oil-direkt.de
 ::1 www.oil-direkt.de
+::1 oil-profits.com
+::1 www.oil-profits.com
 ::1 oilav.xyz
 ::1 www.oilav.xyz
 ::1 oilchangeasheville.com
@@ -620658,8 +620666,6 @@
 ::1 www.sepiyt.tokyo
 ::1 sepjacourca.tk
 ::1 www.sepjacourca.tk
-::1 sepkicks.com
-::1 www.sepkicks.com
 ::1 seplingvercachandthest.tk
 ::1 www.seplingvercachandthest.tk
 ::1 seplisfawntor.info
@@ -626118,8 +626124,6 @@
 ::1 www.shirtsandsweaters.eu
 ::1 shirtspolos.com
 ::1 www.shirtspolos.com
-::1 shiseido-eu.com
-::1 www.shiseido-eu.com
 ::1 shishire.club
 ::1 www.shishire.club
 ::1 shishqa.xyz
@@ -629342,6 +629346,10 @@
 ::1 www.simsinocasino-fr.fr
 ::1 simsinocasino1.fr
 ::1 www.simsinocasino1.fr
+::1 simsinocasino2.fr
+::1 www.simsinocasino2.fr
+::1 simsinocasino7.fr
+::1 www.simsinocasino7.fr
 ::1 simsinocasinoenligne.fr
 ::1 www.simsinocasinoenligne.fr
 ::1 simsinocasinofr.fr
@@ -700708,8 +700716,6 @@
 ::1 www.treking.xyz
 ::1 trekkeepprecise.com
 ::1 www.trekkeepprecise.com
-::1 trekkinggearwarehouse.com
-::1 www.trekkinggearwarehouse.com
 ::1 trekkinginfonepal.com
 ::1 www.trekkinginfonepal.com
 ::1 treklicalivede.cf
@@ -768136,8 +768142,6 @@
 ::1 www.woofgear.de
 ::1 wooflyx.com
 ::1 www.wooflyx.com
-::1 woofz.academy
-::1 www.woofz.academy
 ::1 woogitopeck.online
 ::1 www.woogitopeck.online
 ::1 woogpz.tokyo
