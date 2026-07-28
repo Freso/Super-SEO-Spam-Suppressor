@@ -43647,6 +43647,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.apolepp.xyz/*
 *://*.apollocoatingsinc.com/*
 *://*.apollodentalcentre.xyz/*
+*://*.apollogrouptvs.com/*
 *://*.apollona.ee/*
 *://*.apolloniosoluzioni.it/*
 *://*.apollus24.com/*
@@ -396881,6 +396882,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ying997.com/*
 *://*.ying998.com/*
 *://*.ying999.com/*
+*://*.yinga-vital.de/*
 *://*.yingfeidi.com/*
 *://*.yinghuawang.com/*
 *://*.yingkehz.com/*

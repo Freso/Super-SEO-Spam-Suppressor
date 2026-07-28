@@ -43560,6 +43560,7 @@ neg {name=apolen.xyz; types=domain;}
 neg {name=apolepp.xyz; types=domain;}
 neg {name=apollocoatingsinc.com; types=domain;}
 neg {name=apollodentalcentre.xyz; types=domain;}
+neg {name=apollogrouptvs.com; types=domain;}
 neg {name=apollona.ee; types=domain;}
 neg {name=apolloniosoluzioni.it; types=domain;}
 neg {name=apollus24.com; types=domain;}
@@ -396130,6 +396131,7 @@ neg {name=ying996.com; types=domain;}
 neg {name=ying997.com; types=domain;}
 neg {name=ying998.com; types=domain;}
 neg {name=ying999.com; types=domain;}
+neg {name=yinga-vital.de; types=domain;}
 neg {name=yingfeidi.com; types=domain;}
 neg {name=yinghuawang.com; types=domain;}
 neg {name=yingkehz.com; types=domain;}
