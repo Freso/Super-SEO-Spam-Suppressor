@@ -13660,6 +13660,8 @@
 ::1 www.1win.re
 ::1 1win.tf
 ::1 www.1win.tf
+::1 1win.wf
+::1 www.1win.wf
 ::1 1win.yt
 ::1 www.1win.yt
 ::1 1win1.fr
@@ -74896,6 +74898,8 @@
 ::1 www.alglyciminschal.gq
 ::1 algmrgti.cyou
 ::1 www.algmrgti.cyou
+::1 algo-robot.co
+::1 www.algo-robot.co
 ::1 algojanspeslay.gq
 ::1 www.algojanspeslay.gq
 ::1 algone.fr
@@ -75754,6 +75758,8 @@
 ::1 www.allocnie.fr
 ::1 allocoupon.fr
 ::1 www.allocoupon.fr
+::1 allodo.de
+::1 www.allodo.de
 ::1 allogarages.fr
 ::1 www.allogarages.fr
 ::1 alloicne.fr
@@ -95256,6 +95262,8 @@
 ::1 www.asurion.com
 ::1 asurondys.tk
 ::1 www.asurondys.tk
+::1 asus-offrespromotionnelles.fr
+::1 www.asus-offrespromotionnelles.fr
 ::1 asus2000.fr
 ::1 www.asus2000.fr
 ::1 asusafreledi.ga
@@ -118758,6 +118766,8 @@
 ::1 www.billionaire-spins-casino.fr
 ::1 billionairepascher.fr
 ::1 www.billionairepascher.fr
+::1 billionairesp1n.fr
+::1 www.billionairesp1n.fr
 ::1 billionairespin-casino.fr
 ::1 www.billionairespin-casino.fr
 ::1 billionairespin-france.fr
@@ -146992,6 +147002,8 @@
 ::1 www.cas-bex.ch
 ::1 cas-etu-bordeaux.fr
 ::1 www.cas-etu-bordeaux.fr
+::1 cas1nozerzz.fr
+::1 www.cas1nozerzz.fr
 ::1 cas67fa.work
 ::1 www.cas67fa.work
 ::1 casa-fantasia.de
@@ -148026,6 +148038,8 @@
 ::1 www.casinobetsio.fr
 ::1 casinobillionairespin.fr
 ::1 www.casinobillionairespin.fr
+::1 casinobingo.fr
+::1 www.casinobingo.fr
 ::1 casinobit.fr
 ::1 www.casinobit.fr
 ::1 casinoblitzfrance.fr
@@ -148234,6 +148248,8 @@
 ::1 www.casinogrand.fr
 ::1 casinograndevegas.fr
 ::1 www.casinograndevegas.fr
+::1 casinogratuitsansdepot.fr
+::1 www.casinogratuitsansdepot.fr
 ::1 casinogroup.fr
 ::1 www.casinogroup.fr
 ::1 casinogtbet-fr.fr
@@ -152496,6 +152512,8 @@
 ::1 www.cellu-clean.fr
 ::1 cellularmisty.com
 ::1 www.cellularmisty.com
+::1 cellulefraudecanorddefrance.fr
+::1 www.cellulefraudecanorddefrance.fr
 ::1 cellutissue.com
 ::1 www.cellutissue.com
 ::1 cellwater.pt
@@ -209186,6 +209204,8 @@
 ::1 www.dgifp-remboursement.fr
 ::1 dgifp-reversement.fr
 ::1 www.dgifp-reversement.fr
+::1 dgifp.fr
+::1 www.dgifp.fr
 ::1 dgifpencaissement.fr
 ::1 www.dgifpencaissement.fr
 ::1 dgihuseoghaller.dk
@@ -220178,6 +220198,8 @@
 ::1 www.donavi.ru
 ::1 donbe-t.fr
 ::1 www.donbe-t.fr
+::1 donbeets-fr.fr
+::1 www.donbeets-fr.fr
 ::1 donbet-fr.fr
 ::1 www.donbet-fr.fr
 ::1 donbet-jeux.fr
@@ -250608,6 +250630,8 @@
 ::1 www.espace-facturation-mobile.fr
 ::1 espace-facturation-mobiles.fr
 ::1 www.espace-facturation-mobiles.fr
+::1 espace-facturation-prime.fr
+::1 www.espace-facturation-prime.fr
 ::1 espace-facturation.fr
 ::1 www.espace-facturation.fr
 ::1 espace-factures.fr
@@ -253022,8 +253046,6 @@
 ::1 www.eu-franprix.fr
 ::1 eu-impots.fr
 ::1 www.eu-impots.fr
-::1 eu-meds.net
-::1 www.eu-meds.net
 ::1 eu-meds.online
 ::1 www.eu-meds.online
 ::1 eu-meta.fr
@@ -261478,6 +261500,8 @@
 ::1 www.familiewelpenhaus.com
 ::1 famillechangeur.fr
 ::1 www.famillechangeur.fr
+::1 familo.net
+::1 www.familo.net
 ::1 familopepert.tk
 ::1 www.familopepert.tk
 ::1 family-drugs.net
@@ -277392,6 +277416,8 @@
 ::1 www.fosterchildpublicitytower.com
 ::1 fosterits.eu
 ::1 www.fosterits.eu
+::1 fosterrefrigerator.de
+::1 www.fosterrefrigerator.de
 ::1 fosterrespite.com
 ::1 www.fosterrespite.com
 ::1 fostra-si.ch
@@ -288970,6 +288996,8 @@
 ::1 www.galanteriafutrzana.pl
 ::1 galasfiapromhis.tk
 ::1 www.galasfiapromhis.tk
+::1 galaspin.fr
+::1 www.galaspin.fr
 ::1 galathea.dk
 ::1 www.galathea.dk
 ::1 galaxe.info
@@ -289078,6 +289106,8 @@
 ::1 www.galihorlipee.tk
 ::1 galileo.blog
 ::1 www.galileo.blog
+::1 galileofx.com
+::1 www.galileofx.com
 ::1 galileuconcursos.com.br
 ::1 www.galileuconcursos.com.br
 ::1 galimustiendolria.gq
@@ -293650,6 +293680,8 @@
 ::1 www.generic4allglobal.com
 ::1 genericdianawitty.com
 ::1 www.genericdianawitty.com
+::1 genericdoctor.com
+::1 www.genericdoctor.com
 ::1 genericeupills.com
 ::1 www.genericeupills.com
 ::1 genericsbot.com
@@ -303780,6 +303812,8 @@
 ::1 www.golden-pandaa.fr
 ::1 golden-pandacasino.fr
 ::1 www.golden-pandacasino.fr
+::1 golden-pandar.fr
+::1 www.golden-pandar.fr
 ::1 golden-pandas.fr
 ::1 www.golden-pandas.fr
 ::1 golden-pass.fr
@@ -303796,6 +303830,8 @@
 ::1 www.golden-starcasino.fr
 ::1 golden-vans.fr
 ::1 www.golden-vans.fr
+::1 golden-vegass.fr
+::1 www.golden-vegass.fr
 ::1 golden-watch.shop
 ::1 www.golden-watch.shop
 ::1 goldenaddict.fr
@@ -330144,6 +330180,10 @@
 ::1 www.heygetbarter.com
 ::1 heygwe.bar
 ::1 www.heygwe.bar
+::1 heyho-casino.fr
+::1 www.heyho-casino.fr
+::1 heyho-connexion.fr
+::1 www.heyho-connexion.fr
 ::1 heyhost.website
 ::1 www.heyhost.website
 ::1 heyhwn.tokyo
@@ -360452,6 +360492,8 @@
 ::1 www.interieur-gov.fr
 ::1 interieur-ofast-gov.fr
 ::1 www.interieur-ofast-gov.fr
+::1 interieur-pn.fr
+::1 www.interieur-pn.fr
 ::1 interieur-qouv.fr
 ::1 www.interieur-qouv.fr
 ::1 interieurgouv.fr
@@ -406698,6 +406740,8 @@
 ::1 www.lbszftg.cn
 ::1 lbszka.rest
 ::1 www.lbszka.rest
+::1 lbtinc.com
+::1 www.lbtinc.com
 ::1 lbtx8c.cyou
 ::1 www.lbtx8c.cyou
 ::1 lbu7yb.xyz
@@ -407980,6 +408024,8 @@
 ::1 www.leatherbagsale.com
 ::1 leatherjacketgear.com
 ::1 www.leatherjacketgear.com
+::1 leatherman-france.fr
+::1 www.leatherman-france.fr
 ::1 leathershire.co.uk
 ::1 www.leathershire.co.uk
 ::1 leatitempreve.tk
@@ -421120,6 +421166,8 @@
 ::1 www.livret-ftneo.fr
 ::1 livretdefense.fr
 ::1 www.livretdefense.fr
+::1 livretdepargne.fr
+::1 www.livretdepargne.fr
 ::1 livreteurope.fr
 ::1 www.livreteurope.fr
 ::1 livretscolaire.fr
@@ -424250,6 +424298,8 @@
 ::1 www.login-instagram.fr
 ::1 login-lbc.fr
 ::1 www.login-lbc.fr
+::1 login-microsft365secure-auth.fr
+::1 www.login-microsft365secure-auth.fr
 ::1 login-microsoft.fr
 ::1 www.login-microsoft.fr
 ::1 login-netfiix.fr
@@ -457612,6 +457662,8 @@
 ::1 www.modernswantrace.bar
 ::1 moderoosn.xyz
 ::1 www.moderoosn.xyz
+::1 moderwear.shop
+::1 www.moderwear.shop
 ::1 modeschulte.de
 ::1 www.modeschulte.de
 ::1 modestogold.com
@@ -486512,6 +486564,8 @@
 ::1 www.nike-airmax.fr
 ::1 nike-airmaxpascher.fr
 ::1 www.nike-airmaxpascher.fr
+::1 nike-airmaxs.fr
+::1 www.nike-airmaxs.fr
 ::1 nike-blazer.fr
 ::1 www.nike-blazer.fr
 ::1 nike-blazerlow.fr
@@ -487032,6 +487086,8 @@
 ::1 www.nineca5ino.fr
 ::1 ninecas-ino.fr
 ::1 www.ninecas-ino.fr
+::1 ninecas1no-play.fr
+::1 www.ninecas1no-play.fr
 ::1 ninecasin0.fr
 ::1 www.ninecasin0.fr
 ::1 ninecasinno.fr
@@ -507564,6 +507620,8 @@
 ::1 www.onlinexxxcamsfree.xyz
 ::1 onlinexxxcamsslut.agency
 ::1 www.onlinexxxcamsslut.agency
+::1 onlinezins.de
+::1 www.onlinezins.de
 ::1 onlinotitohop.tk
 ::1 www.onlinotitohop.tk
 ::1 onlinquisynconsbor.ml
@@ -507726,6 +507784,8 @@
 ::1 www.onlyslotmakesquestion.biz
 ::1 onlysonsde.com
 ::1 www.onlysonsde.com
+::1 onlysp1nss-fr.fr
+::1 www.onlysp1nss-fr.fr
 ::1 onlyspiins.fr
 ::1 www.onlyspiins.fr
 ::1 onlyspin1-fr.fr
@@ -526138,6 +526198,8 @@
 ::1 www.paypalaccount-infos.fr
 ::1 paypalcontacts-aide.fr
 ::1 www.paypalcontacts-aide.fr
+::1 paypalenligne.fr
+::1 www.paypalenligne.fr
 ::1 paypalgiftcardfree1.pages.dev
 ::1 www.paypalgiftcardfree1.pages.dev
 ::1 paypall.fr
@@ -526294,6 +526356,8 @@
 ::1 www.paysabagnai.cf
 ::1 paysabcompcallconfnast.ga
 ::1 www.paysabcompcallconfnast.ga
+::1 paysafecardenligne.fr
+::1 www.paysafecardenligne.fr
 ::1 paysandu.info
 ::1 www.paysandu.info
 ::1 payscorifleb.gq
@@ -534734,6 +534798,8 @@
 ::1 www.piccoliprestitiveloci.it
 ::1 piccomaeurope.fr
 ::1 www.piccomaeurope.fr
+::1 piccu.org
+::1 www.piccu.org
 ::1 piccysajulem.gq
 ::1 www.piccysajulem.gq
 ::1 picdaitecessparna.cf
@@ -597942,6 +598008,8 @@
 ::1 www.rodenpdempclim.ga
 ::1 rodeoslot-fr.fr
 ::1 www.rodeoslot-fr.fr
+::1 rodeoslot.fr
+::1 www.rodeoslot.fr
 ::1 rodeoslotcasinos.fr
 ::1 www.rodeoslotcasinos.fr
 ::1 rodeoslotscasino.fr
@@ -620660,6 +620728,8 @@
 ::1 www.sepiyt.tokyo
 ::1 sepjacourca.tk
 ::1 www.sepjacourca.tk
+::1 sepkicks.com
+::1 www.sepkicks.com
 ::1 seplingvercachandthest.tk
 ::1 www.seplingvercachandthest.tk
 ::1 seplisfawntor.info
@@ -621676,6 +621746,8 @@
 ::1 www.service-expedition-mondialrl.fr
 ::1 service-facturation-disney.fr
 ::1 www.service-facturation-disney.fr
+::1 service-facturation-prime.fr
+::1 www.service-facturation-prime.fr
 ::1 service-factureorange.fr
 ::1 www.service-factureorange.fr
 ::1 service-fashion.eu
@@ -639012,6 +639084,8 @@
 ::1 www.softdosamphilders.ml
 ::1 softdrivgatasonli.tk
 ::1 www.softdrivgatasonli.tk
+::1 softelektro.com
+::1 www.softelektro.com
 ::1 softeneddefenceinflation.com
 ::1 www.softeneddefenceinflation.com
 ::1 softeninsinuate.com
@@ -641710,6 +641784,8 @@
 ::1 www.sow6t2.cyou
 ::1 sowaoptive.asia
 ::1 www.sowaoptive.asia
+::1 sowaswillichauch.de
+::1 www.sowaswillichauch.de
 ::1 sowbrl.bar
 ::1 www.sowbrl.bar
 ::1 sowepirare.gq
@@ -658178,6 +658254,8 @@
 ::1 www.support-client-boursorama.fr
 ::1 support-client-chrono.fr
 ::1 www.support-client-chrono.fr
+::1 support-client-colis.fr
+::1 www.support-client-colis.fr
 ::1 support-client-compte.fr
 ::1 www.support-client-compte.fr
 ::1 support-client-generale.fr
@@ -732654,6 +732732,8 @@
 ::1 www.verif-credit-agricole.fr
 ::1 verif-databaseinterface.fr
 ::1 www.verif-databaseinterface.fr
+::1 verif-dgfip-ca3.fr
+::1 www.verif-dgfip-ca3.fr
 ::1 verif-discord.fr
 ::1 www.verif-discord.fr
 ::1 verif-disney-plus.fr
@@ -759858,6 +759938,8 @@
 ::1 www.westace-casino-888.fr
 ::1 westacecasinos.fr
 ::1 www.westacecasinos.fr
+::1 westaces-fr.fr
+::1 www.westaces-fr.fr
 ::1 westafricagateway.org
 ::1 www.westafricagateway.org
 ::1 westbeelegu.ml

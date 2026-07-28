@@ -6833,6 +6833,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.1win.pm/*
 *://*.1win.re/*
 *://*.1win.tf/*
+*://*.1win.wf/*
 *://*.1win.yt/*
 *://*.1win1.fr/*
 *://*.1winappcasino.fr/*
@@ -37451,6 +37452,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.alglovosutden.tk/*
 *://*.alglyciminschal.gq/*
 *://*.algmrgti.cyou/*
+*://*.algo-robot.co/*
 *://*.algojanspeslay.gq/*
 *://*.algone.fr/*
 *://*.algopro.us/*
@@ -37880,6 +37882,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.allocne.fr/*
 *://*.allocnie.fr/*
 *://*.allocoupon.fr/*
+*://*.allodo.de/*
 *://*.allogarages.fr/*
 *://*.alloicne.fr/*
 *://*.allolargtapo.cf/*
@@ -47631,6 +47634,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.asure-ameli.fr/*
 *://*.asurion.com/*
 *://*.asurondys.tk/*
+*://*.asus-offrespromotionnelles.fr/*
 *://*.asus2000.fr/*
 *://*.asusafreledi.ga/*
 *://*.asusfans.site/*
@@ -59382,6 +59386,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.billionaire-spincasino.fr/*
 *://*.billionaire-spins-casino.fr/*
 *://*.billionairepascher.fr/*
+*://*.billionairesp1n.fr/*
 *://*.billionairespin-casino.fr/*
 *://*.billionairespin-france.fr/*
 *://*.billionairespin-online.fr/*
@@ -73499,6 +73504,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.carzone.xyz/*
 *://*.cas-bex.ch/*
 *://*.cas-etu-bordeaux.fr/*
+*://*.cas1nozerzz.fr/*
 *://*.cas67fa.work/*
 *://*.casa-fantasia.de/*
 *://*.casa-mea.eu/*
@@ -74016,6 +74022,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinobetriot.fr/*
 *://*.casinobetsio.fr/*
 *://*.casinobillionairespin.fr/*
+*://*.casinobingo.fr/*
 *://*.casinobit.fr/*
 *://*.casinoblitzfrance.fr/*
 *://*.casinobonus365.fr/*
@@ -74120,6 +74127,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinogoldspin.fr/*
 *://*.casinogrand.fr/*
 *://*.casinograndevegas.fr/*
+*://*.casinogratuitsansdepot.fr/*
 *://*.casinogroup.fr/*
 *://*.casinogtbet-fr.fr/*
 *://*.casinogtbet.fr/*
@@ -76251,6 +76259,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.celltraflitedti.ml/*
 *://*.cellu-clean.fr/*
 *://*.cellularmisty.com/*
+*://*.cellulefraudecanorddefrance.fr/*
 *://*.cellutissue.com/*
 *://*.cellwater.pt/*
 *://*.cellwatersweekways.rest/*
@@ -104596,6 +104605,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dgifeo.bar/*
 *://*.dgifp-remboursement.fr/*
 *://*.dgifp-reversement.fr/*
+*://*.dgifp.fr/*
 *://*.dgifpencaissement.fr/*
 *://*.dgihuseoghaller.dk/*
 *://*.dgikrn.bar/*
@@ -110092,6 +110102,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.donatecovid19.xyz/*
 *://*.donavi.ru/*
 *://*.donbe-t.fr/*
+*://*.donbeets-fr.fr/*
 *://*.donbet-fr.fr/*
 *://*.donbet-jeux.fr/*
 *://*.donbetbonus.fr/*
@@ -125307,6 +125318,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.espace-expedition-mondialrelay.fr/*
 *://*.espace-facturation-mobile.fr/*
 *://*.espace-facturation-mobiles.fr/*
+*://*.espace-facturation-prime.fr/*
 *://*.espace-facturation.fr/*
 *://*.espace-factures.fr/*
 *://*.espace-foot.fr/*
@@ -126514,7 +126526,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.eu-first.com/*
 *://*.eu-franprix.fr/*
 *://*.eu-impots.fr/*
-*://*.eu-meds.net/*
 *://*.eu-meds.online/*
 *://*.eu-meta.fr/*
 *://*.eu-new-media.eu/*
@@ -130742,6 +130753,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.familienzug.ch/*
 *://*.familiewelpenhaus.com/*
 *://*.famillechangeur.fr/*
+*://*.familo.net/*
 *://*.familopepert.tk/*
 *://*.family-drugs.net/*
 *://*.family-income.buzz/*
@@ -138699,6 +138711,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fostercare.xyz/*
 *://*.fosterchildpublicitytower.com/*
 *://*.fosterits.eu/*
+*://*.fosterrefrigerator.de/*
 *://*.fosterrespite.com/*
 *://*.fostra-si.ch/*
 *://*.fosuldumpfrec.tk/*
@@ -144488,6 +144501,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.galandu.de/*
 *://*.galanteriafutrzana.pl/*
 *://*.galasfiapromhis.tk/*
+*://*.galaspin.fr/*
 *://*.galathea.dk/*
 *://*.galaxe.info/*
 *://*.galaxy-toolkit.net/*
@@ -144542,6 +144556,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.galidswordtingka.gq/*
 *://*.galihorlipee.tk/*
 *://*.galileo.blog/*
+*://*.galileofx.com/*
 *://*.galileuconcursos.com.br/*
 *://*.galimustiendolria.gq/*
 *://*.galisum.xyz/*
@@ -146828,6 +146843,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.generic4all-global.com/*
 *://*.generic4allglobal.com/*
 *://*.genericdianawitty.com/*
+*://*.genericdoctor.com/*
 *://*.genericeupills.com/*
 *://*.genericsbot.com/*
 *://*.genericshop-247.eu/*
@@ -151893,6 +151909,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.golden-panda8.fr/*
 *://*.golden-pandaa.fr/*
 *://*.golden-pandacasino.fr/*
+*://*.golden-pandar.fr/*
 *://*.golden-pandas.fr/*
 *://*.golden-pass.fr/*
 *://*.golden-play.fr/*
@@ -151901,6 +151918,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.golden-star.fr/*
 *://*.golden-starcasino.fr/*
 *://*.golden-vans.fr/*
+*://*.golden-vegass.fr/*
 *://*.golden-watch.shop/*
 *://*.goldenaddict.fr/*
 *://*.goldenbayboutiques.com/*
@@ -165075,6 +165093,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.heygetaurarvitbar.com/*
 *://*.heygetbarter.com/*
 *://*.heygwe.bar/*
+*://*.heyho-casino.fr/*
+*://*.heyho-connexion.fr/*
 *://*.heyhost.website/*
 *://*.heyhwn.tokyo/*
 *://*.heyi-handel.de/*
@@ -180229,6 +180249,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.interieur-gouv-justice.fr/*
 *://*.interieur-gov.fr/*
 *://*.interieur-ofast-gov.fr/*
+*://*.interieur-pn.fr/*
 *://*.interieur-qouv.fr/*
 *://*.interieurgouv.fr/*
 *://*.interimaire-sante.fr/*
@@ -203352,6 +203373,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lbsx69.cyou/*
 *://*.lbszftg.cn/*
 *://*.lbszka.rest/*
+*://*.lbtinc.com/*
 *://*.lbtx8c.cyou/*
 *://*.lbu7yb.xyz/*
 *://*.lbumdomhcahefovu.tk/*
@@ -203993,6 +204015,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.leather-shop.it/*
 *://*.leatherbagsale.com/*
 *://*.leatherjacketgear.com/*
+*://*.leatherman-france.fr/*
 *://*.leathershire.co.uk/*
 *://*.leatitempreve.tk/*
 *://*.leatribune.fr/*
@@ -210563,6 +210586,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.livresscolaire.fr/*
 *://*.livret-ftneo.fr/*
 *://*.livretdefense.fr/*
+*://*.livretdepargne.fr/*
 *://*.livreteurope.fr/*
 *://*.livretscolaire.fr/*
 *://*.livrodosremedios.site/*
@@ -212128,6 +212152,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.login-initial.fr/*
 *://*.login-instagram.fr/*
 *://*.login-lbc.fr/*
+*://*.login-microsft365secure-auth.fr/*
 *://*.login-microsoft.fr/*
 *://*.login-netfiix.fr/*
 *://*.login-netfilx.fr/*
@@ -228809,6 +228834,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.modernspaceskinds.biz/*
 *://*.modernswantrace.bar/*
 *://*.moderoosn.xyz/*
+*://*.moderwear.shop/*
 *://*.modeschulte.de/*
 *://*.modestogold.com/*
 *://*.modestselfevident.com/*
@@ -243259,6 +243285,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.nike-air-max.fr/*
 *://*.nike-airmax.fr/*
 *://*.nike-airmaxpascher.fr/*
+*://*.nike-airmaxs.fr/*
 *://*.nike-blazer.fr/*
 *://*.nike-blazerlow.fr/*
 *://*.nike-blazers.fr/*
@@ -243519,6 +243546,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.nine9casino.fr/*
 *://*.nineca5ino.fr/*
 *://*.ninecas-ino.fr/*
+*://*.ninecas1no-play.fr/*
 *://*.ninecasin0.fr/*
 *://*.ninecasinno.fr/*
 *://*.ninecasino-app.fr/*
@@ -253785,6 +253813,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.onlinexnxxbest.buzz/*
 *://*.onlinexxxcamsfree.xyz/*
 *://*.onlinexxxcamsslut.agency/*
+*://*.onlinezins.de/*
 *://*.onlinotitohop.tk/*
 *://*.onlinquisynconsbor.ml/*
 *://*.onlipeserport.cf/*
@@ -253866,6 +253895,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.onlysexualstills.rest/*
 *://*.onlyslotmakesquestion.biz/*
 *://*.onlysonsde.com/*
+*://*.onlysp1nss-fr.fr/*
 *://*.onlyspiins.fr/*
 *://*.onlyspin1-fr.fr/*
 *://*.onlyspin1.fr/*
@@ -263072,6 +263102,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.paypal.xyz/*
 *://*.paypalaccount-infos.fr/*
 *://*.paypalcontacts-aide.fr/*
+*://*.paypalenligne.fr/*
 *://*.paypalgiftcardfree1.pages.dev/*
 *://*.paypall.fr/*
 *://*.paypalpaymentsecurity.fr/*
@@ -263150,6 +263181,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.pays-sud-aisne.fr/*
 *://*.paysabagnai.cf/*
 *://*.paysabcompcallconfnast.ga/*
+*://*.paysafecardenligne.fr/*
 *://*.paysandu.info/*
 *://*.payscorifleb.gq/*
 *://*.paysdepieces.fr/*
@@ -267370,6 +267402,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.piccolaorchestraswing.it/*
 *://*.piccoliprestitiveloci.it/*
 *://*.piccomaeurope.fr/*
+*://*.piccu.org/*
 *://*.piccysajulem.gq/*
 *://*.picdaitecessparna.cf/*
 *://*.picdesuppnett.tk/*
@@ -298974,6 +299007,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rodener-fohlen.eu/*
 *://*.rodenpdempclim.ga/*
 *://*.rodeoslot-fr.fr/*
+*://*.rodeoslot.fr/*
 *://*.rodeoslotcasinos.fr/*
 *://*.rodeoslotscasino.fr/*
 *://*.roderer.fr/*
@@ -310333,6 +310367,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sepivenvipass.ga/*
 *://*.sepiyt.tokyo/*
 *://*.sepjacourca.tk/*
+*://*.sepkicks.com/*
 *://*.seplingvercachandthest.tk/*
 *://*.seplisfawntor.info/*
 *://*.sepoceworhtira.ga/*
@@ -310841,6 +310876,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.service-expedition-enligne.fr/*
 *://*.service-expedition-mondialrl.fr/*
 *://*.service-facturation-disney.fr/*
+*://*.service-facturation-prime.fr/*
 *://*.service-factureorange.fr/*
 *://*.service-fashion.eu/*
 *://*.service-finances.fr/*
@@ -319509,6 +319545,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.softdorebachant.ga/*
 *://*.softdosamphilders.ml/*
 *://*.softdrivgatasonli.tk/*
+*://*.softelektro.com/*
 *://*.softeneddefenceinflation.com/*
 *://*.softeninsinuate.com/*
 *://*.softenopera.com/*
@@ -320858,6 +320895,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sovypl.bar/*
 *://*.sow6t2.cyou/*
 *://*.sowaoptive.asia/*
+*://*.sowaswillichauch.de/*
 *://*.sowbrl.bar/*
 *://*.sowepirare.gq/*
 *://*.sowibarje.ga/*
@@ -329092,6 +329130,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.support-client-assistance.fr/*
 *://*.support-client-boursorama.fr/*
 *://*.support-client-chrono.fr/*
+*://*.support-client-colis.fr/*
 *://*.support-client-compte.fr/*
 *://*.support-client-generale.fr/*
 *://*.support-client-netflix.fr/*
@@ -366330,6 +366369,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.verif-coupons.fr/*
 *://*.verif-credit-agricole.fr/*
 *://*.verif-databaseinterface.fr/*
+*://*.verif-dgfip-ca3.fr/*
 *://*.verif-discord.fr/*
 *://*.verif-disney-plus.fr/*
 *://*.verif-dsp2.fr/*
@@ -379932,6 +379972,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.westace-casino-777.fr/*
 *://*.westace-casino-888.fr/*
 *://*.westacecasinos.fr/*
+*://*.westaces-fr.fr/*
 *://*.westafricagateway.org/*
 *://*.westbeelegu.ml/*
 *://*.westbenssolile.gq/*
