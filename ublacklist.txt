@@ -60382,6 +60382,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bitcoin-everest-ai.fr/*
 *://*.bitcoin-miner.shop/*
 *://*.bitcoin-pharmacy.com/*
+*://*.bitcoin-revolution.org/*
 *://*.bitcoin-shop.ro/*
 *://*.bitcoin-trader.net/*
 *://*.bitcoin-xact.fr/*
@@ -60400,6 +60401,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bitcoinmotion.io/*
 *://*.bitcoinpre.com/*
 *://*.bitcoinprime.fr/*
+*://*.bitcoinrevolution.org/*
 *://*.bitcoins-central.com/*
 *://*.bitcoinshop.fr/*
 *://*.bitcoinskn.com/*
@@ -217965,8 +217967,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.magisk.download/*
 *://*.magisk.info/*
 *://*.magisk.me/*
-*://*.magisk.zip/*
-*://*.magiskapk.net/*
 *://*.magiskapp.com/*
 *://*.magiskcn.com/*
 *://*.magiskmanager.com/*
@@ -333982,7 +333982,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tannaeblacnersta.gq/*
 *://*.tannalulalnati.tk/*
 *://*.tannaverseeta.cf/*
-*://*.tanner-shoes.com/*
 *://*.tannibabforktar.tk/*
 *://*.tannighcetbera.tk/*
 *://*.tannimurni.tk/*
@@ -340000,7 +339999,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.thehenryrange.co.uk/*
 *://*.thehepsttars.cf/*
 *://*.theheraldnewstoday.com/*
-*://*.thehickorygolfer.com/*
 *://*.thehiddenbay.com/*
 *://*.thehiddenlibrary.xyz/*
 *://*.thehikingshoe.com/*
@@ -351735,7 +351733,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.trusted-sites.com/*
 *://*.trustedallcbd.com/*
 *://*.trustedallovertheworld.com/*
-*://*.trustedconsumerreview.online/*
 *://*.trustedgreencbd.com/*
 *://*.trustedkeys.es/*
 *://*.trustedmedstore24.com/*
@@ -359687,7 +359684,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.upangioringsleev.tk/*
 *://*.upantanboonkdisc.tk/*
 *://*.upanymmen.ml/*
-*://*.upap-papu.post/*
 *://*.upaphaptimi.tk/*
 *://*.upapver.my.id/*
 *://*.upaq507.shop/*
@@ -396615,7 +396611,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ying997.com/*
 *://*.ying998.com/*
 *://*.ying999.com/*
-*://*.yinga-vital.de/*
 *://*.yingfeidi.com/*
 *://*.yinghuawang.com/*
 *://*.yingkehz.com/*

@@ -60252,6 +60252,7 @@ neg {name=bitcodeprime.org; types=domain;}
 neg {name=bitcoin-everest-ai.fr; types=domain;}
 neg {name=bitcoin-miner.shop; types=domain;}
 neg {name=bitcoin-pharmacy.com; types=domain;}
+neg {name=bitcoin-revolution.org; types=domain;}
 neg {name=bitcoin-shop.ro; types=domain;}
 neg {name=bitcoin-trader.net; types=domain;}
 neg {name=bitcoin-xact.fr; types=domain;}
@@ -60270,6 +60271,7 @@ neg {name=bitcoinmotion.com; types=domain;}
 neg {name=bitcoinmotion.io; types=domain;}
 neg {name=bitcoinpre.com; types=domain;}
 neg {name=bitcoinprime.fr; types=domain;}
+neg {name=bitcoinrevolution.org; types=domain;}
 neg {name=bitcoins-central.com; types=domain;}
 neg {name=bitcoinshop.fr; types=domain;}
 neg {name=bitcoinskn.com; types=domain;}
@@ -217552,8 +217554,6 @@ neg {name=magischesparfum.de; types=domain;}
 neg {name=magisk.download; types=domain;}
 neg {name=magisk.info; types=domain;}
 neg {name=magisk.me; types=domain;}
-neg {name=magisk.zip; types=domain;}
-neg {name=magiskapk.net; types=domain;}
 neg {name=magiskapp.com; types=domain;}
 neg {name=magiskcn.com; types=domain;}
 neg {name=magiskmanager.com; types=domain;}
@@ -333313,7 +333313,6 @@ neg {name=tanmykarnopusyn.gq; types=domain;}
 neg {name=tannaeblacnersta.gq; types=domain;}
 neg {name=tannalulalnati.tk; types=domain;}
 neg {name=tannaverseeta.cf; types=domain;}
-neg {name=tanner-shoes.com; types=domain;}
 neg {name=tannibabforktar.tk; types=domain;}
 neg {name=tannighcetbera.tk; types=domain;}
 neg {name=tannimurni.tk; types=domain;}
@@ -339322,7 +339321,6 @@ neg {name=thehealthyrituals.shop; types=domain;}
 neg {name=thehenryrange.co.uk; types=domain;}
 neg {name=thehepsttars.cf; types=domain;}
 neg {name=theheraldnewstoday.com; types=domain;}
-neg {name=thehickorygolfer.com; types=domain;}
 neg {name=thehiddenbay.com; types=domain;}
 neg {name=thehiddenlibrary.xyz; types=domain;}
 neg {name=thehikingshoe.com; types=domain;}
@@ -351038,7 +351036,6 @@ neg {name=trusted-online-generic.com; types=domain;}
 neg {name=trusted-sites.com; types=domain;}
 neg {name=trustedallcbd.com; types=domain;}
 neg {name=trustedallovertheworld.com; types=domain;}
-neg {name=trustedconsumerreview.online; types=domain;}
 neg {name=trustedgreencbd.com; types=domain;}
 neg {name=trustedkeys.es; types=domain;}
 neg {name=trustedmedstore24.com; types=domain;}
@@ -358972,7 +358969,6 @@ neg {name=upanexbema.ga; types=domain;}
 neg {name=upangioringsleev.tk; types=domain;}
 neg {name=upantanboonkdisc.tk; types=domain;}
 neg {name=upanymmen.ml; types=domain;}
-neg {name=upap-papu.post; types=domain;}
 neg {name=upaphaptimi.tk; types=domain;}
 neg {name=upapver.my.id; types=domain;}
 neg {name=upaq507.shop; types=domain;}
@@ -395864,7 +395860,6 @@ neg {name=ying996.com; types=domain;}
 neg {name=ying997.com; types=domain;}
 neg {name=ying998.com; types=domain;}
 neg {name=ying999.com; types=domain;}
-neg {name=yinga-vital.de; types=domain;}
 neg {name=yingfeidi.com; types=domain;}
 neg {name=yinghuawang.com; types=domain;}
 neg {name=yingkehz.com; types=domain;}
