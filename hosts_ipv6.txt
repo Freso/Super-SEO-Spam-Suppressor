@@ -72240,6 +72240,8 @@
 ::1 www.air-ventilateur.fr
 ::1 air-vignette.fr
 ::1 www.air-vignette.fr
+::1 airabreeze.fr
+::1 www.airabreeze.fr
 ::1 airafrance.fr
 ::1 www.airafrance.fr
 ::1 airance.fr
@@ -81616,6 +81618,8 @@
 ::1 www.amunra-enligne.fr
 ::1 amunra-fr.fr
 ::1 www.amunra-fr.fr
+::1 amunra-france.fr
+::1 www.amunra-france.fr
 ::1 amunracasinoapp.fr
 ::1 www.amunracasinoapp.fr
 ::1 amunracasinobonus.fr
@@ -81630,6 +81634,8 @@
 ::1 www.amunracasinologin.fr
 ::1 amunracasinoo.fr
 ::1 www.amunracasinoo.fr
+::1 amunrafrance.fr
+::1 www.amunrafrance.fr
 ::1 amununinzia.gq
 ::1 www.amununinzia.gq
 ::1 amunwebmesi.tk
@@ -104990,6 +104996,8 @@
 ::1 www.balony.de
 ::1 baloo-mutuelle.fr
 ::1 www.baloo-mutuelle.fr
+::1 baloocasino.fr
+::1 www.baloocasino.fr
 ::1 balor-ghn.com
 ::1 www.balor-ghn.com
 ::1 balora.ga
@@ -131534,6 +131542,8 @@
 ::1 www.breezeblooms.pl
 ::1 breezekiss.shop
 ::1 www.breezekiss.shop
+::1 breezeway.fr
+::1 www.breezeway.fr
 ::1 breezimrechoo.tk
 ::1 www.breezimrechoo.tk
 ::1 breezogpyka.tk
@@ -136126,6 +136136,8 @@
 ::1 www.bunnykachu.com
 ::1 bunpfi.bar
 ::1 www.bunpfi.bar
+::1 bunqsupport.fr
+::1 www.bunqsupport.fr
 ::1 bunrae.tokyo
 ::1 www.bunrae.tokyo
 ::1 bunraidaypret.tk
@@ -136300,6 +136312,8 @@
 ::1 www.burbanbliss.com
 ::1 burberntensunun.cf
 ::1 www.burberntensunun.cf
+::1 burberry-france.fr
+::1 www.burberry-france.fr
 ::1 burberry.re
 ::1 www.burberry.re
 ::1 burberryfrance.fr
@@ -188632,6 +188646,8 @@
 ::1 www.critair-facile.fr
 ::1 critair-france-vignette.fr
 ::1 www.critair-france-vignette.fr
+::1 critair-france.fr
+::1 www.critair-france.fr
 ::1 critair-gouv-certificats.fr
 ::1 www.critair-gouv-certificats.fr
 ::1 critair-gouv2022.fr
@@ -220368,6 +220384,8 @@
 ::1 www.donbet-jeux.fr
 ::1 donbetbonus.fr
 ::1 www.donbetbonus.fr
+::1 donbetcasino.fr
+::1 www.donbetcasino.fr
 ::1 donbetcasinoapp.fr
 ::1 www.donbetcasinoapp.fr
 ::1 donbetcasinofreespins.fr
@@ -224136,6 +224154,8 @@
 ::1 www.drifoptchesrahas.cf
 ::1 drifovlifundeking.tk
 ::1 www.drifovlifundeking.tk
+::1 drifp75.fr
+::1 www.drifp75.fr
 ::1 drifpulchtiretugu.cf
 ::1 www.drifpulchtiretugu.cf
 ::1 drift73chromos.fun
@@ -257166,6 +257186,8 @@
 ::1 www.expressshop.info
 ::1 expresstools.eu
 ::1 www.expresstools.eu
+::1 expressvitale.fr
+::1 www.expressvitale.fr
 ::1 expressvpn.com
 ::1 www.expressvpn.com
 ::1 exprint.fr
@@ -282732,6 +282754,8 @@
 ::1 www.frumzicasino1.fr
 ::1 frumzicasinofr.fr
 ::1 www.frumzicasinofr.fr
+::1 frumzicasinoonline.fr
+::1 www.frumzicasinoonline.fr
 ::1 frumzicasinos.fr
 ::1 www.frumzicasinos.fr
 ::1 frumzifr.fr
@@ -343016,6 +343040,8 @@
 ::1 www.hype-casino.fr
 ::1 hype-hoodies.com
 ::1 www.hype-hoodies.com
+::1 hype-kasino.fr
+::1 www.hype-kasino.fr
 ::1 hypecasino.fr
 ::1 www.hypecasino.fr
 ::1 hypecasino1.fr
@@ -404262,6 +404288,8 @@
 ::1 www.laposte-taxe.fr
 ::1 laposte-taxes.fr
 ::1 www.laposte-taxes.fr
+::1 laposte-vouziers.fr
+::1 www.laposte-vouziers.fr
 ::1 laposte.re
 ::1 www.laposte.re
 ::1 lapostechronopost.fr
@@ -451798,6 +451826,8 @@
 ::1 www.mieldqr.tokyo
 ::1 mieleoutlet.com
 ::1 www.mieleoutlet.com
+::1 mielesupport.fr
+::1 www.mielesupport.fr
 ::1 mielindfighdvenen.cf
 ::1 www.mielindfighdvenen.cf
 ::1 mieliphophosamra.gq
@@ -459306,6 +459336,8 @@
 ::1 www.mon-espace-contravention.fr
 ::1 mon-espace-credit-agricole.fr
 ::1 www.mon-espace-credit-agricole.fr
+::1 mon-espace-credit.fr
+::1 www.mon-espace-credit.fr
 ::1 mon-espace-demande-renouvellement-enligne.fr
 ::1 www.mon-espace-demande-renouvellement-enligne.fr
 ::1 mon-espace-doctolib.fr
@@ -496684,6 +496716,8 @@
 ::1 www.nuzzharsaidrivnamor.tk
 ::1 nuzzregatipi.cf
 ::1 www.nuzzregatipi.cf
+::1 nv-casino-france.fr
+::1 www.nv-casino-france.fr
 ::1 nv-casino-online.fr
 ::1 www.nv-casino-online.fr
 ::1 nv-casinos.fr
@@ -536402,6 +536436,8 @@
 ::1 www.pinkpalmpuff-france.fr
 ::1 pinkpalmpufffrance.fr
 ::1 www.pinkpalmpufffrance.fr
+::1 pinkpalmpuffsfrance.fr
+::1 www.pinkpalmpuffsfrance.fr
 ::1 pinkplumber.xyz
 ::1 www.pinkplumber.xyz
 ::1 pinkrenefno.tk
@@ -539240,6 +539276,8 @@
 ::1 www.playjonnycasinofrance.fr
 ::1 playjonnycasinologin.fr
 ::1 www.playjonnycasinologin.fr
+::1 playjonnyfr.fr
+::1 www.playjonnyfr.fr
 ::1 playjonnyjeux.fr
 ::1 www.playjonnyjeux.fr
 ::1 playjuliuscasino.fr
@@ -622978,6 +623016,8 @@
 ::1 www.servicesvisa.fr
 ::1 servicesweb-amendes.fr
 ::1 www.servicesweb-amendes.fr
+::1 servicetabac.fr
+::1 www.servicetabac.fr
 ::1 servicetabacsecure.fr
 ::1 www.servicetabacsecure.fr
 ::1 servicetech-bnpparibas.fr

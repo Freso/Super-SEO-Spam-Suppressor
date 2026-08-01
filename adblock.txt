@@ -36122,6 +36122,7 @@
 ||air-uposterreich.com^$document
 ||air-ventilateur.fr^$document
 ||air-vignette.fr^$document
+||airabreeze.fr^$document
 ||airafrance.fr^$document
 ||airance.fr^$document
 ||airar.biz.id^$document
@@ -40810,6 +40811,7 @@
 ||amunra-en-ligne.fr^$document
 ||amunra-enligne.fr^$document
 ||amunra-fr.fr^$document
+||amunra-france.fr^$document
 ||amunracasinoapp.fr^$document
 ||amunracasinobonus.fr^$document
 ||amunracasinocodepromo.fr^$document
@@ -40817,6 +40819,7 @@
 ||amunracasinofrance.fr^$document
 ||amunracasinologin.fr^$document
 ||amunracasinoo.fr^$document
+||amunrafrance.fr^$document
 ||amununinzia.gq^$document
 ||amunwebmesi.tk^$document
 ||amuoqz.tokyo^$document
@@ -52497,6 +52500,7 @@
 ||balogsugubmalp.ml^$document
 ||balony.de^$document
 ||baloo-mutuelle.fr^$document
+||baloocasino.fr^$document
 ||balor-ghn.com^$document
 ||balora.ga^$document
 ||baloraftgere.ga^$document
@@ -65769,6 +65773,7 @@
 ||breezbascomaro.ml^$document
 ||breezeblooms.pl^$document
 ||breezekiss.shop^$document
+||breezeway.fr^$document
 ||breezimrechoo.tk^$document
 ||breezogpyka.tk^$document
 ||breezuncalxodi.tk^$document
@@ -68065,6 +68070,7 @@
 ||bunmyrtliwel.ga^$document
 ||bunnykachu.com^$document
 ||bunpfi.bar^$document
+||bunqsupport.fr^$document
 ||bunrae.tokyo^$document
 ||bunraidaypret.tk^$document
 ||bunreminovi.cf^$document
@@ -68152,6 +68158,7 @@
 ||burann.com^$document
 ||burbanbliss.com^$document
 ||burberntensunun.cf^$document
+||burberry-france.fr^$document
 ||burberry.re^$document
 ||burberryfrance.fr^$document
 ||burberryoutlet.at^$document
@@ -94318,6 +94325,7 @@
 ||critair-everif.fr^$document
 ||critair-facile.fr^$document
 ||critair-france-vignette.fr^$document
+||critair-france.fr^$document
 ||critair-gouv-certificats.fr^$document
 ||critair-gouv2022.fr^$document
 ||critair-gouvernement.fr^$document
@@ -110186,6 +110194,7 @@
 ||donbet-fr.fr^$document
 ||donbet-jeux.fr^$document
 ||donbetbonus.fr^$document
+||donbetcasino.fr^$document
 ||donbetcasinoapp.fr^$document
 ||donbetcasinofreespins.fr^$document
 ||donbetcasinologin.fr^$document
@@ -112070,6 +112079,7 @@
 ||drifnietimci.tk^$document
 ||drifoptchesrahas.cf^$document
 ||drifovlifundeking.tk^$document
+||drifp75.fr^$document
 ||drifpulchtiretugu.cf^$document
 ||drift73chromos.fun^$document
 ||driftogvedligehold.dk^$document
@@ -128585,6 +128595,7 @@
 ||expresssalestx.com^$document
 ||expressshop.info^$document
 ||expresstools.eu^$document
+||expressvitale.fr^$document
 ||expressvpn.com^$document
 ||exprint.fr^$document
 ||exprivorasin.tk^$document
@@ -141368,6 +141379,7 @@
 ||frumzicasino-official.fr^$document
 ||frumzicasino1.fr^$document
 ||frumzicasinofr.fr^$document
+||frumzicasinoonline.fr^$document
 ||frumzicasinos.fr^$document
 ||frumzifr.fr^$document
 ||frumzis.fr^$document
@@ -171510,6 +171522,7 @@
 ||hypdunilasmei.tk^$document
 ||hype-casino.fr^$document
 ||hype-hoodies.com^$document
+||hype-kasino.fr^$document
 ||hypecasino.fr^$document
 ||hypecasino1.fr^$document
 ||hypedrip.top^$document
@@ -202133,6 +202146,7 @@
 ||laposte-suvi-colis.fr^$document
 ||laposte-taxe.fr^$document
 ||laposte-taxes.fr^$document
+||laposte-vouziers.fr^$document
 ||laposte.re^$document
 ||lapostechronopost.fr^$document
 ||lapostecolis-suivi.fr^$document
@@ -225901,6 +225915,7 @@
 ||mieldelorraine.eu^$document
 ||mieldqr.tokyo^$document
 ||mieleoutlet.com^$document
+||mielesupport.fr^$document
 ||mielindfighdvenen.cf^$document
 ||mieliphophosamra.gq^$document
 ||mielisvadi.tk^$document
@@ -229655,6 +229670,7 @@
 ||mon-espace-consuel.fr^$document
 ||mon-espace-contravention.fr^$document
 ||mon-espace-credit-agricole.fr^$document
+||mon-espace-credit.fr^$document
 ||mon-espace-demande-renouvellement-enligne.fr^$document
 ||mon-espace-doctolib.fr^$document
 ||mon-espace-edf.fr^$document
@@ -248344,6 +248360,7 @@
 ||nuzipj.cyou^$document
 ||nuzzharsaidrivnamor.tk^$document
 ||nuzzregatipi.cf^$document
+||nv-casino-france.fr^$document
 ||nv-casino-online.fr^$document
 ||nv-casinos.fr^$document
 ||nv-casinos1.fr^$document
@@ -268203,6 +268220,7 @@
 ||pinkowien.at^$document
 ||pinkpalmpuff-france.fr^$document
 ||pinkpalmpufffrance.fr^$document
+||pinkpalmpuffsfrance.fr^$document
 ||pinkplumber.xyz^$document
 ||pinkrenefno.tk^$document
 ||pinkrepomenoscpo.ml^$document
@@ -269622,6 +269640,7 @@
 ||playjonnycasinodeposit.fr^$document
 ||playjonnycasinofrance.fr^$document
 ||playjonnycasinologin.fr^$document
+||playjonnyfr.fr^$document
 ||playjonnyjeux.fr^$document
 ||playjuliuscasino.fr^$document
 ||playkasino.fr^$document
@@ -311491,6 +311510,7 @@
 ||servicesupport-ameli.fr^$document
 ||servicesvisa.fr^$document
 ||servicesweb-amendes.fr^$document
+||servicetabac.fr^$document
 ||servicetabacsecure.fr^$document
 ||servicetech-bnpparibas.fr^$document
 ||servicetech.xyz^$document
