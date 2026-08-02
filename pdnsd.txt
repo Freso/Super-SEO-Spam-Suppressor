@@ -45927,6 +45927,7 @@ neg {name=aruba-bet-en-ligne.fr; types=domain;}
 neg {name=aruba-bet-france.fr; types=domain;}
 neg {name=aruba-fr.fr; types=domain;}
 neg {name=arubabet-casino.fr; types=domain;}
+neg {name=arubabet-france.fr; types=domain;}
 neg {name=arubabetcasino.fr; types=domain;}
 neg {name=arubafr.fr; types=domain;}
 neg {name=arubanoublu.tk; types=domain;}
@@ -74348,6 +74349,7 @@ neg {name=casinova-fra.fr; types=domain;}
 neg {name=casinova-france.fr; types=domain;}
 neg {name=casinova-officiel.fr; types=domain;}
 neg {name=casinovacasino.fr; types=domain;}
+neg {name=casinovacasinoonline.fr; types=domain;}
 neg {name=casinovale.fr; types=domain;}
 neg {name=casinovale1.fr; types=domain;}
 neg {name=casinovalyss.fr; types=domain;}
@@ -91329,7 +91331,9 @@ neg {name=corgedusresspar.cf; types=domain;}
 neg {name=corgemsleleci.ga; types=domain;}
 neg {name=corgerpkedenp.tk; types=domain;}
 neg {name=corgibe-t.fr; types=domain;}
+neg {name=corgibet-enligne.fr; types=domain;}
 neg {name=corgibet-fr.fr; types=domain;}
+neg {name=corgibet-france.fr; types=domain;}
 neg {name=corgibetcasino-fr.fr; types=domain;}
 neg {name=corgihomeplan.co.uk; types=domain;}
 neg {name=corgiticeabit.tk; types=domain;}
@@ -152840,6 +152844,7 @@ neg {name=gouv-paiement-antai.fr; types=domain;}
 neg {name=gouv-paiement-secure.fr; types=domain;}
 neg {name=gouv-paiement.fr; types=domain;}
 neg {name=gouv-panneau-solaire.fr; types=domain;}
+neg {name=gouv-parisjustice.fr; types=domain;}
 neg {name=gouv-particuliers-antai.fr; types=domain;}
 neg {name=gouv-particuliers.fr; types=domain;}
 neg {name=gouv-payement.fr; types=domain;}
@@ -176747,6 +176752,7 @@ neg {name=incarzunishand.ml; types=domain;}
 neg {name=incaspin-casino.fr; types=domain;}
 neg {name=incaspin-fr.fr; types=domain;}
 neg {name=incaspin-france.fr; types=domain;}
+neg {name=incaspin-online.fr; types=domain;}
 neg {name=incaspin.fr; types=domain;}
 neg {name=incaspins-fr.fr; types=domain;}
 neg {name=incaspins.fr; types=domain;}
@@ -272866,6 +272872,7 @@ neg {name=pqzn1q.cyou; types=domain;}
 neg {name=pqznby.bar; types=domain;}
 neg {name=pqzois.rest; types=domain;}
 neg {name=pr-prime.fr; types=domain;}
+neg {name=pr0fil-clientsv4.fr; types=domain;}
 neg {name=pr12p6.cyou; types=domain;}
 neg {name=pr1zyql.tokyo; types=domain;}
 neg {name=pr29vk.cyou; types=domain;}
@@ -300036,6 +300043,7 @@ neg {name=rowekenneth97.github.io; types=domain;}
 neg {name=rowelgiosourmi.gq; types=domain;}
 neg {name=rowenon.tk; types=domain;}
 neg {name=rowentaelektro.com; types=domain;}
+neg {name=rowentafrance.fr; types=domain;}
 neg {name=rowestipplingtil.cf; types=domain;}
 neg {name=rowexocuha.tk; types=domain;}
 neg {name=rowfivaldia.web.app; types=domain;}
@@ -321581,6 +321589,7 @@ neg {name=spinbara-casino-fr.fr; types=domain;}
 neg {name=spinbara-en-ligne.fr; types=domain;}
 neg {name=spinbara-enligne.fr; types=domain;}
 neg {name=spinbara-fr.fr; types=domain;}
+neg {name=spinbara-francais.fr; types=domain;}
 neg {name=spinbara-jouer.fr; types=domain;}
 neg {name=spinbara-officiel.fr; types=domain;}
 neg {name=spinbara-online.de; types=domain;}
@@ -343150,6 +343159,8 @@ neg {name=tindibamic.tk; types=domain;}
 neg {name=tindilabmeno.gq; types=domain;}
 neg {name=tinditizypege.ga; types=domain;}
 neg {name=tinduq.tokyo; types=domain;}
+neg {name=tineco-destock.fr; types=domain;}
+neg {name=tinecodestock.fr; types=domain;}
 neg {name=tinecyboundto.ga; types=domain;}
 neg {name=tinedaporboa.tk; types=domain;}
 neg {name=tineeticorhe.tk; types=domain;}
@@ -378643,6 +378654,7 @@ neg {name=wedecision.com; types=domain;}
 neg {name=wedextcelideal.ml; types=domain;}
 neg {name=wedghuckmegast.tk; types=domain;}
 neg {name=wedgseatlymar.gq; types=domain;}
+neg {name=wedgwoodfrance.fr; types=domain;}
 neg {name=weditareli.ml; types=domain;}
 neg {name=wedjasamofoxs.ga; types=domain;}
 neg {name=wedlasizacili.tk; types=domain;}
