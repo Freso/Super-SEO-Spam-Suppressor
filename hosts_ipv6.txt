@@ -5508,6 +5508,8 @@
 ::1 www.1-coolzino.fr
 ::1 1-jj.xyz
 ::1 www.1-jj.xyz
+::1 1-rx-shop.com
+::1 www.1-rx-shop.com
 ::1 1-speaking.com
 ::1 www.1-speaking.com
 ::1 1-wins.fr
@@ -31828,8 +31830,6 @@
 ::1 www.5112754.com
 ::1 511soft.com
 ::1 www.511soft.com
-::1 511tactical-outlets.shop
-::1 www.511tactical-outlets.shop
 ::1 511vin.com
 ::1 www.511vin.com
 ::1 5122580.com
@@ -71054,8 +71054,6 @@
 ::1 www.ahangridov.tk
 ::1 ahanoutcanli.tk
 ::1 www.ahanoutcanli.tk
-::1 ahaofootball.com
-::1 www.ahaofootball.com
 ::1 ahappyxwife.xyz
 ::1 www.ahappyxwife.xyz
 ::1 ahaqsyfj.com
@@ -81812,8 +81810,6 @@
 ::1 www.amzon-service.fr
 ::1 amzones-renouvellement.fr
 ::1 www.amzones-renouvellement.fr
-::1 amzonpaletten.com
-::1 www.amzonpaletten.com
 ::1 amzprime.fr
 ::1 www.amzprime.fr
 ::1 amzprimeabonnement.fr
@@ -88826,8 +88822,6 @@
 ::1 www.aquamarinehotel.ee
 ::1 aquamask.xyz
 ::1 www.aquamask.xyz
-::1 aquarells.shop
-::1 www.aquarells.shop
 ::1 aquarienbedarf.com
 ::1 www.aquarienbedarf.com
 ::1 aquarisonlineshop.de
@@ -97606,8 +97600,6 @@
 ::1 www.augxlabs.com
 ::1 augxlabs.com
 ::1 www.augxlabs.com
-::1 auhandmade.com
-::1 www.auhandmade.com
 ::1 auhkjvf.tokyo
 ::1 www.auhkjvf.tokyo
 ::1 auhruu.bar
@@ -99670,8 +99662,6 @@
 ::1 www.avtidisen.tk
 ::1 avtiventaventco.tk
 ::1 www.avtiventaventco.tk
-::1 avtmcugf.shop
-::1 www.avtmcugf.shop
 ::1 avto-bg.eu
 ::1 www.avto-bg.eu
 ::1 avto-stekla.by
@@ -108824,8 +108814,6 @@
 ::1 www.bcomobepacan.ml
 ::1 bcor25.cyou
 ::1 www.bcor25.cyou
-::1 bcoutlet-store.shop
-::1 www.bcoutlet-store.shop
 ::1 bcowma1.tokyo
 ::1 www.bcowma1.tokyo
 ::1 bcpascher.fr
@@ -111760,8 +111748,6 @@
 ::1 www.bennman.it
 ::1 benny-hansen.dk
 ::1 www.benny-hansen.dk
-::1 bennysbookskw.shop
-::1 www.bennysbookskw.shop
 ::1 benoite31caution.download
 ::1 www.benoite31caution.download
 ::1 benolusrerect.tk
@@ -120974,6 +120960,8 @@
 ::1 www.bitcoin-shop.ro
 ::1 bitcoin-trader.net
 ::1 www.bitcoin-trader.net
+::1 bitcoin-up.io
+::1 www.bitcoin-up.io
 ::1 bitcoin-xact.fr
 ::1 www.bitcoin-xact.fr
 ::1 bitcoinarchon.com
@@ -136228,8 +136216,6 @@
 ::1 www.buomby.rest
 ::1 buonarbakehigh.gq
 ::1 www.buonarbakehigh.gq
-::1 buoreaostore.com
-::1 www.buoreaostore.com
 ::1 buosmarsoinise.cf
 ::1 www.buosmarsoinise.cf
 ::1 buovaspkerlewar.ml
@@ -150416,8 +150402,6 @@
 ::1 www.cavalierforum.be
 ::1 cavaliernet.dk
 ::1 www.cavaliernet.dk
-::1 cavalleria-toscana-eu.shop
-::1 www.cavalleria-toscana-eu.shop
 ::1 cavalrenee.tk
 ::1 www.cavalrenee.tk
 ::1 cavalrybullflattering.com
@@ -215078,8 +215062,6 @@
 ::1 www.discount-distributors.buzz
 ::1 discount-kobalt.com
 ::1 www.discount-kobalt.com
-::1 discount-lakers.shop
-::1 www.discount-lakers.shop
 ::1 discount-on-car-parts.com
 ::1 www.discount-on-car-parts.com
 ::1 discount-pool-park.com
@@ -215134,8 +215116,6 @@
 ::1 www.discounttraumde.de
 ::1 discountviagra.store
 ::1 www.discountviagra.store
-::1 discountzone-eu.shop
-::1 www.discountzone-eu.shop
 ::1 discover-anna-calm.nl
 ::1 www.discover-anna-calm.nl
 ::1 discover-club.com
@@ -231612,8 +231592,6 @@
 ::1 www.earinglisbuckti.ml
 ::1 earjtrust.xyz
 ::1 www.earjtrust.xyz
-::1 earlblack.store
-::1 www.earlblack.store
 ::1 earlegemeci.tk
 ::1 www.earlegemeci.tk
 ::1 earlesilquarntedi.tk
@@ -262110,8 +262088,6 @@
 ::1 www.fancygift.de
 ::1 fancygrab.com
 ::1 www.fancygrab.com
-::1 fancyprinces.shop
-::1 www.fancyprinces.shop
 ::1 fandelilipsba.ml
 ::1 www.fandelilipsba.ml
 ::1 fandetitoli.tk
@@ -291884,8 +291860,6 @@
 ::1 www.gbg168.cyou
 ::1 gbg23rw.cn
 ::1 www.gbg23rw.cn
-::1 gbgbkk.de
-::1 www.gbgbkk.de
 ::1 gbgpbz.cyou
 ::1 www.gbgpbz.cyou
 ::1 gbgroup.ee
@@ -304212,8 +304186,6 @@
 ::1 www.goldengoosesale.at
 ::1 goldengoosesale.de
 ::1 www.goldengoosesale.de
-::1 goldengoosesen.shop
-::1 www.goldengoosesen.shop
 ::1 goldengoosesoldes.fr
 ::1 www.goldengoosesoldes.fr
 ::1 goldenlion-casino.fr
@@ -372970,8 +372942,6 @@
 ::1 www.jespershus.dk
 ::1 jessamysecretive.com
 ::1 www.jessamysecretive.com
-::1 jessegray.shop
-::1 www.jessegray.shop
 ::1 jessejones.xyz
 ::1 www.jessejones.xyz
 ::1 jessemccartney.fr
@@ -393214,8 +393184,6 @@
 ::1 www.kmgr-shop.com
 ::1 kmgr.store
 ::1 www.kmgr.store
-::1 kmgshropshire.shop
-::1 www.kmgshropshire.shop
 ::1 kmh188.shop
 ::1 www.kmh188.shop
 ::1 kmhanas.gq
@@ -426802,6 +426770,8 @@
 ::1 www.lotulivil.gq
 ::1 lotumetingdali.tk
 ::1 www.lotumetingdali.tk
+::1 lotus-handeln.com
+::1 www.lotus-handeln.com
 ::1 lotus-hotel.cn
 ::1 www.lotus-hotel.cn
 ::1 lotus-tab.com
@@ -436648,6 +436618,8 @@
 ::1 www.magisk.me
 ::1 magisk.zip
 ::1 www.magisk.zip
+::1 magiskapk.net
+::1 www.magiskapk.net
 ::1 magiskapp.com
 ::1 www.magiskapp.com
 ::1 magiskcn.com
@@ -446546,8 +446518,6 @@
 ::1 www.melangfronylnu.ga
 ::1 melanieblaesing.de
 ::1 www.melanieblaesing.de
-::1 melaniemack.top
-::1 www.melaniemack.top
 ::1 melanism-unyoke-moodiness.xyz
 ::1 www.melanism-unyoke-moodiness.xyz
 ::1 melaresirosi.ml
@@ -448460,8 +448430,6 @@
 ::1 www.merrellchaussures.fr
 ::1 merrellenpromos.fr
 ::1 www.merrellenpromos.fr
-::1 merrellfactoryoutlets.com
-::1 www.merrellfactoryoutlets.com
 ::1 merrellfrance.fr
 ::1 www.merrellfrance.fr
 ::1 merrelloutletonline.de
@@ -507670,8 +507638,6 @@
 ::1 www.online-delivery.cam
 ::1 online-douyin.com
 ::1 www.online-douyin.com
-::1 online-fanatec.top
-::1 www.online-fanatec.top
 ::1 online-fast-slots.fr
 ::1 www.online-fast-slots.fr
 ::1 online-fastslots.fr
@@ -533616,6 +533582,8 @@
 ::1 www.pharmacyeurope24.com
 ::1 pharmacyinventory.org
 ::1 www.pharmacyinventory.org
+::1 pharmacymarketonline.com
+::1 www.pharmacymarketonline.com
 ::1 pharmacynod.com
 ::1 www.pharmacynod.com
 ::1 pharmacyonline24.com
@@ -535058,8 +535026,6 @@
 ::1 www.piamanwarslasbost.tk
 ::1 piamareresimp.tk
 ::1 www.piamareresimp.tk
-::1 piana-mall.shop
-::1 www.piana-mall.shop
 ::1 pianidicotturascontato.com
 ::1 www.pianidicotturascontato.com
 ::1 pianisttyranbeach.com
@@ -535246,6 +535212,8 @@
 ::1 www.piccoliprestitiveloci.it
 ::1 piccomaeurope.fr
 ::1 www.piccomaeurope.fr
+::1 piccu.org
+::1 www.piccu.org
 ::1 piccysajulem.gq
 ::1 www.piccysajulem.gq
 ::1 picdaitecessparna.cf
@@ -556924,8 +556892,6 @@
 ::1 www.psg-destockage.fr
 ::1 psg-fc.fr
 ::1 www.psg-fc.fr
-::1 psg-online-store.shop
-::1 www.psg-online-store.shop
 ::1 psg-shop.fr
 ::1 www.psg-shop.fr
 ::1 psg-store.fr
@@ -583640,8 +583606,6 @@
 ::1 www.regnafundverworl.tk
 ::1 regnbuekoret.dk
 ::1 www.regnbuekoret.dk
-::1 regnc.com
-::1 www.regnc.com
 ::1 regningbergduapi.ga
 ::1 www.regningbergduapi.ga
 ::1 regnotigecawi.ml
@@ -598866,8 +598830,6 @@
 ::1 www.rogtilicimire.tk
 ::1 rogtirollsuli.tk
 ::1 www.rogtirollsuli.tk
-::1 roguefitnessus.shop
-::1 www.roguefitnessus.shop
 ::1 roguelibri.web.app
 ::1 www.roguelibri.web.app
 ::1 rogvelpromanchthi.tk
@@ -605030,6 +604992,8 @@
 ::1 www.rwcpuw.cyou
 ::1 rwcrgyt.cyou
 ::1 www.rwcrgyt.cyou
+::1 rwcstore.com
+::1 www.rwcstore.com
 ::1 rwdftx.bar
 ::1 www.rwdftx.bar
 ::1 rwdgudo.tokyo
@@ -661084,8 +661048,6 @@
 ::1 www.swarnim.xyz
 ::1 swarovski-france.fr
 ::1 www.swarovski-france.fr
-::1 swarovski-hot.shop
-::1 www.swarovski-hot.shop
 ::1 swarovski-soldes.fr
 ::1 www.swarovski-soldes.fr
 ::1 swarovskichile.com
@@ -717918,8 +717880,6 @@
 ::1 www.unihhofo.ml
 ::1 unihyhewelod.cf
 ::1 www.unihyhewelod.cf
-::1 uniitted.shop
-::1 www.uniitted.shop
 ::1 unik-outfit.fr
 ::1 www.unik-outfit.fr
 ::1 unikalnostvnezapniy.biz
@@ -768990,6 +768950,8 @@
 ::1 www.woofgear.de
 ::1 wooflyx.com
 ::1 www.wooflyx.com
+::1 woofz.academy
+::1 www.woofz.academy
 ::1 woogitopeck.online
 ::1 www.woogitopeck.online
 ::1 woogpz.tokyo
@@ -775004,8 +774966,6 @@
 ::1 www.wxnidae.tokyo
 ::1 wxnris.tokyo
 ::1 www.wxnris.tokyo
-::1 wxoabf.shop
-::1 www.wxoabf.shop
 ::1 wxods.bar
 ::1 www.wxods.bar
 ::1 wxonih.bar
@@ -785902,8 +785862,6 @@
 ::1 www.xwalra.bar
 ::1 xwalra.rest
 ::1 www.xwalra.rest
-::1 xwatches.to
-::1 www.xwatches.to
 ::1 xwatmy.cyou
 ::1 www.xwatmy.cyou
 ::1 xwayspn.tokyo
