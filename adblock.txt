@@ -43904,6 +43904,7 @@
 ||applegear.fr^$document
 ||applehelp.fr^$document
 ||applehera.web.app^$document
+||appleid-localiser.fr^$document
 ||appleid-privacy.fr^$document
 ||appleid-support.fr^$document
 ||appleid-verifier.fr^$document
@@ -44421,6 +44422,7 @@
 ||aquariumopt.com^$document
 ||aquariumzubehor24.com^$document
 ||aquascapers-galerie.com^$document
+||aquaschuheshop.com^$document
 ||aquataliaparis.fr^$document
 ||aquavibespro.com^$document
 ||aquawin-fr.fr^$document
@@ -46039,6 +46041,7 @@
 ||aruba-bet-france.fr^$document
 ||aruba-fr.fr^$document
 ||arubabet-casino.fr^$document
+||arubabet-enligne.fr^$document
 ||arubabet-france.fr^$document
 ||arubabetcasino.fr^$document
 ||arubafr.fr^$document
@@ -53761,7 +53764,6 @@
 ||batdongsan.xyz^$document
 ||batearadrebig.cf^$document
 ||batecmabigbenab.cf^$document
-||bateg24.de^$document
 ||batenburghellbillie.nl^$document
 ||batenicom.tk^$document
 ||baterchaperness.tk^$document
@@ -53916,6 +53918,7 @@
 ||baumantransporte.com^$document
 ||baumarktverkauf.de^$document
 ||baumaschinen.xyz^$document
+||baumaterialstore.com^$document
 ||baumeistermodels.com^$document
 ||baumeistertools.com^$document
 ||baumfaellungen-dresden.de^$document
@@ -57214,6 +57217,7 @@
 ||bestvpnnpxu.web.app^$document
 ||bestvvav.web.app^$document
 ||bestwallpaintings.buzz^$document
+||bestwassertechnik.com^$document
 ||bestwear.club^$document
 ||bestwebnames.host^$document
 ||bestwebsexcams.xyz^$document
@@ -57358,6 +57362,7 @@
 ||betbarter.fr^$document
 ||betbeast-casino.fr^$document
 ||betbeast-fr.fr^$document
+||betbeast-france.fr^$document
 ||betberry.fr^$document
 ||betblast-casino.fr^$document
 ||betblast-en-ligne.fr^$document
@@ -59351,6 +59356,7 @@
 ||billetbestilling.dk^$document
 ||billetdeconcert.fr^$document
 ||billeterie-fortnite-arena.fr^$document
+||billeterieffr.fr^$document
 ||billeteriejul.fr^$document
 ||billetevent.fr^$document
 ||billetexpress.fr^$document
@@ -60566,7 +60572,6 @@
 ||bitmikabctipet.tk^$document
 ||bitmindfecont.tk^$document
 ||bitmyrisorblavgaa.tk^$document
-||bitnixer.io^$document
 ||bitnubongazp.gq^$document
 ||bitocandderbia.ga^$document
 ||bitonite.com^$document
@@ -66407,6 +66412,7 @@
 ||brochatininnvenal.ml^$document
 ||brochcartgualaness.cf^$document
 ||brochchopelati.tk^$document
+||brocheeks.store^$document
 ||brochemilicte.ga^$document
 ||brocherodclubrang.ga^$document
 ||brochewkocisig.tk^$document
@@ -73784,6 +73790,8 @@
 ||cashedcasinofrance.fr^$document
 ||cashedcasinologin.fr^$document
 ||cashedcasinos.fr^$document
+||cashedenligne.fr^$document
+||cashedfrance.fr^$document
 ||casheds.fr^$document
 ||cashexpres.fr^$document
 ||cashfits.com^$document
@@ -73857,6 +73865,7 @@
 ||casinado.fr^$document
 ||casinado1.fr^$document
 ||casinadocasino.fr^$document
+||casinia-enligne.fr^$document
 ||casinia-fr.fr^$document
 ||casinia-france.fr^$document
 ||casinia-online.fr^$document
@@ -84862,6 +84871,7 @@
 ||clientado.com^$document
 ||clientajour.fr^$document
 ||clientameli.fr^$document
+||clientca-connect-creditagricole.fr^$document
 ||clientcanal.fr^$document
 ||clientcareservice.fr^$document
 ||clientchrono-suivi.fr^$document
@@ -103617,6 +103627,7 @@
 ||desgetopalo.ga^$document
 ||desggeperpstor.tk^$document
 ||desgibivero.tk^$document
+||desginevo.com^$document
 ||desgmusetbetfgevil.tk^$document
 ||desgnfotatbuyvida.ml^$document
 ||desgolftusobelf.tk^$document
@@ -138703,6 +138714,7 @@
 ||fortuneobqu.fr^$document
 ||fortuneocomptecourant.fr^$document
 ||fortuneoconformite.fr^$document
+||fortuneocreditimmo.fr^$document
 ||fortuneofinance.fr^$document
 ||fortuneofr.fr^$document
 ||fortuneofrance.fr^$document
@@ -157361,6 +157373,7 @@
 ||gxbags.tokyo^$document
 ||gxbbm.com^$document
 ||gxbet-casino.fr^$document
+||gxbet-enligne.fr^$document
 ||gxbet-fr.fr^$document
 ||gxbet-france.fr^$document
 ||gxbetcasino.fr^$document
@@ -173518,6 +173531,7 @@
 ||id-orange.fr^$document
 ||id-s.cc^$document
 ||id-sncf.fr^$document
+||id-support.fr^$document
 ||id-univ-amu.fr^$document
 ||id-verifier.fr^$document
 ||id.server^$document
@@ -174494,6 +174508,7 @@
 ||igeferkoxate.cf^$document
 ||igelsiomosua.ga^$document
 ||igeltrepearfun.tk^$document
+||igelwelt.com^$document
 ||igemukacuq.gq^$document
 ||igendarmerie.fr^$document
 ||igepad.tk^$document
@@ -180504,6 +180519,7 @@
 ||intersport-at.myshoplaza.com^$document
 ||intersport-at.shop^$document
 ||intersport-romorantin.fr^$document
+||intersport88.myshoplaza.com^$document
 ||intersportsoldes.fr^$document
 ||interstatesavings.us^$document
 ||intersyst.com.br^$document
@@ -181740,6 +181756,7 @@
 ||ironnexhohua.cf^$document
 ||ironpro-officiel.fr^$document
 ||ironstore.fr^$document
+||ironvexgroup.com^$document
 ||ironybait.com^$document
 ||ironydilatepurpose.com^$document
 ||ironyoverly.com^$document
@@ -189482,6 +189499,7 @@
 ||jskqpk.cyou^$document
 ||jsks877.tokyo^$document
 ||jskv2s.cyou^$document
+||jslotzcasino.fr^$document
 ||jsmab2f.tokyo^$document
 ||jsmaiyu.com^$document
 ||jsmcrjmp.com^$document
@@ -192172,6 +192190,7 @@
 ||kalleroelle.dk^$document
 ||kalli.st^$document
 ||kallibri.web.app^$document
+||kallisteremeurl.com^$document
 ||kalmardarlowko.pl^$document
 ||kalmowithdcespuewic.tk^$document
 ||kaloceweene.ml^$document
@@ -196380,6 +196399,7 @@
 ||klimabonus2026.at^$document
 ||klimag.myshopify.com^$document
 ||klimageld-2026.cc^$document
+||klimagerat.com^$document
 ||klimahaus.myshopify.com^$document
 ||klimawelts.com^$document
 ||kliminobisas.tk^$document
@@ -197495,6 +197515,7 @@
 ||kopernoqagull.ml^$document
 ||kopetsupply.com^$document
 ||kopfsacheonline.de^$document
+||kopfwaermer.com^$document
 ||kopgolfnighrublai.tk^$document
 ||kophissingbogoo.cf^$document
 ||kopic.bar^$document
@@ -202360,6 +202381,7 @@
 ||larissiosketmachap.ml^$document
 ||laritgen.my.id^$document
 ||larithnachsrawoodra.cf^$document
+||lariviera-outlet.fr^$document
 ||larivieracasina.fr^$document
 ||larivieracasino-fr.fr^$document
 ||larivieracasino1.fr^$document
@@ -203353,6 +203375,7 @@
 ||lbc-affiche-rib.fr^$document
 ||lbc-afficher-rib.fr^$document
 ||lbc-afficher-ton-rib.fr^$document
+||lbc-assistance.fr^$document
 ||lbc-autfirst.fr^$document
 ||lbc-contact-rib.fr^$document
 ||lbc-contacts-rib.fr^$document
@@ -203923,6 +203946,7 @@
 ||le-champdespossibles.fr^$document
 ||le-chineur.fr^$document
 ||le-choinfo.fr^$document
+||le-climatiseur.fr^$document
 ||le-cnam.fr^$document
 ||le-formulaire-ameli.fr^$document
 ||le-instasino.fr^$document
@@ -218052,6 +218076,8 @@
 ||mafia-casinoofficiel.fr^$document
 ||mafia-casinos.fr^$document
 ||mafia-en-ligne.fr^$document
+||mafia-enligne.fr^$document
+||mafia-online.fr^$document
 ||mafiacasino-fr.fr^$document
 ||mafiacasino-france.fr^$document
 ||mafiacasino.fr^$document
@@ -220429,6 +220455,7 @@
 ||market-place-jul.fr^$document
 ||market-research-now.com^$document
 ||market.clearancewhirl.com^$document
+||market.darrowmere.com^$document
 ||market.livaxxen.org^$document
 ||market24prime.shop^$document
 ||market2trade.com^$document
@@ -221560,6 +221587,7 @@
 ||maxh5t.cyou^$document
 ||maxhard.xyz^$document
 ||maxi-markt.com^$document
+||maxibet-fr.fr^$document
 ||maxibet.fr^$document
 ||maxibets.fr^$document
 ||maxicom.ga^$document
@@ -222597,6 +222625,7 @@
 ||medialive.fr^$document
 ||medialogi.xyz^$document
 ||mediamarkt-at.com^$document
+||mediamarkt-berlin.com^$document
 ||mediamattei.it^$document
 ||mediamaxi.online^$document
 ||mediamend.net^$document
@@ -222888,6 +222917,7 @@
 ||megadice-casino.fr^$document
 ||megadicecasino.fr^$document
 ||megadjzu.web.app^$document
+||megafishwinscasino.fr^$document
 ||megafliesen24.de^$document
 ||megaflirtbook2.com^$document
 ||megagear.com.hk^$document
@@ -224209,6 +224239,7 @@
 ||merphaemahemagun.tk^$document
 ||merphefortade.ga^$document
 ||merphydanno.ml^$document
+||merrachi-de.com^$document
 ||merrahosjobanomb.tk^$document
 ||merrell-deutschland.de^$document
 ||merrell-france.fr^$document
@@ -235615,6 +235646,7 @@
 ||mysnychronyhome.com^$document
 ||mysocycwhyea.gq^$document
 ||mysodastream.shop^$document
+||mysolde-pcs.fr^$document
 ||mysolution24.de^$document
 ||mysongfa.space^$document
 ||mysoruwuje.ga^$document
@@ -243526,6 +243558,7 @@
 ||nikeblazerlow.fr^$document
 ||nikeblazerpascher.fr^$document
 ||nikeblazerpaschere.fr^$document
+||nikeblazers.fr^$document
 ||nikeboutique.fr^$document
 ||nikechaussurefemme.fr^$document
 ||nikeclub.fr^$document
@@ -245150,6 +245183,7 @@
 ||no-reply-chrono-delivery-france.fr^$document
 ||no-reply-credit-agr.fr^$document
 ||no-reply-france-chrono-livraison.fr^$document
+||no-reply-mdiministereinterieurgouv.fr^$document
 ||no-reply-prime.fr^$document
 ||no-reply.fr^$document
 ||no-replyinstagram.fr^$document
@@ -254064,6 +254098,7 @@
 ||onlyfans.pm^$document
 ||onlyfans.re^$document
 ||onlyfans.tf^$document
+||onlyfans.wf^$document
 ||onlyfans.yt^$document
 ||onlyfansmaroc.fr^$document
 ||onlyfqn.fr^$document
@@ -280231,6 +280266,7 @@
 ||pxhcwu.tokyo^$document
 ||pxhruvi.rest^$document
 ||pxhx7fw.tokyo^$document
+||pxid-interieurgouv.fr^$document
 ||pxieng.bar^$document
 ||pxikxx.tokyo^$document
 ||pxjftm.shop^$document
@@ -287018,7 +287054,9 @@
 ||rabonacasinobonus.fr^$document
 ||rabonacasinologin.fr^$document
 ||rabonacasinopromocode.fr^$document
+||rabonaenligne.fr^$document
 ||rabonafr.fr^$document
+||rabonafrance.fr^$document
 ||rabonaofficiel.fr^$document
 ||rabonar.xyz^$document
 ||rabonas-casino.fr^$document
@@ -287269,6 +287307,7 @@
 ||radachostneardires.gq^$document
 ||radapumaha.cf^$document
 ||radarr.com^$document
+||radbasis.com^$document
 ||radbekleidung4u.com^$document
 ||radbot.xyz^$document
 ||radcliffezachary.xyz^$document
@@ -299668,8 +299707,10 @@
 ||rolletocasino.fr^$document
 ||rolletto-casino.fr^$document
 ||rolletto.fr^$document
+||rollettocasino-france.fr^$document
 ||rollettocasino.fr^$document
 ||rollettoonline.fr^$document
+||rollettoplay.fr^$document
 ||rollicksome.xyz^$document
 ||rollifycasino.fr^$document
 ||rollingslotscasino.fr^$document
@@ -299846,6 +299887,7 @@
 ||romstalprodomus.ro^$document
 ||romtdyq.tokyo^$document
 ||romus-casino.fr^$document
+||romus-casinos.fr^$document
 ||romuscasino.fr^$document
 ||romusnabossoitheat.cf^$document
 ||romvn.xyz^$document
@@ -307655,6 +307697,7 @@
 ||schwesterherz-maedchenflohmarkt.de^$document
 ||schwestern-kaufhaus.de^$document
 ||schwfoto.com^$document
+||schwimmschuh.com^$document
 ||schwinnfrance.fr^$document
 ||schwurverband.de^$document
 ||schydgu.bar^$document
@@ -311322,6 +311365,7 @@
 ||service-z9mmkhqhpefjqippj6xewpmnc.xyz^$document
 ||service24hours.xyz^$document
 ||serviceaccount.fr^$document
+||serviceachat-sccfrance.fr^$document
 ||serviceameli.fr^$document
 ||serviceamelie.fr^$document
 ||serviceamende-antai.fr^$document
@@ -318733,6 +318777,7 @@
 ||snapchat-online.fr^$document
 ||snapchat-plus.fr^$document
 ||snapchat-rgpd.fr^$document
+||snapchat-secure-login.fr^$document
 ||snapchat-securisation.fr^$document
 ||snapchat-securite.fr^$document
 ||snapchat-support.fr^$document
@@ -322291,6 +322336,7 @@
 ||spinboggpyhtuhena.ga^$document
 ||spinbos.fr^$document
 ||spinboss-2026.fr^$document
+||spinboss-casinos.fr^$document
 ||spinboss-fr.fr^$document
 ||spinboss-france.fr^$document
 ||spinboss-jouer.fr^$document
@@ -322318,6 +322364,7 @@
 ||spindogcasino.fr^$document
 ||spindopucom.tk^$document
 ||spindynasty-casino.fr^$document
+||spindynasty-fr.fr^$document
 ||spindynasty-officiel.fr^$document
 ||spindynasty1.fr^$document
 ||spindynastycasino-fr.fr^$document
@@ -322332,6 +322379,7 @@
 ||spinfest1.fr^$document
 ||spinfests.fr^$document
 ||spinfin-casino.fr^$document
+||spinfin-enligne.fr^$document
 ||spinfin-fr.fr^$document
 ||spinfin-france.fr^$document
 ||spinfin-online.fr^$document
@@ -322457,6 +322505,7 @@
 ||spinomcratodclin.tk^$document
 ||spinomternaumnemim.gq^$document
 ||spinonsilyhalsa.ga^$document
+||spinorhino-fr.fr^$document
 ||spinosovahbeach.ml^$document
 ||spinpanda-casino.fr^$document
 ||spinpanda-fr.fr^$document
@@ -361492,6 +361541,7 @@
 ||usphhz.tokyo^$document
 ||uspickleballpaddle.com^$document
 ||uspiguarrithe.gq^$document
+||uspin-casino.fr^$document
 ||uspin-me.fr^$document
 ||uspinme-casino.fr^$document
 ||uspinmecasino.fr^$document
@@ -377085,6 +377135,7 @@
 ||wamwkr.rest^$document
 ||wan8cfd.cn^$document
 ||wanaado.fr^$document
+||wanabet.fr^$document
 ||wanad0o.fr^$document
 ||wanadddoo.fr^$document
 ||wanaddo.fr^$document
@@ -381827,6 +381878,7 @@
 ||wildzcasino.fr^$document
 ||wildzenligne.fr^$document
 ||wildzibebiluro.tk^$document
+||wildzy-casinos.fr^$document
 ||wildzy-enligne.fr^$document
 ||wildzy-fr.fr^$document
 ||wildzy-france.fr^$document
@@ -388063,6 +388115,7 @@
 ||x3aqw.rest^$document
 ||x3bet-casino-france.fr^$document
 ||x3bet-casino.fr^$document
+||x3bet-fr.fr^$document
 ||x3bet-france.fr^$document
 ||x3betcasino.fr^$document
 ||x3bf6.cyou^$document
