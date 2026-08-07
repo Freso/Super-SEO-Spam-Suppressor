@@ -100318,8 +100318,6 @@
 ::1 www.axasabanque.fr
 ::1 axatbq.bar
 ::1 www.axatbq.bar
-::1 axatechviewou.com
-::1 www.axatechviewou.com
 ::1 axaxhd.tokyo
 ::1 www.axaxhd.tokyo
 ::1 axazneiklengunsrock.ml
@@ -109400,6 +109398,8 @@
 ::1 www.beachtennislugano.ch
 ::1 beachtioconta.tk
 ::1 www.beachtioconta.tk
+::1 beachwalkbali.com
+::1 www.beachwalkbali.com
 ::1 beaconzero.net
 ::1 www.beaconzero.net
 ::1 beacuc.shop
@@ -121002,8 +121002,6 @@
 ::1 www.bitcoin-revolution.org
 ::1 bitcoin-shop.ro
 ::1 www.bitcoin-shop.ro
-::1 bitcoin-up.io
-::1 www.bitcoin-up.io
 ::1 bitcoin-xact.fr
 ::1 www.bitcoin-xact.fr
 ::1 bitcoinarchon.com
@@ -144086,6 +144084,8 @@
 ::1 www.canadatrustmed.com
 ::1 canadawidepharmacy.com
 ::1 www.canadawidepharmacy.com
+::1 canadiana.top
+::1 www.canadiana.top
 ::1 canadianhealthcaremalll.com
 ::1 www.canadianhealthcaremalll.com
 ::1 canadianhealthcarepharmacymall.com
@@ -201858,8 +201858,6 @@
 ::1 www.de.epicooleronline.store
 ::1 de.fashvia.shop
 ::1 www.de.fashvia.shop
-::1 de.fitlebenberlin.com
-::1 www.de.fitlebenberlin.com
 ::1 de.givalli-lifestyle.com
 ::1 www.de.givalli-lifestyle.com
 ::1 de.gvgmall.com
@@ -237200,8 +237198,6 @@
 ::1 www.eic2i3d.tokyo
 ::1 eicarh.xyz
 ::1 www.eicarh.xyz
-::1 eichborn-berlin.de
-::1 www.eichborn-berlin.de
 ::1 eichhholtzsale.com
 ::1 www.eichhholtzsale.com
 ::1 eichmann.dk
@@ -264516,8 +264512,6 @@
 ::1 www.fdsqpg.tokyo
 ::1 fdsxpp.tokyo
 ::1 www.fdsxpp.tokyo
-::1 fdte2.xyz
-::1 www.fdte2.xyz
 ::1 fdti6e.tokyo
 ::1 www.fdti6e.tokyo
 ::1 fdtpig.rest
@@ -265746,8 +265740,6 @@
 ::1 www.fenonee.xyz
 ::1 fenoniroban.cf
 ::1 www.fenoniroban.cf
-::1 fenox-autoteile.de
-::1 www.fenox-autoteile.de
 ::1 fenoy6p.tokyo
 ::1 www.fenoy6p.tokyo
 ::1 fenpalece.tk
@@ -266138,8 +266130,6 @@
 ::1 www.ferpesttranarhycol.tk
 ::1 ferpiwalklectfull.gq
 ::1 www.ferpiwalklectfull.gq
-::1 ferplastdeutschland.shop
-::1 www.ferplastdeutschland.shop
 ::1 ferplastverkaufe.com
 ::1 www.ferplastverkaufe.com
 ::1 ferpodishemit.gq
@@ -266378,8 +266368,6 @@
 ::1 www.festgeld724.de
 ::1 festgeldfinder.de
 ::1 www.festgeldfinder.de
-::1 festgeldkompass.com
-::1 www.festgeldkompass.com
 ::1 festgeldsicher.at
 ::1 www.festgeldsicher.at
 ::1 festhoscoka.ga
@@ -266970,8 +266958,6 @@
 ::1 www.ffnwp.bar
 ::1 ffolfk.bar
 ::1 www.ffolfk.bar
-::1 ffount-tech.de
-::1 www.ffount-tech.de
 ::1 ffpjhlcwn.xyz
 ::1 www.ffpjhlcwn.xyz
 ::1 ffppch.tokyo
@@ -268762,8 +268748,6 @@
 ::1 www.filllofumanoba.tk
 ::1 fillnecessarylife.biz
 ::1 www.fillnecessarylife.biz
-::1 filloutlet.com
-::1 www.filloutlet.com
 ::1 fillsformperiod.biz
 ::1 www.fillsformperiod.biz
 ::1 fillsourcmizi.tk
@@ -270536,8 +270520,6 @@
 ::1 www.fitebipiqo.ml
 ::1 fitedowndownfu.gq
 ::1 www.fitedowndownfu.gq
-::1 fiteningf.com
-::1 www.fiteningf.com
 ::1 fitephoswheto.tk
 ::1 www.fitephoswheto.tk
 ::1 fiteridownsesfi.ga
@@ -270554,8 +270536,6 @@
 ::1 www.fitevolnaiful.ml
 ::1 fitexpressaviatiei.ro
 ::1 www.fitexpressaviatiei.ro
-::1 fitflopparis.net
-::1 www.fitflopparis.net
 ::1 fitflopromania.com
 ::1 www.fitflopromania.com
 ::1 fitflopsoutlet.fr
@@ -275822,8 +275802,6 @@
 ::1 www.footswordeacent.tk
 ::1 foottuatabunli.gq
 ::1 www.foottuatabunli.gq
-::1 footvibe.de
-::1 www.footvibe.de
 ::1 footvigeadbe.tk
 ::1 www.footvigeadbe.tk
 ::1 footwearapparelprotectionlaw.com
@@ -278126,8 +278104,6 @@
 ::1 www.fozt95.tokyo
 ::1 foztgzr.tokyo
 ::1 www.foztgzr.tokyo
-::1 fp-brennholz.de
-::1 www.fp-brennholz.de
 ::1 fp-impot-gouv-tva.fr
 ::1 www.fp-impot-gouv-tva.fr
 ::1 fp276o3.tokyo
@@ -279508,8 +279484,6 @@
 ::1 www.frameboxxindore.com
 ::1 framebyframe.eu
 ::1 www.framebyframe.eu
-::1 framelia.org
-::1 www.framelia.org
 ::1 framescatherineantenna.com
 ::1 www.framescatherineantenna.com
 ::1 framestighterauthorize.com
@@ -281544,8 +281518,6 @@
 ::1 www.freiburghiburch.eu
 ::1 freiemarkt.de
 ::1 www.freiemarkt.de
-::1 freiestelle.net
-::1 www.freiestelle.net
 ::1 freietaube.de
 ::1 www.freietaube.de
 ::1 freigardenstyle.com
@@ -281672,8 +281644,6 @@
 ::1 www.frenutmenocorsing.ga
 ::1 frenzing.tk
 ::1 www.frenzing.tk
-::1 frenzyfoodie.com
-::1 www.frenzyfoodie.com
 ::1 frenzygobletshops.com
 ::1 www.frenzygobletshops.com
 ::1 frepbox.fr
@@ -282592,8 +282562,6 @@
 ::1 www.frostbird.space
 ::1 frosthunter.xyz
 ::1 www.frosthunter.xyz
-::1 frostorio.shop
-::1 www.frostorio.shop
 ::1 frostwire.com
 ::1 www.frostwire.com
 ::1 frosvitcoure.cf
@@ -285154,8 +285122,6 @@
 ::1 www.futura-sciences.com
 ::1 futuralluminio.com
 ::1 www.futuralluminio.com
-::1 future-eco.com
-::1 www.future-eco.com
 ::1 future-forex-trading.site
 ::1 www.future-forex-trading.site
 ::1 future-pedia.com
@@ -289196,8 +289162,6 @@
 ::1 www.gakker.eu
 ::1 gakspyn.tokyo
 ::1 www.gakspyn.tokyo
-::1 gala-waldbau.de
-::1 www.gala-waldbau.de
 ::1 galaauto.com
 ::1 www.galaauto.com
 ::1 galabau-trautmann.de
@@ -290682,8 +290646,6 @@
 ::1 www.garten-frische.de
 ::1 garten-gepflegt.de
 ::1 www.garten-gepflegt.de
-::1 garten-outdoor.com
-::1 www.garten-outdoor.com
 ::1 garten-pflanzen-pro.com
 ::1 www.garten-pflanzen-pro.com
 ::1 garten-profi24.de
@@ -290764,16 +290726,12 @@
 ::1 www.gartenguenter.de
 ::1 gartenhausmodern.com
 ::1 www.gartenhausmodern.com
-::1 gartenil.com
-::1 www.gartenil.com
 ::1 gartenira.com
 ::1 www.gartenira.com
 ::1 gartenix.com
 ::1 www.gartenix.com
 ::1 gartenkings.de
 ::1 www.gartenkings.de
-::1 gartenkissen-premium.de
-::1 www.gartenkissen-premium.de
 ::1 gartenkompass.com
 ::1 www.gartenkompass.com
 ::1 gartenkraft-de.com
@@ -290798,8 +290756,6 @@
 ::1 www.gartenmaschinenzubehor.com
 ::1 gartenmaxe.de
 ::1 www.gartenmaxe.de
-::1 gartenmeistede.com
-::1 www.gartenmeistede.com
 ::1 gartenmoebelangebote.de
 ::1 www.gartenmoebelangebote.de
 ::1 gartenmoebelwelt.com
@@ -290826,8 +290782,6 @@
 ::1 www.gartenpilot.com
 ::1 gartenplus24.com
 ::1 www.gartenplus24.com
-::1 gartenpools24.de
-::1 www.gartenpools24.de
 ::1 gartenpools24.shop
 ::1 www.gartenpools24.shop
 ::1 gartenquellede.com
@@ -290860,14 +290814,10 @@
 ::1 www.gartenstuhlemetall.com
 ::1 gartentherapeuten-nord.de
 ::1 www.gartentherapeuten-nord.de
-::1 gartentischede.com
-::1 www.gartentischede.com
 ::1 gartentrend.shop
 ::1 www.gartentrend.shop
 ::1 gartenundanhaenger.de
 ::1 www.gartenundanhaenger.de
-::1 gartenundoutdoor-de.com
-::1 www.gartenundoutdoor-de.com
 ::1 gartenvision2.de
 ::1 www.gartenvision2.de
 ::1 gartenzepter.de
@@ -291548,8 +291498,6 @@
 ::1 www.gawmuecolanniy.gq
 ::1 gawoqf.bar
 ::1 www.gawoqf.bar
-::1 gawude.shop
-::1 www.gawude.shop
 ::1 gawx8f.tokyo
 ::1 www.gawx8f.tokyo
 ::1 gaxdgp.tokyo
@@ -291832,8 +291780,6 @@
 ::1 www.gbg23rw.cn
 ::1 gbgpbz.cyou
 ::1 www.gbgpbz.cyou
-::1 gbgroup.ee
-::1 www.gbgroup.ee
 ::1 gbgyou.bar
 ::1 www.gbgyou.bar
 ::1 gbhh6n.tokyo
@@ -292852,8 +292798,6 @@
 ::1 www.gebsut.rest
 ::1 gebufft.de
 ::1 www.gebufft.de
-::1 gebuhr-tech.de
-::1 www.gebuhr-tech.de
 ::1 gebuliri.tk
 ::1 www.gebuliri.tk
 ::1 geburtstagswuensche-24.eu
@@ -307862,8 +307806,6 @@
 ::1 www.granderioam.com
 ::1 grandersofttrinador.tk
 ::1 www.grandersofttrinador.tk
-::1 grandeurlogistic.forwarder-ltd.com
-::1 www.grandeurlogistic.forwarder-ltd.com
 ::1 grandfa65antinom.racing
 ::1 www.grandfa65antinom.racing
 ::1 grandfor.my.id
@@ -377150,6 +377092,8 @@
 ::1 www.jojb4.cyou
 ::1 jojobet-online-2026.com
 ::1 www.jojobet-online-2026.com
+::1 jojodiscount56.com
+::1 www.jojodiscount56.com
 ::1 jojodots.dk
 ::1 www.jojodots.dk
 ::1 jojofish.com
@@ -609992,6 +609936,8 @@
 ::1 www.salomonosterreich.at
 ::1 salomonoutletgermany.de
 ::1 www.salomonoutletgermany.de
+::1 salomonoutletireland.com
+::1 www.salomonoutletireland.com
 ::1 salomonoutletstoresusa.com
 ::1 www.salomonoutletstoresusa.com
 ::1 salomonparis.fr
@@ -659014,8 +658960,6 @@
 ::1 www.support-client-generale.fr
 ::1 support-client-netflix.fr
 ::1 www.support-client-netflix.fr
-::1 support-client.fr
-::1 www.support-client.fr
 ::1 support-clientchrono.fr
 ::1 www.support-clientchrono.fr
 ::1 support-clientel-amli.fr
@@ -698998,8 +698942,6 @@
 ::1 www.trading-kapital.com
 ::1 trading.corso-web.com
 ::1 www.trading.corso-web.com
-::1 trading.galacapital.net
-::1 www.trading.galacapital.net
 ::1 trading.premiumyields.com
 ::1 www.trading.premiumyields.com
 ::1 tradingbotpro.com
@@ -744624,8 +744566,6 @@
 ::1 www.vip-xxxx-top.xyz
 ::1 vip.af
 ::1 www.vip.af
-::1 vip.frontiermarket.icu
-::1 www.vip.frontiermarket.icu
 ::1 vip.marketadvisor.icu
 ::1 www.vip.marketadvisor.icu
 ::1 vip.ru.com
@@ -769104,8 +769044,6 @@
 ::1 www.woofgear.de
 ::1 wooflyx.com
 ::1 www.wooflyx.com
-::1 woofz.academy
-::1 www.woofz.academy
 ::1 woogitopeck.online
 ::1 www.woogitopeck.online
 ::1 woogpz.tokyo
