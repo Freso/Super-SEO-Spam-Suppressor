@@ -89586,6 +89586,8 @@
 ::1 www.arcticalimited.com
 ::1 arcticbets.fr
 ::1 www.arcticbets.fr
+::1 arcticbreeze.fr
+::1 www.arcticbreeze.fr
 ::1 arcticclairvoyant.com
 ::1 www.arcticclairvoyant.com
 ::1 arcticsooner.com
@@ -92076,6 +92078,8 @@
 ::1 www.aruaterg.xyz
 ::1 aruba-bet-casino.fr
 ::1 www.aruba-bet-casino.fr
+::1 aruba-bet-casinoofficiel.fr
+::1 www.aruba-bet-casinoofficiel.fr
 ::1 aruba-bet-en-ligne.fr
 ::1 www.aruba-bet-en-ligne.fr
 ::1 aruba-bet-france.fr
@@ -110354,6 +110358,8 @@
 ::1 www.beetlechairmanran.com
 ::1 beetty.xyz
 ::1 www.beetty.xyz
+::1 beetzino-play.fr
+::1 www.beetzino-play.fr
 ::1 beevitofisumple.tk
 ::1 www.beevitofisumple.tk
 ::1 beevpp.xyz
@@ -115168,6 +115174,8 @@
 ::1 www.betifyofficial.fr
 ::1 betifyonline.fr
 ::1 www.betifyonline.fr
+::1 betifyparis.fr
+::1 www.betifyparis.fr
 ::1 betifyreview.fr
 ::1 www.betifyreview.fr
 ::1 betifys-french.fr
@@ -124546,6 +124554,12 @@
 ::1 www.bloodwite.site
 ::1 bloodworknacdenan.cf
 ::1 www.bloodworknacdenan.cf
+::1 bloody-win.fr
+::1 www.bloody-win.fr
+::1 bloodywin-fr.fr
+::1 www.bloodywin-fr.fr
+::1 bloodywin.fr
+::1 www.bloodywin.fr
 ::1 bloolistabbusoran.tk
 ::1 www.bloolistabbusoran.tk
 ::1 bloom-pharma-eg.com
@@ -182622,6 +182636,8 @@
 ::1 www.copenhagen-schuhe.com
 ::1 copenhagenschuhesale.de
 ::1 www.copenhagenschuhesale.de
+::1 coperative-u.fr
+::1 www.coperative-u.fr
 ::1 coperbemasu.ml
 ::1 www.coperbemasu.ml
 ::1 copersrumingmul.cf
@@ -289694,6 +289710,10 @@
 ::1 www.gameslearningsociety.org
 ::1 gamesloft.com
 ::1 www.gamesloft.com
+::1 gamesloot.fr
+::1 www.gamesloot.fr
+::1 gamesloots.fr
+::1 www.gamesloots.fr
 ::1 gamesmania.shop
 ::1 www.gamesmania.shop
 ::1 gamesoccer.site
@@ -304086,6 +304106,8 @@
 ::1 www.goldengooseboutique.fr
 ::1 goldengoosechaussures.fr
 ::1 www.goldengoosechaussures.fr
+::1 goldengoosefactory.fr
+::1 www.goldengoosefactory.fr
 ::1 goldengooseofficiel.fr
 ::1 www.goldengooseofficiel.fr
 ::1 goldengooseofflciel.fr
@@ -311742,6 +311764,8 @@
 ::1 www.gtbet-francais.fr
 ::1 gtbetcasino.fr
 ::1 www.gtbetcasino.fr
+::1 gtbetfrance.fr
+::1 www.gtbetfrance.fr
 ::1 gtbets-fr.fr
 ::1 www.gtbets-fr.fr
 ::1 gtbets-france.fr
@@ -364836,6 +364860,8 @@
 ::1 www.iswmgtf.bar
 ::1 iswrapythlinfu.cf
 ::1 www.iswrapythlinfu.cf
+::1 isws-interieurgouv.fr
+::1 www.isws-interieurgouv.fr
 ::1 iswt81.cyou
 ::1 www.iswt81.cyou
 ::1 isxmpd.rest
@@ -390174,6 +390200,8 @@
 ::1 www.kiefangsespgreg.web.app
 ::1 kiegrafenil.cf
 ::1 www.kiegrafenil.cf
+::1 kiehls-france.fr
+::1 www.kiehls-france.fr
 ::1 kiehlsfrance.fr
 ::1 www.kiehlsfrance.fr
 ::1 kiehocanta.tk
@@ -417642,6 +417670,8 @@
 ::1 www.likesbet-france.fr
 ::1 likesbetcasino.fr
 ::1 www.likesbetcasino.fr
+::1 likesbetfr.fr
+::1 www.likesbetfr.fr
 ::1 likesbetfrance.fr
 ::1 www.likesbetfrance.fr
 ::1 likesbets-fr.fr
@@ -487514,6 +487544,8 @@
 ::1 www.ninecas-ino.fr
 ::1 ninecas1no-play.fr
 ::1 www.ninecas1no-play.fr
+::1 ninecas1no-win.fr
+::1 www.ninecas1no-win.fr
 ::1 ninecasin0.fr
 ::1 www.ninecasin0.fr
 ::1 ninecasinno.fr
@@ -542176,6 +542208,8 @@
 ::1 www.pointpe.my.id
 ::1 pointpeoplesright.buzz
 ::1 www.pointpeoplesright.buzz
+::1 pointpermi.fr
+::1 www.pointpermi.fr
 ::1 pointplaceimproves.buzz
 ::1 www.pointplaceimproves.buzz
 ::1 pointpointpoorboys.biz
@@ -542738,6 +542772,8 @@
 ::1 www.polene-france.fr
 ::1 polene-osterreich.com
 ::1 www.polene-osterreich.com
+::1 polene-outlet.fr
+::1 www.polene-outlet.fr
 ::1 polene-outletparis.fr
 ::1 www.polene-outletparis.fr
 ::1 polene-paris-outlet.fr
@@ -550734,6 +550770,8 @@
 ::1 www.primeavantages.fr
 ::1 primebetcasino.fr
 ::1 www.primebetcasino.fr
+::1 primebot.fr
+::1 www.primebot.fr
 ::1 primebuy-officiel.fr
 ::1 www.primebuy-officiel.fr
 ::1 primebuy.fr
@@ -572358,6 +572396,8 @@
 ::1 www.qzztji.bar
 ::1 qzzujba.tokyo
 ::1 www.qzzujba.tokyo
+::1 r-casino.fr
+::1 www.r-casino.fr
 ::1 r-chronopost.fr
 ::1 www.r-chronopost.fr
 ::1 r-handels.de
@@ -596158,6 +596198,10 @@
 ::1 www.rivistaonlinedavanguardia.com
 ::1 rivisulmaverg.gq
 ::1 www.rivisulmaverg.gq
+::1 rivo1.fr
+::1 www.rivo1.fr
+::1 rivocas1no.fr
+::1 www.rivocas1no.fr
 ::1 rivocasino.fr
 ::1 www.rivocasino.fr
 ::1 rivonalto.cf
@@ -597956,6 +598000,8 @@
 ::1 www.robobot.ee
 ::1 robocat-france.fr
 ::1 www.robocat-france.fr
+::1 robocatcas1no.fr
+::1 www.robocatcas1no.fr
 ::1 robocatcasino777.fr
 ::1 www.robocatcasino777.fr
 ::1 robocatcasinoapp.fr
@@ -603560,6 +603606,8 @@
 ::1 www.ruckrattbedfdirccomtoi.tk
 ::1 ruckryfon.gq
 ::1 www.ruckryfon.gq
+::1 rucksackfr.fr
+::1 www.rucksackfr.fr
 ::1 rucksforbusuworle.cf
 ::1 www.rucksforbusuworle.cf
 ::1 ruckspychsurliasmar.tk
@@ -622184,6 +622232,8 @@
 ::1 www.service-client-suivis.fr
 ::1 service-client-verification.fr
 ::1 www.service-client-verification.fr
+::1 service-clients-amen.fr
+::1 www.service-clients-amen.fr
 ::1 service-clients-bnp-paribas.fr
 ::1 www.service-clients-bnp-paribas.fr
 ::1 service-clients-bnpparibas.fr
@@ -626292,6 +626342,8 @@
 ::1 www.sharkca.com
 ::1 sharkercasino.fr
 ::1 www.sharkercasino.fr
+::1 sharkfrance.fr
+::1 www.sharkfrance.fr
 ::1 sharkgame.club
 ::1 www.sharkgame.club
 ::1 sharkmotorrad.com
@@ -648436,6 +648488,8 @@
 ::1 www.stake-bet.fr
 ::1 stake-betofficiel.fr
 ::1 www.stake-betofficiel.fr
+::1 stake-casino-france.fr
+::1 www.stake-casino-france.fr
 ::1 stake-casino.paris
 ::1 www.stake-casino.paris
 ::1 stake-casino1.fr
@@ -715698,6 +715752,8 @@
 ::1 www.ulunstonboadisma.tk
 ::1 ulurqb.tokyo
 ::1 www.ulurqb.tokyo
+::1 uluspin.fr
+::1 www.uluspin.fr
 ::1 ulutibm.tokyo
 ::1 www.ulutibm.tokyo
 ::1 uluuf.rest
@@ -763504,6 +763560,8 @@
 ::1 www.wilddice-casino.fr
 ::1 wilddice-casinos.fr
 ::1 www.wilddice-casinos.fr
+::1 wilddicecas1no.fr
+::1 www.wilddicecas1no.fr
 ::1 wilddicecasino24.fr
 ::1 www.wilddicecasino24.fr
 ::1 wilddicecasinoo.fr
@@ -765872,6 +765930,8 @@
 ::1 www.winsave8imff2ja.biz
 ::1 winsavelgk9uv2p.biz
 ::1 www.winsavelgk9uv2p.biz
+::1 winsbeast.fr
+::1 www.winsbeast.fr
 ::1 winsbizpafeco.tk
 ::1 www.winsbizpafeco.tk
 ::1 winsbrazperslewa.tk
