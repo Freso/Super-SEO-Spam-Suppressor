@@ -132010,6 +132010,8 @@
 ::1 www.brewpublik.com
 ::1 brewrefidylo.tk
 ::1 www.brewrefidylo.tk
+::1 brewresourceful.com
+::1 www.brewresourceful.com
 ::1 brewsh.bar
 ::1 www.brewsh.bar
 ::1 brewsterq9m1.web.app
