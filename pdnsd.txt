@@ -15750,6 +15750,7 @@ neg {name=4zyni7.cyou; types=domain;}
 neg {name=4zz3vk.agency; types=domain;}
 neg {name=4zz5rc.tokyo; types=domain;}
 neg {name=5-club.ru; types=domain;}
+neg {name=5-ee-mo.re; types=domain;}
 neg {name=5-gringo.fr; types=domain;}
 neg {name=5-gringos-casino.fr; types=domain;}
 neg {name=5-gringos.fr; types=domain;}
@@ -32712,6 +32713,7 @@ neg {name=activer-mon-abonnement.fr; types=domain;}
 neg {name=activer-mon-compte-cpf.fr; types=domain;}
 neg {name=activer-prime.fr; types=domain;}
 neg {name=activer-recharges.fr; types=domain;}
+neg {name=activerecharge.fr; types=domain;}
 neg {name=activespparticul.fr; types=domain;}
 neg {name=activestdiof22lcssf.biz; types=domain;}
 neg {name=activestdiozw1ck2fe.biz; types=domain;}
@@ -35888,6 +35890,7 @@ neg {name=aides-netflix.fr; types=domain;}
 neg {name=aides-renouvellement.fr; types=domain;}
 neg {name=aides-vitale.fr; types=domain;}
 neg {name=aidesante-ameli.fr; types=domain;}
+neg {name=aidesecourspopulaire.fr; types=domain;}
 neg {name=aidesuivi-laposte.fr; types=domain;}
 neg {name=aidevitale.fr; types=domain;}
 neg {name=aido-gooders.com; types=domain;}
@@ -65866,6 +65869,7 @@ neg {name=brewlelohy.tk; types=domain;}
 neg {name=brewloyresdiepart.ga; types=domain;}
 neg {name=brewmacos.com; types=domain;}
 neg {name=brewmondtortrimangmo.cf; types=domain;}
+neg {name=brewmybeer.online; types=domain;}
 neg {name=brewpublik.com; types=domain;}
 neg {name=brewrefidylo.tk; types=domain;}
 neg {name=brewsh.bar; types=domain;}
@@ -151767,6 +151771,7 @@ neg {name=goldenbets.fr; types=domain;}
 neg {name=goldenbetscasino.fr; types=domain;}
 neg {name=goldenbett.fr; types=domain;}
 neg {name=goldencasino.fr; types=domain;}
+neg {name=goldenchance.fr; types=domain;}
 neg {name=goldencoastcasino.fr; types=domain;}
 neg {name=goldencrown-casino.fr; types=domain;}
 neg {name=goldencrowncasino.fr; types=domain;}
@@ -257783,6 +257788,7 @@ neg {name=owalafrancefr.fr; types=domain;}
 neg {name=owalafranceoutlet.fr; types=domain;}
 neg {name=owalafranceshop.fr; types=domain;}
 neg {name=owalaifrance.fr; types=domain;}
+neg {name=owalalife-fr.fr; types=domain;}
 neg {name=owalaofficialstore.com; types=domain;}
 neg {name=owalas-france.fr; types=domain;}
 neg {name=owalasale.de; types=domain;}
@@ -321647,6 +321653,7 @@ neg {name=spinational1.fr; types=domain;}
 neg {name=spinatludcentbi.ml; types=domain;}
 neg {name=spinatneostamin.tk; types=domain;}
 neg {name=spinaura-avis.fr; types=domain;}
+neg {name=spinaura-casi.fr; types=domain;}
 neg {name=spinaura-casino.fr; types=domain;}
 neg {name=spinaura-en-ligne.fr; types=domain;}
 neg {name=spinaura-officiel.fr; types=domain;}
@@ -321663,6 +321670,7 @@ neg {name=spinavatalforpa.tk; types=domain;}
 neg {name=spinay.fr; types=domain;}
 neg {name=spinbara-1.fr; types=domain;}
 neg {name=spinbara-bet.fr; types=domain;}
+neg {name=spinbara-casi.fr; types=domain;}
 neg {name=spinbara-casino-fr.fr; types=domain;}
 neg {name=spinbara-en-ligne.fr; types=domain;}
 neg {name=spinbara-enligne.fr; types=domain;}
@@ -402461,6 +402469,7 @@ neg {name=zanevipshop.com; types=domain;}
 neg {name=zangasupsitare.tk; types=domain;}
 neg {name=zangezur.ee; types=domain;}
 neg {name=zangmysqmelighga.tk; types=domain;}
+neg {name=zangouv.fr; types=domain;}
 neg {name=zangtengkisurco.ml; types=domain;}
 neg {name=zangudertokowswi.cf; types=domain;}
 neg {name=zanhxx.tokyo; types=domain;}
