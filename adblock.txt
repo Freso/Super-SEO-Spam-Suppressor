@@ -33481,6 +33481,7 @@
 ||adinter.ga^$document
 ||adinunodoror.ml^$document
 ||adinymdertaros.tk^$document
+||adipascher.fr^$document
 ||adiradu.ro^$document
 ||adirinbomtitest.tk^$document
 ||adisatin.ga^$document
@@ -45362,6 +45363,7 @@
 ||arlequincasino-fr.fr^$document
 ||arlequincasino1.fr^$document
 ||arlequincasinofr.fr^$document
+||arlequincasinofrance.fr^$document
 ||arlequincasinos.fr^$document
 ||arlequininvest.io^$document
 ||arlesmibersi.gq^$document
@@ -50711,6 +50713,8 @@
 ||azurcasinofrance.fr^$document
 ||azurcasinomoncompte.fr^$document
 ||azurcasinoo.fr^$document
+||azurcasinoofficiel.fr^$document
+||azurcasinoonline.fr^$document
 ||azure-casino.fr^$document
 ||azurecasino-fr.fr^$document
 ||azuredevt.com^$document
@@ -52883,8 +52887,10 @@
 ||bankonbetcasinobonus.fr^$document
 ||bankonbetcasinologin.fr^$document
 ||bankonbetcasinopromocode.fr^$document
+||bankonbetcasinos.fr^$document
 ||bankonbetcasinosports.fr^$document
 ||bankonbetfr.fr^$document
+||bankonbetfrance.fr^$document
 ||bankonbets.fr^$document
 ||bankorange.fr^$document
 ||bankpatirisne.ga^$document
@@ -53112,6 +53118,7 @@
 ||banzaibonus.fr^$document
 ||banzaicasino-fr.fr^$document
 ||banzaicasino365.fr^$document
+||banzaicasinos.fr^$document
 ||banzaifr.fr^$document
 ||banzaigames.fr^$document
 ||banzaiicasino.fr^$document
@@ -57640,6 +57647,8 @@
 ||betlive-official.fr^$document
 ||betlivecasino.fr^$document
 ||betlivecasinofr.fr^$document
+||betlivecasinos.fr^$document
+||betlivefrance.fr^$document
 ||betlix-casino.fr^$document
 ||betlixcasino.fr^$document
 ||betlokedebsi.ml^$document
@@ -57783,6 +57792,7 @@
 ||betrugs-check.de^$document
 ||betrugsexperten.de^$document
 ||betrugsrecht.de^$document
+||betrust.fr^$document
 ||bets-io-casino.fr^$document
 ||bets-io.fr^$document
 ||bets-iocasino.fr^$document
@@ -59383,6 +59393,7 @@
 ||billeddiagnostiskselskab.dk^$document
 ||billentdiffnah.ga^$document
 ||billet-aya-nakamura.fr^$document
+||billet-fff.fr^$document
 ||billet-inoui.fr^$document
 ||billet-stadefrance.fr^$document
 ||billetaccess.fr^$document
@@ -73825,7 +73836,9 @@
 ||cashedcasinobonuscode.fr^$document
 ||cashedcasinofr.fr^$document
 ||cashedcasinofrance.fr^$document
+||cashedcasinojouer.fr^$document
 ||cashedcasinologin.fr^$document
+||cashedcasinoonline.fr^$document
 ||cashedcasinos.fr^$document
 ||cashedd.fr^$document
 ||cashedenligne.fr^$document
@@ -73938,6 +73951,7 @@
 ||casino-betriot.fr^$document
 ||casino-betriviera.fr^$document
 ||casino-betsio.fr^$document
+||casino-betting-news.fr^$document
 ||casino-betzino.fr^$document
 ||casino-bonus-win.online^$document
 ||casino-cafeteria.fr^$document
@@ -74009,6 +74023,7 @@
 ||casino-joka-france.fr^$document
 ||casino-kinbet-online.de^$document
 ||casino-king-chance.fr^$document
+||casino-kingdom.fr^$document
 ||casino-lab-fr.fr^$document
 ||casino-labofficiel.fr^$document
 ||casino-legiano-fr.fr^$document
@@ -74035,6 +74050,7 @@
 ||casino-millionz.fr^$document
 ||casino-mona.fr^$document
 ||casino-morospin.fr^$document
+||casino-mrvegas.fr^$document
 ||casino-myempire.fr^$document
 ||casino-mystake-fr.fr^$document
 ||casino-mystake.fr^$document
@@ -74469,6 +74485,7 @@
 ||casinos770.fr^$document
 ||casinosamazing.fr^$document
 ||casinosambaslots.fr^$document
+||casinosankra.fr^$document
 ||casinosavaspin.fr^$document
 ||casinosbesttop.fr^$document
 ||casinosbetify.fr^$document
@@ -76816,6 +76833,7 @@
 ||centre-hospitalier-32.fr^$document
 ||centre-hospitalier-ruffec.fr^$document
 ||centre-hospitalier-saint-louis.fr^$document
+||centre-hospitalier-semur.fr^$document
 ||centre-livraison-chronopost.fr^$document
 ||centre-livraison.fr^$document
 ||centre-livraisonchronopost.fr^$document
@@ -104623,6 +104641,7 @@
 ||dfymis.tokyo^$document
 ||dfyne-fr.fr^$document
 ||dfyne-france.fr^$document
+||dfynefrancefr.fr^$document
 ||dfyxkt.tokyo^$document
 ||dfyxro.work^$document
 ||dfzftgo.tk^$document
@@ -139417,6 +139436,7 @@
 ||fr-betzino.fr^$document
 ||fr-bigclashcasino.fr^$document
 ||fr-bilendi.fr^$document
+||fr-billionairesp1n.fr^$document
 ||fr-billionerspin.fr^$document
 ||fr-biogaran.fr^$document
 ||fr-birkenstock.fr^$document
@@ -144847,6 +144867,7 @@
 ||gamdom-fr.fr^$document
 ||gamdomcasino-fr.fr^$document
 ||gamdomcasino.fr^$document
+||gamdomcasinofrance.fr^$document
 ||gamduell.fr^$document
 ||game-bgm.com^$document
 ||game-pool.xyz^$document
@@ -152188,6 +152209,7 @@
 ||goldenvegascasinode777.fr^$document
 ||goldenvegascasinologin.fr^$document
 ||goldenvegascasinopromocode.fr^$document
+||goldenvegasfrance.fr^$document
 ||goldenwatches.fr^$document
 ||goldestressynchfahsa.tk^$document
 ||goldex-casino.fr^$document
@@ -153994,6 +154016,7 @@
 ||grandzbet-casino.fr^$document
 ||grandzbet-fr.fr^$document
 ||grandzbet-online.fr^$document
+||grandzbetfrance.fr^$document
 ||grandzbets.fr^$document
 ||grandzcasino777.fr^$document
 ||grandzcasinoapp.fr^$document
@@ -205722,6 +205745,7 @@
 ||leoncasino-online.fr^$document
 ||leoncasino7.fr^$document
 ||leoncasinoenligne.fr^$document
+||leoncasinofrance.fr^$document
 ||leoncasinoleon.fr^$document
 ||leoncasinoo-fr.fr^$document
 ||leoncasinoot.fr^$document
@@ -217958,6 +217982,7 @@
 ||madnix-officiel.fr^$document
 ||madnixcasino7.fr^$document
 ||madnixcasinofrance.fr^$document
+||madnixcasinoonline.fr^$document
 ||madnixcasinos.fr^$document
 ||madnixenligne.fr^$document
 ||madonalds.fr^$document
@@ -218286,9 +218311,11 @@
 ||magicalspin-online.fr^$document
 ||magicalspin24.fr^$document
 ||magicalspincasino1.fr^$document
+||magicalspincasinos.fr^$document
 ||magicalspinfr.fr^$document
 ||magicalspinfrance.fr^$document
 ||magicalspinn.fr^$document
+||magicalspinonline.fr^$document
 ||magicautoshine2.833-website.com^$document
 ||magicbackery.de^$document
 ||magicbet-fr.fr^$document
@@ -219221,6 +219248,8 @@
 ||malinacasinofrance.fr^$document
 ||malinacasinologin.fr^$document
 ||malinacasinoo.fr^$document
+||malinacasinoofficiel.fr^$document
+||malinacasinoonline.fr^$document
 ||malincardfermons.tk^$document
 ||malinvinoxcirl.tk^$document
 ||malipalose.ml^$document
@@ -233187,6 +233216,7 @@
 ||mt0lc3.cyou^$document
 ||mt0owbu.cyou^$document
 ||mt0vw7.cyou^$document
+||mt103-creditmutuel.fr^$document
 ||mt2010.es^$document
 ||mt32er.cyou^$document
 ||mt37ub.cyou^$document
@@ -235664,6 +235694,7 @@
 ||mystakecasino7.fr^$document
 ||mystakecasinoenligne.fr^$document
 ||mystakecasinofr.fr^$document
+||mystakecasinofrance.fr^$document
 ||mystakecasinoo.fr^$document
 ||mystakecasinoo1.fr^$document
 ||mystakecasinos1.fr^$document
@@ -256416,6 +256447,7 @@
 ||oscarspincasino.fr^$document
 ||oscarspincasinos.fr^$document
 ||oscarspinfr.fr^$document
+||oscarspinn.fr^$document
 ||oscarspins.fr^$document
 ||oscarvaldesre.com^$document
 ||oscgmbhde.xyz^$document
@@ -287059,7 +287091,9 @@
 ||rabonacasinobet.fr^$document
 ||rabonacasinobonus.fr^$document
 ||rabonacasinologin.fr^$document
+||rabonacasinoonline.fr^$document
 ||rabonacasinopromocode.fr^$document
+||rabonacasinos.fr^$document
 ||rabonaenligne.fr^$document
 ||rabonafr.fr^$document
 ||rabonafrance.fr^$document
@@ -300007,8 +300041,10 @@
 ||roobetcasinobet.fr^$document
 ||roobetcasinobonus.fr^$document
 ||roobetcasinofr.fr^$document
+||roobetcasinofrance.fr^$document
 ||roobetcasinologin.fr^$document
 ||roobetcasinoo.fr^$document
+||roobetcasinoofficiel.fr^$document
 ||roobetcasinoonline.fr^$document
 ||roobetcasinopromo.fr^$document
 ||roobetcasinosfr.fr^$document
@@ -302082,6 +302118,8 @@
 ||run5dd.cyou^$document
 ||runacasino-fr.fr^$document
 ||runacasino-france.fr^$document
+||runacasino7.fr^$document
+||runacasino777.fr^$document
 ||runacasinoenligne.fr^$document
 ||runacasinofr.fr^$document
 ||runacasinoligne.fr^$document
@@ -311229,6 +311267,7 @@
 ||service-login-myapp.fr^$document
 ||service-mabanque-bnpparibas.fr^$document
 ||service-mabanquebnpparibas.fr^$document
+||service-macif.fr^$document
 ||service-maladies.fr^$document
 ||service-mesamendes-antai.fr^$document
 ||service-messagerie-leboncoin.fr^$document
@@ -315034,8 +315073,10 @@
 ||simsinoscasinoapp.fr^$document
 ||simsinoscasinobet.fr^$document
 ||simsinoscasinobonus.fr^$document
+||simsinoscasinofrance.fr^$document
 ||simsinoscasinologin.fr^$document
 ||simsinosfrance.fr^$document
+||simsinosonline.fr^$document
 ||simsresource.ru^$document
 ||simsterest.xyz^$document
 ||simsusstetovab.ga^$document
@@ -322520,6 +322561,7 @@
 ||spinnakerdev.fr^$document
 ||spinnania.fr^$document
 ||spinnboss.fr^$document
+||spinnhacker.fr^$document
 ||spinniversmorrdogac.tk^$document
 ||spinnodenrete.gq^$document
 ||spinny-casino.fr^$document
@@ -322631,11 +322673,13 @@
 ||spinsycasinologin.fr^$document
 ||spinsycasinomobile.fr^$document
 ||spinsycasinoo.fr^$document
+||spinsycasinoofficiel.fr^$document
 ||spinsycasinoonline.fr^$document
 ||spinsycasinopromocode.fr^$document
 ||spinsycasinos.fr^$document
 ||spinsycasinoz.fr^$document
 ||spinsylogin.fr^$document
+||spinsyofficiel.fr^$document
 ||spinsys-fr.fr^$document
 ||spinsyy.fr^$document
 ||spintabikes.fr^$document
@@ -323030,6 +323074,8 @@
 ||sportaza-fr.fr^$document
 ||sportaza-online.de^$document
 ||sportazacasinofr.fr^$document
+||sportazacasinofrance.fr^$document
+||sportazacasinos.fr^$document
 ||sportbagsshop.com^$document
 ||sportbible.com^$document
 ||sportbigsplacenumber.rest^$document
@@ -333796,6 +333842,7 @@
 ||tak-klima.eu^$document
 ||takarajansonv2decor.web.app^$document
 ||takasenconssafa.ga^$document
+||takashimarecordbar.com^$document
 ||takball.com^$document
 ||takbierosimeat.tk^$document
 ||take-best-prizes.life^$document
@@ -348310,6 +348357,7 @@
 ||tortuga-play.fr^$document
 ||tortuga-slot.fr^$document
 ||tortuga-vip.fr^$document
+||tortuga.re^$document
 ||tortugaa.fr^$document
 ||tortugacasino-france.fr^$document
 ||tortugacasino-online.fr^$document
@@ -354341,6 +354389,9 @@
 ||twincasino-official.fr^$document
 ||twincasino-officiel.fr^$document
 ||twincasinofrance.fr^$document
+||twincasinoofficiel.fr^$document
+||twincasinoonline.fr^$document
+||twincasinos-fr.fr^$document
 ||twincasinos.fr^$document
 ||twincetboysferalen.ga^$document
 ||twincirtickkins.gq^$document
@@ -366002,6 +366053,8 @@
 ||vegasinofrance.fr^$document
 ||vegasinologin.fr^$document
 ||vegasinoo.fr^$document
+||vegasinoofficial.fr^$document
+||vegasinoofficiel.fr^$document
 ||vegasinoonline.fr^$document
 ||vegasinos-fr.fr^$document
 ||vegasinosfr.fr^$document
@@ -366496,6 +366549,7 @@
 ||venticlub.de^$document
 ||ventilateur-shop.fr^$document
 ||ventilatoroase.myshopify.com^$document
+||ventilstore.fr^$document
 ||ventiorockgreenba.ml^$document
 ||ventisisovo.ml^$document
 ||ventivilgeivome.tk^$document
@@ -368918,6 +368972,8 @@
 ||viggoslotscasinofrance.fr^$document
 ||viggoslotscasinoo.fr^$document
 ||viggoslotscasinos.fr^$document
+||viggoslotsfrance.fr^$document
+||viggoslotsonline.fr^$document
 ||vighrt.tokyo^$document
 ||vigieaugouv.fr^$document
 ||vigiecrue.fr^$document
@@ -381794,12 +381850,14 @@
 ||wild-hub.fr^$document
 ||wild-robin-fr.fr^$document
 ||wild-robin-france.fr^$document
+||wild-robin-official.fr^$document
 ||wild-robinofficiel.fr^$document
 ||wild-sino.fr^$document
 ||wild-sultan-casino.fr^$document
 ||wild-sultan-fr.fr^$document
 ||wild-sultan1.fr^$document
 ||wild-sultanfr.fr^$document
+||wild-sultanfr1.fr^$document
 ||wild-west-whippets.dk^$document
 ||wildabimena.ga^$document
 ||wildalobkovi.ml^$document
@@ -381923,7 +381981,9 @@
 ||wildsultan-casino-france.fr^$document
 ||wildsultan-online.fr^$document
 ||wildsultancasino-france.fr^$document
+||wildsultancasinofrance.fr^$document
 ||wildsultanfr.fr^$document
+||wildsultanonline.fr^$document
 ||wildtepdepoted.ml^$document
 ||wildthesidefunc.tk^$document
 ||wildthings.xyz^$document
@@ -388429,7 +388489,9 @@
 ||x7bghoh.cyou^$document
 ||x7casino1.fr^$document
 ||x7casinofr.fr^$document
+||x7casinofrance.fr^$document
 ||x7casinoonline.fr^$document
+||x7casinos.fr^$document
 ||x7casinox7.fr^$document
 ||x7ckaqq.tokyo^$document
 ||x7dktx.cyou^$document
