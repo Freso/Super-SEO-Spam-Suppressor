@@ -65204,6 +65204,8 @@
 ::1 www.actionalist.buzz
 ::1 actionautoauction.buzz
 ::1 www.actionautoauction.buzz
+::1 actioncamerafr.fr
+::1 www.actioncamerafr.fr
 ::1 actioncamfilms.buzz
 ::1 www.actioncamfilms.buzz
 ::1 actionenlivraison.fr
@@ -74916,6 +74918,8 @@
 ::1 www.alglyciminschal.gq
 ::1 algmrgti.cyou
 ::1 www.algmrgti.cyou
+::1 algo-robot.co
+::1 www.algo-robot.co
 ::1 algojanspeslay.gq
 ::1 www.algojanspeslay.gq
 ::1 algone.fr
@@ -79844,6 +79848,8 @@
 ::1 www.amell-france.fr
 ::1 amell.fr
 ::1 www.amell.fr
+::1 amelli-renouvellement.fr
+::1 www.amelli-renouvellement.fr
 ::1 amellie-antai.fr
 ::1 www.amellie-antai.fr
 ::1 amellie.fr
@@ -109390,6 +109396,8 @@
 ::1 www.beachtennislugano.ch
 ::1 beachtioconta.tk
 ::1 www.beachtioconta.tk
+::1 beachwalkbali.com
+::1 www.beachwalkbali.com
 ::1 beaconzero.net
 ::1 www.beaconzero.net
 ::1 beacuc.shop
@@ -120998,8 +121006,6 @@
 ::1 www.bitcoin-revolution.org
 ::1 bitcoin-shop.ro
 ::1 www.bitcoin-shop.ro
-::1 bitcoin-up.io
-::1 www.bitcoin-up.io
 ::1 bitcoin-xact.fr
 ::1 www.bitcoin-xact.fr
 ::1 bitcoinarchon.com
@@ -147938,6 +147944,8 @@
 ::1 www.casino-gambloria.fr
 ::1 casino-game770.fr
 ::1 www.casino-game770.fr
+::1 casino-goldbet.fr
+::1 www.casino-goldbet.fr
 ::1 casino-golden-panda.fr
 ::1 www.casino-golden-panda.fr
 ::1 casino-golden.fr
@@ -148106,6 +148114,8 @@
 ::1 www.casino-slotlair.fr
 ::1 casino-slotrush.fr
 ::1 www.casino-slotrush.fr
+::1 casino-smash.fr
+::1 www.casino-smash.fr
 ::1 casino-so.fr
 ::1 www.casino-so.fr
 ::1 casino-social.fr
@@ -178472,6 +178482,8 @@
 ::1 www.confirmation-devotre-rendez-vous-securise-leboncoin.fr
 ::1 confirmation-du-rendez-vous-securise-leboncoin.fr
 ::1 www.confirmation-du-rendez-vous-securise-leboncoin.fr
+::1 confirmation-du-rendez-vous-securise-via-leboncoin.fr
+::1 www.confirmation-du-rendez-vous-securise-via-leboncoin.fr
 ::1 confirmation-free.fr
 ::1 www.confirmation-free.fr
 ::1 confirmation-inc-paypal.fr
@@ -188144,6 +188156,8 @@
 ::1 www.cresusfrance.fr
 ::1 cresusfrcasino.fr
 ::1 www.cresusfrcasino.fr
+::1 cresusofficiall.fr
+::1 www.cresusofficiall.fr
 ::1 cresuss-casinos.fr
 ::1 www.cresuss-casinos.fr
 ::1 cresuss.fr
@@ -203856,6 +203870,8 @@
 ::1 www.deinewskiprena.ml
 ::1 deinhandwerkershop.de
 ::1 www.deinhandwerkershop.de
+::1 deini.com
+::1 www.deini.com
 ::1 deinliebesmensch.de
 ::1 www.deinliebesmensch.de
 ::1 deinlieblingstier.co
@@ -209230,6 +209246,8 @@
 ::1 www.dfyne-france.fr
 ::1 dfynefrancefr.fr
 ::1 www.dfynefrancefr.fr
+::1 dfynesfr.fr
+::1 www.dfynesfr.fr
 ::1 dfyxkt.tokyo
 ::1 www.dfyxkt.tokyo
 ::1 dfyxro.work
@@ -209404,6 +209422,8 @@
 ::1 www.dgfip-finances-gov.fr
 ::1 dgfip-finances-org.fr
 ::1 www.dgfip-finances-org.fr
+::1 dgfip-finances-publiques.fr
+::1 www.dgfip-finances-publiques.fr
 ::1 dgfip-finances.fr
 ::1 www.dgfip-finances.fr
 ::1 dgfip-financesgouv.fr
@@ -209612,6 +209632,8 @@
 ::1 www.dgrlznpz.xyz
 ::1 dgrsyn.bar
 ::1 www.dgrsyn.bar
+::1 dgse.re
+::1 www.dgse.re
 ::1 dgsero.tokyo
 ::1 www.dgsero.tokyo
 ::1 dgseshop.fr
@@ -227836,6 +227858,8 @@
 ::1 www.dventernipubta.ml
 ::1 dvenziopersconfifth.ml
 ::1 www.dvenziopersconfifth.ml
+::1 dvepare.com
+::1 www.dvepare.com
 ::1 dverdabbhombspysnacoo.tk
 ::1 www.dverdabbhombspysnacoo.tk
 ::1 dvere-zarubne.eu
@@ -235306,6 +235330,8 @@
 ::1 www.ee-m0.re
 ::1 ee-m0re.re
 ::1 www.ee-m0re.re
+::1 ee-mo.re
+::1 www.ee-mo.re
 ::1 ee-more.re
 ::1 www.ee-more.re
 ::1 ee00mf.cyou
@@ -266720,6 +266746,8 @@
 ::1 www.feutuaditgeidecgue.tk
 ::1 feutvert.fr
 ::1 www.feutvert.fr
+::1 feuvert-groupe.fr
+::1 www.feuvert-groupe.fr
 ::1 feuvert-sas.fr
 ::1 www.feuvert-sas.fr
 ::1 feuwfinanmullust.gq
@@ -304036,6 +304064,8 @@
 ::1 www.goldbet-online.fr
 ::1 goldbetcasino.fr
 ::1 www.goldbetcasino.fr
+::1 goldbetcasinofrance.fr
+::1 www.goldbetcasinofrance.fr
 ::1 goldbetonline.fr
 ::1 www.goldbetonline.fr
 ::1 goldbihegotiste.ml
@@ -328404,6 +328434,8 @@
 ::1 www.heivilehino.cf
 ::1 heiviosmilerne.gq
 ::1 www.heiviosmilerne.gq
+::1 heiz-fachmann.de
+::1 www.heiz-fachmann.de
 ::1 heiz-oel24.com
 ::1 www.heiz-oel24.com
 ::1 heiz-oil.de
@@ -384458,8 +384490,6 @@
 ::1 www.kamagra.guru
 ::1 kamagra.hr
 ::1 www.kamagra.hr
-::1 kamagra.io
-::1 www.kamagra.io
 ::1 kamagra.net
 ::1 www.kamagra.net
 ::1 kamagra.press
@@ -418216,8 +418246,6 @@
 ::1 www.lincpusfokarcomp.tk
 ::1 linctecandbamat.tk
 ::1 www.linctecandbamat.tk
-::1 lindagraham-mft.net
-::1 www.lindagraham-mft.net
 ::1 lindballkarwhesu.gq
 ::1 www.lindballkarwhesu.gq
 ::1 lindbauer.com
@@ -462312,8 +462340,6 @@
 ::1 www.montrepas-cher.fr
 ::1 montreremarli.ml
 ::1 www.montreremarli.ml
-::1 montrereplique.to
-::1 www.montrereplique.to
 ::1 montres-intelligentes.com
 ::1 www.montres-intelligentes.com
 ::1 montresfrance.fr
@@ -515104,8 +515130,6 @@
 ::1 www.outletnike.fr
 ::1 outletparis.fr
 ::1 www.outletparis.fr
-::1 outletpc.de
-::1 www.outletpc.de
 ::1 outletpickleball.com
 ::1 www.outletpickleball.com
 ::1 outletpietramosaiciepiastrelle.it
@@ -609878,6 +609902,8 @@
 ::1 www.salomonosterreich.at
 ::1 salomonoutletgermany.de
 ::1 www.salomonoutletgermany.de
+::1 salomonoutletireland.com
+::1 www.salomonoutletireland.com
 ::1 salomonoutletstoresusa.com
 ::1 www.salomonoutletstoresusa.com
 ::1 salomonparis.fr
@@ -634964,6 +634990,8 @@
 ::1 www.slotsangelscasino.fr
 ::1 slotscity.fr
 ::1 www.slotscity.fr
+::1 slotsdjj.fr
+::1 www.slotsdjj.fr
 ::1 slotseatercasino.fr
 ::1 www.slotseatercasino.fr
 ::1 slotsgemcasino.fr
@@ -635004,6 +635032,8 @@
 ::1 www.slotsroom.fr
 ::1 slotsrush.fr
 ::1 www.slotsrush.fr
+::1 slotstake.fr
+::1 www.slotstake.fr
 ::1 slotsvader-casino.fr
 ::1 www.slotsvader-casino.fr
 ::1 slotsvil-casino.fr
@@ -642292,8 +642322,6 @@
 ::1 www.sow6t2.cyou
 ::1 sowaoptive.asia
 ::1 www.sowaoptive.asia
-::1 sowaswillichauch.de
-::1 www.sowaswillichauch.de
 ::1 sowbrl.bar
 ::1 www.sowbrl.bar
 ::1 sowepirare.gq
@@ -646190,6 +646218,8 @@
 ::1 www.spotsarwindgeka.ga
 ::1 spotsiver.ml
 ::1 www.spotsiver.ml
+::1 spotsound.fr
+::1 www.spotsound.fr
 ::1 spottuxttooldescgreen.ml
 ::1 www.spottuxttooldescgreen.ml
 ::1 spottyzi.web.app
@@ -656780,6 +656810,8 @@
 ::1 www.suivi-crowdfunding.fr
 ::1 suivi-de-coli-track.fr
 ::1 www.suivi-de-coli-track.fr
+::1 suivi-de-comptes.fr
+::1 www.suivi-de-comptes.fr
 ::1 suivi-de-dossier-lbp.fr
 ::1 www.suivi-de-dossier-lbp.fr
 ::1 suivi-de-ma-commande.fr
@@ -704400,6 +704432,8 @@
 ::1 www.truecrypt.it
 ::1 truecrypt.pl
 ::1 www.truecrypt.pl
+::1 truedrugz.com
+::1 www.truedrugz.com
 ::1 truefitposture.com
 ::1 www.truefitposture.com
 ::1 trueglow.de
@@ -704662,6 +704696,8 @@
 ::1 www.trustdicecasino.fr
 ::1 trusted-help.com
 ::1 www.trusted-help.com
+::1 trusted-online-generic.com
+::1 www.trusted-online-generic.com
 ::1 trusted-sites.com
 ::1 www.trusted-sites.com
 ::1 trustedallcbd.com
@@ -760606,6 +760642,8 @@
 ::1 www.westacecasinos.fr
 ::1 westaces-fr.fr
 ::1 www.westaces-fr.fr
+::1 westacescasino.fr
+::1 www.westacescasino.fr
 ::1 westafricagateway.org
 ::1 www.westafricagateway.org
 ::1 westbeelegu.ml
@@ -768680,6 +768718,8 @@
 ::1 www.wonaco1.fr
 ::1 wonacobet.fr
 ::1 www.wonacobet.fr
+::1 wonacocasinoenligne.fr
+::1 www.wonacocasinoenligne.fr
 ::1 wonacocasinoonline.fr
 ::1 www.wonacocasinoonline.fr
 ::1 wonacocasinos.fr
