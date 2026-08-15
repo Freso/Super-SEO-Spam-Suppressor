@@ -328434,8 +328434,6 @@
 ::1 www.heivilehino.cf
 ::1 heiviosmilerne.gq
 ::1 www.heiviosmilerne.gq
-::1 heiz-fachmann.de
-::1 www.heiz-fachmann.de
 ::1 heiz-oel24.com
 ::1 www.heiz-oel24.com
 ::1 heiz-oil.de
