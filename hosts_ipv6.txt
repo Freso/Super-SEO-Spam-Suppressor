@@ -46094,6 +46094,8 @@
 ::1 www.7shlph.cyou
 ::1 7si03j7.cyou
 ::1 www.7si03j7.cyou
+::1 7signs-online.fr
+::1 www.7signs-online.fr
 ::1 7signscasino.fr
 ::1 www.7signscasino.fr
 ::1 7site.pl
@@ -69068,6 +69070,8 @@
 ::1 www.afkqub.tokyo
 ::1 afkse9.cyou
 ::1 www.afkse9.cyou
+::1 afkspin-online.fr
+::1 www.afkspin-online.fr
 ::1 afkspinfrance.fr
 ::1 www.afkspinfrance.fr
 ::1 afkvnx.tokyo
@@ -74682,6 +74686,8 @@
 ::1 www.alexander-ahrens.de
 ::1 alexander-casino-en-ligne.fr
 ::1 www.alexander-casino-en-ligne.fr
+::1 alexanderbonus.fr
+::1 www.alexanderbonus.fr
 ::1 alexandercasino-bet.fr
 ::1 www.alexandercasino-bet.fr
 ::1 alexandercasino-bonus.fr
@@ -74714,6 +74720,8 @@
 ::1 www.alexandercassino.fr
 ::1 alexanderfischer.buzz
 ::1 www.alexanderfischer.buzz
+::1 alexanderfrance-fr.fr
+::1 www.alexanderfrance-fr.fr
 ::1 alexandergrigorev.xyz
 ::1 www.alexandergrigorev.xyz
 ::1 alexandermcqueenboty.cz
@@ -81192,6 +81200,8 @@
 ::1 www.amonea.fr
 ::1 amonennis.cf
 ::1 www.amonennis.cf
+::1 amonfrance-fr.fr
+::1 www.amonfrance-fr.fr
 ::1 amonfrance.fr
 ::1 www.amonfrance.fr
 ::1 amongassessment.com
@@ -99390,6 +99400,8 @@
 ::1 www.avhsbq.tokyo
 ::1 avhzfim.tokyo
 ::1 www.avhzfim.tokyo
+::1 aviamasters-fr.fr
+::1 www.aviamasters-fr.fr
 ::1 aviamastersfr.fr
 ::1 www.aviamastersfr.fr
 ::1 aviamastersofficiel.fr
@@ -119012,6 +119024,8 @@
 ::1 www.billigwerkzeug.com
 ::1 billigzegna.de
 ::1 www.billigzegna.de
+::1 billionaire-fr.fr
+::1 www.billionaire-fr.fr
 ::1 billionaire-spin-casino.fr
 ::1 www.billionaire-spin-casino.fr
 ::1 billionaire-spincasino.fr
@@ -121320,6 +121334,8 @@
 ::1 www.bitstake.fr
 ::1 bitstarz-casino.fr
 ::1 www.bitstarz-casino.fr
+::1 bitstarz-fr.fr
+::1 www.bitstarz-fr.fr
 ::1 bitstarzcasino.fr
 ::1 www.bitstarzcasino.fr
 ::1 bitstrike-casino.fr
@@ -147724,6 +147740,8 @@
 ::1 www.cashed-fr.fr
 ::1 cashed-france.fr
 ::1 www.cashed-france.fr
+::1 cashed-online.fr
+::1 www.cashed-online.fr
 ::1 cashed0.fr
 ::1 www.cashed0.fr
 ::1 cashedcasino-fr.fr
@@ -182560,6 +182578,8 @@
 ::1 www.cool-tik-vids.com
 ::1 cool-zino-casino.fr
 ::1 www.cool-zino-casino.fr
+::1 cool-zino-fr.fr
+::1 www.cool-zino-fr.fr
 ::1 cool2o7.cyou
 ::1 www.cool2o7.cyou
 ::1 coolangatta.eu
@@ -199398,6 +199418,8 @@
 ::1 www.darknorpoetrangurg.tk
 ::1 darksincenightclub.com
 ::1 www.darksincenightclub.com
+::1 darkskiesfilm.com
+::1 www.darkskiesfilm.com
 ::1 darkswriterbecause.rest
 ::1 www.darkswriterbecause.rest
 ::1 darkwallets.xyz
@@ -217310,6 +217332,8 @@
 ::1 www.diva-spin-casino.fr
 ::1 diva-spin-fr.fr
 ::1 www.diva-spin-fr.fr
+::1 diva-spin-online.fr
+::1 www.diva-spin-online.fr
 ::1 diva-spincasino.fr
 ::1 www.diva-spincasino.fr
 ::1 divage.eu
@@ -230022,6 +230046,8 @@
 ::1 www.e-messagerieleboncoin.fr
 ::1 e-messageries-leboncoin.fr
 ::1 www.e-messageries-leboncoin.fr
+::1 e-mo.re
+::1 www.e-mo.re
 ::1 e-mobiles.fr
 ::1 www.e-mobiles.fr
 ::1 e-more.re
@@ -232856,6 +232882,8 @@
 ::1 www.ebnmk3.cyou
 ::1 ebnogfataza.ml
 ::1 www.ebnogfataza.ml
+::1 ebnpparibas.fr
+::1 www.ebnpparibas.fr
 ::1 ebo4wx.cyou
 ::1 www.ebo4wx.cyou
 ::1 ebobinoswar.ml
@@ -235614,6 +235642,8 @@
 ::1 www.eedosenganless.cf
 ::1 eedouttarlockgu.ga
 ::1 www.eedouttarlockgu.ga
+::1 eee-mo.re
+::1 www.eee-mo.re
 ::1 eeea.pm
 ::1 www.eeea.pm
 ::1 eeeihsn.xyz
@@ -273882,6 +273912,8 @@
 ::1 www.flouxsarl.fr
 ::1 flouz-fr.fr
 ::1 www.flouz-fr.fr
+::1 flouz-online.fr
+::1 www.flouz-online.fr
 ::1 floveme.com
 ::1 www.floveme.com
 ::1 floveset.xyz
@@ -279120,6 +279152,8 @@
 ::1 www.fr-betonred.fr
 ::1 fr-betzino.fr
 ::1 www.fr-betzino.fr
+::1 fr-bigclash.fr
+::1 www.fr-bigclash.fr
 ::1 fr-bigclashcasino.fr
 ::1 www.fr-bigclashcasino.fr
 ::1 fr-bilendi.fr
@@ -279170,6 +279204,8 @@
 ::1 www.fr-chericasino.fr
 ::1 fr-chicken--road.fr
 ::1 www.fr-chicken--road.fr
+::1 fr-chicken-road.fr
+::1 www.fr-chicken-road.fr
 ::1 fr-cimpa.fr
 ::1 www.fr-cimpa.fr
 ::1 fr-circet.fr
@@ -279282,6 +279318,8 @@
 ::1 www.fr-free.fr
 ::1 fr-fruitparty.fr
 ::1 www.fr-fruitparty.fr
+::1 fr-frumzi.fr
+::1 www.fr-frumzi.fr
 ::1 fr-funbetcasino.fr
 ::1 www.fr-funbetcasino.fr
 ::1 fr-galec.fr
@@ -279362,6 +279400,8 @@
 ::1 www.fr-le-republicain-lorrain.fr
 ::1 fr-leboncoin.fr
 ::1 www.fr-leboncoin.fr
+::1 fr-legiano.fr
+::1 www.fr-legiano.fr
 ::1 fr-lidl.fr
 ::1 www.fr-lidl.fr
 ::1 fr-limbo.fr
@@ -279410,6 +279450,8 @@
 ::1 www.fr-netflix-paiement.fr
 ::1 fr-netflix.fr
 ::1 www.fr-netflix.fr
+::1 fr-nine.fr
+::1 www.fr-nine.fr
 ::1 fr-ninecasino.fr
 ::1 www.fr-ninecasino.fr
 ::1 fr-nisshamedicaltechnologiessas.fr
@@ -279500,6 +279542,8 @@
 ::1 www.fr-sidexa.fr
 ::1 fr-sim.fr
 ::1 www.fr-sim.fr
+::1 fr-simsino.fr
+::1 www.fr-simsino.fr
 ::1 fr-simsinoscasino.fr
 ::1 www.fr-simsinoscasino.fr
 ::1 fr-site.fr
@@ -280848,6 +280892,8 @@
 ::1 www.frcasino-cresus.fr
 ::1 frcasinozer.fr
 ::1 www.frcasinozer.fr
+::1 frcazeus.fr
+::1 www.frcazeus.fr
 ::1 frccga.rest
 ::1 www.frccga.rest
 ::1 frcglgu.tokyo
@@ -283142,6 +283188,8 @@
 ::1 www.frumennecpa.tk
 ::1 frumple.website
 ::1 www.frumple.website
+::1 frumzi-bonus.fr
+::1 www.frumzi-bonus.fr
 ::1 frumzi-casino1.fr
 ::1 www.frumzi-casino1.fr
 ::1 frumzi-casinoo.fr
@@ -283154,6 +283202,8 @@
 ::1 www.frumzi-enligne.fr
 ::1 frumzi-officiel.fr
 ::1 www.frumzi-officiel.fr
+::1 frumziapp.fr
+::1 www.frumziapp.fr
 ::1 frumzibet.fr
 ::1 www.frumzibet.fr
 ::1 frumzicasina.fr
@@ -283172,12 +283222,16 @@
 ::1 www.frumzicasinos.fr
 ::1 frumzifr.fr
 ::1 www.frumzifr.fr
+::1 frumzifrance-fr.fr
+::1 www.frumzifrance-fr.fr
 ::1 frumzis.fr
 ::1 www.frumzis.fr
 ::1 frunelretowusssig.gq
 ::1 www.frunelretowusssig.gq
 ::1 fruninatlinbe.gq
 ::1 www.fruninatlinbe.gq
+::1 frunique.fr
+::1 www.frunique.fr
 ::1 fruniv-reims.fr
 ::1 www.fruniv-reims.fr
 ::1 frusacneyboughmanfmos.gq
@@ -283242,6 +283296,8 @@
 ::1 www.frv0zzs.cyou
 ::1 frvczf.cyou
 ::1 www.frvczf.cyou
+::1 frvegasino.fr
+::1 www.frvegasino.fr
 ::1 frvpl-prime.fr
 ::1 www.frvpl-prime.fr
 ::1 frvr-prime.fr
@@ -302200,6 +302256,8 @@
 ::1 www.glorion-enligne.fr
 ::1 glorion-officiel.fr
 ::1 www.glorion-officiel.fr
+::1 glorion-online.fr
+::1 www.glorion-online.fr
 ::1 gloriousdementedmulticultural.com
 ::1 www.gloriousdementedmulticultural.com
 ::1 glorioushopeministries.com
@@ -304584,6 +304642,8 @@
 ::1 www.goldenmina.fr
 ::1 goldenminacasino.fr
 ::1 www.goldenminacasino.fr
+::1 goldenminaenligne.fr
+::1 www.goldenminaenligne.fr
 ::1 goldenngoosee.com
 ::1 www.goldenngoosee.com
 ::1 goldenorgerpri.ga
@@ -311552,6 +311612,8 @@
 ::1 www.grubergraz.at
 ::1 grubermapardpho.tk
 ::1 www.grubermapardpho.tk
+::1 grubin-shoes.fr
+::1 www.grubin-shoes.fr
 ::1 grubivneofobifes.cf
 ::1 www.grubivneofobifes.cf
 ::1 grubquiboungati.gq
@@ -332470,6 +332532,8 @@
 ::1 www.hiiraketdukoss.tk
 ::1 hiirt.yt
 ::1 www.hiirt.yt
+::1 hiiscalesupport.fr
+::1 www.hiiscalesupport.fr
 ::1 hiiwheeserchio.ml
 ::1 www.hiiwheeserchio.ml
 ::1 hij8351.tokyo
@@ -333080,6 +333144,8 @@
 ::1 www.hisbeguthrieloc.tk
 ::1 hisbooforniatire.ml
 ::1 www.hisbooforniatire.ml
+::1 hiscalesupport.fr
+::1 www.hiscalesupport.fr
 ::1 hiscoltsaroceslae.gq
 ::1 www.hiscoltsaroceslae.gq
 ::1 hiscreateworlds.bar
@@ -360608,6 +360674,8 @@
 ::1 www.instasino-casino-fr.fr
 ::1 instasino-fr.fr
 ::1 www.instasino-fr.fr
+::1 instasino-online.fr
+::1 www.instasino-online.fr
 ::1 instasino.fr
 ::1 www.instasino.fr
 ::1 instasino1.fr
@@ -384680,6 +384748,8 @@
 ::1 www.kalendardmitsi.ml
 ::1 kalendarvkusa.ru
 ::1 www.kalendarvkusa.ru
+::1 kaleo-online.fr
+::1 www.kaleo-online.fr
 ::1 kaleo.info
 ::1 www.kaleo.info
 ::1 kalesafe.com
@@ -410240,6 +410310,10 @@
 ::1 www.legiano-france.fr
 ::1 legiano-officiel.fr
 ::1 www.legiano-officiel.fr
+::1 legianoapp.fr
+::1 www.legianoapp.fr
+::1 legianobonus.fr
+::1 www.legianobonus.fr
 ::1 legianocas1no.fr
 ::1 www.legianocas1no.fr
 ::1 legianocasino-enligne.fr
@@ -410272,6 +410346,8 @@
 ::1 www.legianocasinoz.fr
 ::1 legianofr.fr
 ::1 www.legianofr.fr
+::1 legianofrance-fr.fr
+::1 www.legianofrance-fr.fr
 ::1 legianoofficiel.fr
 ::1 www.legianoofficiel.fr
 ::1 legianos-casino.fr
@@ -430896,6 +430972,8 @@
 ::1 www.luminae.fr
 ::1 luminaraofficial.de
 ::1 www.luminaraofficial.de
+::1 luminaskincare.fr
+::1 www.luminaskincare.fr
 ::1 luminisfinance.fr
 ::1 www.luminisfinance.fr
 ::1 luminousw.com
@@ -437170,6 +437248,10 @@
 ::1 www.magius1-fr.fr
 ::1 magius1.fr
 ::1 www.magius1.fr
+::1 magiusapp.fr
+::1 www.magiusapp.fr
+::1 magiusbonus.fr
+::1 www.magiusbonus.fr
 ::1 magiuscasino-fr.fr
 ::1 www.magiuscasino-fr.fr
 ::1 magiuscasino.fr
@@ -452180,6 +452262,8 @@
 ::1 www.midasluck-fr.fr
 ::1 midasluckcasino.fr
 ::1 www.midasluckcasino.fr
+::1 midasluckfr.fr
+::1 www.midasluckfr.fr
 ::1 midasmarkt.com
 ::1 www.midasmarkt.com
 ::1 midasowe.pl
@@ -453308,6 +453392,8 @@
 ::1 www.millilalemi.ga
 ::1 millimeterskeptical.biz
 ::1 www.millimeterskeptical.biz
+::1 million-fr.fr
+::1 www.million-fr.fr
 ::1 million-recht.de
 ::1 www.million-recht.de
 ::1 millionaireevaporatewealth.com
@@ -453334,6 +453420,8 @@
 ::1 www.millionercasinoenligne.fr
 ::1 millionercasinos.fr
 ::1 www.millionercasinos.fr
+::1 millionerfr.fr
+::1 www.millionerfr.fr
 ::1 millioners-casino.fr
 ::1 www.millioners-casino.fr
 ::1 millioners-casinos.fr
@@ -470676,6 +470764,8 @@
 ::1 www.myempire-fr.fr
 ::1 myempirecasino1.fr
 ::1 www.myempirecasino1.fr
+::1 myempirefr.fr
+::1 www.myempirefr.fr
 ::1 myempirescasino.fr
 ::1 www.myempirescasino.fr
 ::1 myemrys.fr
@@ -506586,6 +506676,8 @@
 ::1 www.olympecasinovip.fr
 ::1 olympecasinoz.fr
 ::1 www.olympecasinoz.fr
+::1 olympefrance-fr.fr
+::1 www.olympefrance-fr.fr
 ::1 olympia-arts.org
 ::1 www.olympia-arts.org
 ::1 olympia-casino.fr
@@ -508244,6 +508336,8 @@
 ::1 www.online-delivery.cam
 ::1 online-douyin.com
 ::1 www.online-douyin.com
+::1 online-dragonia.fr
+::1 www.online-dragonia.fr
 ::1 online-fast-slots.fr
 ::1 www.online-fast-slots.fr
 ::1 online-fastslots.fr
@@ -508262,6 +508356,8 @@
 ::1 www.online-gambling-rules.org
 ::1 online-gpw.pl
 ::1 www.online-gpw.pl
+::1 online-gransino.fr
+::1 www.online-gransino.fr
 ::1 online-green.buzz
 ::1 www.online-green.buzz
 ::1 online-guard.com
@@ -508326,6 +508422,8 @@
 ::1 www.online-tchibosale.shop
 ::1 online-textile.com
 ::1 www.online-textile.com
+::1 online-tikitaka.fr
+::1 www.online-tikitaka.fr
 ::1 online-tonies.shop
 ::1 www.online-tonies.shop
 ::1 online-tube-news.agency
@@ -508336,6 +508434,8 @@
 ::1 www.online-vidz-vid.buzz
 ::1 online-vip-video.buzz
 ::1 www.online-vip-video.buzz
+::1 online-wildsino.fr
+::1 www.online-wildsino.fr
 ::1 online-xcams-forum.buzz
 ::1 www.online-xcams-forum.buzz
 ::1 online-xnxx-hardcore.buzz
@@ -512334,6 +512434,8 @@
 ::1 www.orientationpour-tous.fr
 ::1 orientexpress-casino.fr
 ::1 www.orientexpress-casino.fr
+::1 orientexpress-fr.fr
+::1 www.orientexpress-fr.fr
 ::1 orientsalvation.com
 ::1 www.orientsalvation.com
 ::1 orieses.my.id
@@ -537738,6 +537840,8 @@
 ::1 www.pistolo-fr.fr
 ::1 pistolo-france.fr
 ::1 www.pistolo-france.fr
+::1 pistolo-official.fr
+::1 www.pistolo-official.fr
 ::1 pistolo1.fr
 ::1 www.pistolo1.fr
 ::1 pistolo2.fr
@@ -619456,6 +619560,8 @@
 ::1 www.see-i-o.re
 ::1 see-imo.re
 ::1 www.see-imo.re
+::1 see-lmo.re
+::1 www.see-lmo.re
 ::1 see-m0.re
 ::1 www.see-m0.re
 ::1 see-m00.re
@@ -630556,6 +630662,8 @@
 ::1 www.simsinocasinos.fr
 ::1 simsinocasinoz.fr
 ::1 www.simsinocasinoz.fr
+::1 simsinofrance.fr
+::1 www.simsinofrance.fr
 ::1 simsinos-casino1.fr
 ::1 www.simsinos-casino1.fr
 ::1 simsinos-casinos.fr
@@ -645258,6 +645366,8 @@
 ::1 www.spinboss-france.fr
 ::1 spinboss-jouer.fr
 ::1 www.spinboss-jouer.fr
+::1 spinboss-online.fr
+::1 www.spinboss-online.fr
 ::1 spinboss1.fr
 ::1 www.spinboss1.fr
 ::1 spinboss2.fr
@@ -653496,6 +653606,8 @@
 ::1 www.store-goldengoose.fr
 ::1 store-hiver.fr
 ::1 www.store-hiver.fr
+::1 store-jonak.fr
+::1 www.store-jonak.fr
 ::1 store-kway.fr
 ::1 www.store-kway.fr
 ::1 store-nyx.com
@@ -732398,6 +732510,8 @@
 ::1 www.vegas-hero-fr.fr
 ::1 vegas-hero-france.fr
 ::1 www.vegas-hero-france.fr
+::1 vegas-hero-online.fr
+::1 www.vegas-hero-online.fr
 ::1 vegas-herocasino.fr
 ::1 www.vegas-herocasino.fr
 ::1 vegas-heroconnexion-app.fr
@@ -732478,6 +732592,8 @@
 ::1 www.vegasino9.fr
 ::1 vegasinoapp.fr
 ::1 www.vegasinoapp.fr
+::1 vegasinobonus-fr.fr
+::1 www.vegasinobonus-fr.fr
 ::1 vegasinobonus.fr
 ::1 www.vegasinobonus.fr
 ::1 vegasinocasino-fr.fr
@@ -751052,6 +751168,8 @@
 ::1 www.vulemwia.gq
 ::1 vulfanadere.tk
 ::1 www.vulfanadere.tk
+::1 vulkan-fr.fr
+::1 www.vulkan-fr.fr
 ::1 vulkanbetting.biz
 ::1 www.vulkanbetting.biz
 ::1 vulkanvegas.casino
@@ -764132,6 +764250,8 @@
 ::1 www.wilddice-casino.fr
 ::1 wilddice-casinos.fr
 ::1 www.wilddice-casinos.fr
+::1 wilddice-online.fr
+::1 www.wilddice-online.fr
 ::1 wilddicecas1no.fr
 ::1 www.wilddicecas1no.fr
 ::1 wilddicecasino24.fr
@@ -766106,6 +766226,8 @@
 ::1 www.winkeltjevananouk.nl
 ::1 winkelwizard.nl
 ::1 www.winkelwizard.nl
+::1 winkey-online.fr
+::1 www.winkey-online.fr
 ::1 winkgutlangdroop.tk
 ::1 www.winkgutlangdroop.tk
 ::1 winkingdom-fr.fr
