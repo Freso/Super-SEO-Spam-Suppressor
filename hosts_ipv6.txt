@@ -73536,6 +73536,8 @@
 ::1 www.akurl.xyz
 ::1 akurmiwiven.ml
 ::1 www.akurmiwiven.ml
+::1 akusoli.com
+::1 www.akusoli.com
 ::1 akustik-box.de
 ::1 www.akustik-box.de
 ::1 akustika1.ru
@@ -109492,8 +109494,6 @@
 ::1 www.beachtennislugano.ch
 ::1 beachtioconta.tk
 ::1 www.beachtioconta.tk
-::1 beachwalkbali.com
-::1 www.beachwalkbali.com
 ::1 beaconzero.net
 ::1 www.beaconzero.net
 ::1 beacuc.shop
@@ -112392,6 +112392,8 @@
 ::1 www.bergroteamlime.tk
 ::1 bergroughsuppca.cf
 ::1 www.bergroughsuppca.cf
+::1 bergschatz.de
+::1 www.bergschatz.de
 ::1 bergstrommotorsport.com
 ::1 www.bergstrommotorsport.com
 ::1 bergsuvingsnowopsan.gq
@@ -253714,8 +253716,6 @@
 ::1 www.eu-pharmacy-online.com
 ::1 eu-pharmacy.fr
 ::1 www.eu-pharmacy.fr
-::1 eu-pillstore.com
-::1 www.eu-pillstore.com
 ::1 eu-prime.fr
 ::1 www.eu-prime.fr
 ::1 eu-sezane.com
@@ -310906,8 +310906,6 @@
 ::1 www.groundiesschoenennederland.com
 ::1 groundiesshop.at
 ::1 www.groundiesshop.at
-::1 groundiesukshoes.com
-::1 www.groundiesukshoes.com
 ::1 groundisconaco.tk
 ::1 www.groundisconaco.tk
 ::1 groundly.best
@@ -362174,6 +362172,8 @@
 ::1 www.investisafe.com
 ::1 investissement-ehpad-2023.fr
 ::1 www.investissement-ehpad-2023.fr
+::1 investissement.strategie-business.com
+::1 www.investissement.strategie-business.com
 ::1 investixcrypto.com
 ::1 www.investixcrypto.com
 ::1 investkreditbank.at
@@ -407610,6 +407610,8 @@
 ::1 www.lbszftg.cn
 ::1 lbszka.rest
 ::1 www.lbszka.rest
+::1 lbtinc.com
+::1 www.lbtinc.com
 ::1 lbtx8c.cyou
 ::1 www.lbtx8c.cyou
 ::1 lbu7yb.xyz
@@ -647526,8 +647528,6 @@
 ::1 www.spyderwrisemel.tk
 ::1 spydintravornemenradingnofurtangde.xyz
 ::1 www.spydintravornemenradingnofurtangde.xyz
-::1 spydiscount24.com
-::1 www.spydiscount24.com
 ::1 spygok.rest
 ::1 www.spygok.rest
 ::1 spyi5p.cyou
@@ -673096,6 +673096,8 @@
 ::1 www.tdzkplp.tokyo
 ::1 tdzoyy.bar
 ::1 www.tdzoyy.bar
+::1 te.de
+::1 www.te.de
 ::1 te00cg.cyou
 ::1 www.te00cg.cyou
 ::1 te0dpnn.cyou
@@ -705742,6 +705744,8 @@
 ::1 www.trustdicecasino.fr
 ::1 trusted-help.com
 ::1 www.trusted-help.com
+::1 trusted-online-generic.com
+::1 www.trusted-online-generic.com
 ::1 trusted-sites.com
 ::1 www.trusted-sites.com
 ::1 trustedallcbd.com
@@ -776946,6 +776950,8 @@
 ::1 www.x-video-porn.com
 ::1 x-videos-porn.com
 ::1 www.x-videos-porn.com
+::1 x-wallart.com
+::1 www.x-wallart.com
 ::1 x-watches.co
 ::1 www.x-watches.co
 ::1 x.ai
@@ -778484,6 +778490,8 @@
 ::1 www.xasejasudafe.bar
 ::1 xasgangmaramu.ga
 ::1 www.xasgangmaramu.ga
+::1 xaslnsh.com
+::1 www.xaslnsh.com
 ::1 xate1e.cyou
 ::1 www.xate1e.cyou
 ::1 xatemantsupptrichte.tk
@@ -797864,6 +797872,8 @@
 ::1 www.yoolle.com
 ::1 yoomeeru.xyz
 ::1 www.yoomeeru.xyz
+::1 yooofa.com
+::1 www.yooofa.com
 ::1 yoopum.tokyo
 ::1 www.yoopum.tokyo
 ::1 yoorio.tokyo
@@ -801934,8 +801944,12 @@
 ::1 www.yumaitie.com
 ::1 yumartfinance.ru
 ::1 www.yumartfinance.ru
+::1 yumekatsu.com
+::1 www.yumekatsu.com
 ::1 yumgo.net
 ::1 www.yumgo.net
+::1 yumgs.holdenouterwear.shop
+::1 www.yumgs.holdenouterwear.shop
 ::1 yumiaio688.com
 ::1 www.yumiaio688.com
 ::1 yumikz.tokyo
@@ -809202,6 +809216,8 @@
 ::1 www.zenherald.com
 ::1 zenhost.me
 ::1 www.zenhost.me
+::1 zenistitch.com
+::1 www.zenistitch.com
 ::1 zenithwave.nl
 ::1 www.zenithwave.nl
 ::1 zenitybeauty.ro
@@ -813248,6 +813264,8 @@
 ::1 www.zonmenager.shop
 ::1 zonneforgongmether.cf
 ::1 www.zonneforgongmether.cf
+::1 zonnishop.com
+::1 www.zonnishop.com
 ::1 zonok.tokyo
 ::1 www.zonok.tokyo
 ::1 zonpacabulgold.ga
@@ -814984,6 +815002,8 @@
 ::1 www.zubehorfahrrad.com
 ::1 zubehorfahrrad.de
 ::1 www.zubehorfahrrad.de
+::1 zubehorobjektive.de
+::1 www.zubehorobjektive.de
 ::1 zubehousechi.ga
 ::1 www.zubehousechi.ga
 ::1 zubfdm.tokyo

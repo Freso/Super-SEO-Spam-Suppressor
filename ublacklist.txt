@@ -36771,6 +36771,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.akura.xyz/*
 *://*.akurl.xyz/*
 *://*.akurmiwiven.ml/*
+*://*.akusoli.com/*
 *://*.akustik-box.de/*
 *://*.akustika1.ru/*
 *://*.akustikholz.shop/*
@@ -54749,7 +54750,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.beachsideboatrentals.com/*
 *://*.beachtennislugano.ch/*
 *://*.beachtioconta.tk/*
-*://*.beachwalkbali.com/*
 *://*.beaconzero.net/*
 *://*.beacuc.shop/*
 *://*.beadaramos.ml/*
@@ -56199,6 +56199,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bergrofenpbe.tk/*
 *://*.bergroteamlime.tk/*
 *://*.bergroughsuppca.cf/*
+*://*.bergschatz.de/*
 *://*.bergstrommotorsport.com/*
 *://*.bergsuvingsnowopsan.gq/*
 *://*.bergtisonmattchis.gq/*
@@ -126860,7 +126861,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.eu-new-media.eu/*
 *://*.eu-pharmacy-online.com/*
 *://*.eu-pharmacy.fr/*
-*://*.eu-pillstore.com/*
 *://*.eu-prime.fr/*
 *://*.eu-sezane.com/*
 *://*.eu-snapchat.fr/*
@@ -155456,7 +155456,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.groundiesoutletfr.fr/*
 *://*.groundiesschoenennederland.com/*
 *://*.groundiesshop.at/*
-*://*.groundiesukshoes.com/*
 *://*.groundisconaco.tk/*
 *://*.groundly.best/*
 *://*.groundoyrousmamelbedf.ml/*
@@ -181090,6 +181089,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.investirex.com/*
 *://*.investisafe.com/*
 *://*.investissement-ehpad-2023.fr/*
+*://*.investissement.strategie-business.com/*
 *://*.investixcrypto.com/*
 *://*.investkreditbank.at/*
 *://*.investmaza.com/*
@@ -203808,6 +203808,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lbsx69.cyou/*
 *://*.lbszftg.cn/*
 *://*.lbszka.rest/*
+*://*.lbtinc.com/*
 *://*.lbtx8c.cyou/*
 *://*.lbu7yb.xyz/*
 *://*.lbumdomhcahefovu.tk/*
@@ -323766,7 +323767,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spydersale.de/*
 *://*.spyderwrisemel.tk/*
 *://*.spydintravornemenradingnofurtangde.xyz/*
-*://*.spydiscount24.com/*
 *://*.spygok.rest/*
 *://*.spyi5p.cyou/*
 *://*.spymdefdirofacot.ga/*
@@ -336551,6 +336551,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tdzjvne.bar/*
 *://*.tdzkplp.tokyo/*
 *://*.tdzoyy.bar/*
+*://*.te.de/*
 *://*.te00cg.cyou/*
 *://*.te0dpnn.cyou/*
 *://*.te0fa97.cyou/*
@@ -352874,6 +352875,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.trustdice1.fr/*
 *://*.trustdicecasino.fr/*
 *://*.trusted-help.com/*
+*://*.trusted-online-generic.com/*
 *://*.trusted-sites.com/*
 *://*.trustedallcbd.com/*
 *://*.trustedallovertheworld.com/*
@@ -388476,6 +388478,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.x-pictures.io/*
 *://*.x-video-porn.com/*
 *://*.x-videos-porn.com/*
+*://*.x-wallart.com/*
 *://*.x-watches.co/*
 *://*.x.ai/*
 *://*.x00f4l6.shop/*
@@ -389245,6 +389248,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.xasdolovonnambgreen.cf/*
 *://*.xasejasudafe.bar/*
 *://*.xasgangmaramu.ga/*
+*://*.xaslnsh.com/*
 *://*.xate1e.cyou/*
 *://*.xatemantsupptrichte.tk/*
 *://*.xatiwiharsubfrac.tk/*
@@ -398935,6 +398939,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.yoohoo.cards/*
 *://*.yoolle.com/*
 *://*.yoomeeru.xyz/*
+*://*.yooofa.com/*
 *://*.yoopum.tokyo/*
 *://*.yoorio.tokyo/*
 *://*.yooso.de/*
@@ -400970,7 +400975,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.yultww.tokyo/*
 *://*.yumaitie.com/*
 *://*.yumartfinance.ru/*
+*://*.yumekatsu.com/*
 *://*.yumgo.net/*
+*://*.yumgs.holdenouterwear.shop/*
 *://*.yumiaio688.com/*
 *://*.yumikz.tokyo/*
 *://*.yumingsh.xyz/*
@@ -404604,6 +404611,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.zengyt.com/*
 *://*.zenherald.com/*
 *://*.zenhost.me/*
+*://*.zenistitch.com/*
 *://*.zenithwave.nl/*
 *://*.zenitybeauty.ro/*
 *://*.zeniya.pro/*
@@ -406627,6 +406635,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.zonliresansi.ml/*
 *://*.zonmenager.shop/*
 *://*.zonneforgongmether.cf/*
+*://*.zonnishop.com/*
 *://*.zonok.tokyo/*
 *://*.zonpacabulgold.ga/*
 *://*.zonszs.bar/*
@@ -407495,6 +407504,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.zubdzh.cyou/*
 *://*.zubehorfahrrad.com/*
 *://*.zubehorfahrrad.de/*
+*://*.zubehorobjektive.de/*
 *://*.zubehousechi.ga/*
 *://*.zubfdm.tokyo/*
 *://*.zubjxcg.bar/*
