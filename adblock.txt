@@ -6039,6 +6039,7 @@
 ||1nrxwz8.shop^$document
 ||1nsi0s.shop^$document
 ||1nstagram.fr^$document
+||1nstantcas1no.fr^$document
 ||1nt9npc.cn^$document
 ||1nti4e.cyou^$document
 ||1ntpmpd.tokyo^$document
@@ -7537,6 +7538,7 @@
 ||21a865s.cyou^$document
 ||21adwtq.shop^$document
 ||21anpx.tokyo^$document
+||21bitcoin.fr^$document
 ||21bzo9.cyou^$document
 ||21c2xf.cyou^$document
 ||21c3gq.cyou^$document
@@ -17115,6 +17117,7 @@
 ||5el6.com^$document
 ||5eld54.cyou^$document
 ||5emeavenue-chaussures.fr^$document
+||5emeregimentdehussards-weingarten.fr^$document
 ||5emsde.xyz^$document
 ||5enn3v8.work^$document
 ||5enzec.cyou^$document
@@ -43567,6 +43570,7 @@
 ||apinx.xyz^$document
 ||apipmatpy.gq^$document
 ||apiposmar.tk^$document
+||apiprime.fr^$document
 ||apipro.xyz^$document
 ||apirripadorfidd.tk^$document
 ||apirsepeerenoc.tk^$document
@@ -52643,6 +52647,7 @@
 ||bamichdergningcos.ml^$document
 ||bamiqx.bar^$document
 ||bamkesevabli.ml^$document
+||bammbukastore.fr^$document
 ||bammesearviehayndur.cf^$document
 ||bamomesuressas.fr^$document
 ||bamontfibeda.tk^$document
@@ -70601,6 +70606,7 @@
 ||ca-service.fr^$document
 ||ca-serviceclient-france.fr^$document
 ||ca-smssecurpassetservice.fr^$document
+||ca-sud-rhonealpes.fr^$document
 ||ca-support-assistance-clients.fr^$document
 ||ca-support-assistance.fr^$document
 ||ca-touloue31.fr^$document
@@ -80170,6 +80176,7 @@
 ||chicattireus.com^$document
 ||chicboho.com^$document
 ||chicchaussures.fr^$document
+||chicco-france.fr^$document
 ||chicco.com.de^$document
 ||chiccofrance.fr^$document
 ||chicdiefrizabacun.cf^$document
@@ -80188,6 +80195,8 @@
 ||chicken-road-2-site.fr^$document
 ||chicken-road-aviss.fr^$document
 ||chicken-road-casino-fr.fr^$document
+||chicken-road-jeu-poulet.fr^$document
+||chicken-road-poulet.fr^$document
 ||chicken-road-two.fr^$document
 ||chicken-road2-casino.fr^$document
 ||chicken-roadcasino-officiel.fr^$document
@@ -80200,10 +80209,15 @@
 ||chickenroad-1.fr^$document
 ||chickenroad-aviss.fr^$document
 ||chickenroad-bet.fr^$document
+||chickenroad-demo.fr^$document
+||chickenroad-en-ligne.fr^$document
+||chickenroad-francais.fr^$document
 ||chickenroad-franceofficial.fr^$document
 ||chickenroad-frofficial.fr^$document
 ||chickenroad-games.fr^$document
+||chickenroad-jouer.fr^$document
 ||chickenroad-officiel-fr.fr^$document
+||chickenroad-officiel.fr^$document
 ||chickenroad-online.fr^$document
 ||chickenroad2-france.fr^$document
 ||chickenroad2-jeu.fr^$document
@@ -80222,6 +80236,7 @@
 ||chickenroadgratuit.fr^$document
 ||chickenroadinout.fr^$document
 ||chickenroadjeu-fr.fr^$document
+||chickenroadjeufr.fr^$document
 ||chickenroadpromocode.fr^$document
 ||chickenroads-france.fr^$document
 ||chickenroadscasino-fr.fr^$document
@@ -88807,6 +88822,7 @@
 ||comptes-particuliers-sg.fr^$document
 ||comptes-patient.fr^$document
 ||comptes-patients.fr^$document
+||comptes-publics.fr^$document
 ||comptes-rdv-santes.fr^$document
 ||comptes-sg.fr^$document
 ||comptes-vitale.fr^$document
@@ -89445,6 +89461,8 @@
 ||confirmations-informations.fr^$document
 ||confirmationsupportclient.fr^$document
 ||confirmatipaiment.fr^$document
+||confirme-ar.fr^$document
+||confirme-orange.fr^$document
 ||confirmer-ameli.fr^$document
 ||confirmer-credit-agricole.fr^$document
 ||confirmer-infosfr.fr^$document
@@ -91750,6 +91768,7 @@
 ||corik.xyz^$document
 ||corinestogg.gq^$document
 ||corinnerieber.fr^$document
+||coriolis-poitiers.fr^$document
 ||corirecage.tk^$document
 ||coriridifes.ga^$document
 ||corisfinance.com^$document
@@ -93842,6 +93861,7 @@
 ||credigfiberlind.ga^$document
 ||credikosirfawmi.gq^$document
 ||credilkurbirth.gq^$document
+||credilmutuel.fr^$document
 ||credimatfourbi.tk^$document
 ||credimteropa.tk^$document
 ||credinatov.tk^$document
@@ -117409,6 +117429,7 @@
 ||edenparis.fr^$document
 ||edenpark-destock.fr^$document
 ||edenpark-paris.fr^$document
+||edenred-france.fr^$document
 ||edenredaccount.fr^$document
 ||edenredassistance.fr^$document
 ||edenredcare.fr^$document
@@ -139724,6 +139745,9 @@
 ||fr-credindust.fr^$document
 ||fr-cresus.fr^$document
 ||fr-cresuscasino.fr^$document
+||fr-crown-play.fr^$document
+||fr-crownplay-casino.fr^$document
+||fr-crownplay.fr^$document
 ||fr-cuisineplus.fr^$document
 ||fr-daheraerospace.fr^$document
 ||fr-darty.fr^$document
@@ -139814,13 +139838,16 @@
 ||fr-lizaro.fr^$document
 ||fr-lucky-8.fr^$document
 ||fr-luckywave.fr^$document
+||fr-mad.fr^$document
 ||fr-madcasino.fr^$document
 ||fr-mafia.fr^$document
+||fr-magius.fr^$document
 ||fr-maincare-solutions.fr^$document
 ||fr-malina.fr^$document
 ||fr-manager.fr^$document
 ||fr-maptrotter.fr^$document
 ||fr-marlinkeventssas.fr^$document
+||fr-megawin.fr^$document
 ||fr-mescomptes-activation.com^$document
 ||fr-mescomptes.fr^$document
 ||fr-milanpresse.fr^$document
@@ -139828,6 +139855,7 @@
 ||fr-millionz.fr^$document
 ||fr-moncompte.fr^$document
 ||fr-monoprix.fr^$document
+||fr-monster-win.fr^$document
 ||fr-monsterwin.fr^$document
 ||fr-mrxbet.fr^$document
 ||fr-mystake.fr^$document
@@ -139838,7 +139866,9 @@
 ||fr-nine.fr^$document
 ||fr-ninecasino.fr^$document
 ||fr-nisshamedicaltechnologiessas.fr^$document
+||fr-nomini.fr^$document
 ||fr-nomios.fr^$document
+||fr-nv.fr^$document
 ||fr-nxotelecom.fr^$document
 ||fr-olympecasino.fr^$document
 ||fr-oranges.fr^$document
@@ -139849,10 +139879,12 @@
 ||fr-pistolo.fr^$document
 ||fr-pistolocasino.fr^$document
 ||fr-planisware.fr^$document
+||fr-playregal.fr^$document
 ||fr-plinko.fr^$document
 ||fr-polletwatergroupfrancesas.fr^$document
 ||fr-premys.fr^$document
 ||fr-prime.fr^$document
+||fr-princeali.fr^$document
 ||fr-princesscasino.fr^$document
 ||fr-proginov.fr^$document
 ||fr-rabona.fr^$document
@@ -139877,6 +139909,7 @@
 ||fr-servicepayfip.fr^$document
 ||fr-sfr.fr^$document
 ||fr-sg.fr^$document
+||fr-shiny-wilds.fr^$document
 ||fr-shinywilds.fr^$document
 ||fr-sia-partners.fr^$document
 ||fr-sidexa.fr^$document
@@ -139915,6 +139948,7 @@
 ||fr-supermarchesmatch.fr^$document
 ||fr-supportnetflix.fr^$document
 ||fr-sweet-bonanza.fr^$document
+||fr-talismania.fr^$document
 ||fr-technologiemedicale.fr^$document
 ||fr-telegren.org^$document
 ||fr-tiktok.fr^$document
@@ -139930,6 +139964,7 @@
 ||fr-umanis.fr^$document
 ||fr-underarmour.fr^$document
 ||fr-unilever.fr^$document
+||fr-vegashero.fr^$document
 ||fr-vegasplus.fr^$document
 ||fr-veoneerfrancesas.fr^$document
 ||fr-vet.fr^$document
@@ -141464,6 +141499,7 @@
 ||frlizaro.fr^$document
 ||frlshax.xyz^$document
 ||frlxbh.tokyo^$document
+||frmafia.fr^$document
 ||frmaillotfoot.fr^$document
 ||frmalina.fr^$document
 ||frmedialive.fr^$document
@@ -141480,6 +141516,7 @@
 ||frnafinance.fr^$document
 ||frncdy.shop^$document
 ||frnegr.cyou^$document
+||frnine.fr^$document
 ||frnlxe.bar^$document
 ||froancefootball.fr^$document
 ||frobanromlesegpa.cf^$document
@@ -141521,6 +141558,7 @@
 ||frolovma.blog^$document
 ||frolrebecocuni.gq^$document
 ||frolupexchioning.ga^$document
+||frolympe.fr^$document
 ||from-the-wild-bandit.de^$document
 ||fromabipgi.tk^$document
 ||fromabmokinsla.tk^$document
@@ -141673,6 +141711,7 @@
 ||frrwne.tokyo^$document
 ||frsaxj.cyou^$document
 ||frsc9fs.shop^$document
+||frshinywilds.fr^$document
 ||frshpb.cyou^$document
 ||frsnapchat.fr^$document
 ||frswg5.cyou^$document
@@ -141773,6 +141812,7 @@
 ||frwdossiers.fr^$document
 ||frwdqd.bar^$document
 ||frwiki.wiki^$document
+||frwinspark.fr^$document
 ||frwlhwk.tokyo^$document
 ||frwm8xa.tokyo^$document
 ||frwmdi.tokyo^$document
@@ -153620,6 +153660,7 @@
 ||govenerero.tk^$document
 ||govern1.com^$document
 ||government-usa--go.pages.dev^$document
+||government.wf^$document
 ||governmentallegianceparade.com^$document
 ||governmentawake.com^$document
 ||governmentfacts.rest^$document
@@ -153993,6 +154034,7 @@
 ||gr9kt2l.cyou^$document
 ||gr9obyz.tokyo^$document
 ||gra1f.rest^$document
+||graatowin.fr^$document
 ||grab-your-money.com^$document
 ||grabad.tk^$document
 ||grabasadrepqionvil.ga^$document
@@ -154645,6 +154687,7 @@
 ||gratowin-fr.fr^$document
 ||gratowin-france.fr^$document
 ||gratowin-online.fr^$document
+||gratowin2.fr^$document
 ||gratowincasino.fr^$document
 ||gratowincasinobonuses.fr^$document
 ||gratowinfr.fr^$document
@@ -155720,6 +155763,7 @@
 ||groupement-mousquetaires.fr^$document
 ||groupement-vracnco.fr^$document
 ||groupenterprisevision.digital^$document
+||groupepomonafr.fr^$document
 ||grouperinexbar.gq^$document
 ||grouperoche.fr^$document
 ||groupes-brithotel.fr^$document
@@ -212948,6 +212992,7 @@
 ||lolajack-en-ligne.fr^$document
 ||lolajack-enligne.fr^$document
 ||lolajack-france.fr^$document
+||lolajack-official.fr^$document
 ||lolajack-officiel.fr^$document
 ||lolajack-online.fr^$document
 ||lolajack-play.fr^$document
@@ -218162,6 +218207,7 @@
 ||macguegamadgai.tk^$document
 ||machabcurimanle.cf^$document
 ||machafasizahard.tk^$document
+||machancebonus.fr^$document
 ||machancecasino-official.fr^$document
 ||machancecasino.fr^$document
 ||machancecasino4.fr^$document
@@ -218172,6 +218218,7 @@
 ||machancecasinos1.fr^$document
 ||machancecasinowin.fr^$document
 ||machancefr.fr^$document
+||machancefrance.fr^$document
 ||machandumpnsurichaf.tk^$document
 ||machao56.com^$document
 ||macheckmitmoter.ga^$document
@@ -218830,6 +218877,7 @@
 ||magiuscasinopromocode.fr^$document
 ||magiuscasinos.fr^$document
 ||magiusfr.fr^$document
+||magiuspromocode.fr^$document
 ||magiuss.fr^$document
 ||magiusscasino.fr^$document
 ||magiyaprivorota.ru^$document
@@ -219690,6 +219738,7 @@
 ||malina-casinos.fr^$document
 ||malina-fr.fr^$document
 ||malina.ee^$document
+||malinabonus.fr^$document
 ||malinacasino-fr.fr^$document
 ||malinacasino-france.fr^$document
 ||malinacasino-official.fr^$document
@@ -222656,6 +222705,7 @@
 ||mcursui.cyou^$document
 ||mcuwwci.tokyo^$document
 ||mcveteran.dk^$document
+||mcw-fr.fr^$document
 ||mcw7rc.cyou^$document
 ||mcwczw.rest^$document
 ||mcwebservices.it^$document
@@ -224678,6 +224728,7 @@
 ||merlin-outlet.fr^$document
 ||merlincasino.fr^$document
 ||merlincasino1.fr^$document
+||merlinfr.fr^$document
 ||merlippfulsolsmeeni.ga^$document
 ||merllavscykar.tk^$document
 ||merlotgoccia.ch^$document
@@ -224947,6 +224998,7 @@
 ||mesesede.cf^$document
 ||mesesseresquisa.gq^$document
 ||mesetiborrchan.gq^$document
+||mesfinancespubliques.fr^$document
 ||mesforepvimes.cf^$document
 ||mesgebervocathur.ga^$document
 ||meshevulgoldmargmist.ga^$document
@@ -226318,6 +226370,7 @@
 ||midanasiqeme.tk^$document
 ||midanpensclem.gq^$document
 ||midargunslijudi.gq^$document
+||midarionfr.fr^$document
 ||midas-luck-casino.fr^$document
 ||midas-luckcasino.fr^$document
 ||midasafinecma.gq^$document
@@ -226932,6 +226985,7 @@
 ||millionzcasinofrance.fr^$document
 ||millionzcasinos.fr^$document
 ||millionzcasinosfr.fr^$document
+||millionzcodepromo.fr^$document
 ||millionzenligne.fr^$document
 ||millionzfrance.fr^$document
 ||millionzz.fr^$document
@@ -229761,6 +229815,7 @@
 ||mohya.com.sa^$document
 ||mohysunrodehood.tk^$document
 ||moi-casino.fr^$document
+||moi-fr.fr^$document
 ||moi-krai.info^$document
 ||moibampullcalke.tk^$document
 ||moiblogmikebu.tk^$document
@@ -230448,6 +230503,7 @@
 ||monaco-jack-fr.fr^$document
 ||monaco-jack.fr^$document
 ||monacojack-casino.fr^$document
+||monacojack-fr.fr^$document
 ||monacojack2.fr^$document
 ||monacojackcasino.fr^$document
 ||monadesa.com^$document
@@ -235583,6 +235639,7 @@
 ||myempire-fr.fr^$document
 ||myempirecasino1.fr^$document
 ||myempirefr.fr^$document
+||myempirefrance.fr^$document
 ||myempirescasino.fr^$document
 ||myemrys.fr^$document
 ||myenapicockce.tk^$document
@@ -241772,6 +241829,7 @@
 ||nevadawin-official.fr^$document
 ||nevadawin-online.fr^$document
 ||nevadawincasino1.fr^$document
+||nevadawincodepromo.fr^$document
 ||nevalongmodela.gq^$document
 ||nevari.de^$document
 ||nevasladepli.tk^$document
@@ -242485,6 +242543,7 @@
 ||neycandzehicco.ml^$document
 ||neycapunkmisrio.tk^$document
 ||neycarecompva.ga^$document
+||neycasino.fr^$document
 ||neyceficaca.cf^$document
 ||neycerzarddestrile.cf^$document
 ||neychamyturn.web.app^$document
@@ -244285,6 +244344,7 @@
 ||nine-casinos-fr.fr^$document
 ||nine-casinos.fr^$document
 ||nine-casinosfr.fr^$document
+||nine-win.fr^$document
 ||nine9casino.fr^$document
 ||nineca5ino.fr^$document
 ||ninecas-ino.fr^$document
@@ -244338,6 +244398,7 @@
 ||ninecasinots.fr^$document
 ||ninecasinou.fr^$document
 ||ninecasyno.fr^$document
+||ninecodepromo.fr^$document
 ||ninecommorac.tk^$document
 ||ninefr.fr^$document
 ||ninehearjeeta.ml^$document
@@ -244346,6 +244407,7 @@
 ||ninelrernmalo.tk^$document
 ||ninepromocode.fr^$document
 ||ninerfcredasanex.tk^$document
+||nines-fr.fr^$document
 ||ninetsblabnopbume.tk^$document
 ||ninewin-casino.fr^$document
 ||ninewincasino.fr^$document
@@ -244637,6 +244699,7 @@
 ||nirtoqelipha.cf^$document
 ||niruplidesti.tk^$document
 ||nirvana-casino.fr^$document
+||nirvana-fr.fr^$document
 ||nirvanacasino.fr^$document
 ||nirynripely.cf^$document
 ||nis-bech.dk^$document
@@ -248992,10 +249055,12 @@
 ||nvakgy.cyou^$document
 ||nvalet.tokyo^$document
 ||nvapj.tokyo^$document
+||nvapp.fr^$document
 ||nvau8w.tokyo^$document
 ||nvazkla.bar^$document
 ||nvbdgw.shop^$document
 ||nvbhwpf.bar^$document
+||nvbonus.fr^$document
 ||nvbvpe.rest^$document
 ||nvc85m.shop^$document
 ||nvcasino-fr.fr^$document
@@ -253523,6 +253588,7 @@
 ||olympe-casinofr.fr^$document
 ||olympe-casinos.fr^$document
 ||olympe-prime.fr^$document
+||olympebonus.fr^$document
 ||olympecasino-france.fr^$document
 ||olympecasino1.fr^$document
 ||olympecasino2.fr^$document
@@ -270265,6 +270331,7 @@
 ||playidcasino.fr^$document
 ||playingstrategy.site^$document
 ||playingwithdickandjane.com^$document
+||playio-fr.fr^$document
 ||playio4.fr^$document
 ||playjonny-bet.fr^$document
 ||playjonny-bonus.fr^$document
@@ -270338,6 +270405,7 @@
 ||playwelcome.site^$document
 ||playwithsocialmedia.fr^$document
 ||playwon.biz.id^$document
+||playzax-fr.fr^$document
 ||playzaxcasino.fr^$document
 ||playzee.fr^$document
 ||playzilla-casino.fr^$document
@@ -287441,6 +287509,7 @@
 ||ra-casino-fr.fr^$document
 ||ra-casinoo.fr^$document
 ||ra-casinos.fr^$document
+||ra-fr.fr^$document
 ||ra-ganske.de^$document
 ||ra-gsklegal.de^$document
 ||ra-owl.de^$document
@@ -289294,6 +289363,7 @@
 ||raptewertcapgestvolk.ml^$document
 ||raptive.com^$document
 ||raptor-digital.eu^$document
+||raptor-fr.fr^$document
 ||raptorcasino.fr^$document
 ||raptorial.best^$document
 ||raptp.fr^$document
@@ -299552,7 +299622,9 @@
 ||robo-center.com^$document
 ||robo-center.de^$document
 ||robobot.ee^$document
+||robocat-bonus.fr^$document
 ||robocat-france.fr^$document
+||robocatbonus.fr^$document
 ||robocatcas1no.fr^$document
 ||robocatcasino777.fr^$document
 ||robocatcasinoapp.fr^$document
@@ -299560,6 +299632,7 @@
 ||robocatcasinobonus.fr^$document
 ||robocatcasinologin.fr^$document
 ||robocatcasinopromocode.fr^$document
+||robocatpromocode.fr^$document
 ||robod.my.id^$document
 ||robolephoga.tk^$document
 ||robomeister.de^$document
@@ -300265,6 +300338,7 @@
 ||rolleto.fr^$document
 ||rolletocasino.fr^$document
 ||rolletto-casino.fr^$document
+||rolletto-fr.fr^$document
 ||rolletto.fr^$document
 ||rollettocasino-france.fr^$document
 ||rollettocasino.fr^$document
@@ -304677,6 +304751,7 @@
 ||sa-fr-an.fr^$document
 ||sa-klesiafinances.fr^$document
 ||sa-lagardere.fr^$document
+||sa-navalgroup.fr^$document
 ||sa-prime.fr^$document
 ||sa-weldom.fr^$document
 ||sa0herd.cyou^$document
@@ -309444,6 +309519,7 @@
 ||secure-abo-netflix.fr^$document
 ||secure-accntsamzon.fr^$document
 ||secure-accounts.fr^$document
+||secure-achat.fr^$document
 ||secure-amandes.fr^$document
 ||secure-amazon.fr^$document
 ||secure-ameii.fr^$document
@@ -315590,6 +315666,7 @@
 ||simsinocasinoo.fr^$document
 ||simsinocasinos.fr^$document
 ||simsinocasinoz.fr^$document
+||simsinofrance-fr.fr^$document
 ||simsinofrance.fr^$document
 ||simsinos-casino1.fr^$document
 ||simsinos-casinos.fr^$document
@@ -320223,6 +320300,7 @@
 ||societegeneralemobile.fr^$document
 ||societegeneralemoncompte.fr^$document
 ||societegeneraleonline.fr^$document
+||societegeneraleparis.fr^$document
 ||societegeneraleparticulier.fr^$document
 ||societegeneraleparticuliers.fr^$document
 ||societegeneralepersonnel.fr^$document
@@ -322681,6 +322759,7 @@
 ||spictawadist.tk^$document
 ||spicundesta.gq^$document
 ||spicy-bet.fr^$document
+||spicy-fr.fr^$document
 ||spicy.porn^$document
 ||spicy.porn^$document
 ||spicycasino.fr^$document
@@ -323700,6 +323779,7 @@
 ||sportunacasinolive.fr^$document
 ||sportunacasinologin.fr^$document
 ||sportunacasinologin777.fr^$document
+||sportunafr.fr^$document
 ||sportwa.de^$document
 ||sportwallpapers.my.id^$document
 ||sportwikitw.com^$document
@@ -326393,6 +326473,7 @@
 ||sticky.cool^$document
 ||stickycoding.com^$document
 ||stickywild-casino.fr^$document
+||stickywilds-fr.fr^$document
 ||sticlanerelingking.tk^$document
 ||sticlaniteti.tk^$document
 ||sticmarhayblinra.cf^$document
@@ -327140,6 +327221,7 @@
 ||storeshapewear.com^$document
 ||storeshoes.fr^$document
 ||storesjobpictures.biz^$document
+||storesneakers.fr^$document
 ||storesportsinggoods.com^$document
 ||storetwo.com^$document
 ||storevesrotemerc.tk^$document
@@ -329866,6 +329948,7 @@
 ||superiorrv.com^$document
 ||superkamagra.store^$document
 ||superline.xyz^$document
+||superlines-fr.fr^$document
 ||superlinescasino.fr^$document
 ||supermache-carrefour.fr^$document
 ||supermache-colruyt.fr^$document
@@ -342103,6 +342186,7 @@
 ||thilacolowtbu.tk^$document
 ||thimbgolfrentmenkita.tk^$document
 ||thimblennacunchaedruc.cf^$document
+||thimbles-fr.fr^$document
 ||thimbvanmebackte.tk^$document
 ||thimcounualcpo.tk^$document
 ||thimheatlhentija.cf^$document
@@ -342461,6 +342545,7 @@
 ||thorfortune7.fr^$document
 ||thorfortune777.fr^$document
 ||thorfortunecasino.fr^$document
+||thorfr.fr^$document
 ||thorhenchormooji.ga^$document
 ||thorihillvolk.cf^$document
 ||thornbusosode.tk^$document
@@ -348918,9 +349003,11 @@
 ||tortugacasinofrance.fr^$document
 ||tortugacasinologin.fr^$document
 ||tortugacasinoo.fr^$document
+||tortugafrance-fr.fr^$document
 ||tortugafrance.fr^$document
 ||tortugai.fr^$document
 ||tortugajeux.fr^$document
+||tortugamobile.fr^$document
 ||tortugaofficiel.fr^$document
 ||tortugapromo.fr^$document
 ||tortugas-casino.fr^$document
@@ -350702,6 +350789,7 @@
 ||transcash-activation.fr^$document
 ||transcash-monespacepersonnel.fr^$document
 ||transcash-services.fr^$document
+||transcashattestation.fr^$document
 ||transcashlogin.fr^$document
 ||transcashrecharge.fr^$document
 ||transcilien.fr^$document
@@ -359797,6 +359885,7 @@
 ||unique-mobile.fr^$document
 ||unique-protection.com^$document
 ||unique.center^$document
+||uniquebonus.fr^$document
 ||uniquecasina.fr^$document
 ||uniquecasino-france.fr^$document
 ||uniquecasino-official.fr^$document
@@ -359821,6 +359910,7 @@
 ||uniques-casinos.fr^$document
 ||uniquescasino.fr^$document
 ||uniquescasinos.fr^$document
+||uniqueseconnecter.fr^$document
 ||uniquesweater.com^$document
 ||uniqulo.fr^$document
 ||unirec.si^$document
@@ -364845,6 +364935,7 @@
 ||vavecasino777.fr^$document
 ||vavecasinobet.fr^$document
 ||vavecasinologin.fr^$document
+||vavefr.fr^$document
 ||vaveheartterge.tk^$document
 ||vavema.tk^$document
 ||vavenegisworlle.tk^$document
@@ -366558,6 +366649,7 @@
 ||vegas-ai.art^$document
 ||vegas-ai.art^$document
 ||vegas-days-casino.fr^$document
+||vegas-fr.fr^$document
 ||vegas-hero-appconnexion.fr^$document
 ||vegas-hero-applogin.fr^$document
 ||vegas-hero-bonuslogin.fr^$document
@@ -366616,12 +366708,14 @@
 ||vegasinocasinoo.fr^$document
 ||vegasinoenligne.fr^$document
 ||vegasinofr.fr^$document
+||vegasinofrance-fr.fr^$document
 ||vegasinofrance.fr^$document
 ||vegasinologin.fr^$document
 ||vegasinoo.fr^$document
 ||vegasinoofficial.fr^$document
 ||vegasinoofficiel.fr^$document
 ||vegasinoonline.fr^$document
+||vegasinopromocode.fr^$document
 ||vegasinos-fr.fr^$document
 ||vegasinosfr.fr^$document
 ||vegasking.fr^$document
@@ -366651,6 +366745,7 @@
 ||vegastarscasino.fr^$document
 ||vegasteeshirts.net^$document
 ||vegatebotune.tk^$document
+||vegaz-fr.fr^$document
 ||vegazcasino-fr.fr^$document
 ||vegazcasino-france.fr^$document
 ||vegazino.fr^$document
@@ -367323,6 +367418,7 @@
 ||verde-cassino-france.fr^$document
 ||verde-cassinofr.fr^$document
 ||verde.dk^$document
+||verdeapp.fr^$document
 ||verdebabmogon.cf^$document
 ||verdebonus.fr^$document
 ||verdecasino-fr.fr^$document
@@ -367333,6 +367429,7 @@
 ||verdecasinoo.fr^$document
 ||verdejoderueda.com^$document
 ||verdemnhydva.ml^$document
+||verdepromocode.fr^$document
 ||verderbpacmubip.tk^$document
 ||verdescsmarcyr.tk^$document
 ||verdialebet-casino.fr^$document
@@ -375921,6 +376018,7 @@
 ||vulkanvegasfr.fr^$document
 ||vulkanvegasfrance.fr^$document
 ||vulkanvegasjeu.fr^$document
+||vulkanvegaspromocode.fr^$document
 ||vulkanvegass.fr^$document
 ||vulkhgk.bar^$document
 ||vullairofisus.gq^$document
@@ -379123,6 +379221,7 @@
 ||wazambacasinologin.fr^$document
 ||wazambacasinomobile.fr^$document
 ||wazambacasinos.fr^$document
+||wazambacodepromo.fr^$document
 ||wazambaenligne.fr^$document
 ||wazbeecasino.fr^$document
 ||wazenmutileswe.tk^$document
@@ -382467,6 +382566,7 @@
 ||wilddicecasino24.fr^$document
 ||wilddicecasinoo.fr^$document
 ||wilddicecasinos.fr^$document
+||wilddicefrance-fr.fr^$document
 ||wilddicefrance.fr^$document
 ||wilddingnethy.ml^$document
 ||wilddownmede.tk^$document
@@ -382758,6 +382858,7 @@
 ||win-big-bonus-here8.life^$document
 ||win-big-bonus-here9.life^$document
 ||win-big-here.com^$document
+||win-boost-casino.fr^$document
 ||win-casino-unique.fr^$document
 ||win-clicker-online.buzz^$document
 ||win-disney-transfer.fr^$document
@@ -383252,6 +383353,8 @@
 ||winbetzcasino.fr^$document
 ||winbipindono.tk^$document
 ||winbit.fr^$document
+||winboost1.fr^$document
+||winboosts.fr^$document
 ||winbotagooskuni.tk^$document
 ||winbuinnerchithy.tk^$document
 ||wincashinocasino.fr^$document
@@ -383497,6 +383600,7 @@
 ||winn-ex.icu^$document
 ||winnamax.fr^$document
 ||winnaogriplak.cf^$document
+||winner-fr.fr^$document
 ||winner-yourprise-supergut.life^$document
 ||winner-yourprise-supergut1.life^$document
 ||winner-yourprise-supergut2.life^$document
@@ -383541,6 +383645,7 @@
 ||winnerz-fr.fr^$document
 ||winnerz1.fr^$document
 ||winnerzcasino.fr^$document
+||winnerzfr.fr^$document
 ||winnetegphe.tk^$document
 ||winnew-bigprize.life^$document
 ||winnew-bigprize1.life^$document
@@ -384937,6 +385042,7 @@
 ||wolftowscgiserdar.cf^$document
 ||wolfwestvercadamo.tk^$document
 ||wolfy-casino.fr^$document
+||wolfy-fr.fr^$document
 ||wolfzorciogreasar.ga^$document
 ||woljtuxo.tokyo^$document
 ||wolk.si^$document
@@ -388412,6 +388518,7 @@
 ||wyndfimalesssand.tk^$document
 ||wynnvest.com^$document
 ||wynpypotgabig.ml^$document
+||wynsfr.fr^$document
 ||wynstd.cyou^$document
 ||wyo4tw.cyou^$document
 ||wyochauliou.tk^$document
