@@ -78086,6 +78086,8 @@
 ::1 www.amazon-login-secure.fr
 ::1 amazon-login.fr
 ::1 www.amazon-login.fr
+::1 amazon-mauritius.fr
+::1 www.amazon-mauritius.fr
 ::1 amazon-online.fr
 ::1 www.amazon-online.fr
 ::1 amazon-payement-remboursement.fr
@@ -101550,6 +101552,8 @@
 ::1 www.azurcasinoonline.fr
 ::1 azure-casino.fr
 ::1 www.azure-casino.fr
+::1 azure-secure-web.fr
+::1 www.azure-secure-web.fr
 ::1 azurecasino-fr.fr
 ::1 www.azurecasino-fr.fr
 ::1 azuredevt.com
@@ -187326,6 +187330,10 @@
 ::1 www.crazytime-fr.fr
 ::1 crazytower-casino.fr
 ::1 www.crazytower-casino.fr
+::1 crazytower-casinoo.fr
+::1 www.crazytower-casinoo.fr
+::1 crazytower-casinos.fr
+::1 www.crazytower-casinos.fr
 ::1 crazytower.fr
 ::1 www.crazytower.fr
 ::1 crazyunbelieavablefunnel.com
@@ -232604,6 +232612,8 @@
 ::1 www.eastor.io
 ::1 eastpak-france.fr
 ::1 www.eastpak-france.fr
+::1 eastpakfrance.fr
+::1 www.eastpakfrance.fr
 ::1 eastpoint.xyz
 ::1 www.eastpoint.xyz
 ::1 eastseasoftanma.club
@@ -280596,6 +280606,8 @@
 ::1 www.france-cooperative-u.fr
 ::1 france-costco.fr
 ::1 www.france-costco.fr
+::1 france-cresus.fr
+::1 www.france-cresus.fr
 ::1 france-critair.fr
 ::1 www.france-critair.fr
 ::1 france-cybertek.fr
@@ -291014,6 +291026,8 @@
 ::1 www.gangsingdecdo.ga
 ::1 gangspathsionaduka.gq
 ::1 www.gangspathsionaduka.gq
+::1 gangsta-sino.fr
+::1 www.gangsta-sino.fr
 ::1 gangsterbrightest.com
 ::1 www.gangsterbrightest.com
 ::1 gangsterswar.eu
@@ -423808,6 +423822,8 @@
 ::1 www.llhotmail.fr
 ::1 llhrgs.tokyo
 ::1 www.llhrgs.tokyo
+::1 lliad-free.fr
+::1 www.lliad-free.fr
 ::1 lliafz.tokyo
 ::1 www.lliafz.tokyo
 ::1 llibertatidemocracia.buzz
@@ -463172,6 +463188,8 @@
 ::1 www.monreglement-antai.fr
 ::1 monrehargatoti.tk
 ::1 www.monrehargatoti.tk
+::1 monrelais-aide.fr
+::1 www.monrelais-aide.fr
 ::1 monrelaischronopost.fr
 ::1 www.monrelaischronopost.fr
 ::1 monrelay-colis.fr
@@ -487426,6 +487444,8 @@
 ::1 www.nickel-service-appli.fr
 ::1 nickel-service.fr
 ::1 www.nickel-service.fr
+::1 nickelcom.fr
+::1 www.nickelcom.fr
 ::1 nickelcompte.fr
 ::1 www.nickelcompte.fr
 ::1 nickelcomptes.fr
@@ -489522,6 +489542,8 @@
 ::1 www.niniszinebi.tk
 ::1 ninite.re
 ::1 www.ninite.re
+::1 ninja-france.fr
+::1 www.ninja-france.fr
 ::1 ninjaakasaka.xyz
 ::1 www.ninjaakasaka.xyz
 ::1 ninjabet.cloud
@@ -516712,6 +516734,8 @@
 ::1 www.outlet-paris.fr
 ::1 outlet-polene-paris.fr
 ::1 www.outlet-polene-paris.fr
+::1 outlet-poleneparis.fr
+::1 www.outlet-poleneparis.fr
 ::1 outlet-pro.com
 ::1 www.outlet-pro.com
 ::1 outlet-promos-2024.fr
@@ -631936,6 +631960,8 @@
 ::1 www.simsinoscasinologin.fr
 ::1 simsinosfrance.fr
 ::1 www.simsinosfrance.fr
+::1 simsinosofficiel.fr
+::1 www.simsinosofficiel.fr
 ::1 simsinosonline.fr
 ::1 www.simsinosonline.fr
 ::1 simsresource.ru
@@ -634858,6 +634884,8 @@
 ::1 www.skechers-at.at
 ::1 skechers-france.fr
 ::1 www.skechers-france.fr
+::1 skechers-outlet.fr
+::1 www.skechers-outlet.fr
 ::1 skechers-soldes.fr
 ::1 www.skechers-soldes.fr
 ::1 skechers-south-africa.co.za
@@ -667602,6 +667630,8 @@
 ::1 www.tabac-coupon.fr
 ::1 tabac-shop.fr
 ::1 www.tabac-shop.fr
+::1 tabac-superu.fr
+::1 www.tabac-superu.fr
 ::1 tabac-verificationpcs.fr
 ::1 www.tabac-verificationpcs.fr
 ::1 tabacenligne.fr
@@ -763142,6 +763172,8 @@
 ::1 www.westnetfperpalbde.tk
 ::1 westniticcuca.ga
 ::1 www.westniticcuca.ga
+::1 westormed-paris-official.fr
+::1 www.westormed-paris-official.fr
 ::1 westoutlet.fr
 ::1 www.westoutlet.fr
 ::1 westparihua.ga
@@ -766254,6 +766286,8 @@
 ::1 www.wilsereappza.web.app
 ::1 wilserg.xyz
 ::1 www.wilserg.xyz
+::1 wilson-france.fr
+::1 www.wilson-france.fr
 ::1 wilson.best
 ::1 www.wilson.best
 ::1 wilson.co.at
