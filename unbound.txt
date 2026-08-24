@@ -336515,6 +336515,7 @@ local-zone: "techkfibelsari.tk" always_refuse
 local-zone: "techkhaganapcu.tk" always_refuse
 local-zone: "techklatoconro.ml" always_refuse
 local-zone: "techkpetomuhydno.gq" always_refuse
+local-zone: "techlasi.com" always_refuse
 local-zone: "techmezootudiveg.cf" always_refuse
 local-zone: "techmiforhahosnai.tk" always_refuse
 local-zone: "techmintnanloggtiza.tk" always_refuse

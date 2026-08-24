@@ -336515,6 +336515,7 @@ neg {name=techkfibelsari.tk; types=domain;}
 neg {name=techkhaganapcu.tk; types=domain;}
 neg {name=techklatoconro.ml; types=domain;}
 neg {name=techkpetomuhydno.gq; types=domain;}
+neg {name=techlasi.com; types=domain;}
 neg {name=techmezootudiveg.cf; types=domain;}
 neg {name=techmiforhahosnai.tk; types=domain;}
 neg {name=techmintnanloggtiza.tk; types=domain;}
