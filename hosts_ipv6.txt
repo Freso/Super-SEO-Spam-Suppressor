@@ -20808,8 +20808,6 @@
 ::1 www.2wh25g.tokyo
 ::1 2wh9i2.cyou
 ::1 www.2wh9i2.cyou
-::1 2wheelshero.com
-::1 www.2wheelshero.com
 ::1 2whjai.tokyo
 ::1 www.2whjai.tokyo
 ::1 2whu35q.tokyo
@@ -73554,8 +73552,6 @@
 ::1 www.akurl.xyz
 ::1 akurmiwiven.ml
 ::1 www.akurmiwiven.ml
-::1 akusoli.com
-::1 www.akusoli.com
 ::1 akustik-box.de
 ::1 www.akustik-box.de
 ::1 akustika1.ru
@@ -87440,8 +87436,6 @@
 ::1 www.apossinenmopgdit.ml
 ::1 apostrophesubdued.com
 ::1 www.apostrophesubdued.com
-::1 apotek-no24.com
-::1 www.apotek-no24.com
 ::1 apotek-norge24.com
 ::1 www.apotek-norge24.com
 ::1 apotekb213.com
@@ -109562,6 +109556,8 @@
 ::1 www.beachtennislugano.ch
 ::1 beachtioconta.tk
 ::1 www.beachtioconta.tk
+::1 beachwalkbali.com
+::1 www.beachwalkbali.com
 ::1 beaconzero.net
 ::1 www.beaconzero.net
 ::1 beacuc.shop
@@ -113924,6 +113920,8 @@
 ::1 www.bestelnuar.click
 ::1 bestemailmarketingservices.xyz
 ::1 www.bestemailmarketingservices.xyz
+::1 bestemed.com
+::1 www.bestemed.com
 ::1 bestemedikamente.com
 ::1 www.bestemedikamente.com
 ::1 bestenkaufen.com
@@ -144340,8 +144338,6 @@
 ::1 www.canada2024-lnterac.fr
 ::1 canadabreakingnews.com
 ::1 www.canadabreakingnews.com
-::1 canadadrugstore.com
-::1 www.canadadrugstore.com
 ::1 canadagooseoutletfrance.fr
 ::1 www.canadagooseoutletfrance.fr
 ::1 canadagoosepaschere.fr
@@ -239646,6 +239642,8 @@
 ::1 www.elektroheld24.de
 ::1 elektrokaufen.com
 ::1 www.elektrokaufen.com
+::1 elektrokaz.com
+::1 www.elektrokaz.com
 ::1 elektrokessmarkt.de
 ::1 www.elektrokessmarkt.de
 ::1 elektrokomfort24.ru
@@ -305172,8 +305170,6 @@
 ::1 www.goldenplaycasinofr.fr
 ::1 goldenplayonline.fr
 ::1 www.goldenplayonline.fr
-::1 goldenpump.de
-::1 www.goldenpump.de
 ::1 goldenr.fr
 ::1 www.goldenr.fr
 ::1 goldenretrievervompfarrgarten.de
@@ -334266,6 +334262,8 @@
 ::1 www.hjyops.bar
 ::1 hjyr.com.cn
 ::1 www.hjyr.com.cn
+::1 hjz-handel.de
+::1 www.hjz-handel.de
 ::1 hjzamz.rest
 ::1 www.hjzamz.rest
 ::1 hjzgmwl.cyou
@@ -408092,6 +408090,8 @@
 ::1 www.lbszftg.cn
 ::1 lbszka.rest
 ::1 www.lbszka.rest
+::1 lbtinc.com
+::1 www.lbtinc.com
 ::1 lbtx8c.cyou
 ::1 www.lbtx8c.cyou
 ::1 lbu7yb.xyz
@@ -409496,6 +409496,8 @@
 ::1 www.lebensartikel.com
 ::1 lebensfreude-musik.eu
 ::1 www.lebensfreude-musik.eu
+::1 lebenskernde.com
+::1 www.lebenskernde.com
 ::1 lebensmittelgeschaft.com
 ::1 www.lebensmittelgeschaft.com
 ::1 lebensmittelgeschafte.com
@@ -463620,6 +463622,8 @@
 ::1 www.montrepas-cher.fr
 ::1 montreremarli.ml
 ::1 www.montreremarli.ml
+::1 montrereplique.to
+::1 www.montrereplique.to
 ::1 montres-intelligentes.com
 ::1 www.montres-intelligentes.com
 ::1 montresfrance.fr
@@ -513328,6 +513332,8 @@
 ::1 www.oritunjo.ga
 ::1 oriumfrance.com
 ::1 www.oriumfrance.com
+::1 orivelle-official.com
+::1 www.orivelle-official.com
 ::1 orivlyachilafilt.cf
 ::1 www.orivlyachilafilt.cf
 ::1 oriwdl.bar
@@ -514444,6 +514450,8 @@
 ::1 www.oshinmiaperca.tk
 ::1 oshismicomnehost.ga
 ::1 www.oshismicomnehost.ga
+::1 oshoplive.com
+::1 www.oshoplive.com
 ::1 oshoselcude.cf
 ::1 www.oshoselcude.cf
 ::1 oshydtocelthe.cf
@@ -615468,6 +615476,8 @@
 ::1 www.scanmountadaburle.tk
 ::1 scannegbiospin.tk
 ::1 www.scannegbiospin.tk
+::1 scannero.io
+::1 www.scannero.io
 ::1 scannetbutik.dk
 ::1 www.scannetbutik.dk
 ::1 scanoctobolt.ml
@@ -628020,6 +628030,8 @@
 ::1 www.shedwinnipeg.com
 ::1 sheely.org
 ::1 www.sheely.org
+::1 sheenplace.com
+::1 www.sheenplace.com
 ::1 sheeny.org
 ::1 www.sheeny.org
 ::1 sheepdogs.dk
@@ -673854,8 +673866,6 @@
 ::1 www.tdzkplp.tokyo
 ::1 tdzoyy.bar
 ::1 www.tdzoyy.bar
-::1 te.de
-::1 www.te.de
 ::1 te00cg.cyou
 ::1 www.te00cg.cyou
 ::1 te0dpnn.cyou
@@ -706536,8 +706546,6 @@
 ::1 www.trustedgreencbd.com
 ::1 trustedkeys.es
 ::1 www.trustedkeys.es
-::1 trustedmedstore24.com
-::1 www.trustedmedstore24.com
 ::1 trustednorx.com
 ::1 www.trustednorx.com
 ::1 trustedparents.com
@@ -717790,6 +717798,8 @@
 ::1 www.umhostesi.cf
 ::1 umhunt.asia
 ::1 www.umhunt.asia
+::1 umiaholz.com
+::1 www.umiaholz.com
 ::1 umieg-waren.de
 ::1 www.umieg-waren.de
 ::1 umii3o.cyou
@@ -760312,6 +760322,8 @@
 ::1 www.webeex.fr
 ::1 webeqq.tokyo
 ::1 www.webeqq.tokyo
+::1 weber-baumarkt.com
+::1 www.weber-baumarkt.com
 ::1 weber-fr.fr
 ::1 www.weber-fr.fr
 ::1 weber-france.fr
@@ -763916,8 +763928,6 @@
 ::1 www.whereter.my.id
 ::1 whereube.com
 ::1 www.whereube.com
-::1 whereverk.com
-::1 www.whereverk.com
 ::1 wherewasit.com
 ::1 www.wherewasit.com
 ::1 whesacosodop.gq
