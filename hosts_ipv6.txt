@@ -61464,6 +61464,8 @@
 ::1 www.abfluss-profi.at
 ::1 abfobenbats.tk
 ::1 www.abfobenbats.tk
+::1 abforstwirtschaft.de
+::1 www.abforstwirtschaft.de
 ::1 abfrinecodop.ga
 ::1 www.abfrinecodop.ga
 ::1 abftest.club
@@ -87436,6 +87438,8 @@
 ::1 www.apossinenmopgdit.ml
 ::1 apostrophesubdued.com
 ::1 www.apostrophesubdued.com
+::1 apotek-no24.com
+::1 www.apotek-no24.com
 ::1 apotek-norge24.com
 ::1 www.apotek-norge24.com
 ::1 apotekb213.com
@@ -107434,6 +107438,8 @@
 ::1 www.basis3.dk
 ::1 basistioroca.cf
 ::1 www.basistioroca.cf
+::1 basiswallet.co
+::1 www.basiswallet.co
 ::1 basjbk.tokyo
 ::1 www.basjbk.tokyo
 ::1 basjglz.tokyo
@@ -121206,6 +121212,8 @@
 ::1 www.bitcoin-revolution.org
 ::1 bitcoin-shop.ro
 ::1 www.bitcoin-shop.ro
+::1 bitcoin-up.io
+::1 www.bitcoin-up.io
 ::1 bitcoin-xact.fr
 ::1 www.bitcoin-xact.fr
 ::1 bitcoinarchon.com
@@ -144338,6 +144346,8 @@
 ::1 www.canada2024-lnterac.fr
 ::1 canadabreakingnews.com
 ::1 www.canadabreakingnews.com
+::1 canadadrugstore.com
+::1 www.canadadrugstore.com
 ::1 canadagooseoutletfrance.fr
 ::1 www.canadagooseoutletfrance.fr
 ::1 canadagoosepaschere.fr
@@ -202358,6 +202368,8 @@
 ::1 www.de-filter.com
 ::1 de-fizzclean.com
 ::1 www.de-fizzclean.com
+::1 de-lumelia.com
+::1 www.de-lumelia.com
 ::1 de-musicshop.com
 ::1 www.de-musicshop.com
 ::1 de-orion.site
@@ -278404,6 +278416,8 @@
 ::1 www.fosterchildpublicitytower.com
 ::1 fosterits.eu
 ::1 www.fosterits.eu
+::1 fosterrefrigerator.de
+::1 www.fosterrefrigerator.de
 ::1 fosterrespite.com
 ::1 www.fosterrespite.com
 ::1 fostra-si.ch
@@ -385464,6 +385478,8 @@
 ::1 www.kamagra-pro.com
 ::1 kamagra-pro.net
 ::1 www.kamagra-pro.net
+::1 kamagra-pro.online
+::1 www.kamagra-pro.online
 ::1 kamagra-prodej-online.eu
 ::1 www.kamagra-prodej-online.eu
 ::1 kamagra-prodej.cz
@@ -463634,8 +463650,6 @@
 ::1 www.montrepas-cher.fr
 ::1 montreremarli.ml
 ::1 www.montreremarli.ml
-::1 montrereplique.to
-::1 www.montrereplique.to
 ::1 montres-intelligentes.com
 ::1 www.montres-intelligentes.com
 ::1 montresfrance.fr
@@ -644054,8 +644068,6 @@
 ::1 www.sow6t2.cyou
 ::1 sowaoptive.asia
 ::1 www.sowaoptive.asia
-::1 sowaswillichauch.de
-::1 www.sowaswillichauch.de
 ::1 sowbrl.bar
 ::1 www.sowbrl.bar
 ::1 sowepirare.gq
@@ -673882,6 +673894,8 @@
 ::1 www.tdzkplp.tokyo
 ::1 tdzoyy.bar
 ::1 www.tdzoyy.bar
+::1 te.de
+::1 www.te.de
 ::1 te00cg.cyou
 ::1 www.te00cg.cyou
 ::1 te0dpnn.cyou
@@ -703818,6 +703832,8 @@
 ::1 www.tresolenchelin.gq
 ::1 tresonsioterzaring.cf
 ::1 www.tresonsioterzaring.cf
+::1 tresorbit.com
+::1 www.tresorbit.com
 ::1 tresorcreditmutuel.fr
 ::1 www.tresorcreditmutuel.fr
 ::1 tresorerie-marchespublics.fr
@@ -706564,6 +706580,8 @@
 ::1 www.trustedgreencbd.com
 ::1 trustedkeys.es
 ::1 www.trustedkeys.es
+::1 trustedmedstore24.com
+::1 www.trustedmedstore24.com
 ::1 trustednorx.com
 ::1 www.trustednorx.com
 ::1 trustedparents.com
@@ -802688,6 +802706,8 @@
 ::1 www.yualfq.bar
 ::1 yualfq.rest
 ::1 www.yualfq.rest
+::1 yuan-paygroup.com
+::1 www.yuan-paygroup.com
 ::1 yuandait.com
 ::1 www.yuandait.com
 ::1 yuanlida.com
