@@ -65634,6 +65634,8 @@
 ::1 www.actualisation-netflix.fr
 ::1 actualisation-payement-netfiix.fr
 ::1 www.actualisation-payement-netfiix.fr
+::1 actualisation-prime.fr
+::1 www.actualisation-prime.fr
 ::1 actualisation-sante-france.fr
 ::1 www.actualisation-sante-france.fr
 ::1 actualisation-sante.fr
@@ -67642,6 +67644,8 @@
 ::1 www.adriano-restaurant.de
 ::1 adriatica-bikes.cz
 ::1 www.adriatica-bikes.cz
+::1 adriaticljekarna.com
+::1 www.adriaticljekarna.com
 ::1 adrielas.eu
 ::1 www.adrielas.eu
 ::1 adrienhuang.com
@@ -87668,8 +87672,6 @@
 ::1 www.app.robex-ai.com
 ::1 app.upifex.org
 ::1 www.app.upifex.org
-::1 app.zety.de
-::1 www.app.zety.de
 ::1 app4biz.eu
 ::1 www.app4biz.eu
 ::1 appalachiandns.net
@@ -88434,6 +88436,8 @@
 ::1 www.aptekabg247.com
 ::1 aptekabulgarska247.com
 ::1 www.aptekabulgarska247.com
+::1 aptekaszkolenia.pl
+::1 www.aptekaszkolenia.pl
 ::1 aptelparero.tk
 ::1 www.aptelparero.tk
 ::1 aptenahandtab.tk
@@ -99678,6 +99682,8 @@
 ::1 www.avnixy.bar
 ::1 avnseceron.gq
 ::1 www.avnseceron.gq
+::1 avo-pharmacy.com
+::1 www.avo-pharmacy.com
 ::1 avobbj.bar
 ::1 www.avobbj.bar
 ::1 avocadotraiteur.com
@@ -121244,8 +121250,6 @@
 ::1 www.bitcoin-revolution.org
 ::1 bitcoin-shop.ro
 ::1 www.bitcoin-shop.ro
-::1 bitcoin-up.io
-::1 www.bitcoin-up.io
 ::1 bitcoin-xact.fr
 ::1 www.bitcoin-xact.fr
 ::1 bitcoinarchon.com
@@ -134222,6 +134226,8 @@
 ::1 www.brutalmathematics.com
 ::1 brutalobserver.com
 ::1 www.brutalobserver.com
+::1 brutalplay-fr.fr
+::1 www.brutalplay-fr.fr
 ::1 brutalporn.info
 ::1 www.brutalporn.info
 ::1 brutaralwar.tk
@@ -179848,6 +179854,8 @@
 ::1 www.connection-nflx.fr
 ::1 connection-pro.fr
 ::1 www.connection-pro.fr
+::1 connection-tech.fr
+::1 www.connection-tech.fr
 ::1 connectlinkr.com
 ::1 www.connectlinkr.com
 ::1 connectlon.pm
@@ -211780,6 +211788,8 @@
 ::1 www.diaruptpumy.cf
 ::1 diarynidestningdec.gq
 ::1 www.diarynidestningdec.gq
+::1 diaryofafitmommy.com
+::1 www.diaryofafitmommy.com
 ::1 diarypuddle.com
 ::1 www.diarypuddle.com
 ::1 diasafihorakou.gq
@@ -212292,6 +212302,8 @@
 ::1 www.dicmadepu.tk
 ::1 dicmanemduefarterp.tk
 ::1 www.dicmanemduefarterp.tk
+::1 dicn-interieurgouv.fr
+::1 www.dicn-interieurgouv.fr
 ::1 dicnaebiver.tk
 ::1 www.dicnaebiver.tk
 ::1 dicnagebekear.cf
@@ -223884,6 +223896,8 @@
 ::1 www.dragoniacasino.fr
 ::1 dragoniacasinos.fr
 ::1 www.dragoniacasinos.fr
+::1 dragoniaofficial.fr
+::1 www.dragoniaofficial.fr
 ::1 dragonmining.pw
 ::1 www.dragonmining.pw
 ::1 dragonproject.eu
@@ -254066,8 +254080,6 @@
 ::1 www.eu-pharmacy-online.com
 ::1 eu-pharmacy.fr
 ::1 www.eu-pharmacy.fr
-::1 eu-pillstore.com
-::1 www.eu-pillstore.com
 ::1 eu-prime.fr
 ::1 www.eu-prime.fr
 ::1 eu-sezane.com
@@ -267332,6 +267344,8 @@
 ::1 www.fetirearesco.ml
 ::1 fetish4movie.mobi
 ::1 www.fetish4movie.mobi
+::1 fetishmegastore.com
+::1 www.fetishmegastore.com
 ::1 fetistterroaspoonchor.tk
 ::1 www.fetistterroaspoonchor.tk
 ::1 fetjvjj.bar
@@ -276600,8 +276614,6 @@
 ::1 www.footjoygolfshoesuk.com
 ::1 footjoyjapan.net
 ::1 www.footjoyjapan.net
-::1 footjoyoutletfactory.us
-::1 www.footjoyoutletfactory.us
 ::1 footjoyoutletmexico.com
 ::1 www.footjoyoutletmexico.com
 ::1 footjoys.at
@@ -276702,6 +276714,8 @@
 ::1 www.footweperliastanad.cf
 ::1 footwitchcicibigug.ga
 ::1 www.footwitchcicibigug.ga
+::1 footx-shop.fr
+::1 www.footx-shop.fr
 ::1 foova.xyz
 ::1 www.foova.xyz
 ::1 fooverswheadocma.ga
@@ -366942,6 +366956,8 @@
 ::1 www.itrtelurnirin.ml
 ::1 itrucesam.ga
 ::1 www.itrucesam.ga
+::1 itruecare.com
+::1 www.itruecare.com
 ::1 its-alsace.fr
 ::1 www.its-alsace.fr
 ::1 its201.com
@@ -385596,6 +385612,8 @@
 ::1 www.kamagra-kamagra.cz
 ::1 kamagra-kral.cz
 ::1 www.kamagra-kral.cz
+::1 kamagra-kupon.eu
+::1 www.kamagra-kupon.eu
 ::1 kamagra-obchod.cz
 ::1 www.kamagra-obchod.cz
 ::1 kamagra-obchod.sk
@@ -385610,6 +385628,8 @@
 ::1 www.kamagra-pro.com
 ::1 kamagra-pro.net
 ::1 www.kamagra-pro.net
+::1 kamagra-prodej-levne.cz
+::1 www.kamagra-prodej-levne.cz
 ::1 kamagra-prodej-online.eu
 ::1 www.kamagra-prodej-online.eu
 ::1 kamagra-prodej.cz
@@ -385662,6 +385682,8 @@
 ::1 www.kamagraboutique.com
 ::1 kamagracz.cz
 ::1 www.kamagracz.cz
+::1 kamagrae-shop.eu
+::1 www.kamagrae-shop.eu
 ::1 kamagraelite.shop
 ::1 www.kamagraelite.shop
 ::1 kamagraeshop.eu
@@ -385690,6 +385712,8 @@
 ::1 www.kamagralove.store
 ::1 kamagraman.cz
 ::1 www.kamagraman.cz
+::1 kamagranadobirku.com
+::1 www.kamagranadobirku.com
 ::1 kamagraobchod.cz
 ::1 www.kamagraobchod.cz
 ::1 kamagraonline.fr
@@ -411686,6 +411710,8 @@
 ::1 www.lekarna-manesova.cz
 ::1 lekarna-protebe.cz
 ::1 www.lekarna-protebe.cz
+::1 lekarna-sloup.cz
+::1 www.lekarna-sloup.cz
 ::1 lekarna-viktorie.com
 ::1 www.lekarna-viktorie.com
 ::1 lekarnaaqua.com
@@ -422990,6 +423016,8 @@
 ::1 www.ljdmqdj.bar
 ::1 ljekarna-osijek.com
 ::1 www.ljekarna-osijek.com
+::1 ljekarnacroatia.com
+::1 www.ljekarnacroatia.com
 ::1 ljewaslimimadis.gq
 ::1 www.ljewaslimimadis.gq
 ::1 ljeyvm.bar
@@ -437510,6 +437538,8 @@
 ::1 www.mafia-enligne.fr
 ::1 mafia-online.fr
 ::1 www.mafia-online.fr
+::1 mafia-play.fr
+::1 www.mafia-play.fr
 ::1 mafiacasino-fr.fr
 ::1 www.mafiacasino-fr.fr
 ::1 mafiacasino-france.fr
@@ -437534,6 +437564,8 @@
 ::1 www.mafiacasinoo.fr
 ::1 mafiaenligne.fr
 ::1 www.mafiaenligne.fr
+::1 mafias-play.fr
+::1 www.mafias-play.fr
 ::1 mafibomerkile.tk
 ::1 www.mafibomerkile.tk
 ::1 maficaltamud.ml
@@ -441456,6 +441488,8 @@
 ::1 www.manzicorlo.tk
 ::1 manziorafi.it
 ::1 www.manziorafi.it
+::1 manzone.fit
+::1 www.manzone.fit
 ::1 manzone.store
 ::1 www.manzone.store
 ::1 mao44.cyou
@@ -446782,6 +446816,8 @@
 ::1 www.medicusraciborz.pl
 ::1 mediebladet.dk
 ::1 www.mediebladet.dk
+::1 medieu.com
+::1 www.medieu.com
 ::1 medigoru.xyz
 ::1 www.medigoru.xyz
 ::1 medigov.com
@@ -462996,6 +463032,8 @@
 ::1 www.monodelphian.best
 ::1 monofdis.my.id
 ::1 www.monofdis.my.id
+::1 monoffre-marionnaud.fr
+::1 www.monoffre-marionnaud.fr
 ::1 monoffre-prime.fr
 ::1 www.monoffre-prime.fr
 ::1 monofileschnure.com
@@ -489092,6 +489130,8 @@
 ::1 www.nine-casinosfr.fr
 ::1 nine-win.fr
 ::1 www.nine-win.fr
+::1 nine1nine.fr
+::1 www.nine1nine.fr
 ::1 nine9casino.fr
 ::1 www.nine9casino.fr
 ::1 nineca5ino.fr
@@ -489488,6 +489528,8 @@
 ::1 www.ninlaycasino.fr
 ::1 ninlotursacer.ga
 ::1 www.ninlotursacer.ga
+::1 ninne-play.fr
+::1 www.ninne-play.fr
 ::1 ninnededifit.gq
 ::1 www.ninnededifit.gq
 ::1 ninnspn.work
@@ -520048,6 +520090,8 @@
 ::1 www.p1rql8a.cyou
 ::1 p1s08k7.cn
 ::1 www.p1s08k7.cn
+::1 p1stolocas1no.fr
+::1 www.p1stolocas1no.fr
 ::1 p1t1go.icu
 ::1 www.p1t1go.icu
 ::1 p1t1go.xyz
@@ -534768,6 +534812,8 @@
 ::1 www.pharma-bonneville-bray-dunes.fr
 ::1 pharma-cards.de
 ::1 www.pharma-cards.de
+::1 pharma-euro.com
+::1 www.pharma-euro.com
 ::1 pharma-versandhandel.de
 ::1 www.pharma-versandhandel.de
 ::1 pharma4health.com
@@ -542372,6 +542418,8 @@
 ::1 www.plusdisney.fr
 ::1 plushair.cz
 ::1 www.plushair.cz
+::1 plushair.sk
+::1 www.plushair.sk
 ::1 plushroomdesign.com
 ::1 www.plushroomdesign.com
 ::1 plusinfudive.tk
@@ -589362,6 +589410,8 @@
 ::1 www.reprogrammationcolis.fr
 ::1 reprogrammer-choix.fr
 ::1 www.reprogrammer-choix.fr
+::1 reprogrammer-colis.fr
+::1 www.reprogrammer-colis.fr
 ::1 reprogrammer-ma-livraison-colissimo.fr
 ::1 www.reprogrammer-ma-livraison-colissimo.fr
 ::1 reprogrammer-ma-livraison.fr
@@ -591624,6 +591674,8 @@
 ::1 www.revery-play-casino.fr
 ::1 revery-play-fr.fr
 ::1 www.revery-play-fr.fr
+::1 revery-play1.fr
+::1 www.revery-play1.fr
 ::1 revery-plays.fr
 ::1 www.revery-plays.fr
 ::1 reveryplay-casino.fr
@@ -606328,6 +606380,8 @@
 ::1 www.russianmi.com
 ::1 russiannewstoday.com
 ::1 www.russiannewstoday.com
+::1 russianpharmacy.org
+::1 www.russianpharmacy.org
 ::1 russiapigs.com
 ::1 www.russiapigs.com
 ::1 russiiprenchannusb.tk
@@ -628526,6 +628580,8 @@
 ::1 www.shinyflakes.de
 ::1 shinywilds-fr.fr
 ::1 www.shinywilds-fr.fr
+::1 shinywildscas1no-fr.fr
+::1 www.shinywildscas1no-fr.fr
 ::1 shinywildsfr.fr
 ::1 www.shinywildsfr.fr
 ::1 shinywildsfrance.fr
@@ -631844,6 +631900,8 @@
 ::1 www.simsinos-fra.fr
 ::1 simsinos-france.fr
 ::1 www.simsinos-france.fr
+::1 simsinos-french.fr
+::1 www.simsinos-french.fr
 ::1 simsinos1.fr
 ::1 www.simsinos1.fr
 ::1 simsinos2.fr
@@ -631872,6 +631930,8 @@
 ::1 www.simsinosonline.fr
 ::1 simsresource.ru
 ::1 www.simsresource.ru
+::1 simssinos.fr
+::1 www.simssinos.fr
 ::1 simsterest.xyz
 ::1 www.simsterest.xyz
 ::1 simsusstetovab.ga
@@ -641564,8 +641624,6 @@
 ::1 www.softdosamphilders.ml
 ::1 softdrivgatasonli.tk
 ::1 www.softdrivgatasonli.tk
-::1 softelektro.com
-::1 www.softelektro.com
 ::1 softeneddefenceinflation.com
 ::1 www.softeneddefenceinflation.com
 ::1 softeninsinuate.com
@@ -644272,8 +644330,6 @@
 ::1 www.sow6t2.cyou
 ::1 sowaoptive.asia
 ::1 www.sowaoptive.asia
-::1 sowaswillichauch.de
-::1 www.sowaswillichauch.de
 ::1 sowbrl.bar
 ::1 www.sowbrl.bar
 ::1 sowepirare.gq
@@ -644406,6 +644462,8 @@
 ::1 www.sp11xy.rest
 ::1 sp15jz.pl
 ::1 www.sp15jz.pl
+::1 sp1nformula-plays.fr
+::1 www.sp1nformula-plays.fr
 ::1 sp1wn1.cyou
 ::1 www.sp1wn1.cyou
 ::1 sp1xwv.rest
@@ -656686,6 +656744,8 @@
 ::1 www.stupexricare.ml
 ::1 stupharplogdyvert.ml
 ::1 www.stupharplogdyvert.ml
+::1 stupidcas1no-fr.fr
+::1 www.stupidcas1no-fr.fr
 ::1 stupidcasino-official.fr
 ::1 www.stupidcasino-official.fr
 ::1 stupidfinding.com
@@ -662830,6 +662890,8 @@
 ::1 www.svobnielorikke.tk
 ::1 svoest.tokyo
 ::1 www.svoest.tokyo
+::1 svojaljekarna.hr
+::1 www.svojaljekarna.hr
 ::1 svoladtergeandhudle.tk
 ::1 www.svoladtergeandhudle.tk
 ::1 svontt.bar
@@ -698534,6 +698596,8 @@
 ::1 www.tortuga-vip.fr
 ::1 tortuga.re
 ::1 www.tortuga.re
+::1 tortuga5.fr
+::1 www.tortuga5.fr
 ::1 tortugaa.fr
 ::1 www.tortugaa.fr
 ::1 tortugacasino-france.fr
@@ -706494,6 +706558,8 @@
 ::1 www.true-ph.com
 ::1 true-porno-movie.buzz
 ::1 www.true-porno-movie.buzz
+::1 true-pp.com
+::1 www.true-pp.com
 ::1 true-pussy-news.buzz
 ::1 www.true-pussy-news.buzz
 ::1 true-sexy-tube.buzz
@@ -706796,6 +706862,8 @@
 ::1 www.trustedallovertheworld.com
 ::1 trustedconsumerreview.online
 ::1 www.trustedconsumerreview.online
+::1 trustedcroatian.com
+::1 www.trustedcroatian.com
 ::1 trustedgreencbd.com
 ::1 www.trustedgreencbd.com
 ::1 trustedkeys.es
@@ -710666,6 +710734,8 @@
 ::1 www.twinklefemale.com
 ::1 twinmimvonivar.tk
 ::1 www.twinmimvonivar.tk
+::1 twinn-play.fr
+::1 www.twinn-play.fr
 ::1 twinnilibo.ga
 ::1 www.twinnilibo.ga
 ::1 twinnyahalkeypers.tk
@@ -764202,6 +764272,8 @@
 ::1 www.whereter.my.id
 ::1 whereube.com
 ::1 www.whereube.com
+::1 whereverk.com
+::1 www.whereverk.com
 ::1 wherewasit.com
 ::1 www.wherewasit.com
 ::1 whesacosodop.gq
@@ -765874,6 +765946,8 @@
 ::1 www.wildrobin-official.fr
 ::1 wildrobin-officiel.fr
 ::1 www.wildrobin-officiel.fr
+::1 wildrobincas1no-fr.fr
+::1 www.wildrobincas1no-fr.fr
 ::1 wildrobincasino-fr.fr
 ::1 www.wildrobincasino-fr.fr
 ::1 wildrobinfrance.fr
@@ -767252,6 +767326,8 @@
 ::1 www.winbeatzcasino.fr
 ::1 winbeatzcasinos.fr
 ::1 www.winbeatzcasinos.fr
+::1 winbeatzfr.fr
+::1 www.winbeatzfr.fr
 ::1 winbeatzs-fr.fr
 ::1 www.winbeatzs-fr.fr
 ::1 winbeatzs-france.fr
@@ -794022,6 +794098,8 @@
 ::1 www.yfoffoc.tokyo
 ::1 yfolhk.rest
 ::1 www.yfolhk.rest
+::1 yfoodfrance-fr.fr
+::1 www.yfoodfrance-fr.fr
 ::1 yfopfi.tokyo
 ::1 www.yfopfi.tokyo
 ::1 yfp5wm3.cyou
@@ -808428,6 +808506,8 @@
 ::1 www.zagqhmc.bar
 ::1 zagras.si
 ::1 www.zagras.si
+::1 zagrebljekarna.com
+::1 www.zagrebljekarna.com
 ::1 zagrosgavette.xyz
 ::1 www.zagrosgavette.xyz
 ::1 zaguassociati.it
@@ -810698,6 +810778,8 @@
 ::1 www.zetverspastiwire.cf
 ::1 zetxedicha.tk
 ::1 www.zetxedicha.tk
+::1 zety.de
+::1 www.zety.de
 ::1 zeu71n.cyou
 ::1 www.zeu71n.cyou
 ::1 zeubelvelchjacern.ga
