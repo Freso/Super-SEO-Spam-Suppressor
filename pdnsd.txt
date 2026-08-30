@@ -36719,7 +36719,6 @@ neg {name=akupunkturklinikken-hammel.dk; types=domain;}
 neg {name=akura.xyz; types=domain;}
 neg {name=akurl.xyz; types=domain;}
 neg {name=akurmiwiven.ml; types=domain;}
-neg {name=akusoli.com; types=domain;}
 neg {name=akustik-box.de; types=domain;}
 neg {name=akustika1.ru; types=domain;}
 neg {name=akustikholz.shop; types=domain;}
@@ -56875,6 +56874,7 @@ neg {name=bestelektronicshop.de; types=domain;}
 neg {name=bestellen-ciao-ciao-pf.de; types=domain;}
 neg {name=bestelnuar.click; types=domain;}
 neg {name=bestemailmarketingservices.xyz; types=domain;}
+neg {name=bestemed.com; types=domain;}
 neg {name=bestemedikamente.com; types=domain;}
 neg {name=bestenkaufen.com; types=domain;}
 neg {name=bestenwahl.de; types=domain;}
@@ -72095,7 +72095,6 @@ neg {name=canada-pharmacy-24h.com; types=domain;}
 neg {name=canada-virement2024.fr; types=domain;}
 neg {name=canada2024-lnterac.fr; types=domain;}
 neg {name=canadabreakingnews.com; types=domain;}
-neg {name=canadadrugstore.com; types=domain;}
 neg {name=canadagooseoutletfrance.fr; types=domain;}
 neg {name=canadagoosepaschere.fr; types=domain;}
 neg {name=canadanewsreport.com; types=domain;}
@@ -99791,6 +99790,7 @@ neg {name=darpoorepdeo.gq; types=domain;}
 neg {name=darpuncmedunami.tk; types=domain;}
 neg {name=darralypmaheal.tk; types=domain;}
 neg {name=darrilumreevahealh.tk; types=domain;}
+neg {name=darrioumerlesylvain.com; types=domain;}
 neg {name=darsbersmattbeanutvie.ga; types=domain;}
 neg {name=darsblizcolamafol.gq; types=domain;}
 neg {name=darscechechdidimo.gq; types=domain;}
@@ -134835,7 +134835,6 @@ neg {name=financieres.com; types=domain;}
 neg {name=financites.fr; types=domain;}
 neg {name=financo-sav.fr; types=domain;}
 neg {name=finansowylis.pl; types=domain;}
-neg {name=finanzamt-familienbeihilfe-at.com; types=domain;}
 neg {name=finanzarena.pro; types=domain;}
 neg {name=finanzasforex.com; types=domain;}
 neg {name=finanzberater-schaaf.de; types=domain;}
@@ -138119,6 +138118,7 @@ neg {name=footjoy-suomi.com; types=domain;}
 neg {name=footjoybelgie.com; types=domain;}
 neg {name=footjoygolfshoesuk.com; types=domain;}
 neg {name=footjoyjapan.net; types=domain;}
+neg {name=footjoyoutletfactory.us; types=domain;}
 neg {name=footjoyoutletmexico.com; types=domain;}
 neg {name=footjoys.at; types=domain;}
 neg {name=footjoysuomi.com; types=domain;}
@@ -167986,7 +167986,6 @@ neg {name=hoklpmi.tokyo; types=domain;}
 neg {name=hokratedisphel.ml; types=domain;}
 neg {name=hola-chicas.pro; types=domain;}
 neg {name=holabet.fr; types=domain;}
-neg {name=holapick.com; types=domain;}
 neg {name=holapywlent.tk; types=domain;}
 neg {name=holara.ai; types=domain;}
 neg {name=holatickets.fr; types=domain;}
@@ -169139,6 +169138,7 @@ neg {name=hotelfortecappellini.it; types=domain;}
 neg {name=hotelgallimberti.it; types=domain;}
 neg {name=hotelheavyforget.xyz; types=domain;}
 neg {name=hotelimaginewheres.rest; types=domain;}
+neg {name=hotelinphuket.net; types=domain;}
 neg {name=hotelissimo.fr; types=domain;}
 neg {name=hotelitfromshome.rest; types=domain;}
 neg {name=hoteljacobgade.dk; types=domain;}
@@ -196727,7 +196727,6 @@ neg {name=klikjackpot.club; types=domain;}
 neg {name=klikkicasino.fr; types=domain;}
 neg {name=klimaanlageportal.de; types=domain;}
 neg {name=klimabonus-2026.net; types=domain;}
-neg {name=klimabonus-antrag.co; types=domain;}
 neg {name=klimabonus2026.at; types=domain;}
 neg {name=klimacare24.de; types=domain;}
 neg {name=klimacare24.shop; types=domain;}
@@ -198634,7 +198633,6 @@ neg {name=kromosandenrea.ga; types=domain;}
 neg {name=kromrindumimesum.ga; types=domain;}
 neg {name=kron-mo.ru; types=domain;}
 neg {name=kronberg-partner.de; types=domain;}
-neg {name=kronbergpartner.com; types=domain;}
 neg {name=kronbergwien.at; types=domain;}
 neg {name=kroncurtirabgeo.tk; types=domain;}
 neg {name=kronekredit.dk; types=domain;}
@@ -209479,7 +209477,6 @@ neg {name=limupilno.tk; types=domain;}
 neg {name=limvoicapve.tk; types=domain;}
 neg {name=limwheatgcolhure.tk; types=domain;}
 neg {name=limymapatexs.ml; types=domain;}
-neg {name=limzaicore.com; types=domain;}
 neg {name=lin7dwerk46.com; types=domain;}
 neg {name=linacakavifa.tk; types=domain;}
 neg {name=linademicmensmog.tk; types=domain;}
@@ -220949,6 +220946,7 @@ neg {name=markfraptijackjacom.tk; types=domain;}
 neg {name=markgryoups.gq; types=domain;}
 neg {name=markh.xyz; types=domain;}
 neg {name=marki.es; types=domain;}
+neg {name=markierskibindungen.com; types=domain;}
 neg {name=markiphepersaydi.tk; types=domain;}
 neg {name=markisen-bgl.de; types=domain;}
 neg {name=markisenfuxx.de; types=domain;}
@@ -229531,7 +229529,6 @@ neg {name=modestogold.com; types=domain;}
 neg {name=modestselfevident.com; types=domain;}
 neg {name=modestylebay.com; types=domain;}
 neg {name=modesusphistlawn.gq; types=domain;}
-neg {name=modesytlebay.com; types=domain;}
 neg {name=modetalente.com; types=domain;}
 neg {name=modetanadacor.cf; types=domain;}
 neg {name=modeteamdiycou.gq; types=domain;}
@@ -252813,7 +252810,6 @@ neg {name=ojqofdo.cn; types=domain;}
 neg {name=ojr870.cyou; types=domain;}
 neg {name=ojrkxt.tokyo; types=domain;}
 neg {name=ojrkxtg.work; types=domain;}
-neg {name=ojrq.net; types=domain;}
 neg {name=ojrysx.bar; types=domain;}
 neg {name=ojrzqvgj.xyz; types=domain;}
 neg {name=ojsanweachoti.tk; types=domain;}
@@ -294117,6 +294113,7 @@ neg {name=repachackstat.gq; types=domain;}
 neg {name=repafananmu.gq; types=domain;}
 neg {name=repagretankeiclow.cf; types=domain;}
 neg {name=repaiement-amazon.fr; types=domain;}
+neg {name=repairbase.eu; types=domain;}
 neg {name=repairfirmware.com; types=domain;}
 neg {name=repakorbabe.gq; types=domain;}
 neg {name=repalafollden.ga; types=domain;}
@@ -304796,6 +304793,7 @@ neg {name=sachaussures.fr; types=domain;}
 neg {name=sachelemega.tk; types=domain;}
 neg {name=sachermes.fr; types=domain;}
 neg {name=sachsen-anhalt-wahl.de; types=domain;}
+neg {name=sachsenpelletgmbh.de; types=domain;}
 neg {name=sachtikensuve.ml; types=domain;}
 neg {name=sacia.xyz; types=domain;}
 neg {name=sacigasucri.ml; types=domain;}
@@ -320403,6 +320401,7 @@ neg {name=softdns.biz; types=domain;}
 neg {name=softdorebachant.ga; types=domain;}
 neg {name=softdosamphilders.ml; types=domain;}
 neg {name=softdrivgatasonli.tk; types=domain;}
+neg {name=softelektro.com; types=domain;}
 neg {name=softeneddefenceinflation.com; types=domain;}
 neg {name=softeninsinuate.com; types=domain;}
 neg {name=softenopera.com; types=domain;}
@@ -332218,7 +332217,6 @@ neg {name=system-activationclient.fr; types=domain;}
 neg {name=system-auth.fr; types=domain;}
 neg {name=system-ca.fr; types=domain;}
 neg {name=system-cadence-tools.github.io; types=domain;}
-neg {name=system-capital.org; types=domain;}
 neg {name=system-noticers.com; types=domain;}
 neg {name=system-prime.fr; types=domain;}
 neg {name=system-radar-tools.github.io; types=domain;}
@@ -367742,6 +367740,7 @@ neg {name=versaceparis.fr; types=domain;}
 neg {name=versadotcyro.cf; types=domain;}
 neg {name=versamefvecol.gq; types=domain;}
 neg {name=versand-fuxx-ug.myshopify.com; types=domain;}
+neg {name=versand-kaufhaus.de; types=domain;}
 neg {name=versandcesimo.ml; types=domain;}
 neg {name=versandhaus-herrmann.de; types=domain;}
 neg {name=versandpharma.com; types=domain;}
@@ -373516,7 +373515,6 @@ neg {name=vivaharmoni.com; types=domain;}
 neg {name=vivahost.host; types=domain;}
 neg {name=vivaia-schuhe.de; types=domain;}
 neg {name=vivaiaboutiques.fr; types=domain;}
-neg {name=vivaiacollection.com; types=domain;}
 neg {name=vivaiaparis.fr; types=domain;}
 neg {name=vivaiaschaussures.fr; types=domain;}
 neg {name=vivaiaschuhe.at; types=domain;}
@@ -381649,6 +381647,7 @@ neg {name=wheresthemusic.com; types=domain;}
 neg {name=whereswomanplayer.buzz; types=domain;}
 neg {name=whereter.my.id; types=domain;}
 neg {name=whereube.com; types=domain;}
+neg {name=whereverk.com; types=domain;}
 neg {name=wherewasit.com; types=domain;}
 neg {name=whesacosodop.gq; types=domain;}
 neg {name=whetcagetico.tk; types=domain;}

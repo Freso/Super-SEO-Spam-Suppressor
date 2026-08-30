@@ -73584,8 +73584,6 @@
 ::1 www.akurl.xyz
 ::1 akurmiwiven.ml
 ::1 www.akurmiwiven.ml
-::1 akusoli.com
-::1 www.akusoli.com
 ::1 akustik-box.de
 ::1 www.akustik-box.de
 ::1 akustika1.ru
@@ -114002,6 +114000,8 @@
 ::1 www.bestelnuar.click
 ::1 bestemailmarketingservices.xyz
 ::1 www.bestemailmarketingservices.xyz
+::1 bestemed.com
+::1 www.bestemed.com
 ::1 bestemedikamente.com
 ::1 www.bestemedikamente.com
 ::1 bestenkaufen.com
@@ -144460,8 +144460,6 @@
 ::1 www.canada2024-lnterac.fr
 ::1 canadabreakingnews.com
 ::1 www.canadabreakingnews.com
-::1 canadadrugstore.com
-::1 www.canadadrugstore.com
 ::1 canadagooseoutletfrance.fr
 ::1 www.canadagooseoutletfrance.fr
 ::1 canadagoosepaschere.fr
@@ -199972,6 +199970,8 @@
 ::1 www.darralypmaheal.tk
 ::1 darrilumreevahealh.tk
 ::1 www.darrilumreevahealh.tk
+::1 darrioumerlesylvain.com
+::1 www.darrioumerlesylvain.com
 ::1 darsbersmattbeanutvie.ga
 ::1 www.darsbersmattbeanutvie.ga
 ::1 darsblizcolamafol.gq
@@ -270220,8 +270220,6 @@
 ::1 www.financo-sav.fr
 ::1 finansowylis.pl
 ::1 www.finansowylis.pl
-::1 finanzamt-familienbeihilfe-at.com
-::1 www.finanzamt-familienbeihilfe-at.com
 ::1 finanzarena.pro
 ::1 www.finanzarena.pro
 ::1 finanzasforex.com
@@ -276792,6 +276790,8 @@
 ::1 www.footjoygolfshoesuk.com
 ::1 footjoyjapan.net
 ::1 www.footjoyjapan.net
+::1 footjoyoutletfactory.us
+::1 www.footjoyoutletfactory.us
 ::1 footjoyoutletmexico.com
 ::1 www.footjoyoutletmexico.com
 ::1 footjoys.at
@@ -336614,8 +336614,6 @@
 ::1 www.hola-chicas.pro
 ::1 holabet.fr
 ::1 www.holabet.fr
-::1 holapick.com
-::1 www.holapick.com
 ::1 holapywlent.tk
 ::1 www.holapywlent.tk
 ::1 holara.ai
@@ -338924,6 +338922,8 @@
 ::1 www.hotelheavyforget.xyz
 ::1 hotelimaginewheres.rest
 ::1 www.hotelimaginewheres.rest
+::1 hotelinphuket.net
+::1 www.hotelinphuket.net
 ::1 hotelissimo.fr
 ::1 www.hotelissimo.fr
 ::1 hotelitfromshome.rest
@@ -394206,8 +394206,6 @@
 ::1 www.klimaanlageportal.de
 ::1 klimabonus-2026.net
 ::1 www.klimabonus-2026.net
-::1 klimabonus-antrag.co
-::1 www.klimabonus-antrag.co
 ::1 klimabonus2026.at
 ::1 www.klimabonus2026.at
 ::1 klimacare24.de
@@ -398026,8 +398024,6 @@
 ::1 www.kron-mo.ru
 ::1 kronberg-partner.de
 ::1 www.kronberg-partner.de
-::1 kronbergpartner.com
-::1 www.kronbergpartner.com
 ::1 kronbergwien.at
 ::1 www.kronbergwien.at
 ::1 kroncurtirabgeo.tk
@@ -419750,8 +419746,6 @@
 ::1 www.limwheatgcolhure.tk
 ::1 limymapatexs.ml
 ::1 www.limymapatexs.ml
-::1 limzaicore.com
-::1 www.limzaicore.com
 ::1 lin7dwerk46.com
 ::1 www.lin7dwerk46.com
 ::1 linacakavifa.tk
@@ -442732,6 +442726,8 @@
 ::1 www.markh.xyz
 ::1 marki.es
 ::1 www.marki.es
+::1 markierskibindungen.com
+::1 www.markierskibindungen.com
 ::1 markiphepersaydi.tk
 ::1 www.markiphepersaydi.tk
 ::1 markisen-bgl.de
@@ -459928,8 +459924,6 @@
 ::1 www.modestylebay.com
 ::1 modesusphistlawn.gq
 ::1 www.modesusphistlawn.gq
-::1 modesytlebay.com
-::1 www.modesytlebay.com
 ::1 modetalente.com
 ::1 www.modetalente.com
 ::1 modetanadacor.cf
@@ -506564,8 +506558,6 @@
 ::1 www.ojrkxt.tokyo
 ::1 ojrkxtg.work
 ::1 www.ojrkxtg.work
-::1 ojrq.net
-::1 www.ojrq.net
 ::1 ojrysx.bar
 ::1 www.ojrysx.bar
 ::1 ojrzqvgj.xyz
@@ -589406,6 +589398,8 @@
 ::1 www.repagretankeiclow.cf
 ::1 repaiement-amazon.fr
 ::1 www.repaiement-amazon.fr
+::1 repairbase.eu
+::1 www.repairbase.eu
 ::1 repairfirmware.com
 ::1 www.repairfirmware.com
 ::1 repakorbabe.gq
@@ -610786,6 +610780,8 @@
 ::1 www.sachermes.fr
 ::1 sachsen-anhalt-wahl.de
 ::1 www.sachsen-anhalt-wahl.de
+::1 sachsenpelletgmbh.de
+::1 www.sachsenpelletgmbh.de
 ::1 sachtikensuve.ml
 ::1 www.sachtikensuve.ml
 ::1 sacia.xyz
@@ -642054,6 +642050,8 @@
 ::1 www.softdosamphilders.ml
 ::1 softdrivgatasonli.tk
 ::1 www.softdrivgatasonli.tk
+::1 softelektro.com
+::1 www.softelektro.com
 ::1 softeneddefenceinflation.com
 ::1 www.softeneddefenceinflation.com
 ::1 softeninsinuate.com
@@ -665766,8 +665764,6 @@
 ::1 www.system-ca.fr
 ::1 system-cadence-tools.github.io
 ::1 www.system-cadence-tools.github.io
-::1 system-capital.org
-::1 www.system-capital.org
 ::1 system-noticers.com
 ::1 www.system-noticers.com
 ::1 system-prime.fr
@@ -736916,6 +736912,8 @@
 ::1 www.versamefvecol.gq
 ::1 versand-fuxx-ug.myshopify.com
 ::1 www.versand-fuxx-ug.myshopify.com
+::1 versand-kaufhaus.de
+::1 www.versand-kaufhaus.de
 ::1 versandcesimo.ml
 ::1 www.versandcesimo.ml
 ::1 versandhaus-herrmann.de
@@ -748474,8 +748472,6 @@
 ::1 www.vivaia-schuhe.de
 ::1 vivaiaboutiques.fr
 ::1 www.vivaiaboutiques.fr
-::1 vivaiacollection.com
-::1 www.vivaiacollection.com
 ::1 vivaiaparis.fr
 ::1 www.vivaiaparis.fr
 ::1 vivaiaschaussures.fr
@@ -764774,6 +764770,8 @@
 ::1 www.whereter.my.id
 ::1 whereube.com
 ::1 www.whereube.com
+::1 whereverk.com
+::1 www.whereverk.com
 ::1 wherewasit.com
 ::1 www.wherewasit.com
 ::1 whesacosodop.gq
