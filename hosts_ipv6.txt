@@ -20818,6 +20818,8 @@
 ::1 www.2wh25g.tokyo
 ::1 2wh9i2.cyou
 ::1 www.2wh9i2.cyou
+::1 2wheelshero.com
+::1 www.2wheelshero.com
 ::1 2whjai.tokyo
 ::1 www.2whjai.tokyo
 ::1 2whu35q.tokyo
@@ -28766,8 +28768,6 @@
 ::1 www.4bhq2j.shop
 ::1 4bigye.cyou
 ::1 www.4bigye.cyou
-::1 4bike.net
-::1 www.4bike.net
 ::1 4bio.pt
 ::1 www.4bio.pt
 ::1 4bisblw.cn
@@ -114002,8 +114002,6 @@
 ::1 www.bestelnuar.click
 ::1 bestemailmarketingservices.xyz
 ::1 www.bestemailmarketingservices.xyz
-::1 bestemed.com
-::1 www.bestemed.com
 ::1 bestemedikamente.com
 ::1 www.bestemedikamente.com
 ::1 bestenkaufen.com
@@ -114590,6 +114588,8 @@
 ::1 www.bestscashardpuzzdown.cf
 ::1 bestsecuritysurf.com
 ::1 www.bestsecuritysurf.com
+::1 bestselectionforyou.com
+::1 www.bestselectionforyou.com
 ::1 bestseller-price.news
 ::1 www.bestseller-price.news
 ::1 bestseller-stock.cyou
@@ -144462,6 +144462,8 @@
 ::1 www.canada2024-lnterac.fr
 ::1 canadabreakingnews.com
 ::1 www.canadabreakingnews.com
+::1 canadadrugstore.com
+::1 www.canadadrugstore.com
 ::1 canadagooseoutletfrance.fr
 ::1 www.canadagooseoutletfrance.fr
 ::1 canadagoosepaschere.fr
@@ -150182,6 +150184,8 @@
 ::1 www.catalog-sg.it
 ::1 catalogue-prime.fr
 ::1 www.catalogue-prime.fr
+::1 catalunyafarm.com
+::1 www.catalunyafarm.com
 ::1 catalyst.digital
 ::1 www.catalyst.digital
 ::1 catania-sexysexytime.space
@@ -204576,6 +204580,8 @@
 ::1 www.deinewskiprena.ml
 ::1 deinhandwerkershop.de
 ::1 www.deinhandwerkershop.de
+::1 deini.com
+::1 www.deini.com
 ::1 deinliebesmensch.de
 ::1 www.deinliebesmensch.de
 ::1 deinlieblingstier.co
@@ -220290,8 +220296,6 @@
 ::1 www.doctorshivaprasad.com
 ::1 doctorsignage.com.br
 ::1 www.doctorsignage.com.br
-::1 doctorsolve.com
-::1 www.doctorsolve.com
 ::1 doctorsshortpoints.biz
 ::1 www.doctorsshortpoints.biz
 ::1 doctorstar.org
@@ -294666,8 +294670,6 @@
 ::1 www.geliteferila.ml
 ::1 gelitenjarera.tk
 ::1 www.gelitenjarera.tk
-::1 gelmalls.com
-::1 www.gelmalls.com
 ::1 gelmrk.tokyo
 ::1 www.gelmrk.tokyo
 ::1 gelneyquivicycnews.gq
@@ -336626,6 +336628,8 @@
 ::1 www.hola-chicas.pro
 ::1 holabet.fr
 ::1 www.holabet.fr
+::1 holapick.com
+::1 www.holapick.com
 ::1 holapywlent.tk
 ::1 www.holapywlent.tk
 ::1 holara.ai
@@ -353814,6 +353818,8 @@
 ::1 www.immediate-dash.de
 ::1 immediate-direct.com
 ::1 www.immediate-direct.com
+::1 immediate-edge2.com
+::1 www.immediate-edge2.com
 ::1 immediate-flik.com
 ::1 www.immediate-flik.com
 ::1 immediate-growth.com
@@ -447174,8 +447180,6 @@
 ::1 www.mediplanet.fr
 ::1 mediplus-berlin.de
 ::1 www.mediplus-berlin.de
-::1 medirao.com
-::1 www.medirao.com
 ::1 medirezept.net
 ::1 www.medirezept.net
 ::1 medisirstiklas.eu
@@ -616170,8 +616174,6 @@
 ::1 www.scanmountadaburle.tk
 ::1 scannegbiospin.tk
 ::1 www.scannegbiospin.tk
-::1 scannero.io
-::1 www.scannero.io
 ::1 scannetbutik.dk
 ::1 www.scannetbutik.dk
 ::1 scanoctobolt.ml
@@ -649058,8 +649060,6 @@
 ::1 www.spyderwrisemel.tk
 ::1 spydintravornemenradingnofurtangde.xyz
 ::1 www.spydintravornemenradingnofurtangde.xyz
-::1 spydiscount24.com
-::1 www.spydiscount24.com
 ::1 spygok.rest
 ::1 www.spygok.rest
 ::1 spyi5p.cyou
@@ -707352,8 +707352,6 @@
 ::1 www.trustdicecasino.fr
 ::1 trusted-help.com
 ::1 www.trusted-help.com
-::1 trusted-online-generic.com
-::1 www.trusted-online-generic.com
 ::1 trusted-sites.com
 ::1 www.trusted-sites.com
 ::1 trustedallcbd.com
@@ -707374,8 +707372,6 @@
 ::1 www.trustednorx.com
 ::1 trustedparents.com
 ::1 www.trustedparents.com
-::1 trustedrxsolutions.com
-::1 www.trustedrxsolutions.com
 ::1 trustedshops.store
 ::1 www.trustedshops.store
 ::1 trustedtablets.online
@@ -748496,6 +748492,8 @@
 ::1 www.vivaia-schuhe.de
 ::1 vivaiaboutiques.fr
 ::1 www.vivaiaboutiques.fr
+::1 vivaiacollection.com
+::1 www.vivaiacollection.com
 ::1 vivaiaparis.fr
 ::1 www.vivaiaparis.fr
 ::1 vivaiaschaussures.fr

@@ -10411,6 +10411,7 @@
 ||2wgpeuh.cyou^$document
 ||2wh25g.tokyo^$document
 ||2wh9i2.cyou^$document
+||2wheelshero.com^$document
 ||2whjai.tokyo^$document
 ||2whu35q.tokyo^$document
 ||2whvye.cyou^$document
@@ -14385,7 +14386,6 @@
 ||4bhhk.tokyo^$document
 ||4bhq2j.shop^$document
 ||4bigye.cyou^$document
-||4bike.net^$document
 ||4bio.pt^$document
 ||4bisblw.cn^$document
 ||4bj5s9.cyou^$document
@@ -57003,7 +57003,6 @@
 ||bestellen-ciao-ciao-pf.de^$document
 ||bestelnuar.click^$document
 ||bestemailmarketingservices.xyz^$document
-||bestemed.com^$document
 ||bestemedikamente.com^$document
 ||bestenkaufen.com^$document
 ||bestenwahl.de^$document
@@ -57297,6 +57296,7 @@
 ||bestsaunakits.com^$document
 ||bestscashardpuzzdown.cf^$document
 ||bestsecuritysurf.com^$document
+||bestselectionforyou.com^$document
 ||bestseller-price.news^$document
 ||bestseller-stock.cyou^$document
 ||bestseniordatingsites.org^$document
@@ -72233,6 +72233,7 @@
 ||canada-virement2024.fr^$document
 ||canada2024-lnterac.fr^$document
 ||canadabreakingnews.com^$document
+||canadadrugstore.com^$document
 ||canadagooseoutletfrance.fr^$document
 ||canadagoosepaschere.fr^$document
 ||canadanewsreport.com^$document
@@ -75093,6 +75094,7 @@
 ||catalinares.xyz^$document
 ||catalog-sg.it^$document
 ||catalogue-prime.fr^$document
+||catalunyafarm.com^$document
 ||catalyst.digital^$document
 ||catania-sexysexytime.space^$document
 ||catantiro.tk^$document
@@ -102290,6 +102292,7 @@
 ||deinetierliebe.de^$document
 ||deinewskiprena.ml^$document
 ||deinhandwerkershop.de^$document
+||deini.com^$document
 ||deinliebesmensch.de^$document
 ||deinlieblingstier.co^$document
 ||deinmodetrends.com^$document
@@ -110147,7 +110150,6 @@
 ||doctorscavebeachhotel.com^$document
 ||doctorshivaprasad.com^$document
 ||doctorsignage.com.br^$document
-||doctorsolve.com^$document
 ||doctorsshortpoints.biz^$document
 ||doctorstar.org^$document
 ||doctossimo.fr^$document
@@ -147335,7 +147337,6 @@
 ||gelisenso.tk^$document
 ||geliteferila.ml^$document
 ||gelitenjarera.tk^$document
-||gelmalls.com^$document
 ||gelmrk.tokyo^$document
 ||gelneyquivicycnews.gq^$document
 ||gelohzahobar.tk^$document
@@ -168315,6 +168316,7 @@
 ||hokratedisphel.ml^$document
 ||hola-chicas.pro^$document
 ||holabet.fr^$document
+||holapick.com^$document
 ||holapywlent.tk^$document
 ||holara.ai^$document
 ||holara.ai^$document
@@ -176909,6 +176911,7 @@
 ||immediate-coraldex.com^$document
 ||immediate-dash.de^$document
 ||immediate-direct.com^$document
+||immediate-edge2.com^$document
 ||immediate-flik.com^$document
 ||immediate-growth.com^$document
 ||immediate-momentum.com^$document
@@ -223589,7 +223592,6 @@
 ||mediperdi.tk^$document
 ||mediplanet.fr^$document
 ||mediplus-berlin.de^$document
-||medirao.com^$document
 ||medirezept.net^$document
 ||medisirstiklas.eu^$document
 ||medisite.fr^$document
@@ -308087,7 +308089,6 @@
 ||scanmicricotota.ga^$document
 ||scanmountadaburle.tk^$document
 ||scannegbiospin.tk^$document
-||scannero.io^$document
 ||scannetbutik.dk^$document
 ||scanoctobolt.ml^$document
 ||scanomjabvidi.ml^$document
@@ -324531,7 +324532,6 @@
 ||spydersale.de^$document
 ||spyderwrisemel.tk^$document
 ||spydintravornemenradingnofurtangde.xyz^$document
-||spydiscount24.com^$document
 ||spygok.rest^$document
 ||spyi5p.cyou^$document
 ||spymdefdirofacot.ga^$document
@@ -353678,7 +353678,6 @@
 ||trustdice1.fr^$document
 ||trustdicecasino.fr^$document
 ||trusted-help.com^$document
-||trusted-online-generic.com^$document
 ||trusted-sites.com^$document
 ||trustedallcbd.com^$document
 ||trustedallovertheworld.com^$document
@@ -353689,7 +353688,6 @@
 ||trustedmedstore24.com^$document
 ||trustednorx.com^$document
 ||trustedparents.com^$document
-||trustedrxsolutions.com^$document
 ||trustedshops.store^$document
 ||trustedtablets.online^$document
 ||trustedxshop.com^$document
@@ -374250,6 +374248,7 @@
 ||vivahost.host^$document
 ||vivaia-schuhe.de^$document
 ||vivaiaboutiques.fr^$document
+||vivaiacollection.com^$document
 ||vivaiaparis.fr^$document
 ||vivaiaschaussures.fr^$document
 ||vivaiaschuhe.at^$document
