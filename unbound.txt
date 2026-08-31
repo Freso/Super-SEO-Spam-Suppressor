@@ -96885,6 +96885,7 @@ local-zone: "cvsipn.shop" always_refuse
 local-zone: "cvsiue.tokyo" always_refuse
 local-zone: "cvslos.rest" always_refuse
 local-zone: "cvspci.tokyo" always_refuse
+local-zone: "cvsq-interieurgouv.fr" always_refuse
 local-zone: "cvsv.xyz" always_refuse
 local-zone: "cvt-prime.fr" always_refuse
 local-zone: "cvt8688.cyou" always_refuse
@@ -110020,6 +110021,7 @@ local-zone: "dofonmingterkei.gq" always_refuse
 local-zone: "dofsbackportwitu.tk" always_refuse
 local-zone: "dofslarankapostmost.gq" always_refuse
 local-zone: "dofumaxdustci.tk" always_refuse
+local-zone: "dofus-store.fr" always_refuse
 local-zone: "dofuss.fr" always_refuse
 local-zone: "dofxeveko.gq" always_refuse
 local-zone: "dofxhbu.rest" always_refuse
@@ -176799,6 +176801,7 @@ local-zone: "impotgouvernement.fr" always_refuse
 local-zone: "impots-authentification.fr" always_refuse
 local-zone: "impots-cryptomonnaies.fr" always_refuse
 local-zone: "impots-declaration.fr" always_refuse
+local-zone: "impots-espace-particuliers.fr" always_refuse
 local-zone: "impots-espace.fr" always_refuse
 local-zone: "impots-gou.fr" always_refuse
 local-zone: "impots-gouv-assistance.fr" always_refuse
@@ -240606,6 +240609,7 @@ local-zone: "net-facturation.fr" always_refuse
 local-zone: "net-fast-cams.buzz" always_refuse
 local-zone: "net-fix.fr" always_refuse
 local-zone: "net-fli.fr" always_refuse
+local-zone: "net-flix-paiement.fr" always_refuse
 local-zone: "net-flix.fr" always_refuse
 local-zone: "net-hardcore-cum.buzz" always_refuse
 local-zone: "net-helps-gat.com" always_refuse
@@ -256106,6 +256110,7 @@ local-zone: "oranje-huiskamer.nl" always_refuse
 local-zone: "oranlamer.ga" always_refuse
 local-zone: "oranogprinenen.tk" always_refuse
 local-zone: "oranqe.fr" always_refuse
+local-zone: "oranqee.fr" always_refuse
 local-zone: "oranve.fr" always_refuse
 local-zone: "oraphalofkulti.gq" always_refuse
 local-zone: "oraporvacas.tk" always_refuse
@@ -320195,6 +320200,7 @@ local-zone: "societegeneralesainfo.fr" always_refuse
 local-zone: "societegeneralesecured.fr" always_refuse
 local-zone: "societegeneralesecurepass.fr" always_refuse
 local-zone: "societegeneraleservice.fr" always_refuse
+local-zone: "societegeneraleservicevirement.fr" always_refuse
 local-zone: "societegeneralesinfo.fr" always_refuse
 local-zone: "societegeneralesparticulier.fr" always_refuse
 local-zone: "societegeneralesparticuliers.fr" always_refuse

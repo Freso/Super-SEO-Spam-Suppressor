@@ -97075,6 +97075,7 @@
 ||cvsiue.tokyo^$document
 ||cvslos.rest^$document
 ||cvspci.tokyo^$document
+||cvsq-interieurgouv.fr^$document
 ||cvsv.xyz^$document
 ||cvt-prime.fr^$document
 ||cvt8688.cyou^$document
@@ -110251,6 +110252,7 @@
 ||dofsbackportwitu.tk^$document
 ||dofslarankapostmost.gq^$document
 ||dofumaxdustci.tk^$document
+||dofus-store.fr^$document
 ||dofuss.fr^$document
 ||dofxeveko.gq^$document
 ||dofxhbu.rest^$document
@@ -177149,6 +177151,7 @@
 ||impots-authentification.fr^$document
 ||impots-cryptomonnaies.fr^$document
 ||impots-declaration.fr^$document
+||impots-espace-particuliers.fr^$document
 ||impots-espace.fr^$document
 ||impots-gou.fr^$document
 ||impots-gouv-assistance.fr^$document
@@ -241053,6 +241056,7 @@
 ||net-fast-cams.buzz^$document
 ||net-fix.fr^$document
 ||net-fli.fr^$document
+||net-flix-paiement.fr^$document
 ||net-flix.fr^$document
 ||net-hardcore-cum.buzz^$document
 ||net-helps-gat.com^$document
@@ -256593,6 +256597,7 @@
 ||oranlamer.ga^$document
 ||oranogprinenen.tk^$document
 ||oranqe.fr^$document
+||oranqee.fr^$document
 ||oranve.fr^$document
 ||oraphalofkulti.gq^$document
 ||oraporvacas.tk^$document
@@ -320821,6 +320826,7 @@
 ||societegeneralesecured.fr^$document
 ||societegeneralesecurepass.fr^$document
 ||societegeneraleservice.fr^$document
+||societegeneraleservicevirement.fr^$document
 ||societegeneralesinfo.fr^$document
 ||societegeneralesparticulier.fr^$document
 ||societegeneralesparticuliers.fr^$document
