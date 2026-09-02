@@ -64136,6 +64136,8 @@
 ::1 www.achatsecure-lbc.fr
 ::1 achatsecure-leboncoin.fr
 ::1 www.achatsecure-leboncoin.fr
+::1 achatsnotaires.fr
+::1 www.achatsnotaires.fr
 ::1 achcogessitan.ml
 ::1 www.achcogessitan.ml
 ::1 acheicavolba.tk
@@ -68326,8 +68328,6 @@
 ::1 www.aegcalzaturificio.buzz
 ::1 aegidien-apotheke.de
 ::1 www.aegidien-apotheke.de
-::1 aegis-at.com
-::1 www.aegis-at.com
 ::1 aegiscrew.com
 ::1 www.aegiscrew.com
 ::1 aegisxs.com
@@ -71200,8 +71200,6 @@
 ::1 www.ahgogw.cyou
 ::1 ahgy168.com
 ::1 www.ahgy168.com
-::1 ahhaaaa.shop
-::1 www.ahhaaaa.shop
 ::1 ahhechang.com
 ::1 www.ahhechang.com
 ::1 ahhlnvw.cyou
@@ -73558,8 +73556,6 @@
 ::1 www.akurl.xyz
 ::1 akurmiwiven.ml
 ::1 www.akurmiwiven.ml
-::1 akusoli.com
-::1 www.akusoli.com
 ::1 akustik-box.de
 ::1 www.akustik-box.de
 ::1 akustika1.ru
@@ -75566,8 +75562,6 @@
 ::1 www.allearesivest.tk
 ::1 allecfire.tk
 ::1 www.allecfire.tk
-::1 alledameskleding.com
-::1 www.alledameskleding.com
 ::1 alleedescuriosites.com
 ::1 www.alleedescuriosites.com
 ::1 alleferiecentre.dk
@@ -75964,8 +75958,6 @@
 ::1 www.allsttae.com
 ::1 allstudentagencys.bar
 ::1 www.allstudentagencys.bar
-::1 alltaghero.com
-::1 www.alltaghero.com
 ::1 alltagsbeauty.de
 ::1 www.alltagsbeauty.de
 ::1 alltagsservice-erdmann.de
@@ -76000,8 +75992,6 @@
 ::1 www.alltopjewels.com
 ::1 alltoys.store
 ::1 www.alltoys.store
-::1 alltv.store
-::1 www.alltv.store
 ::1 alludedeagle.com
 ::1 www.alludedeagle.com
 ::1 alludedrusty.com
@@ -76558,8 +76548,6 @@
 ::1 www.alpellifides.cf
 ::1 alpelphasalthe.ml
 ::1 www.alpelphasalthe.ml
-::1 alpenapothekebgl.de
-::1 www.alpenapothekebgl.de
 ::1 alpenfluss.at
 ::1 www.alpenfluss.at
 ::1 alpenholz.shop
@@ -76626,8 +76614,6 @@
 ::1 www.alphaengineers.net
 ::1 alphaess-france.fr
 ::1 www.alphaess-france.fr
-::1 alphaforgood.com
-::1 www.alphaforgood.com
 ::1 alphagamers.de
 ::1 www.alphagamers.de
 ::1 alphagraphicssugarland-lgbtchamber.site
@@ -77516,8 +77502,6 @@
 ::1 www.alverbiobrowtinc.ga
 ::1 alvercarakaz.ga
 ::1 www.alvercarakaz.ga
-::1 alvexo-data.com
-::1 www.alvexo-data.com
 ::1 alveydupave.ga
 ::1 www.alveydupave.ga
 ::1 alvheg.bar
@@ -77646,8 +77630,6 @@
 ::1 www.am-eli.fr
 ::1 am-findling-ruegen.de
 ::1 www.am-findling-ruegen.de
-::1 am-luxury.de
-::1 www.am-luxury.de
 ::1 am-onlinehandel.de
 ::1 www.am-onlinehandel.de
 ::1 am-prime.fr
@@ -81350,8 +81332,6 @@
 ::1 www.ampblog.cn
 ::1 ampe03.shop
 ::1 www.ampe03.shop
-::1 ampegalux.net
-::1 www.ampegalux.net
 ::1 ampenthato.tk
 ::1 www.ampenthato.tk
 ::1 amperag49lyman.download
@@ -90726,6 +90706,10 @@
 ::1 www.arkea-immo.fr
 ::1 arkea-immobilier.fr
 ::1 www.arkea-immobilier.fr
+::1 arkea-pret-immo.fr
+::1 www.arkea-pret-immo.fr
+::1 arkea-pretimmo.fr
+::1 www.arkea-pretimmo.fr
 ::1 arkeadirect-b.fr
 ::1 www.arkeadirect-b.fr
 ::1 arkeadirect-cm.fr
@@ -115324,6 +115308,8 @@
 ::1 www.betify5sh.fr
 ::1 betify6.fr
 ::1 www.betify6.fr
+::1 betify8sh.fr
+::1 www.betify8sh.fr
 ::1 betifyapplication-bonus.fr
 ::1 www.betifyapplication-bonus.fr
 ::1 betifyapplication-connexion.fr
@@ -151150,6 +151136,8 @@
 ::1 www.cazeus-casino-france.fr
 ::1 cazeus-casino1.fr
 ::1 www.cazeus-casino1.fr
+::1 cazeus-com.fr
+::1 www.cazeus-com.fr
 ::1 cazeus-en-ligne.fr
 ::1 www.cazeus-en-ligne.fr
 ::1 cazeus-enligne.fr
@@ -151182,6 +151170,8 @@
 ::1 www.cazeusfr.fr
 ::1 cazeusfrance-fr.fr
 ::1 www.cazeusfrance-fr.fr
+::1 cazeusofficiel.fr
+::1 www.cazeusofficiel.fr
 ::1 cazeusonline.fr
 ::1 www.cazeusonline.fr
 ::1 cazeuss.fr
@@ -160540,6 +160530,8 @@
 ::1 www.chicken-road-casino-fr.fr
 ::1 chicken-road-en-ligne.fr
 ::1 www.chicken-road-en-ligne.fr
+::1 chicken-road-game.fr
+::1 www.chicken-road-game.fr
 ::1 chicken-road-jeu-poulet.fr
 ::1 www.chicken-road-jeu-poulet.fr
 ::1 chicken-road-poulet.fr
@@ -160572,6 +160564,8 @@
 ::1 www.chickenroad-aviss.fr
 ::1 chickenroad-bet.fr
 ::1 www.chickenroad-bet.fr
+::1 chickenroad-com.fr
+::1 www.chickenroad-com.fr
 ::1 chickenroad-demo.fr
 ::1 www.chickenroad-demo.fr
 ::1 chickenroad-en-ligne.fr
@@ -188644,6 +188638,8 @@
 ::1 www.cresus-casinos-france.fr
 ::1 cresus-code.fr
 ::1 www.cresus-code.fr
+::1 cresus-com.fr
+::1 www.cresus-com.fr
 ::1 cresus-enligne-fr.fr
 ::1 www.cresus-enligne-fr.fr
 ::1 cresus-enligne-france.fr
@@ -204984,6 +204980,8 @@
 ::1 www.delnihalsa.gq
 ::1 deloggui.ga
 ::1 www.deloggui.ga
+::1 deloittegroup.fr
+::1 www.deloittegroup.fr
 ::1 delonbeantgastro.cf
 ::1 www.delonbeantgastro.cf
 ::1 delongcourville.eu
@@ -206540,8 +206538,6 @@
 ::1 www.depixeli-k-losolarum-tapixela.club
 ::1 depjouaronita.tk
 ::1 www.depjouaronita.tk
-::1 deplacer.com
-::1 www.deplacer.com
 ::1 depladidedeepa.gq
 ::1 www.depladidedeepa.gq
 ::1 deplicasre.ga
@@ -254112,6 +254108,8 @@
 ::1 www.eu-franprix.fr
 ::1 eu-impots.fr
 ::1 www.eu-impots.fr
+::1 eu-meds.net
+::1 www.eu-meds.net
 ::1 eu-meta.fr
 ::1 www.eu-meta.fr
 ::1 eu-new-media.eu
@@ -294502,6 +294500,8 @@
 ::1 www.geliteferila.ml
 ::1 gelitenjarera.tk
 ::1 www.gelitenjarera.tk
+::1 gelmalls.com
+::1 www.gelmalls.com
 ::1 gelmrk.tokyo
 ::1 www.gelmrk.tokyo
 ::1 gelneyquivicycnews.gq
@@ -305282,6 +305282,8 @@
 ::1 www.goldenpanda-casino.fr
 ::1 goldenpanda-casinos.fr
 ::1 www.goldenpanda-casinos.fr
+::1 goldenpanda-com.fr
+::1 www.goldenpanda-com.fr
 ::1 goldenpanda-enligne.fr
 ::1 www.goldenpanda-enligne.fr
 ::1 goldenpanda-fr.fr
@@ -311602,6 +311604,8 @@
 ::1 www.groupama-sud.fr
 ::1 groupamaa.fr
 ::1 www.groupamaa.fr
+::1 groupamapro-recrutement.fr
+::1 www.groupamapro-recrutement.fr
 ::1 groupamerican.com
 ::1 www.groupamerican.com
 ::1 groupamq.fr
@@ -353592,8 +353596,6 @@
 ::1 www.immediate-dash.de
 ::1 immediate-direct.com
 ::1 www.immediate-direct.com
-::1 immediate-edge2.com
-::1 www.immediate-edge2.com
 ::1 immediate-flik.com
 ::1 www.immediate-flik.com
 ::1 immediate-growth.com
@@ -361136,6 +361138,8 @@
 ::1 www.instabkuptcilfo.ml
 ::1 instabook.fr
 ::1 www.instabook.fr
+::1 instacams-5.fr
+::1 www.instacams-5.fr
 ::1 instacams-fr.fr
 ::1 www.instacams-fr.fr
 ::1 instacredit.xyz
@@ -408308,8 +408312,6 @@
 ::1 www.lbszftg.cn
 ::1 lbszka.rest
 ::1 www.lbszka.rest
-::1 lbtinc.com
-::1 www.lbtinc.com
 ::1 lbtx8c.cyou
 ::1 www.lbtx8c.cyou
 ::1 lbu7yb.xyz
@@ -431038,6 +431040,8 @@
 ::1 www.lucky8fr8.fr
 ::1 lucky8france.fr
 ::1 www.lucky8france.fr
+::1 lucky8france1.fr
+::1 www.lucky8france1.fr
 ::1 lucky8licence.fr
 ::1 www.lucky8licence.fr
 ::1 lucky8official.fr
@@ -436920,6 +436924,8 @@
 ::1 www.macif-france.fr
 ::1 macif-paris.fr
 ::1 www.macif-paris.fr
+::1 macif-partenariat-artisans.fr
+::1 www.macif-partenariat-artisans.fr
 ::1 macif-recrutement.fr
 ::1 www.macif-recrutement.fr
 ::1 macifassurance.fr
@@ -493874,8 +493880,6 @@
 ::1 www.norferepretu.tk
 ::1 norfhipsrentlichec.ga
 ::1 www.norfhipsrentlichec.ga
-::1 norfolkhotels24.com
-::1 www.norfolkhotels24.com
 ::1 norgaardmedier.dk
 ::1 www.norgaardmedier.dk
 ::1 norge-apt.com
@@ -494452,6 +494456,8 @@
 ::1 www.notaires-message-crucial-en-attente.fr
 ::1 notaires-message-important-en-attente.fr
 ::1 www.notaires-message-important-en-attente.fr
+::1 notairesfr.fr
+::1 www.notairesfr.fr
 ::1 notairess.fr
 ::1 www.notairess.fr
 ::1 notairies.fr
@@ -513094,6 +513100,8 @@
 ::1 www.orderonceareanight.biz
 ::1 orderrxstore.com
 ::1 www.orderrxstore.com
+::1 orders-prime.fr
+::1 www.orders-prime.fr
 ::1 orderspointsheworks.biz
 ::1 www.orderspointsheworks.biz
 ::1 ordersurfsite.com
@@ -644428,8 +644436,6 @@
 ::1 www.sow6t2.cyou
 ::1 sowaoptive.asia
 ::1 www.sowaoptive.asia
-::1 sowaswillichauch.de
-::1 www.sowaswillichauch.de
 ::1 sowbrl.bar
 ::1 www.sowbrl.bar
 ::1 sowepirare.gq
@@ -665410,6 +665416,8 @@
 ::1 www.system-ca.fr
 ::1 system-cadence-tools.github.io
 ::1 www.system-cadence-tools.github.io
+::1 system-capital.org
+::1 www.system-capital.org
 ::1 system-noticers.com
 ::1 www.system-noticers.com
 ::1 system-prime.fr
@@ -685798,6 +685806,8 @@
 ::1 www.thorechazi.web.app
 ::1 thoreside.gq
 ::1 www.thoreside.gq
+::1 thorfortun-fr.fr
+::1 www.thorfortun-fr.fr
 ::1 thorfortune-france.fr
 ::1 www.thorfortune-france.fr
 ::1 thorfortune7.fr
