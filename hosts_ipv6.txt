@@ -81146,6 +81146,8 @@
 ::1 www.amon-bet.fr
 ::1 amon-betcasino.fr
 ::1 www.amon-betcasino.fr
+::1 amon-casino-fr.fr
+::1 www.amon-casino-fr.fr
 ::1 amon-casino-france.fr
 ::1 www.amon-casino-france.fr
 ::1 amon-casinos.fr
@@ -115250,6 +115252,8 @@
 ::1 www.betify5sh.fr
 ::1 betify6.fr
 ::1 www.betify6.fr
+::1 betify8.fr
+::1 www.betify8.fr
 ::1 betify8sh.fr
 ::1 www.betify8sh.fr
 ::1 betifyapplication-bonus.fr
@@ -115910,6 +115914,8 @@
 ::1 www.betzino-avis-fr.fr
 ::1 betzino-casino1.fr
 ::1 www.betzino-casino1.fr
+::1 betzino-com.fr
+::1 www.betzino-com.fr
 ::1 betzino-enligne.fr
 ::1 www.betzino-enligne.fr
 ::1 betzino-fr.fr
@@ -115918,6 +115924,10 @@
 ::1 www.betzino-france.fr
 ::1 betzino-france1.fr
 ::1 www.betzino-france1.fr
+::1 betzino-officiel.fr
+::1 www.betzino-officiel.fr
+::1 betzino-play.fr
+::1 www.betzino-play.fr
 ::1 betzino-site.fr
 ::1 www.betzino-site.fr
 ::1 betzino1-france.fr
@@ -136688,6 +136698,8 @@
 ::1 www.burgdishealthgajour.tk
 ::1 burgeomalpets.tk
 ::1 www.burgeomalpets.tk
+::1 burgerking-antilles.fr
+::1 www.burgerking-antilles.fr
 ::1 burgerservicenummer.eu
 ::1 www.burgerservicenummer.eu
 ::1 burggaphahehuntsuns.tk
@@ -147786,6 +147798,8 @@
 ::1 www.cashboxcasino.fr
 ::1 cashed-casino-france.fr
 ::1 www.cashed-casino-france.fr
+::1 cashed-casino.fr
+::1 www.cashed-casino.fr
 ::1 cashed-fr.fr
 ::1 www.cashed-fr.fr
 ::1 cashed-france.fr
@@ -149158,6 +149172,10 @@
 ::1 www.casinos-legiano.fr
 ::1 casinos-madnix.fr
 ::1 www.casinos-madnix.fr
+::1 casinos-magius.fr
+::1 www.casinos-magius.fr
+::1 casinos-millionz.fr
+::1 www.casinos-millionz.fr
 ::1 casinos-mobile.fr
 ::1 www.casinos-mobile.fr
 ::1 casinos-olympe.fr
@@ -151944,8 +151962,6 @@
 ::1 www.cdevilishf.web.app
 ::1 cdewqu.bar
 ::1 www.cdewqu.bar
-::1 cdf-pellets.de
-::1 www.cdf-pellets.de
 ::1 cdf49tz.tokyo
 ::1 www.cdf49tz.tokyo
 ::1 cdf7tk.cyou
@@ -154490,8 +154506,6 @@
 ::1 www.ceramichedagostino.it
 ::1 ceramicjapan-de.com
 ::1 www.ceramicjapan-de.com
-::1 ceramictablewareshop.com
-::1 www.ceramictablewareshop.com
 ::1 ceramoblock.ru
 ::1 www.ceramoblock.ru
 ::1 ceranelimi.gq
@@ -169196,8 +169210,6 @@
 ::1 www.claude.ai
 ::1 claudia-atelier.de
 ::1 www.claudia-atelier.de
-::1 claudia-schmuckatelier.com
-::1 www.claudia-schmuckatelier.com
 ::1 claudiaundweiss.at
 ::1 www.claudiaundweiss.at
 ::1 claudiozambellieventi.it
@@ -171206,8 +171218,6 @@
 ::1 www.clothes-sale.fr
 ::1 clothesday.com
 ::1 www.clothesday.com
-::1 clothesontherun.club
-::1 www.clothesontherun.club
 ::1 clothicranideac.ga
 ::1 www.clothicranideac.ga
 ::1 clothing-s.com
@@ -171382,8 +171392,6 @@
 ::1 www.cloudsplatter0h2xofvq.biz
 ::1 cloudsplatteroooe2m4z.biz
 ::1 www.cloudsplatteroooe2m4z.biz
-::1 cloudstepsuomi.com
-::1 www.cloudstepsuomi.com
 ::1 cloudtexpla.xyz
 ::1 www.cloudtexpla.xyz
 ::1 cloudtritt.de
@@ -174520,8 +174528,6 @@
 ::1 www.cokettbunglanro.tk
 ::1 cokickreworthma.ml
 ::1 www.cokickreworthma.ml
-::1 cokimnsi.shop
-::1 www.cokimnsi.shop
 ::1 cokingparkcadepat.ml
 ::1 www.cokingparkcadepat.ml
 ::1 cokiucom.xyz
@@ -175210,8 +175216,6 @@
 ::1 www.collectinglavishnesshandbook.com
 ::1 collection-nike.fr
 ::1 www.collection-nike.fr
-::1 collectionbath.com
-::1 www.collectionbath.com
 ::1 collectioncentre.com
 ::1 www.collectioncentre.com
 ::1 collectioneyesweek.biz
@@ -205650,6 +205654,8 @@
 ::1 www.denijackspongede.tk
 ::1 denimstore.fr
 ::1 www.denimstore.fr
+::1 denimstoreshop.fr
+::1 www.denimstoreshop.fr
 ::1 denimtearsfr.fr
 ::1 www.denimtearsfr.fr
 ::1 denimtearsstore.fr
@@ -221094,6 +221100,8 @@
 ::1 www.donbet-casinos.fr
 ::1 donbet-fr.fr
 ::1 www.donbet-fr.fr
+::1 donbet-france.fr
+::1 www.donbet-france.fr
 ::1 donbet-jeux.fr
 ::1 www.donbet-jeux.fr
 ::1 donbetbonus.fr
@@ -258288,6 +258296,8 @@
 ::1 www.extootanciguaffse.ml
 ::1 extosinmo.ml
 ::1 www.extosinmo.ml
+::1 extra-casinos.fr
+::1 www.extra-casinos.fr
 ::1 extra-new-porn-pics.com
 ::1 www.extra-new-porn-pics.com
 ::1 extra-vegas.fr
@@ -264826,6 +264836,8 @@
 ::1 www.fcfejxc.bar
 ::1 fcfeye.tokyo
 ::1 www.fcfeye.tokyo
+::1 fcfootballtickets.fr
+::1 www.fcfootballtickets.fr
 ::1 fcfqagt.bar
 ::1 www.fcfqagt.bar
 ::1 fcftxknd.xyz
@@ -279730,6 +279742,8 @@
 ::1 www.fr-espaceclient.fr
 ::1 fr-esrifrance.fr
 ::1 www.fr-esrifrance.fr
+::1 fr-examiner-service.fr
+::1 www.fr-examiner-service.fr
 ::1 fr-exaprobe.fr
 ::1 www.fr-exaprobe.fr
 ::1 fr-fastslots.fr
@@ -279836,8 +279850,12 @@
 ::1 www.fr-le-republicain-lorrain.fr
 ::1 fr-leboncoin.fr
 ::1 www.fr-leboncoin.fr
+::1 fr-legiano-casino.fr
+::1 www.fr-legiano-casino.fr
 ::1 fr-legiano.fr
 ::1 www.fr-legiano.fr
+::1 fr-legianocasino.fr
+::1 www.fr-legianocasino.fr
 ::1 fr-lidl.fr
 ::1 www.fr-lidl.fr
 ::1 fr-limbo.fr
@@ -311582,6 +311600,8 @@
 ::1 www.groupe-arcenciel.ch
 ::1 groupe-aspen.fr
 ::1 www.groupe-aspen.fr
+::1 groupe-axa.fr
+::1 www.groupe-axa.fr
 ::1 groupe-barrere.fr
 ::1 www.groupe-barrere.fr
 ::1 groupe-boursorama.fr
@@ -312844,6 +312864,8 @@
 ::1 www.gtbdav.bar
 ::1 gtbet-casino1.fr
 ::1 www.gtbet-casino1.fr
+::1 gtbet-casinos.fr
+::1 www.gtbet-casinos.fr
 ::1 gtbet-francais.fr
 ::1 www.gtbet-francais.fr
 ::1 gtbetcasino.fr
@@ -333182,8 +333204,6 @@
 ::1 www.hildalm.online
 ::1 hildas-waren.de
 ::1 www.hildas-waren.de
-::1 hildathelabel.co.uk
-::1 www.hildathelabel.co.uk
 ::1 hilde-taschen.de
 ::1 www.hilde-taschen.de
 ::1 hildebrandt-bekleidung.de
@@ -336632,8 +336652,6 @@
 ::1 www.holz-winterhoff.de
 ::1 holzabsatzfonds.de
 ::1 www.holzabsatzfonds.de
-::1 holzaktiv.com
-::1 www.holzaktiv.com
 ::1 holzanatomie.de
 ::1 www.holzanatomie.de
 ::1 holzbau-steiermark.at
@@ -351916,6 +351934,8 @@
 ::1 www.ildvzt.tokyo
 ::1 ildylh.tokyo
 ::1 www.ildylh.tokyo
+::1 ile-de-casinos.fr
+::1 www.ile-de-casinos.fr
 ::1 ile-decasino.fr
 ::1 www.ile-decasino.fr
 ::1 ile-defrance.fr
@@ -374152,6 +374172,8 @@
 ::1 www.jetnolinomis.tk
 ::1 jetnxubrl.xyz
 ::1 www.jetnxubrl.xyz
+::1 jeton-rouge-casino.fr
+::1 www.jeton-rouge-casino.fr
 ::1 jeton-rouge-fr.fr
 ::1 www.jeton-rouge-fr.fr
 ::1 jeton-rouges.fr
@@ -381116,6 +381138,8 @@
 ::1 www.juliuscasino-live.fr
 ::1 juliuscasino-official.fr
 ::1 www.juliuscasino-official.fr
+::1 juliuscasino-officiel.fr
+::1 www.juliuscasino-officiel.fr
 ::1 juliuscasino2.fr
 ::1 www.juliuscasino2.fr
 ::1 juliuscasino88.fr
@@ -409398,8 +409422,6 @@
 ::1 www.learnhesvoucer.tk
 ::1 learnhowtotrade.buzz
 ::1 www.learnhowtotrade.buzz
-::1 learnigo.co.za
-::1 www.learnigo.co.za
 ::1 learningadminshit.xyz
 ::1 www.learningadminshit.xyz
 ::1 learningcapital.biz
@@ -419154,8 +419176,6 @@
 ::1 www.lilyphotosenmee.tk
 ::1 lilyrun.com
 ::1 www.lilyrun.com
-::1 lilysilk.co.at
-::1 www.lilysilk.co.at
 ::1 lilythenosep.cf
 ::1 www.lilythenosep.cf
 ::1 limaboopulmamer.tk
@@ -428576,8 +428596,6 @@
 ::1 www.lowa-wanderschuhe.com
 ::1 lowa.co.at
 ::1 www.lowa.co.at
-::1 lowa.com.de
-::1 www.lowa.com.de
 ::1 lowaapavi.com
 ::1 www.lowaapavi.com
 ::1 lowabootsaustralia.net
@@ -436406,6 +436424,8 @@
 ::1 www.mabanque-sg.fr
 ::1 mabanque-societegenerale.fr
 ::1 www.mabanque-societegenerale.fr
+::1 mabanque.paris
+::1 www.mabanque.paris
 ::1 mabanquebnp-digitale.fr
 ::1 www.mabanquebnp-digitale.fr
 ::1 mabanquebnp-paribas-mise-a-jour.fr
@@ -450608,6 +450628,8 @@
 ::1 www.messageries-operationacce.fr
 ::1 messageries-sg.fr
 ::1 www.messageries-sg.fr
+::1 messageriesecurise-auto.fr
+::1 www.messageriesecurise-auto.fr
 ::1 messageriesfr.fr
 ::1 www.messageriesfr.fr
 ::1 messageriesleboncoin.fr
@@ -454276,6 +454298,8 @@
 ::1 www.millioner-casinos.fr
 ::1 millioner-cassino.fr
 ::1 www.millioner-cassino.fr
+::1 millioner-play.fr
+::1 www.millioner-play.fr
 ::1 millionerbonus.fr
 ::1 www.millionerbonus.fr
 ::1 millionercasino-bonus.fr
@@ -463804,6 +463828,8 @@
 ::1 www.montre-automatique.fr
 ::1 montredeluxepascher.fr
 ::1 www.montredeluxepascher.fr
+::1 montreespacepersonnelclient.fr
+::1 www.montreespacepersonnelclient.fr
 ::1 montrefossiloutlet.fr
 ::1 www.montrefossiloutlet.fr
 ::1 montrelle.ro
@@ -470750,6 +470776,8 @@
 ::1 www.my-account-netflx-world.com
 ::1 my-account-orange.fr
 ::1 www.my-account-orange.fr
+::1 my-account-security.fr
+::1 www.my-account-security.fr
 ::1 my-ai.art
 ::1 www.my-ai.art
 ::1 my-ai.art
@@ -546578,6 +546606,8 @@
 ::1 www.portailfree.fr
 ::1 portailgeo.fr
 ::1 www.portailgeo.fr
+::1 portaillcl-finance.fr
+::1 www.portaillcl-finance.fr
 ::1 portailntfix-assistance.fr
 ::1 www.portailntfix-assistance.fr
 ::1 portailopposition-enligne.fr
@@ -551628,8 +551658,6 @@
 ::1 www.prettyfeeleyemachine.biz
 ::1 prettylittlekitchen.com
 ::1 www.prettylittlekitchen.com
-::1 prettylittlething.co.za
-::1 www.prettylittlething.co.za
 ::1 prettylittlething.fr
 ::1 www.prettylittlething.fr
 ::1 prettylittlethings.fr
@@ -571346,6 +571374,8 @@
 ::1 www.quick-scanning.top
 ::1 quick-sg-govno1linkspayments.fr
 ::1 www.quick-sg-govno1linkspayments.fr
+::1 quick-win-casinos.fr
+::1 www.quick-win-casinos.fr
 ::1 quick-wincasino-fr.fr
 ::1 www.quick-wincasino-fr.fr
 ::1 quick-winz.fr
@@ -618692,6 +618722,8 @@
 ::1 www.se-connecter-prime.fr
 ::1 se-e-mo.re
 ::1 www.se-e-mo.re
+::1 se-emo.re
+::1 www.se-emo.re
 ::1 se-kurecontrols.com
 ::1 www.se-kurecontrols.com
 ::1 se-sthqntm-64.com
@@ -627412,6 +627444,8 @@
 ::1 www.sg-casino1.fr
 ::1 sg-casinoofficiel.fr
 ::1 www.sg-casinoofficiel.fr
+::1 sg-casinos.fr
+::1 www.sg-casinos.fr
 ::1 sg-cdn-actualisation.fr
 ::1 www.sg-cdn-actualisation.fr
 ::1 sg-client.fr
@@ -641572,6 +641606,8 @@
 ::1 www.sofinco-caconsumerfinance.fr
 ::1 sofinco-financement.fr
 ::1 www.sofinco-financement.fr
+::1 sofinco-finances.fr
+::1 www.sofinco-finances.fr
 ::1 sofinco-france.fr
 ::1 www.sofinco-france.fr
 ::1 sofinco-sa.fr
@@ -646514,6 +646550,8 @@
 ::1 www.spinanga-no-online.com
 ::1 spinanga-vip.fr
 ::1 www.spinanga-vip.fr
+::1 spinanga1.fr
+::1 www.spinanga1.fr
 ::1 spinangacasinoapp.fr
 ::1 www.spinangacasinoapp.fr
 ::1 spinangacasinoavis.fr
@@ -646598,6 +646636,8 @@
 ::1 www.spinaura-casi.fr
 ::1 spinaura-casino.fr
 ::1 www.spinaura-casino.fr
+::1 spinaura-casinos.fr
+::1 www.spinaura-casinos.fr
 ::1 spinaura-en-ligne.fr
 ::1 www.spinaura-en-ligne.fr
 ::1 spinaura-officiel.fr
@@ -646698,6 +646738,8 @@
 ::1 www.spinbosses.fr
 ::1 spinbosss.fr
 ::1 www.spinbosss.fr
+::1 spinbot.fr
+::1 www.spinbot.fr
 ::1 spinbucklychulpyehigh.tk
 ::1 www.spinbucklychulpyehigh.tk
 ::1 spinbulsabestvers.tk
@@ -646878,6 +646920,8 @@
 ::1 www.spinlogic.fr
 ::1 spinlycasino.fr
 ::1 www.spinlycasino.fr
+::1 spinlynx1.fr
+::1 www.spinlynx1.fr
 ::1 spinlynxcasino-fr.fr
 ::1 www.spinlynxcasino-fr.fr
 ::1 spinmacho-fr.fr
@@ -654632,6 +654676,8 @@
 ::1 www.stonevariable.icu
 ::1 stonevegacasino.fr
 ::1 www.stonevegacasino.fr
+::1 stonevegas-casinos.fr
+::1 www.stonevegas-casinos.fr
 ::1 stonevegas-official.fr
 ::1 www.stonevegas-official.fr
 ::1 stonevegascasino.fr
@@ -696278,6 +696324,8 @@
 ::1 www.togerupnome.tk
 ::1 togesusmusar.gq
 ::1 www.togesusmusar.gq
+::1 together-casinos.fr
+::1 www.together-casinos.fr
 ::1 togetheraddrange.biz
 ::1 www.togetheraddrange.biz
 ::1 togethercasinofr.fr
@@ -735518,6 +735566,8 @@
 ::1 www.verday.my.id
 ::1 verdcarchimor.cf
 ::1 www.verdcarchimor.cf
+::1 verde-casinos.fr
+::1 www.verde-casinos.fr
 ::1 verde-cassino-france.fr
 ::1 www.verde-cassino-france.fr
 ::1 verde-cassinofr.fr
@@ -767368,6 +767418,8 @@
 ::1 www.winbeat.fr
 ::1 winbeatz-casino.fr
 ::1 www.winbeatz-casino.fr
+::1 winbeatz-casinos.fr
+::1 www.winbeatz-casinos.fr
 ::1 winbeatz-france.fr
 ::1 www.winbeatz-france.fr
 ::1 winbeatz-officielle.fr
