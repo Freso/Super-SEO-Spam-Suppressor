@@ -108062,6 +108062,8 @@
 ::1 www.bauwebtaulitan.ga
 ::1 bauweisidtoapas.ga
 ::1 www.bauweisidtoapas.ga
+::1 bauwerkhaus.com
+::1 www.bauwerkhaus.com
 ::1 bauworduleaconpo.tk
 ::1 www.bauworduleaconpo.tk
 ::1 bauzafoundlufure.cf
@@ -113884,8 +113886,6 @@
 ::1 www.bestelnuar.click
 ::1 bestemailmarketingservices.xyz
 ::1 www.bestemailmarketingservices.xyz
-::1 bestemed.com
-::1 www.bestemed.com
 ::1 bestemedikamente.com
 ::1 www.bestemedikamente.com
 ::1 bestenkaufen.com
@@ -121192,6 +121192,8 @@
 ::1 www.bitcoin-revolution.org
 ::1 bitcoin-shop.ro
 ::1 www.bitcoin-shop.ro
+::1 bitcoin-up.io
+::1 www.bitcoin-up.io
 ::1 bitcoin-xact.fr
 ::1 www.bitcoin-xact.fr
 ::1 bitcoinarchon.com
@@ -150034,8 +150036,6 @@
 ::1 www.catalog-sg.it
 ::1 catalogue-prime.fr
 ::1 www.catalogue-prime.fr
-::1 catalunyafarm.com
-::1 www.catalunyafarm.com
 ::1 catalyst.digital
 ::1 www.catalyst.digital
 ::1 catania-sexysexytime.space
@@ -206432,8 +206432,6 @@
 ::1 www.depixeli-k-losolarum-tapixela.club
 ::1 depjouaronita.tk
 ::1 www.depjouaronita.tk
-::1 deplacer.com
-::1 www.deplacer.com
 ::1 depladidedeepa.gq
 ::1 www.depladidedeepa.gq
 ::1 deplicasre.ga
@@ -251074,8 +251072,6 @@
 ::1 www.esnoutleteur.com
 ::1 esnpyc.tokyo
 ::1 www.esnpyc.tokyo
-::1 esnssalies.shop
-::1 www.esnssalies.shop
 ::1 esnsupply.shop
 ::1 www.esnsupply.shop
 ::1 esnutechletos.tk
@@ -254600,8 +254596,6 @@
 ::1 www.eurshopping.com
 ::1 eursus.it
 ::1 www.eursus.it
-::1 eurvipsale.shop
-::1 www.eurvipsale.shop
 ::1 eurworqh.cyou
 ::1 www.eurworqh.cyou
 ::1 eurwxr.bar
@@ -255666,8 +255660,6 @@
 ::1 www.evupvq.tokyo
 ::1 evusmecalvie.gq
 ::1 www.evusmecalvie.gq
-::1 evutal.com
-::1 www.evutal.com
 ::1 evuxiwekowib.cf
 ::1 www.evuxiwekowib.cf
 ::1 evvalutomun.ga
@@ -261620,8 +261612,6 @@
 ::1 www.fahrradhandel-martin.de
 ::1 fahrradhandel-meier.de
 ::1 www.fahrradhandel-meier.de
-::1 fahrradhandel-schulze.de
-::1 www.fahrradhandel-schulze.de
 ::1 fahrradhandel-stanke.de
 ::1 www.fahrradhandel-stanke.de
 ::1 fahrradhelmeneu.com
@@ -264830,8 +264820,6 @@
 ::1 www.fcmbhkq.bar
 ::1 fcmoena.it
 ::1 www.fcmoena.it
-::1 fcmotosale.com
-::1 www.fcmotosale.com
 ::1 fcmvvha.bar
 ::1 www.fcmvvha.bar
 ::1 fcn4bi.cyou
@@ -266388,8 +266376,6 @@
 ::1 www.fencolardest.tk
 ::1 fencomphurluru.ml
 ::1 www.fencomphurluru.ml
-::1 fenderprofilleisten.com
-::1 www.fenderprofilleisten.com
 ::1 fendgarasthyla.tk
 ::1 www.fendgarasthyla.tk
 ::1 fendi.re
@@ -267218,8 +267204,6 @@
 ::1 www.fetirearesco.ml
 ::1 fetish4movie.mobi
 ::1 www.fetish4movie.mobi
-::1 fetishmegastore.com
-::1 www.fetishmegastore.com
 ::1 fetistterroaspoonchor.tk
 ::1 www.fetistterroaspoonchor.tk
 ::1 fetjvjj.bar
@@ -269934,8 +269918,6 @@
 ::1 www.financo-sav.fr
 ::1 finansowylis.pl
 ::1 www.finansowylis.pl
-::1 finanzarena.pro
-::1 www.finanzarena.pro
 ::1 finanzasforex.com
 ::1 www.finanzasforex.com
 ::1 finanzberater-schaaf.de
@@ -270386,8 +270368,6 @@
 ::1 www.finhuddkishawhy.gq
 ::1 fininwaabusfa.gq
 ::1 www.fininwaabusfa.gq
-::1 finio24.com
-::1 www.finio24.com
 ::1 finishfighteconomys.de
 ::1 www.finishfighteconomys.de
 ::1 finishingcognitionhouse.com
@@ -270726,8 +270706,6 @@
 ::1 www.firalo.de
 ::1 firarawelt.tk
 ::1 www.firarawelt.tk
-::1 firat-handel24.de
-::1 www.firat-handel24.de
 ::1 firat-shopping.de
 ::1 www.firat-shopping.de
 ::1 firatiricast.gq
@@ -275240,8 +275218,6 @@
 ::1 www.fniqui.tokyo
 ::1 fnirgj.tokyo
 ::1 www.fnirgj.tokyo
-::1 fniyitegeka.org
-::1 www.fniyitegeka.org
 ::1 fnj0le.xyz
 ::1 www.fnj0le.xyz
 ::1 fnjhvry.tokyo
@@ -275570,8 +275546,6 @@
 ::1 www.foddercorn.com
 ::1 foddgh.tokyo
 ::1 www.foddgh.tokyo
-::1 fodgramstar.com
-::1 www.fodgramstar.com
 ::1 fodifiramb.tk
 ::1 www.fodifiramb.tk
 ::1 fodobomiclapan.ml
@@ -275996,8 +275970,6 @@
 ::1 www.folsiokensimpge.tk
 ::1 foltiefreektis.cf
 ::1 www.foltiefreektis.cf
-::1 foluna.fr
-::1 www.foluna.fr
 ::1 folurepyham.tk
 ::1 www.folurepyham.tk
 ::1 folvedelani.gq
@@ -278046,8 +278018,6 @@
 ::1 www.fortnamelachenpa.tk
 ::1 fortnightindictment.com
 ::1 www.fortnightindictment.com
-::1 fortnitec.com
-::1 www.fortnitec.com
 ::1 fortniteshop.ro
 ::1 www.fortniteshop.ro
 ::1 fortoitufimans.tk
@@ -280542,8 +280512,6 @@
 ::1 www.france-jonak.fr
 ::1 france-kpmg.fr
 ::1 www.france-kpmg.fr
-::1 france-lavignette.com
-::1 www.france-lavignette.com
 ::1 france-loisirs-abonnements.fr
 ::1 www.france-loisirs-abonnements.fr
 ::1 france-lucky8.fr
@@ -284832,6 +284800,8 @@
 ::1 www.fufuzon.com
 ::1 fugefz.cyou
 ::1 www.fugefz.cyou
+::1 fuggler.at
+::1 www.fuggler.at
 ::1 fugglerfrance.fr
 ::1 www.fugglerfrance.fr
 ::1 fughr4p.tokyo
@@ -289396,8 +289366,6 @@
 ::1 www.gaborcipele.com
 ::1 gabordeutschland.com
 ::1 www.gabordeutschland.com
-::1 gaborfactorysale.com
-::1 www.gaborfactorysale.com
 ::1 gaborgreece.com
 ::1 www.gaborgreece.com
 ::1 gabormontreal.com
@@ -289596,8 +289564,6 @@
 ::1 www.gadgetgrids.com
 ::1 gadgetguruji.xyz
 ::1 www.gadgetguruji.xyz
-::1 gadgetladen.shop
-::1 www.gadgetladen.shop
 ::1 gadgetoutcome.com
 ::1 www.gadgetoutcome.com
 ::1 gadgets-mania.dk
@@ -290124,8 +290090,6 @@
 ::1 www.galaxy-toolkit.net
 ::1 galaxy-update-check.com
 ::1 www.galaxy-update-check.com
-::1 galaxygroup.io
-::1 www.galaxygroup.io
 ::1 galaxylicht.shop
 ::1 www.galaxylicht.shop
 ::1 galaxys-8.fr
@@ -291234,8 +291198,6 @@
 ::1 www.garbiosa.xyz
 ::1 garbmicitilra.tk
 ::1 www.garbmicitilra.tk
-::1 garborine.com
-::1 www.garborine.com
 ::1 garbtangmispscespinking.cf
 ::1 www.garbtangmispscespinking.cf
 ::1 garcabuling.ml
@@ -291594,8 +291556,6 @@
 ::1 www.gartbermepolconsro.tk
 ::1 garten-forstgerate.de
 ::1 www.garten-forstgerate.de
-::1 garten-frische.de
-::1 www.garten-frische.de
 ::1 garten-gepflegt.de
 ::1 www.garten-gepflegt.de
 ::1 garten-market.com
@@ -291632,8 +291592,6 @@
 ::1 www.gartenbaukunster.de
 ::1 gartenbaurheinruhr.de
 ::1 www.gartenbaurheinruhr.de
-::1 gartenbedarf-ehlers.de
-::1 www.gartenbedarf-ehlers.de
 ::1 gartenbedarf-online.com
 ::1 www.gartenbedarf-online.com
 ::1 gartenbiliger.com
@@ -291690,8 +291648,6 @@
 ::1 www.gartenkings.de
 ::1 gartenkompass.com
 ::1 www.gartenkompass.com
-::1 gartenkraft-de.com
-::1 www.gartenkraft-de.com
 ::1 gartenkreuzfahrt.de
 ::1 www.gartenkreuzfahrt.de
 ::1 gartenland-martens.de
@@ -292428,8 +292384,6 @@
 ::1 www.gavegpemenlepe.tk
 ::1 gaveideertilfest.dk
 ::1 www.gaveideertilfest.dk
-::1 gaveltrdltd.com
-::1 www.gaveltrdltd.com
 ::1 gaverchokibe.cf
 ::1 www.gaverchokibe.cf
 ::1 gaverspreszalakons.tk
@@ -295714,8 +295668,6 @@
 ::1 www.ger9vx.cyou
 ::1 geraestec.com.br
 ::1 www.geraestec.com.br
-::1 geraetedirekt.com
-::1 www.geraetedirekt.com
 ::1 geraetedoc.com
 ::1 www.geraetedoc.com
 ::1 geranbene.gq
@@ -295870,14 +295822,10 @@
 ::1 www.gerlo.my.id
 ::1 germal.my.id
 ::1 www.germal.my.id
-::1 germalls-garten.de
-::1 www.germalls-garten.de
 ::1 german-apotheke.de
 ::1 www.german-apotheke.de
 ::1 german-audio-equipment.com
 ::1 www.german-audio-equipment.com
-::1 german-deal.com
-::1 www.german-deal.com
 ::1 german-digital-exchange-gmbh.de
 ::1 www.german-digital-exchange-gmbh.de
 ::1 german-discount-carsparts.com
@@ -296024,8 +295972,6 @@
 ::1 www.gerrsx.tokyo
 ::1 gerryday.xyz
 ::1 www.gerryday.xyz
-::1 gerrys-modehaus.com
-::1 www.gerrys-modehaus.com
 ::1 gersdanseolicepo.tk
 ::1 www.gersdanseolicepo.tk
 ::1 gersdesanightho.gq
@@ -296450,8 +296396,6 @@
 ::1 www.gestion-vitale.fr
 ::1 gestion-vitals-gov.fr
 ::1 www.gestion-vitals-gov.fr
-::1 gestion.finance
-::1 www.gestion.finance
 ::1 gestionadhesion.fr
 ::1 www.gestionadhesion.fr
 ::1 gestionantai.fr
@@ -297270,8 +297214,6 @@
 ::1 www.getrectpheseva.ga
 ::1 getriamabutkirev.gq
 ::1 www.getriamabutkirev.gq
-::1 getrichbb.com
-::1 www.getrichbb.com
 ::1 getridbug.com
 ::1 www.getridbug.com
 ::1 getrivicarnafp.ga
@@ -297758,6 +297700,8 @@
 ::1 www.gfjgtt.tokyo
 ::1 gfjhf.cn
 ::1 www.gfjhf.cn
+::1 gfjnp.com
+::1 www.gfjnp.com
 ::1 gfjrbv.tokyo
 ::1 www.gfjrbv.tokyo
 ::1 gfkanf.rest
@@ -298882,8 +298826,6 @@
 ::1 www.giaqeq.tokyo
 ::1 giardino360.it
 ::1 www.giardino360.it
-::1 giardinoambienti.com
-::1 www.giardinoambienti.com
 ::1 giardinodegliaranci.biz
 ::1 www.giardinodegliaranci.biz
 ::1 giarejacklicasi.ml
@@ -299230,16 +299172,12 @@
 ::1 www.giesswein.ro
 ::1 giessweinca.com
 ::1 www.giessweinca.com
-::1 giessweinfootwear.shop
-::1 www.giessweinfootwear.shop
 ::1 giessweins.es
 ::1 www.giessweins.es
 ::1 giessweins.it
 ::1 www.giessweins.it
 ::1 giessweinschuhe.com
 ::1 www.giessweinschuhe.com
-::1 giessweinsneaker.com
-::1 www.giessweinsneaker.com
 ::1 giethepentugyton.ga
 ::1 www.giethepentugyton.ga
 ::1 giethroprafibal.gq
@@ -299456,8 +299394,6 @@
 ::1 www.gigamystery.jp
 ::1 giganplastmedyczne.pl
 ::1 www.giganplastmedyczne.pl
-::1 gigantautoteile.com
-::1 www.gigantautoteile.com
 ::1 gigaporn.eu
 ::1 www.gigaporn.eu
 ::1 gigaspinz.fr
@@ -301262,8 +301198,6 @@
 ::1 www.gkarcoru.xyz
 ::1 gkbjfy.bar
 ::1 www.gkbjfy.bar
-::1 gkbmydjg.shop
-::1 www.gkbmydjg.shop
 ::1 gkbtzd.tokyo
 ::1 www.gkbtzd.tokyo
 ::1 gkbu7u7.tokyo
@@ -311342,6 +311276,8 @@
 ::1 www.groundiesschoenennederland.com
 ::1 groundiesshop.at
 ::1 www.groundiesshop.at
+::1 groundiesukshoes.com
+::1 www.groundiesukshoes.com
 ::1 groundisconaco.tk
 ::1 www.groundisconaco.tk
 ::1 groundly.best
@@ -323540,6 +323476,8 @@
 ::1 www.harmony-ambiento.shop
 ::1 harmony-forever.ru
 ::1 www.harmony-forever.ru
+::1 harmonyalmbienteoutlet.shop
+::1 www.harmonyalmbienteoutlet.shop
 ::1 harmonygaleri.com
 ::1 www.harmonygaleri.com
 ::1 harmosolibsa.ga
@@ -353478,6 +353416,8 @@
 ::1 www.immediate-dash.de
 ::1 immediate-direct.com
 ::1 www.immediate-direct.com
+::1 immediate-edge2.com
+::1 www.immediate-edge2.com
 ::1 immediate-flik.com
 ::1 www.immediate-flik.com
 ::1 immediate-growth.com
@@ -509330,6 +509270,8 @@
 ::1 www.online-fastslots.fr
 ::1 online-file-converter.com
 ::1 www.online-file-converter.com
+::1 online-finanz.com
+::1 www.online-finanz.com
 ::1 online-forum-pussy.buzz
 ::1 www.online-forum-pussy.buzz
 ::1 online-forum-vip.cloud
@@ -509568,6 +509510,8 @@
 ::1 www.onlinefastslots-fr.fr
 ::1 onlinefastslots.fr
 ::1 www.onlinefastslots.fr
+::1 onlinefinanz-bmf.com
+::1 www.onlinefinanz-bmf.com
 ::1 onlineforex.website
 ::1 www.onlineforex.website
 ::1 onlineforextrading.site
@@ -527510,6 +527454,8 @@
 ::1 www.paulplaza.nl
 ::1 paulundruscher.de
 ::1 www.paulundruscher.de
+::1 paulusbrennholz.com
+::1 www.paulusbrennholz.com
 ::1 paumagasin-cybertek.fr
 ::1 www.paumagasin-cybertek.fr
 ::1 paumairumtegococ.cf
@@ -552024,6 +551970,8 @@
 ::1 www.primatop.de
 ::1 primavaraxr400.site
 ::1 www.primavaraxr400.site
+::1 primavo24.de
+::1 www.primavo24.de
 ::1 primazgranolper.cf
 ::1 www.primazgranolper.cf
 ::1 primcalbosi.web.app
@@ -568136,6 +568084,8 @@
 ::1 www.qnoocfoocy.xyz
 ::1 qnp1y.bar
 ::1 www.qnp1y.bar
+::1 qnpamkpu.shop
+::1 www.qnpamkpu.shop
 ::1 qnpike.bar
 ::1 www.qnpike.bar
 ::1 qnpuro.cyou
@@ -616644,6 +616594,8 @@
 ::1 www.schifdeicansdosbooksmar.tk
 ::1 schiffbootsteile.com
 ::1 www.schiffbootsteile.com
+::1 schiffbox.com
+::1 www.schiffbox.com
 ::1 schifiswhoehalceiti.ml
 ::1 www.schifiswhoehalceiti.ml
 ::1 schifqueneneemftoucin.cf
@@ -641694,6 +641646,8 @@
 ::1 www.softdosamphilders.ml
 ::1 softdrivgatasonli.tk
 ::1 www.softdrivgatasonli.tk
+::1 softelektro.com
+::1 www.softelektro.com
 ::1 softeneddefenceinflation.com
 ::1 www.softeneddefenceinflation.com
 ::1 softeninsinuate.com
@@ -644402,6 +644356,8 @@
 ::1 www.sow6t2.cyou
 ::1 sowaoptive.asia
 ::1 www.sowaoptive.asia
+::1 sowaswillichauch.de
+::1 www.sowaswillichauch.de
 ::1 sowbrl.bar
 ::1 www.sowbrl.bar
 ::1 sowepirare.gq
@@ -644694,6 +644650,8 @@
 ::1 www.spacewordwaypeople.biz
 ::1 spacex.yt
 ::1 www.spacex.yt
+::1 spacexfy.ai
+::1 www.spacexfy.ai
 ::1 spacfiltcolsipe.tk
 ::1 www.spacfiltcolsipe.tk
 ::1 spacherropurswi.tk
@@ -652834,6 +652792,8 @@
 ::1 www.steiner-kg.at
 ::1 steiner-wien.at
 ::1 www.steiner-wien.at
+::1 steinermode.at
+::1 www.steinermode.at
 ::1 steinersearch.at
 ::1 www.steinersearch.at
 ::1 steinhaus-berlin.co
@@ -730078,6 +730038,8 @@
 ::1 www.vapecupsearchma.ga
 ::1 vapegunstig.de
 ::1 www.vapegunstig.de
+::1 vapekiste.com
+::1 www.vapekiste.com
 ::1 vapekitprime.com
 ::1 www.vapekitprime.com
 ::1 vapeltecadeta.tk
