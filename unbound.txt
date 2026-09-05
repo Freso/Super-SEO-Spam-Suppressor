@@ -33444,6 +33444,7 @@ local-zone: "adidasxchezsimone.fr" always_refuse
 local-zone: "adidasyeezy.fr" always_refuse
 local-zone: "adidasyeezy.uk.com" always_refuse
 local-zone: "adidasyeezyboost.de" always_refuse
+local-zone: "adidasyeezyfrance.fr" always_refuse
 local-zone: "adidasyeezys.fr" always_refuse
 local-zone: "adifalconara.it" always_refuse
 local-zone: "adifatrabjoi.tk" always_refuse
@@ -35319,6 +35320,7 @@ local-zone: "agora-journal.fr" always_refuse
 local-zone: "agora.com.vc" always_refuse
 local-zone: "agoracentredestudis.buzz" always_refuse
 local-zone: "agorahexagone.fr" always_refuse
+local-zone: "agorast0re.fr" always_refuse
 local-zone: "agorastor.fr" always_refuse
 local-zone: "agorbepivi.tk" always_refuse
 local-zone: "agorcheja.tk" always_refuse
@@ -45380,6 +45382,7 @@ local-zone: "arme.xyz" always_refuse
 local-zone: "armedangelsfrance.fr" always_refuse
 local-zone: "armedangelsoutlet.com" always_refuse
 local-zone: "armedauditoriumclog.com" always_refuse
+local-zone: "armee-francaise.fr" always_refuse
 local-zone: "armeliwimahni.ml" always_refuse
 local-zone: "armemipe.tk" always_refuse
 local-zone: "armenwicoun.tk" always_refuse
@@ -57604,6 +57607,8 @@ local-zone: "betninjacasinos.fr" always_refuse
 local-zone: "betnjet-casino.fr" always_refuse
 local-zone: "betnjet-fr.fr" always_refuse
 local-zone: "betnjetcasino.fr" always_refuse
+local-zone: "betnorys.fr" always_refuse
+local-zone: "betnoryx.fr" always_refuse
 local-zone: "betnovacasino.fr" always_refuse
 local-zone: "betnow.fr" always_refuse
 local-zone: "betobeft.fr" always_refuse
@@ -74250,6 +74255,7 @@ local-zone: "casinogtbet-fr.fr" always_refuse
 local-zone: "casinogtbet.fr" always_refuse
 local-zone: "casinogxbet.fr" always_refuse
 local-zone: "casinogxmble.fr" always_refuse
+local-zone: "casinohadesbet.fr" always_refuse
 local-zone: "casinohappyhugo.fr" always_refuse
 local-zone: "casinohermes.fr" always_refuse
 local-zone: "casinohermesfrance.fr" always_refuse
@@ -74300,6 +74306,7 @@ local-zone: "casinolabjeux.fr" always_refuse
 local-zone: "casinolaciotat.fr" always_refuse
 local-zone: "casinolarabet.fr" always_refuse
 local-zone: "casinolegalenligne.fr" always_refuse
+local-zone: "casinolegionbet.fr" always_refuse
 local-zone: "casinoleonbet.fr" always_refuse
 local-zone: "casinolepluspayant.fr" always_refuse
 local-zone: "casinolevant-enligne.fr" always_refuse
@@ -74503,6 +74510,7 @@ local-zone: "casinospinfest.fr" always_refuse
 local-zone: "casinospinfin.fr" always_refuse
 local-zone: "casinospinight.fr" always_refuse
 local-zone: "casinospinit.fr" always_refuse
+local-zone: "casinospinkong.fr" always_refuse
 local-zone: "casinospinmacho.fr" always_refuse
 local-zone: "casinospinmadness.fr" always_refuse
 local-zone: "casinospinmama.fr" always_refuse
@@ -76371,6 +76379,7 @@ local-zone: "celgzq.cyou" always_refuse
 local-zone: "celharddemacor.tk" always_refuse
 local-zone: "celiaschildminding.xyz" always_refuse
 local-zone: "celibeardtehil.tk" always_refuse
+local-zone: "celibook.fr" always_refuse
 local-zone: "celidynighpom.tk" always_refuse
 local-zone: "celighto.ga" always_refuse
 local-zone: "celikupcondmit.ml" always_refuse
@@ -88047,6 +88056,7 @@ local-zone: "commune-annecy.fr" always_refuse
 local-zone: "commune-de-saint-ouen.fr" always_refuse
 local-zone: "commune-poitiers.fr" always_refuse
 local-zone: "communebnioulid.com" always_refuse
+local-zone: "communedechateauroux.fr" always_refuse
 local-zone: "communi.eu" always_refuse
 local-zone: "communicatedsurmountshow.com" always_refuse
 local-zone: "communicatiestuderen.nl" always_refuse
@@ -89269,6 +89279,7 @@ local-zone: "confirmation-carte.fr" always_refuse
 local-zone: "confirmation-client-paypal.fr" always_refuse
 local-zone: "confirmation-credit-agri.fr" always_refuse
 local-zone: "confirmation-de-vos-rendez-vous-securise-leboncoin.fr" always_refuse
+local-zone: "confirmation-de-vos-rendezvous-securise-leboncoin.fr" always_refuse
 local-zone: "confirmation-de-votre-rendez-vous-auto-securise-leboncoin.fr" always_refuse
 local-zone: "confirmation-details-rdv-leboncoin.fr" always_refuse
 local-zone: "confirmation-devotre-rendez-vous-securise-leboncoin.fr" always_refuse
@@ -102404,7 +102415,6 @@ local-zone: "demassari.it" always_refuse
 local-zone: "demaswame.tk" always_refuse
 local-zone: "dematicsas.fr" always_refuse
 local-zone: "dematsearchstomfull.tk" always_refuse
-local-zone: "demays.cc" always_refuse
 local-zone: "demboocackoles.tk" always_refuse
 local-zone: "demeaningfulbrands.com" always_refuse
 local-zone: "demeankamouffgoo.tk" always_refuse
@@ -103615,7 +103625,6 @@ local-zone: "deschandbreakberkeber.tk" always_refuse
 local-zone: "descharprobbido.tk" always_refuse
 local-zone: "deschcamodesme.tk" always_refuse
 local-zone: "deschightistni.tk" always_refuse
-local-zone: "deschuhebillig.com" always_refuse
 local-zone: "deschukatesbetf.gq" always_refuse
 local-zone: "deschurdhawcont.ga" always_refuse
 local-zone: "descinawichsand.tk" always_refuse
@@ -103699,7 +103708,6 @@ local-zone: "desgestcartaurewolf.tk" always_refuse
 local-zone: "desgetopalo.ga" always_refuse
 local-zone: "desggeperpstor.tk" always_refuse
 local-zone: "desgibivero.tk" always_refuse
-local-zone: "desginevo.com" always_refuse
 local-zone: "desgmusetbetfgevil.tk" always_refuse
 local-zone: "desgnfotatbuyvida.ml" always_refuse
 local-zone: "desgolftusobelf.tk" always_refuse
@@ -104224,7 +104232,6 @@ local-zone: "deutonymphal.best" always_refuse
 local-zone: "deutothoughra.ml" always_refuse
 local-zone: "deutsch-brennholz.de" always_refuse
 local-zone: "deutsche-armut.de" always_refuse
-local-zone: "deutsche-backwaren-manufaktur.com" always_refuse
 local-zone: "deutsche-energieoptimierungsgesellschaft.com" always_refuse
 local-zone: "deutsche-frauen-kohortenstudie.info" always_refuse
 local-zone: "deutsche-osteopathen.de" always_refuse
@@ -104239,7 +104246,6 @@ local-zone: "deutschegartenmoebel.de" always_refuse
 local-zone: "deutschekindergarten.de" always_refuse
 local-zone: "deutschemobel.com" always_refuse
 local-zone: "deutschemoebelbau.de" always_refuse
-local-zone: "deutscher-invest-markt.de" always_refuse
 local-zone: "deutscherheiler.de" always_refuse
 local-zone: "deutschersammlerschatz.com" always_refuse
 local-zone: "deutsches-gut.de" always_refuse
@@ -106512,7 +106518,6 @@ local-zone: "digitalwalkingmaps.eu" always_refuse
 local-zone: "digitalwavesway.com" always_refuse
 local-zone: "digitalyuans.xyz" always_refuse
 local-zone: "digitax-solutions.de" always_refuse
-local-zone: "digitec-holding.de" always_refuse
 local-zone: "digitech-shop.com" always_refuse
 local-zone: "digiter.no" always_refuse
 local-zone: "digitfoto.fr" always_refuse
@@ -106801,14 +106806,12 @@ local-zone: "dinamovenezia.it" always_refuse
 local-zone: "dinawakingtocam.tk" always_refuse
 local-zone: "dincakipuhota.tk" always_refuse
 local-zone: "dincatersma.tk" always_refuse
-local-zone: "dincer-gartenbau.de" always_refuse
 local-zone: "dindaketoto.cf" always_refuse
 local-zone: "dinducheckbesttradov.ml" always_refuse
 local-zone: "dinecktramalap.cf" always_refuse
 local-zone: "dinecyctiodad.tk" always_refuse
 local-zone: "dinehindlagoo.cf" always_refuse
 local-zone: "dinelotiti.cf" always_refuse
-local-zone: "dinem-tech.de" always_refuse
 local-zone: "dinemulniasa.tk" always_refuse
 local-zone: "dinequabarinness.tk" always_refuse
 local-zone: "dineroca.ml" always_refuse
@@ -108661,7 +108664,6 @@ local-zone: "divingshop.nl" always_refuse
 local-zone: "divipinzibas.ga" always_refuse
 local-zone: "divirmawiwes.ga" always_refuse
 local-zone: "divirodival.tk" always_refuse
-local-zone: "divisconcept.com" always_refuse
 local-zone: "divisionbare.site" always_refuse
 local-zone: "divisionxs.web.app" always_refuse
 local-zone: "divj91.cyou" always_refuse
@@ -110070,7 +110072,6 @@ local-zone: "dolaconwersrog.ml" always_refuse
 local-zone: "dolatestudypeople.buzz" always_refuse
 local-zone: "dolaxe.com" always_refuse
 local-zone: "dolbyboys.xyz" always_refuse
-local-zone: "dolce-gabbana-online.shop" always_refuse
 local-zone: "dolceamara.com" always_refuse
 local-zone: "dolcecucina.it" always_refuse
 local-zone: "dolcedatiing.com" always_refuse
@@ -110416,7 +110417,6 @@ local-zone: "dontmedicalise.com" always_refuse
 local-zone: "dontmogacitisba.tk" always_refuse
 local-zone: "dontoebugy.tk" always_refuse
 local-zone: "dontrimisiduc.tk" always_refuse
-local-zone: "donttaptheglassshop.com" always_refuse
 local-zone: "dontthetertestraz.tk" always_refuse
 local-zone: "donttikelldirethumb.tk" always_refuse
 local-zone: "donttogidoldtergo.tk" always_refuse
@@ -110660,7 +110660,6 @@ local-zone: "dortlensgriden.tk" always_refuse
 local-zone: "dortmencarobeen.tk" always_refuse
 local-zone: "dortmitisonphovi.cf" always_refuse
 local-zone: "dortmund-warenhaus.de" always_refuse
-local-zone: "dortuviax.at" always_refuse
 local-zone: "dorty.es" always_refuse
 local-zone: "dortzakhticomtyrr.ml" always_refuse
 local-zone: "dorvitourpieca.gq" always_refuse
@@ -112049,7 +112048,6 @@ local-zone: "drenmuworchophar.ga" always_refuse
 local-zone: "drenrahela.web.app" always_refuse
 local-zone: "drenrentvibesthalffe.ga" always_refuse
 local-zone: "drensupptiriveno.tk" always_refuse
-local-zone: "dreodeutschland.com" always_refuse
 local-zone: "drepapretore.tk" always_refuse
 local-zone: "dresabaleh.tk" always_refuse
 local-zone: "dresacmanawor.tk" always_refuse
@@ -112336,7 +112334,6 @@ local-zone: "drmartensfrancestore.fr" always_refuse
 local-zone: "drmartenshomme.fr" always_refuse
 local-zone: "drmartenspairs.fr" always_refuse
 local-zone: "drmartensparis.fr" always_refuse
-local-zone: "drmartensportugaloutlet.com" always_refuse
 local-zone: "drmartenss.fr" always_refuse
 local-zone: "drmartenssalg.com" always_refuse
 local-zone: "drmartensshoesuk.com" always_refuse
@@ -113365,7 +113362,6 @@ local-zone: "dufothodisi.cf" always_refuse
 local-zone: "dufpopatliapas.tk" always_refuse
 local-zone: "duft-blumen.de" always_refuse
 local-zone: "duftbaum.store" always_refuse
-local-zone: "duftefursie.com" always_refuse
 local-zone: "dufthackrhetelneusi.tk" always_refuse
 local-zone: "duftiodparanman.gq" always_refuse
 local-zone: "duftputlimiscu.gq" always_refuse
@@ -113876,7 +113872,6 @@ local-zone: "dutpf1.cyou" always_refuse
 local-zone: "dutuariwendust.tk" always_refuse
 local-zone: "dutut.com" always_refuse
 local-zone: "dutypleasure.com" always_refuse
-local-zone: "dutztechh.shop" always_refuse
 local-zone: "duu3ug.cyou" always_refuse
 local-zone: "duuofsq.tokyo" always_refuse
 local-zone: "duupfo.tokyo" always_refuse
@@ -116078,12 +116073,10 @@ local-zone: "easymansplaceyear.buzz" always_refuse
 local-zone: "easymarketer.xyz" always_refuse
 local-zone: "easymenlege.ml" always_refuse
 local-zone: "easymove-eu.com" always_refuse
-local-zone: "easyoel.net" always_refuse
 local-zone: "easyoffice.xyz" always_refuse
 local-zone: "easyoptions.online" always_refuse
 local-zone: "easypay.xyz" always_refuse
 local-zone: "easyprivacyconnect.com" always_refuse
-local-zone: "easyrenthomez.com" always_refuse
 local-zone: "easyrenti.pl" always_refuse
 local-zone: "easysavecode.com" always_refuse
 local-zone: "easytic.fr" always_refuse
@@ -116284,7 +116277,6 @@ local-zone: "ebhulb.tokyo" always_refuse
 local-zone: "ebhweg.tokyo" always_refuse
 local-zone: "ebifvx.bar" always_refuse
 local-zone: "ebihepcorhaineu.cf" always_refuse
-local-zone: "ebike-deal.de" always_refuse
 local-zone: "ebike-direct24.de" always_refuse
 local-zone: "ebikecomm.com" always_refuse
 local-zone: "ebikedolomiti.com" always_refuse
@@ -116686,7 +116678,6 @@ local-zone: "echemacar.tk" always_refuse
 local-zone: "echemarun.tk" always_refuse
 local-zone: "echemi.com" always_refuse
 local-zone: "echercherim.icu" always_refuse
-local-zone: "echers.com" always_refuse
 local-zone: "echeufiwagi.tk" always_refuse
 local-zone: "echgotfosorfe.cf" always_refuse
 local-zone: "echildreng.web.app" always_refuse
@@ -116873,13 +116864,11 @@ local-zone: "ecole-gouvernement.fr" always_refuse
 local-zone: "ecoleagnesvarda.be" always_refuse
 local-zone: "ecolestracha.gq" always_refuse
 local-zone: "ecolighta.xyz" always_refuse
-local-zone: "ecoline-holzsystembau.de" always_refuse
 local-zone: "ecologiants.org" always_refuse
 local-zone: "ecologicfire.it" always_refuse
 local-zone: "ecologie-gouv-france.fr" always_refuse
 local-zone: "ecologist.xyz" always_refuse
 local-zone: "ecolqqp.shop" always_refuse
-local-zone: "ecomaher.com" always_refuse
 local-zone: "ecomaps.eu" always_refuse
 local-zone: "ecomen.eu" always_refuse
 local-zone: "ecomise.eu" always_refuse
@@ -117397,7 +117386,6 @@ local-zone: "edhk6a.xyz" always_refuse
 local-zone: "edhocv.tokyo" always_refuse
 local-zone: "edhsig.rest" always_refuse
 local-zone: "edhutton.com" always_refuse
-local-zone: "ediblesthc.de" always_refuse
 local-zone: "edibnonofunholl.cf" always_refuse
 local-zone: "edicadtepahol.tk" always_refuse
 local-zone: "edicee.xyz" always_refuse
@@ -117742,7 +117730,6 @@ local-zone: "eefylc.cyou" always_refuse
 local-zone: "eeg2x7.rest" always_refuse
 local-zone: "eegeag.tokyo" always_refuse
 local-zone: "eegieeko.bar" always_refuse
-local-zone: "eegomr.shop" always_refuse
 local-zone: "eegtkn.work" always_refuse
 local-zone: "eegxfpr.bar" always_refuse
 local-zone: "eegydo.tokyo" always_refuse
@@ -119587,7 +119574,6 @@ local-zone: "elektrokessmarkt.de" always_refuse
 local-zone: "elektrokomfort24.ru" always_refuse
 local-zone: "elektrokueche.de" always_refuse
 local-zone: "elektromedis.com" always_refuse
-local-zone: "elektroniknavigatio.com" always_refuse
 local-zone: "elektronikshopping.com" always_refuse
 local-zone: "elektroniksigarashop.biz" always_refuse
 local-zone: "elektronio.de" always_refuse
@@ -119846,7 +119832,6 @@ local-zone: "eliteshop.com.br" always_refuse
 local-zone: "elitesneakers.store" always_refuse
 local-zone: "elitespin-casino.fr" always_refuse
 local-zone: "elitestayzio2u.com" always_refuse
-local-zone: "elitetcgglobalsupply.com" always_refuse
 local-zone: "elitevolleyaarhus.dk" always_refuse
 local-zone: "elithharedvolk.ga" always_refuse
 local-zone: "elitistpuffy.com" always_refuse
@@ -120126,7 +120111,6 @@ local-zone: "elsakersaudy.com" always_refuse
 local-zone: "elsamalverscha.tk" always_refuse
 local-zone: "elsamhollpers.ga" always_refuse
 local-zone: "elsapothers.ml" always_refuse
-local-zone: "elsas-schmuckatelier.com" always_refuse
 local-zone: "elsballarat.xyz" always_refuse
 local-zone: "elscabethbithear.tk" always_refuse
 local-zone: "elscholburpunut.tk" always_refuse
@@ -120393,6 +120377,7 @@ local-zone: "emailmarketingservices.xyz" always_refuse
 local-zone: "emailnotifications-ca.fr" always_refuse
 local-zone: "emailorange.fr" always_refuse
 local-zone: "emailredirect.fr" always_refuse
+local-zone: "emails-notifications.fr" always_refuse
 local-zone: "emails-prime.fr" always_refuse
 local-zone: "emailsmarketing.xyz" always_refuse
 local-zone: "emailtriager.com" always_refuse
@@ -120726,7 +120711,6 @@ local-zone: "emmabisodandle.cf" always_refuse
 local-zone: "emmadesantis.com" always_refuse
 local-zone: "emmafastbipar.ml" always_refuse
 local-zone: "emmafr.fr" always_refuse
-local-zone: "emmafrey.ch" always_refuse
 local-zone: "emmakeller.de" always_refuse
 local-zone: "emmaldegu.cf" always_refuse
 local-zone: "emmalipp.com" always_refuse
@@ -122044,7 +122028,6 @@ local-zone: "ennoreledever.ga" always_refuse
 local-zone: "ennounrepaddforre.tk" always_refuse
 local-zone: "ennqfd.rest" always_refuse
 local-zone: "ennrotcodomont.tk" always_refuse
-local-zone: "ennssale.shop" always_refuse
 local-zone: "ennsurobcremoded.tk" always_refuse
 local-zone: "ennucareso.tk" always_refuse
 local-zone: "ennumolimyp.cf" always_refuse
@@ -122240,6 +122223,7 @@ local-zone: "enriediludte.tk" always_refuse
 local-zone: "enrigogcadu.ml" always_refuse
 local-zone: "enriochrissimplboutex.tk" always_refuse
 local-zone: "enripe.tk" always_refuse
+local-zone: "enriquetomasshop.shop" always_refuse
 local-zone: "enriraresme.cf" always_refuse
 local-zone: "enriritle.ml" always_refuse
 local-zone: "enrisdieworl.ml" always_refuse
@@ -122885,7 +122869,6 @@ local-zone: "epbwbhm.rest" always_refuse
 local-zone: "epc-trasporti.ch" always_refuse
 local-zone: "epcamifare.tk" always_refuse
 local-zone: "epcarpicorteo.gq" always_refuse
-local-zone: "epcc.co" always_refuse
 local-zone: "epcgbv.tokyo" always_refuse
 local-zone: "epcj7k.cyou" always_refuse
 local-zone: "epckop.rest" always_refuse
@@ -123927,7 +123910,6 @@ local-zone: "erginrechedo.cf" always_refuse
 local-zone: "erglichtetapho.gq" always_refuse
 local-zone: "erglitosdin.ml" always_refuse
 local-zone: "erglosmounbeser.cf" always_refuse
-local-zone: "ergobackpacks.com" always_refuse
 local-zone: "ergoconsult.dk" always_refuse
 local-zone: "ergositter.eu" always_refuse
 local-zone: "ergrashaterdo.cf" always_refuse
@@ -124237,7 +124219,6 @@ local-zone: "ernetdecenti.tk" always_refuse
 local-zone: "ernetere.ga" always_refuse
 local-zone: "ernetroposubs.tk" always_refuse
 local-zone: "erneubriginrecen.ml" always_refuse
-local-zone: "erneurungogk.at" always_refuse
 local-zone: "ernevernece.ml" always_refuse
 local-zone: "ernfolil.my.id" always_refuse
 local-zone: "ernhijm.tokyo" always_refuse
@@ -124270,7 +124251,6 @@ local-zone: "ernthearevun.tk" always_refuse
 local-zone: "erntle.my.id" always_refuse
 local-zone: "ernuafibolibudd.tk" always_refuse
 local-zone: "ernymnarirute.tk" always_refuse
-local-zone: "eroadstore.com" always_refuse
 local-zone: "eroaty.xyz" always_refuse
 local-zone: "erobot-pisicne.fr" always_refuse
 local-zone: "erobpettiraro.ml" always_refuse
@@ -124965,6 +124945,7 @@ local-zone: "escormecyctua.ga" always_refuse
 local-zone: "escorraniparchi.ga" always_refuse
 local-zone: "escort-clara-leipzig.de" always_refuse
 local-zone: "escort-pour-vous.eu" always_refuse
+local-zone: "escort-sexe.fr" always_refuse
 local-zone: "escort-uk.xyz" always_refuse
 local-zone: "escorteroland.eu" always_refuse
 local-zone: "escortevenly.com" always_refuse
@@ -139531,6 +139512,7 @@ local-zone: "fr-compte.fr" always_refuse
 local-zone: "fr-comptes.fr" always_refuse
 local-zone: "fr-confirmationmobile.fr" always_refuse
 local-zone: "fr-connect-compte.fr" always_refuse
+local-zone: "fr-contester-details.fr" always_refuse
 local-zone: "fr-coolzino.fr" always_refuse
 local-zone: "fr-cora.fr" always_refuse
 local-zone: "fr-corafrance.fr" always_refuse
@@ -139623,6 +139605,7 @@ local-zone: "fr-kingdomcasino.fr" always_refuse
 local-zone: "fr-kingmakercasino.fr" always_refuse
 local-zone: "fr-kubotaeurope.fr" always_refuse
 local-zone: "fr-kyngs.fr" always_refuse
+local-zone: "fr-ladyxena.fr" always_refuse
 local-zone: "fr-le-republicain-lorrain.fr" always_refuse
 local-zone: "fr-leboncoin.fr" always_refuse
 local-zone: "fr-legiano-casino.fr" always_refuse
@@ -140015,6 +139998,7 @@ local-zone: "france-magicalspin.fr" always_refuse
 local-zone: "france-maladie-enligne.fr" always_refuse
 local-zone: "france-marriott.fr" always_refuse
 local-zone: "france-materaiux.fr" always_refuse
+local-zone: "france-merrell.fr" always_refuse
 local-zone: "france-millionz.fr" always_refuse
 local-zone: "france-minerax.fr" always_refuse
 local-zone: "france-mizuno.fr" always_refuse
@@ -158945,7 +158929,9 @@ local-zone: "haderquiho.tk" always_refuse
 local-zone: "haderslev-apotek.dk" always_refuse
 local-zone: "hades-bet.fr" always_refuse
 local-zone: "hadesbet-casino.fr" always_refuse
+local-zone: "hadesbet-fr.fr" always_refuse
 local-zone: "hadesbetcasino.fr" always_refuse
+local-zone: "hadesbets.fr" always_refuse
 local-zone: "hadesclomahtnont.gq" always_refuse
 local-zone: "hadeshop.xyz" always_refuse
 local-zone: "hadgasardemo.tk" always_refuse
@@ -205167,9 +205153,11 @@ local-zone: "legion-99.ru" always_refuse
 local-zone: "legion-casino.fr" always_refuse
 local-zone: "legion1.fr" always_refuse
 local-zone: "legionbet-casino.fr" always_refuse
+local-zone: "legionbet-fr.fr" always_refuse
 local-zone: "legionbet.fr" always_refuse
 local-zone: "legionbet1.fr" always_refuse
 local-zone: "legionbetcasino.fr" always_refuse
+local-zone: "legionbets.fr" always_refuse
 local-zone: "legioncasino.fr" always_refuse
 local-zone: "legionova.com" always_refuse
 local-zone: "legircembheadsvi.ga" always_refuse
@@ -214934,6 +214922,8 @@ local-zone: "lucepe.gq" always_refuse
 local-zone: "lucevera.de" always_refuse
 local-zone: "lucha.asia" always_refuse
 local-zone: "luchehuskey.tk" always_refuse
+local-zone: "lucia-caminos.fr" always_refuse
+local-zone: "luciacaminos.fr" always_refuse
 local-zone: "luciadesiervo.eu" always_refuse
 local-zone: "luciamaiorino.it" always_refuse
 local-zone: "lucidaturastampi.it" always_refuse
@@ -251048,6 +251038,7 @@ local-zone: "octitinele.ml" always_refuse
 local-zone: "octl.xyz" always_refuse
 local-zone: "octm6o9.cyou" always_refuse
 local-zone: "octnhk.rest" always_refuse
+local-zone: "octo-casino.fr" always_refuse
 local-zone: "october-prime.fr" always_refuse
 local-zone: "octoberlong.com" always_refuse
 local-zone: "octocasino.fr" always_refuse
@@ -271708,7 +271699,11 @@ local-zone: "polelrsyuniv-nantes.fr" always_refuse
 local-zone: "polemeploi.fr" always_refuse
 local-zone: "polemplois.fr" always_refuse
 local-zone: "polenboeller-deutschland.com" always_refuse
+local-zone: "polene-bags.fr" always_refuse
 local-zone: "polene-france.fr" always_refuse
+local-zone: "polene-handbags.fr" always_refuse
+local-zone: "polene-leathers.fr" always_refuse
+local-zone: "polene-officiel.fr" always_refuse
 local-zone: "polene-osterreich.com" always_refuse
 local-zone: "polene-outlet.fr" always_refuse
 local-zone: "polene-outletparis.fr" always_refuse
@@ -271718,6 +271713,7 @@ local-zone: "polene-paris.fr" always_refuse
 local-zone: "polene-parisfrance.fr" always_refuse
 local-zone: "polene-parisoutlet.fr" always_refuse
 local-zone: "polene-sac.fr" always_refuse
+local-zone: "polene-sacs.fr" always_refuse
 local-zone: "polene.at" always_refuse
 local-zone: "polene.co.at" always_refuse
 local-zone: "polenefr.fr" always_refuse
@@ -300291,6 +300287,7 @@ local-zone: "ronzudesresenchia.cf" always_refuse
 local-zone: "roo-bet-casino.fr" always_refuse
 local-zone: "roo-bet-france.fr" always_refuse
 local-zone: "roo-bet.fr" always_refuse
+local-zone: "roo-casino.fr" always_refuse
 local-zone: "roobdt.com" always_refuse
 local-zone: "roobet-1.fr" always_refuse
 local-zone: "roobet-bonus.fr" always_refuse
@@ -300630,6 +300627,7 @@ local-zone: "rosamatteosposi.it" always_refuse
 local-zone: "rosamunde-design.dk" always_refuse
 local-zone: "rosamundis.dk" always_refuse
 local-zone: "rosannabazaronline.com" always_refuse
+local-zone: "rosaoutlet.fr" always_refuse
 local-zone: "rosaponbeminsve.tk" always_refuse
 local-zone: "rosapuvir.gq" always_refuse
 local-zone: "rosariopiccioni.it" always_refuse
@@ -322818,7 +322816,9 @@ local-zone: "spinitfrance.fr" always_refuse
 local-zone: "spinjo.fr" always_refuse
 local-zone: "spinjunkcurworddidd.tk" always_refuse
 local-zone: "spinkocasino.fr" always_refuse
+local-zone: "spinkong-fr.fr" always_refuse
 local-zone: "spinkong.fr" always_refuse
+local-zone: "spinkongcasino.fr" always_refuse
 local-zone: "spinksjuja.web.app" always_refuse
 local-zone: "spinlandercasino.fr" always_refuse
 local-zone: "spinlapameanta.tk" always_refuse
@@ -362293,6 +362293,7 @@ local-zone: "uttelywallutt.gq" always_refuse
 local-zone: "uttespisoto.tk" always_refuse
 local-zone: "uttlin.xyz" always_refuse
 local-zone: "uttorw.xyz" always_refuse
+local-zone: "uttpforum.st" always_refuse
 local-zone: "uttudecembgan.tk" always_refuse
 local-zone: "uttx40.shop" always_refuse
 local-zone: "utu1gi.cyou" always_refuse
@@ -373232,6 +373233,7 @@ local-zone: "vitality-riley-creativity.nl" always_refuse
 local-zone: "vitality-spirit.buzz" always_refuse
 local-zone: "vitality.store" always_refuse
 local-zone: "vitalityfortune.com" always_refuse
+local-zone: "vitalixprime-fr.fr" always_refuse
 local-zone: "vitalkompass-de.com" always_refuse
 local-zone: "vitalnfo.fr" always_refuse
 local-zone: "vitalogen.de" always_refuse
@@ -397846,6 +397848,7 @@ local-zone: "ying996.com" always_refuse
 local-zone: "ying997.com" always_refuse
 local-zone: "ying998.com" always_refuse
 local-zone: "ying999.com" always_refuse
+local-zone: "yinga-vital.de" always_refuse
 local-zone: "yingfeidi.com" always_refuse
 local-zone: "yinghuawang.com" always_refuse
 local-zone: "yingkehz.com" always_refuse
