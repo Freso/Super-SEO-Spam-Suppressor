@@ -57566,6 +57566,7 @@
 ||betify-app.fr^$document
 ||betify-applicationbonus.fr^$document
 ||betify-applicationconnexion.fr^$document
+||betify-apps.fr^$document
 ||betify-bonus-code.fr^$document
 ||betify-bonus.fr^$document
 ||betify-bonusconnexion.fr^$document
@@ -57610,6 +57611,8 @@
 ||betify-fr-casino.fr^$document
 ||betify-fra.fr^$document
 ||betify-france.fr^$document
+||betify-game.fr^$document
+||betify-games.fr^$document
 ||betify-ios.fr^$document
 ||betify-jeu.fr^$document
 ||betify-jouer.fr^$document
@@ -57656,6 +57659,7 @@
 ||betifycasinos.fr^$document
 ||betifycasinos1.fr^$document
 ||betifyfr.fr^$document
+||betifygame.fr^$document
 ||betifyjeu.fr^$document
 ||betifyjeux.fr^$document
 ||betifylogin.fr^$document
@@ -74034,6 +74038,7 @@
 ||casino-amonbet.fr^$document
 ||casino-amunra.fr^$document
 ||casino-aquawin.fr^$document
+||casino-argent-reel.fr^$document
 ||casino-astral.fr^$document
 ||casino-banque.fr^$document
 ||casino-banzai.fr^$document
@@ -77727,6 +77732,7 @@
 ||cetechlachanc.tk^$document
 ||cetegchockdisro.ml^$document
 ||cetelel.fr^$document
+||cetelem-bnpparibas.fr^$document
 ||cetelem-connecte.fr^$document
 ||cetelem-financement.fr^$document
 ||cetelem-particulier-notifications.fr^$document
@@ -89541,6 +89547,7 @@
 ||conformite-fortuneo.fr^$document
 ||conformite-interieurgouv.fr^$document
 ||conformite-lbp.fr^$document
+||conformiteants.fr^$document
 ||confortbancwestro.tk^$document
 ||confortbebe.ro^$document
 ||confortefvie.fr^$document
@@ -125411,6 +125418,7 @@
 ||esimecak.gq^$document
 ||esimgelo.tk^$document
 ||esimolbala.tk^$document
+||esimrapide.fr^$document
 ||esimsfr.fr^$document
 ||esimsoestam.ga^$document
 ||esimurinilma.tk^$document
@@ -180470,6 +180478,7 @@
 ||insse.fr^$document
 ||inssee.fr^$document
 ||insseriousdropstudy.biz^$document
+||insta-cams.fr^$document
 ||insta-flirt-books2.com^$document
 ||insta-flirt-books3.com^$document
 ||insta-localhookup4.com^$document
@@ -205042,6 +205051,7 @@
 ||leclerc-dev.fr^$document
 ||leclerc-socamaine.fr^$document
 ||leclerc-socamil.fr^$document
+||leclerc-sodexco.fr^$document
 ||leclercpharma.fr^$document
 ||leclercrive.fr^$document
 ||leclitamlind.tk^$document
@@ -223582,6 +223592,7 @@
 ||megadicecasino.fr^$document
 ||megadiscount-shop.fr^$document
 ||megadjzu.web.app^$document
+||megafishwins-online.fr^$document
 ||megafishwinscasino.fr^$document
 ||megafliesen24.de^$document
 ||megaflirtbook2.com^$document
@@ -320693,9 +320704,12 @@
 ||sodervernmullynid.cf^$document
 ||sodetedawor.ml^$document
 ||sodex-da.fr^$document
+||sodexco-leclerc.fr^$document
+||sodexco-lelerc.fr^$document
 ||sodexo-groupe.fr^$document
 ||sodexo-groupes.fr^$document
 ||sodexo-groups.fr^$document
+||sodexo-lelerc.fr^$document
 ||sodexo-pass-france-sa.fr^$document
 ||sodexo-sas.fr^$document
 ||sodexogroupe.fr^$document
@@ -327788,6 +327802,7 @@
 ||stqvjw.bar^$document
 ||strabenmotorrad.com^$document
 ||stradellanostra.it^$document
+||stradivarius-fr.fr^$document
 ||stradivariusfr.fr^$document
 ||stradivariusfrance.fr^$document
 ||stradivariusoutlet.fr^$document
@@ -373802,6 +373817,7 @@
 ||vistadu.xyz^$document
 ||vistanabaringlo.tk^$document
 ||vistaporirenlink.ga^$document
+||vistaprint.tf^$document
 ||vistaprinte.fr^$document
 ||vistarprint.com^$document
 ||vistatifenliga.gq^$document
@@ -382902,8 +382918,12 @@
 ||wild-robin-official.fr^$document
 ||wild-robinofficiel.fr^$document
 ||wild-sino.fr^$document
+||wild-sultan-app.fr^$document
 ||wild-sultan-casino.fr^$document
 ||wild-sultan-fr.fr^$document
+||wild-sultan-game.fr^$document
+||wild-sultan-online.fr^$document
+||wild-sultan-slots.fr^$document
 ||wild-sultan1.fr^$document
 ||wild-sultanfr.fr^$document
 ||wild-sultanfr1.fr^$document

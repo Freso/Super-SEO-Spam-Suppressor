@@ -57438,6 +57438,7 @@ local-zone: "betify-apk.fr" always_refuse
 local-zone: "betify-app.fr" always_refuse
 local-zone: "betify-applicationbonus.fr" always_refuse
 local-zone: "betify-applicationconnexion.fr" always_refuse
+local-zone: "betify-apps.fr" always_refuse
 local-zone: "betify-bonus-code.fr" always_refuse
 local-zone: "betify-bonus.fr" always_refuse
 local-zone: "betify-bonusconnexion.fr" always_refuse
@@ -57482,6 +57483,8 @@ local-zone: "betify-enligne.fr" always_refuse
 local-zone: "betify-fr-casino.fr" always_refuse
 local-zone: "betify-fra.fr" always_refuse
 local-zone: "betify-france.fr" always_refuse
+local-zone: "betify-game.fr" always_refuse
+local-zone: "betify-games.fr" always_refuse
 local-zone: "betify-ios.fr" always_refuse
 local-zone: "betify-jeu.fr" always_refuse
 local-zone: "betify-jouer.fr" always_refuse
@@ -57528,6 +57531,7 @@ local-zone: "betifycasinos-fr.fr" always_refuse
 local-zone: "betifycasinos.fr" always_refuse
 local-zone: "betifycasinos1.fr" always_refuse
 local-zone: "betifyfr.fr" always_refuse
+local-zone: "betifygame.fr" always_refuse
 local-zone: "betifyjeu.fr" always_refuse
 local-zone: "betifyjeux.fr" always_refuse
 local-zone: "betifylogin.fr" always_refuse
@@ -73893,6 +73897,7 @@ local-zone: "casino-amon.fr" always_refuse
 local-zone: "casino-amonbet.fr" always_refuse
 local-zone: "casino-amunra.fr" always_refuse
 local-zone: "casino-aquawin.fr" always_refuse
+local-zone: "casino-argent-reel.fr" always_refuse
 local-zone: "casino-astral.fr" always_refuse
 local-zone: "casino-banque.fr" always_refuse
 local-zone: "casino-banzai.fr" always_refuse
@@ -77585,6 +77590,7 @@ local-zone: "cetatizuschle.tk" always_refuse
 local-zone: "cetechlachanc.tk" always_refuse
 local-zone: "cetegchockdisro.ml" always_refuse
 local-zone: "cetelel.fr" always_refuse
+local-zone: "cetelem-bnpparibas.fr" always_refuse
 local-zone: "cetelem-connecte.fr" always_refuse
 local-zone: "cetelem-financement.fr" always_refuse
 local-zone: "cetelem-particulier-notifications.fr" always_refuse
@@ -89370,6 +89376,7 @@ local-zone: "conformite-boursorama.fr" always_refuse
 local-zone: "conformite-fortuneo.fr" always_refuse
 local-zone: "conformite-interieurgouv.fr" always_refuse
 local-zone: "conformite-lbp.fr" always_refuse
+local-zone: "conformiteants.fr" always_refuse
 local-zone: "confortbancwestro.tk" always_refuse
 local-zone: "confortbebe.ro" always_refuse
 local-zone: "confortefvie.fr" always_refuse
@@ -125143,6 +125150,7 @@ local-zone: "esimcard.fr" always_refuse
 local-zone: "esimecak.gq" always_refuse
 local-zone: "esimgelo.tk" always_refuse
 local-zone: "esimolbala.tk" always_refuse
+local-zone: "esimrapide.fr" always_refuse
 local-zone: "esimsfr.fr" always_refuse
 local-zone: "esimsoestam.ga" always_refuse
 local-zone: "esimurinilma.tk" always_refuse
@@ -180119,6 +180127,7 @@ local-zone: "inssababdige.ml" always_refuse
 local-zone: "insse.fr" always_refuse
 local-zone: "inssee.fr" always_refuse
 local-zone: "insseriousdropstudy.biz" always_refuse
+local-zone: "insta-cams.fr" always_refuse
 local-zone: "insta-flirt-books2.com" always_refuse
 local-zone: "insta-flirt-books3.com" always_refuse
 local-zone: "insta-localhookup4.com" always_refuse
@@ -204652,6 +204661,7 @@ local-zone: "leclerc-bon.fr" always_refuse
 local-zone: "leclerc-dev.fr" always_refuse
 local-zone: "leclerc-socamaine.fr" always_refuse
 local-zone: "leclerc-socamil.fr" always_refuse
+local-zone: "leclerc-sodexco.fr" always_refuse
 local-zone: "leclercpharma.fr" always_refuse
 local-zone: "leclercrive.fr" always_refuse
 local-zone: "leclitamlind.tk" always_refuse
@@ -223159,6 +223169,7 @@ local-zone: "megadice-casino.fr" always_refuse
 local-zone: "megadicecasino.fr" always_refuse
 local-zone: "megadiscount-shop.fr" always_refuse
 local-zone: "megadjzu.web.app" always_refuse
+local-zone: "megafishwins-online.fr" always_refuse
 local-zone: "megafishwinscasino.fr" always_refuse
 local-zone: "megafliesen24.de" always_refuse
 local-zone: "megaflirtbook2.com" always_refuse
@@ -320067,9 +320078,12 @@ local-zone: "sodersfenne.ga" always_refuse
 local-zone: "sodervernmullynid.cf" always_refuse
 local-zone: "sodetedawor.ml" always_refuse
 local-zone: "sodex-da.fr" always_refuse
+local-zone: "sodexco-leclerc.fr" always_refuse
+local-zone: "sodexco-lelerc.fr" always_refuse
 local-zone: "sodexo-groupe.fr" always_refuse
 local-zone: "sodexo-groupes.fr" always_refuse
 local-zone: "sodexo-groups.fr" always_refuse
+local-zone: "sodexo-lelerc.fr" always_refuse
 local-zone: "sodexo-pass-france-sa.fr" always_refuse
 local-zone: "sodexo-sas.fr" always_refuse
 local-zone: "sodexogroupe.fr" always_refuse
@@ -327132,6 +327146,7 @@ local-zone: "stqvie.bar" always_refuse
 local-zone: "stqvjw.bar" always_refuse
 local-zone: "strabenmotorrad.com" always_refuse
 local-zone: "stradellanostra.it" always_refuse
+local-zone: "stradivarius-fr.fr" always_refuse
 local-zone: "stradivariusfr.fr" always_refuse
 local-zone: "stradivariusfrance.fr" always_refuse
 local-zone: "stradivariusoutlet.fr" always_refuse
@@ -373079,6 +373094,7 @@ local-zone: "vistabet.fr" always_refuse
 local-zone: "vistadu.xyz" always_refuse
 local-zone: "vistanabaringlo.tk" always_refuse
 local-zone: "vistaporirenlink.ga" always_refuse
+local-zone: "vistaprint.tf" always_refuse
 local-zone: "vistaprinte.fr" always_refuse
 local-zone: "vistarprint.com" always_refuse
 local-zone: "vistatifenliga.gq" always_refuse
@@ -382162,8 +382178,12 @@ local-zone: "wild-robin-france.fr" always_refuse
 local-zone: "wild-robin-official.fr" always_refuse
 local-zone: "wild-robinofficiel.fr" always_refuse
 local-zone: "wild-sino.fr" always_refuse
+local-zone: "wild-sultan-app.fr" always_refuse
 local-zone: "wild-sultan-casino.fr" always_refuse
 local-zone: "wild-sultan-fr.fr" always_refuse
+local-zone: "wild-sultan-game.fr" always_refuse
+local-zone: "wild-sultan-online.fr" always_refuse
+local-zone: "wild-sultan-slots.fr" always_refuse
 local-zone: "wild-sultan1.fr" always_refuse
 local-zone: "wild-sultanfr.fr" always_refuse
 local-zone: "wild-sultanfr1.fr" always_refuse

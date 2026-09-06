@@ -115128,6 +115128,8 @@
 ::1 www.betify-applicationbonus.fr
 ::1 betify-applicationconnexion.fr
 ::1 www.betify-applicationconnexion.fr
+::1 betify-apps.fr
+::1 www.betify-apps.fr
 ::1 betify-bonus-code.fr
 ::1 www.betify-bonus-code.fr
 ::1 betify-bonus.fr
@@ -115216,6 +115218,10 @@
 ::1 www.betify-fra.fr
 ::1 betify-france.fr
 ::1 www.betify-france.fr
+::1 betify-game.fr
+::1 www.betify-game.fr
+::1 betify-games.fr
+::1 www.betify-games.fr
 ::1 betify-ios.fr
 ::1 www.betify-ios.fr
 ::1 betify-jeu.fr
@@ -115308,6 +115314,8 @@
 ::1 www.betifycasinos1.fr
 ::1 betifyfr.fr
 ::1 www.betifyfr.fr
+::1 betifygame.fr
+::1 www.betifygame.fr
 ::1 betifyjeu.fr
 ::1 www.betifyjeu.fr
 ::1 betifyjeux.fr
@@ -148064,6 +148072,8 @@
 ::1 www.casino-amunra.fr
 ::1 casino-aquawin.fr
 ::1 www.casino-aquawin.fr
+::1 casino-argent-reel.fr
+::1 www.casino-argent-reel.fr
 ::1 casino-astral.fr
 ::1 www.casino-astral.fr
 ::1 casino-banque.fr
@@ -155450,6 +155460,8 @@
 ::1 www.cetegchockdisro.ml
 ::1 cetelel.fr
 ::1 www.cetelel.fr
+::1 cetelem-bnpparibas.fr
+::1 www.cetelem-bnpparibas.fr
 ::1 cetelem-connecte.fr
 ::1 www.cetelem-connecte.fr
 ::1 cetelem-financement.fr
@@ -179078,6 +179090,8 @@
 ::1 www.conformite-interieurgouv.fr
 ::1 conformite-lbp.fr
 ::1 www.conformite-lbp.fr
+::1 conformiteants.fr
+::1 www.conformiteants.fr
 ::1 confortbancwestro.tk
 ::1 www.confortbancwestro.tk
 ::1 confortbebe.ro
@@ -250818,6 +250832,8 @@
 ::1 www.esimgelo.tk
 ::1 esimolbala.tk
 ::1 www.esimolbala.tk
+::1 esimrapide.fr
+::1 www.esimrapide.fr
 ::1 esimsfr.fr
 ::1 www.esimsfr.fr
 ::1 esimsoestam.ga
@@ -360936,6 +360952,8 @@
 ::1 www.inssee.fr
 ::1 insseriousdropstudy.biz
 ::1 www.insseriousdropstudy.biz
+::1 insta-cams.fr
+::1 www.insta-cams.fr
 ::1 insta-flirt-books2.com
 ::1 www.insta-flirt-books2.com
 ::1 insta-flirt-books3.com
@@ -410080,6 +410098,8 @@
 ::1 www.leclerc-socamaine.fr
 ::1 leclerc-socamil.fr
 ::1 www.leclerc-socamil.fr
+::1 leclerc-sodexco.fr
+::1 www.leclerc-sodexco.fr
 ::1 leclercpharma.fr
 ::1 www.leclercpharma.fr
 ::1 leclercrive.fr
@@ -447160,6 +447180,8 @@
 ::1 www.megadiscount-shop.fr
 ::1 megadjzu.web.app
 ::1 www.megadjzu.web.app
+::1 megafishwins-online.fr
+::1 www.megafishwins-online.fr
 ::1 megafishwinscasino.fr
 ::1 www.megafishwinscasino.fr
 ::1 megafliesen24.de
@@ -641382,12 +641404,18 @@
 ::1 www.sodetedawor.ml
 ::1 sodex-da.fr
 ::1 www.sodex-da.fr
+::1 sodexco-leclerc.fr
+::1 www.sodexco-leclerc.fr
+::1 sodexco-lelerc.fr
+::1 www.sodexco-lelerc.fr
 ::1 sodexo-groupe.fr
 ::1 www.sodexo-groupe.fr
 ::1 sodexo-groupes.fr
 ::1 www.sodexo-groupes.fr
 ::1 sodexo-groups.fr
 ::1 www.sodexo-groups.fr
+::1 sodexo-lelerc.fr
+::1 www.sodexo-lelerc.fr
 ::1 sodexo-pass-france-sa.fr
 ::1 www.sodexo-pass-france-sa.fr
 ::1 sodexo-sas.fr
@@ -655572,6 +655600,8 @@
 ::1 www.strabenmotorrad.com
 ::1 stradellanostra.it
 ::1 www.stradellanostra.it
+::1 stradivarius-fr.fr
+::1 www.stradivarius-fr.fr
 ::1 stradivariusfr.fr
 ::1 www.stradivariusfr.fr
 ::1 stradivariusfrance.fr
@@ -747600,6 +747630,8 @@
 ::1 www.vistanabaringlo.tk
 ::1 vistaporirenlink.ga
 ::1 www.vistaporirenlink.ga
+::1 vistaprint.tf
+::1 www.vistaprint.tf
 ::1 vistaprinte.fr
 ::1 www.vistaprinte.fr
 ::1 vistarprint.com
@@ -765800,10 +765832,18 @@
 ::1 www.wild-robinofficiel.fr
 ::1 wild-sino.fr
 ::1 www.wild-sino.fr
+::1 wild-sultan-app.fr
+::1 www.wild-sultan-app.fr
 ::1 wild-sultan-casino.fr
 ::1 www.wild-sultan-casino.fr
 ::1 wild-sultan-fr.fr
 ::1 www.wild-sultan-fr.fr
+::1 wild-sultan-game.fr
+::1 www.wild-sultan-game.fr
+::1 wild-sultan-online.fr
+::1 www.wild-sultan-online.fr
+::1 wild-sultan-slots.fr
+::1 www.wild-sultan-slots.fr
 ::1 wild-sultan1.fr
 ::1 www.wild-sultan1.fr
 ::1 wild-sultanfr.fr
