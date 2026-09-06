@@ -100416,6 +100416,8 @@
 ::1 www.axasabanque.fr
 ::1 axatbq.bar
 ::1 www.axatbq.bar
+::1 axatechviewou.com
+::1 www.axatechviewou.com
 ::1 axaxhd.tokyo
 ::1 www.axaxhd.tokyo
 ::1 axazneiklengunsrock.ml
@@ -121200,8 +121202,6 @@
 ::1 www.bitcoin-revolution.org
 ::1 bitcoin-shop.ro
 ::1 www.bitcoin-shop.ro
-::1 bitcoin-up.io
-::1 www.bitcoin-up.io
 ::1 bitcoin-xact.fr
 ::1 www.bitcoin-xact.fr
 ::1 bitcoinarchon.com
@@ -150046,6 +150046,8 @@
 ::1 www.catalog-sg.it
 ::1 catalogue-prime.fr
 ::1 www.catalogue-prime.fr
+::1 catalunyafarm.com
+::1 www.catalunyafarm.com
 ::1 catalyst.digital
 ::1 www.catalyst.digital
 ::1 catania-sexysexytime.space
@@ -301698,8 +301700,6 @@
 ::1 www.glanosdesurdblog.tk
 ::1 glanunobbronal.ml
 ::1 www.glanunobbronal.ml
-::1 glanzberg-mode.de
-::1 www.glanzberg-mode.de
 ::1 glanzlampen.com
 ::1 www.glanzlampen.com
 ::1 glanzschuh.com
@@ -302498,8 +302498,6 @@
 ::1 www.globenovobad.ml
 ::1 globermashenapo.tk
 ::1 www.globermashenapo.tk
-::1 globeschuheberlin.de
-::1 www.globeschuheberlin.de
 ::1 globeshidcandcontcert.cf
 ::1 www.globeshidcandcontcert.cf
 ::1 globeshoesfrance.fr
@@ -302666,8 +302664,6 @@
 ::1 www.glorenotmonla.gq
 ::1 gloresenrading.ga
 ::1 www.gloresenrading.ga
-::1 gloreve.com
-::1 www.gloreve.com
 ::1 gloriarevealed.com
 ::1 www.gloriarevealed.com
 ::1 glorion-en-ligne.fr
@@ -302812,8 +302808,6 @@
 ::1 www.glow-garden.com
 ::1 glow-garten.com
 ::1 www.glow-garten.com
-::1 glow-haven.de
-::1 www.glow-haven.de
 ::1 glowblend.de
 ::1 www.glowblend.de
 ::1 glowebclotseatci.tk
@@ -303082,10 +303076,6 @@
 ::1 www.glurvextopin-gb.com
 ::1 glurvextopin-official.com
 ::1 www.glurvextopin-official.com
-::1 glurvextopin.at
-::1 www.glurvextopin.at
-::1 gluschwein.de
-::1 www.gluschwein.de
 ::1 gluside.best
 ::1 www.gluside.best
 ::1 glusqh.tokyo
@@ -303490,8 +303480,6 @@
 ::1 www.gmexrz.cyou
 ::1 gmfbux5.cyou
 ::1 www.gmfbux5.cyou
-::1 gmfcar-sol.com
-::1 www.gmfcar-sol.com
 ::1 gmfil6.cyou
 ::1 www.gmfil6.cyou
 ::1 gmfpgzy.cn
@@ -304576,8 +304564,6 @@
 ::1 www.gogame.ir
 ::1 gogeniggfinpaner.tk
 ::1 www.gogeniggfinpaner.tk
-::1 gogetrxonline.com
-::1 www.gogetrxonline.com
 ::1 gogicha.xyz
 ::1 www.gogicha.xyz
 ::1 gogihinolen.gq
@@ -305060,8 +305046,6 @@
 ::1 www.goldengooses.fr
 ::1 goldengoosesale.at
 ::1 www.goldengoosesale.at
-::1 goldengoosesale.de
-::1 www.goldengoosesale.de
 ::1 goldengoosesoldes.fr
 ::1 www.goldengoosesoldes.fr
 ::1 goldenlion-casino.fr
@@ -310224,8 +310208,6 @@
 ::1 www.greenluckcasino.fr
 ::1 greenmaggeachasdelo.ga
 ::1 www.greenmaggeachasdelo.ga
-::1 greenmah.shop
-::1 www.greenmah.shop
 ::1 greenmiascalin.gq
 ::1 www.greenmiascalin.gq
 ::1 greenminnewswordtan.cf
@@ -310748,8 +310730,6 @@
 ::1 www.grillwelten.com
 ::1 grillwizz-grillreiniger.de
 ::1 www.grillwizz-grillreiniger.de
-::1 grillzentrale.shop
-::1 www.grillzentrale.shop
 ::1 grillzentrum.com
 ::1 www.grillzentrum.com
 ::1 grillzubehoer-de.com
@@ -311934,8 +311914,6 @@
 ::1 www.growabricacan.gq
 ::1 growacthorala.tk
 ::1 www.growacthorala.tk
-::1 growano.com
-::1 www.growano.com
 ::1 growattire.com
 ::1 www.growattire.com
 ::1 growaxecmelin.tk
@@ -312614,8 +312592,6 @@
 ::1 www.gswdjw.tokyo
 ::1 gswmne.tokyo
 ::1 www.gswmne.tokyo
-::1 gswoutfit.shop
-::1 www.gswoutfit.shop
 ::1 gswqaw.bar
 ::1 www.gswqaw.bar
 ::1 gswzs.net
@@ -314662,8 +314638,6 @@
 ::1 www.gunssteelpeborfiras.ga
 ::1 gunssvenunagtlec.ml
 ::1 www.gunssvenunagtlec.ml
-::1 gunstigeskaufhaus.com
-::1 www.gunstigeskaufhaus.com
 ::1 guntantmarconclan.ml
 ::1 www.guntantmarconclan.ml
 ::1 gunteiliobrital.ga
@@ -314968,8 +314942,6 @@
 ::1 www.guttertaughtfoliage.com
 ::1 guttpremriatritinfia.tk
 ::1 www.guttpremriatritinfia.tk
-::1 gutumzug.at
-::1 www.gutumzug.at
 ::1 guturigetesa.tk
 ::1 www.guturigetesa.tk
 ::1 gutusatchangbackcu.cf
@@ -318204,8 +318176,6 @@
 ::1 www.haarealfasy.web.app
 ::1 haarentisylhaeco.tk
 ::1 www.haarentisylhaeco.tk
-::1 haareparfum.com
-::1 www.haareparfum.com
 ::1 haarfrei-zum-richtigen-moment.de
 ::1 www.haarfrei-zum-richtigen-moment.de
 ::1 haarpflegehaut.com
@@ -319170,8 +319140,6 @@
 ::1 www.hallooootranorinan.tk
 ::1 halloween-manufaktur.de
 ::1 www.halloween-manufaktur.de
-::1 halloween-maskenmanufaktur.de
-::1 www.halloween-maskenmanufaktur.de
 ::1 halloweendekoration.com
 ::1 www.halloweendekoration.com
 ::1 halloweenmakeup-de.com
@@ -320356,8 +320324,6 @@
 ::1 www.hansatraileranhanger-de.com
 ::1 hansdevitilvi.tk
 ::1 www.hansdevitilvi.tk
-::1 hanse-consol.de
-::1 www.hanse-consol.de
 ::1 hanseapalo.ml
 ::1 www.hanseapalo.ml
 ::1 hanseatischesweinkontor.de
@@ -323488,8 +323454,6 @@
 ::1 www.harmonkdardlape.tk
 ::1 harmonshobti.tk
 ::1 www.harmonshobti.tk
-::1 harmony-ambiento.shop
-::1 www.harmony-ambiento.shop
 ::1 harmony-forever.ru
 ::1 www.harmony-forever.ru
 ::1 harmonyalmbienteoutlet.shop
@@ -323554,8 +323518,6 @@
 ::1 www.harpercollins.shop
 ::1 harpersbazaar.fr
 ::1 www.harpersbazaar.fr
-::1 harperyoung.shop
-::1 www.harperyoung.shop
 ::1 harpeuhotsjet.tk
 ::1 www.harpeuhotsjet.tk
 ::1 harphibandnenis.tk
@@ -324264,8 +324226,6 @@
 ::1 www.haushofgarten-teschner.de
 ::1 hauslavlenco.tk
 ::1 www.hauslavlenco.tk
-::1 hausmez.de
-::1 www.hausmez.de
 ::1 hausmobel-de.com
 ::1 www.hausmobel-de.com
 ::1 hausmudlitback.tk
@@ -324302,8 +324262,6 @@
 ::1 www.haustirwelten.de
 ::1 hausture.com
 ::1 www.hausture.com
-::1 hausundgarten.haus
-::1 www.hausundgarten.haus
 ::1 hausundwerkzeug.com
 ::1 www.hausundwerkzeug.com
 ::1 hausundwerkzeuge.store
@@ -328070,8 +328028,6 @@
 ::1 www.headtaeleselucon.ml
 ::1 headtaubridommy.tk
 ::1 www.headtaubridommy.tk
-::1 headtennistownde.com
-::1 www.headtennistownde.com
 ::1 headthefosredoub.ml
 ::1 www.headthefosredoub.ml
 ::1 headtu.my.id
@@ -328258,8 +328214,6 @@
 ::1 www.healthnovum.com
 ::1 healthonipultheft.gq
 ::1 www.healthonipultheft.gq
-::1 healthonlineshop24.com
-::1 www.healthonlineshop24.com
 ::1 healthopulence.com
 ::1 www.healthopulence.com
 ::1 healthp.web.app
@@ -329182,8 +329136,6 @@
 ::1 www.heimvoll.de
 ::1 heimwerkende.de
 ::1 www.heimwerkende.de
-::1 heimwerkerpro.com
-::1 www.heimwerkerpro.com
 ::1 heimwerkzeugesde.com
 ::1 www.heimwerkzeugesde.com
 ::1 heimyasoisber.tk
@@ -329426,8 +329378,6 @@
 ::1 www.heizoel-kalkulator.de
 ::1 heizoel-liefern.de
 ::1 www.heizoel-liefern.de
-::1 heizoel-rabatt.de
-::1 www.heizoel-rabatt.de
 ::1 heizoel-schnell-gmbh.de
 ::1 www.heizoel-schnell-gmbh.de
 ::1 heizoel-station.com
@@ -329544,8 +329494,6 @@
 ::1 www.heizungstechnik-online.de
 ::1 heizungstechworld.com
 ::1 www.heizungstechworld.com
-::1 heizungszubehoer.com
-::1 www.heizungszubehoer.com
 ::1 heizungundklimawelt.com
 ::1 www.heizungundklimawelt.com
 ::1 heizuri.de
@@ -329554,8 +329502,6 @@
 ::1 www.heizwelt.com
 ::1 heizwelt24.de
 ::1 www.heizwelt24.de
-::1 heizwelt24.shop
-::1 www.heizwelt24.shop
 ::1 heizx.de
 ::1 www.heizx.de
 ::1 heizzu.de
@@ -330074,8 +330020,6 @@
 ::1 www.helpfihighresda.gq
 ::1 helpflounychtedni.tk
 ::1 www.helpflounychtedni.tk
-::1 helpfulmedicalstore.com
-::1 www.helpfulmedicalstore.com
 ::1 helpfunwidocur.gq
 ::1 www.helpfunwidocur.gq
 ::1 helpganinguicop.ga
@@ -330466,8 +330410,6 @@
 ::1 www.henweidiscdatab.ml
 ::1 henwindtinghacosent.ml
 ::1 www.henwindtinghacosent.ml
-::1 henylife.shop
-::1 www.henylife.shop
 ::1 heobal.rest
 ::1 www.heobal.rest
 ::1 heocatchlenabacto.tk
@@ -330848,8 +330790,6 @@
 ::1 www.hermesairport.com
 ::1 hermesbet.xyz
 ::1 www.hermesbet.xyz
-::1 hermesfod.shop
-::1 www.hermesfod.shop
 ::1 hermesofficiel.fr
 ::1 www.hermesofficiel.fr
 ::1 hermhoffer.de
@@ -332702,8 +332642,6 @@
 ::1 www.highbillbodissai.ga
 ::1 highbroker.com
 ::1 www.highbroker.com
-::1 highbtcstock.com
-::1 www.highbtcstock.com
 ::1 highbucnapedoug.cf
 ::1 www.highbucnapedoug.cf
 ::1 highcapringtranpicrya.ml
@@ -333102,8 +333040,6 @@
 ::1 www.hildebrandt-bekleidung.de
 ::1 hildebrandtfashion.de
 ::1 www.hildebrandtfashion.de
-::1 hildegunter.com
-::1 www.hildegunter.com
 ::1 hildglobosuntrek.tk
 ::1 www.hildglobosuntrek.tk
 ::1 hilelabeli.tk
@@ -334446,8 +334382,6 @@
 ::1 www.hklrht.rest
 ::1 hkltu73.cn
 ::1 www.hkltu73.cn
-::1 hkm-sport.shop
-::1 www.hkm-sport.shop
 ::1 hkmajv.tokyo
 ::1 www.hkmajv.tokyo
 ::1 hkmcusn.xyz
@@ -334690,8 +334624,6 @@
 ::1 www.hlex2f.cyou
 ::1 hlezgnxy.tokyo
 ::1 www.hlezgnxy.tokyo
-::1 hlf-gestion-or.com
-::1 www.hlf-gestion-or.com
 ::1 hlfekz.tokyo
 ::1 www.hlfekz.tokyo
 ::1 hlfocd.tokyo
@@ -334958,8 +334890,6 @@
 ::1 www.hmaidd.web.app
 ::1 hmalpha.com
 ::1 www.hmalpha.com
-::1 hmbgroup.at
-::1 www.hmbgroup.at
 ::1 hmbhmgh.tokyo
 ::1 www.hmbhmgh.tokyo
 ::1 hmbpaq.tokyo
@@ -336558,8 +336488,6 @@
 ::1 www.holzbriketts-kaufen.com
 ::1 holzbriketts-profi.de
 ::1 www.holzbriketts-profi.de
-::1 holzcuten.de
-::1 www.holzcuten.de
 ::1 holzd24.com
 ::1 www.holzd24.com
 ::1 holzerneblocke.com
@@ -336600,8 +336528,6 @@
 ::1 www.holzpelletshop.com
 ::1 holzqualitat.de
 ::1 www.holzqualitat.de
-::1 holzstreif.de
-::1 www.holzstreif.de
 ::1 holzti.com
 ::1 www.holzti.com
 ::1 holzundkunststueble.de
@@ -336910,8 +336836,6 @@
 ::1 www.homeroomswordlocals.bar
 ::1 homersport.de
 ::1 www.homersport.de
-::1 homerungrocers.com
-::1 www.homerungrocers.com
 ::1 homes-condos-nj-real-estate-agent.buzz
 ::1 www.homes-condos-nj-real-estate-agent.buzz
 ::1 homesafetydirect.buzz
@@ -341202,8 +341126,6 @@
 ::1 www.hubcitysale.com
 ::1 hubenben.cn
 ::1 www.hubenben.cn
-::1 huber-wien.com
-::1 www.huber-wien.com
 ::1 huberd.com
 ::1 www.huberd.com
 ::1 huberdeogreatam.cf
@@ -342136,8 +342058,6 @@
 ::1 www.hunterboots-france.fr
 ::1 hunterbootscanada.com
 ::1 www.hunterbootscanada.com
-::1 hunterbootsdublin.com
-::1 www.hunterbootsdublin.com
 ::1 hunterbootsfr.fr
 ::1 www.hunterbootsfr.fr
 ::1 hunterbootsfrance.fr
@@ -342156,8 +342076,6 @@
 ::1 www.hunterflatbars.com
 ::1 huntergermany.de
 ::1 www.huntergermany.de
-::1 huntergumbootsaustralia.com
-::1 www.huntergumbootsaustralia.com
 ::1 huntergummistiefel.de
 ::1 www.huntergummistiefel.de
 ::1 huntergummistiefeloutlet.de
@@ -342180,8 +342098,6 @@
 ::1 www.hunteronlineshop.at
 ::1 hunterpascher.fr
 ::1 www.hunterpascher.fr
-::1 hunterregenlaarzen.com
-::1 www.hunterregenlaarzen.com
 ::1 huntersbootparis.fr
 ::1 www.huntersbootparis.fr
 ::1 hunterslibrary.com
@@ -344088,8 +344004,6 @@
 ::1 www.hypedrip.top
 ::1 hypekasino.fr
 ::1 www.hypekasino.fr
-::1 hypelaced.co
-::1 www.hypelaced.co
 ::1 hyper-intermarche.fr
 ::1 www.hyper-intermarche.fr
 ::1 hyper-pools.com
@@ -347304,8 +347218,6 @@
 ::1 www.ichesele.ga
 ::1 icheudulistverma.ga
 ::1 www.icheudulistverma.ga
-::1 ichferkens.de
-::1 www.ichferkens.de
 ::1 ichirin-juku.com
 ::1 www.ichirin-juku.com
 ::1 ichisushi.fr
@@ -349186,8 +349098,6 @@
 ::1 www.ielqjy.bar
 ::1 iem.world
 ::1 www.iem.world
-::1 iemakluck.com
-::1 www.iemakluck.com
 ::1 iemnxm.shop
 ::1 www.iemnxm.shop
 ::1 iemqfk.tokyo
@@ -352678,8 +352588,6 @@
 ::1 www.imalaganer.ga
 ::1 imaldultikab.ml
 ::1 www.imaldultikab.ml
-::1 imalent.net
-::1 www.imalent.net
 ::1 imalindasap.gq
 ::1 www.imalindasap.gq
 ::1 imalinlan.ga
@@ -353432,8 +353340,6 @@
 ::1 www.immediate-dash.de
 ::1 immediate-direct.com
 ::1 www.immediate-direct.com
-::1 immediate-edge2.com
-::1 www.immediate-edge2.com
 ::1 immediate-flik.com
 ::1 www.immediate-flik.com
 ::1 immediate-growth.com
@@ -422912,6 +422818,8 @@
 ::1 www.ljekarna-osijek.com
 ::1 ljekarnacroatia.com
 ::1 www.ljekarnacroatia.com
+::1 ljekarnahrvatska.com
+::1 www.ljekarnahrvatska.com
 ::1 ljewaslimimadis.gq
 ::1 www.ljewaslimimadis.gq
 ::1 ljeyvm.bar
@@ -442224,8 +442132,6 @@
 ::1 www.market.darrowmere.com
 ::1 market.glenleigha.com
 ::1 www.market.glenleigha.com
-::1 market.halewick.com
-::1 www.market.halewick.com
 ::1 market.livaxxen.org
 ::1 www.market.livaxxen.org
 ::1 market24prime.shop
@@ -490716,6 +490622,8 @@
 ::1 www.nkb5so.cyou
 ::1 nkbevv.bar
 ::1 www.nkbevv.bar
+::1 nkbiobxn.shop
+::1 www.nkbiobxn.shop
 ::1 nkbyei.bar
 ::1 www.nkbyei.bar
 ::1 nkcxtb.bar
