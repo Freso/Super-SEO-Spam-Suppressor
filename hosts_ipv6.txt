@@ -87524,6 +87524,8 @@
 ::1 www.app-antai.fr
 ::1 app-associates.com
 ::1 www.app-associates.com
+::1 app-bankera.fr
+::1 www.app-bankera.fr
 ::1 app-banquepostale.fr
 ::1 www.app-banquepostale.fr
 ::1 app-blablacar.fr
@@ -92180,6 +92182,8 @@
 ::1 www.arubabet-france.fr
 ::1 arubabetcasino.fr
 ::1 www.arubabetcasino.fr
+::1 arubabetfr.fr
+::1 www.arubabetfr.fr
 ::1 arubafr.fr
 ::1 www.arubafr.fr
 ::1 arubanoublu.tk
@@ -119126,6 +119130,8 @@
 ::1 www.billionairespin-france.fr
 ::1 billionairespin-online.fr
 ::1 www.billionairespin-online.fr
+::1 billionairespin2.fr
+::1 www.billionairespin2.fr
 ::1 billionairespincasino.fr
 ::1 www.billionairespincasino.fr
 ::1 billionairetissu.fr
@@ -343996,6 +344002,8 @@
 ::1 www.hype-hoodies.com
 ::1 hype-kasino.fr
 ::1 www.hype-kasino.fr
+::1 hype-sneakers.fr
+::1 www.hype-sneakers.fr
 ::1 hypecasino.fr
 ::1 www.hypecasino.fr
 ::1 hypecasino1.fr
@@ -525078,6 +525086,8 @@
 ::1 www.paris-g7taxis.fr
 ::1 paris-live-tickets.fr
 ::1 www.paris-live-tickets.fr
+::1 paris-outlet.fr
+::1 www.paris-outlet.fr
 ::1 paris-sportif-retrait-rapide.fr
 ::1 www.paris-sportif-retrait-rapide.fr
 ::1 paris-taxig7.fr
@@ -545374,6 +545384,8 @@
 ::1 www.poptv.xyz
 ::1 popub9.cyou
 ::1 www.popub9.cyou
+::1 populaire-mon-compte.fr
+::1 www.populaire-mon-compte.fr
 ::1 popular-camping.com
 ::1 www.popular-camping.com
 ::1 popularaitools.ai
@@ -723070,6 +723082,8 @@
 ::1 www.uphvsm.rest
 ::1 uphxmwt.tokyo
 ::1 www.uphxmwt.tokyo
+::1 upi-universite.fr
+::1 www.upi-universite.fr
 ::1 upi1an.tokyo
 ::1 www.upi1an.tokyo
 ::1 upibotetuseg.tk
