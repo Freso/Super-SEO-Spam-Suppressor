@@ -31645,6 +31645,7 @@
 ||accescanada.fr^$document
 ||accesconcert.fr^$document
 ||accesdesign.fr^$document
+||accesdgfip.fr^$document
 ||accesmescomptes.fr^$document
 ||accesoriisimargele.ro^$document
 ||accesperso-voscompte.fr^$document
@@ -33623,6 +33624,7 @@
 ||admisions.fr^$document
 ||admissiblepedal.com^$document
 ||admission-ifsi.fr^$document
+||admissions-efrei.fr^$document
 ||admisson-postbac.fr^$document
 ||admiteyesfamily.buzz^$document
 ||admithelperbusy.com^$document
@@ -40592,6 +40594,7 @@
 ||amonbet1.fr^$document
 ||amonbetcasino-fr.fr^$document
 ||amonbetcasino.fr^$document
+||amonbetfrance.fr^$document
 ||amonbetonline.fr^$document
 ||amonbets-fr.fr^$document
 ||amonbets.fr^$document
@@ -43520,6 +43523,7 @@
 ||aphosragilro.cf^$document
 ||aphprp.fr^$document
 ||aphpzp.tokyo^$document
+||aphrodite-casinos.fr^$document
 ||aphroditecards.com^$document
 ||aphroditecasinoo.fr^$document
 ||aphrodites.xyz^$document
@@ -46988,6 +46992,7 @@
 ||assemble-nationalee.fr^$document
 ||assemblea-nationale.fr^$document
 ||assemblee-national.fr^$document
+||assemblee-netionale.fr^$document
 ||assembleee-nationale.fr^$document
 ||assemblyrevealpromotion.com^$document
 ||assemblytoolprada.com^$document
@@ -51550,6 +51555,7 @@
 ||babyhappy.su^$document
 ||babyjane.xyz^$document
 ||babykurse-mit-birgit.de^$document
+||babyliss-france.fr^$document
 ||babyliss-pro.fr^$document
 ||babylissde.de^$document
 ||babylissfr.fr^$document
@@ -57647,6 +57653,7 @@
 ||betifybonus.fr^$document
 ||betifycasina.fr^$document
 ||betifycasino-avis.fr^$document
+||betifycasino-com.fr^$document
 ||betifycasino-fr.fr^$document
 ||betifycasino-fra.fr^$document
 ||betifycasino-france.fr^$document
@@ -71265,6 +71272,7 @@
 ||caisse-regionaleacces.fr^$document
 ||caisse-retraite.fr^$document
 ||caisseallocationfamiliale.fr^$document
+||caisseconsignations.fr^$document
 ||caissed-epargne.fr^$document
 ||caissededepot.fr^$document
 ||caissededepots.fr^$document
@@ -73070,6 +73078,7 @@
 ||carharttoutletfrance.fr^$document
 ||carharttoutletsfrance.fr^$document
 ||carharttphilippines.com^$document
+||carharttsoldes.fr^$document
 ||carharttsuisse.com^$document
 ||carharttwip.fr^$document
 ||carharttwipfrance.fr^$document
@@ -73996,6 +74005,7 @@
 ||cashwins.fr^$document
 ||cashwise.xyz^$document
 ||casibelsconlock.gq^$document
+||casibom-casino.fr^$document
 ||casibom-fr.fr^$document
 ||casibom-france.fr^$document
 ||casibom1.fr^$document
@@ -85127,6 +85137,7 @@
 ||client-monespace.fr^$document
 ||client-netfiix.fr^$document
 ||client-netflix.fr^$document
+||client-nickel.fr^$document
 ||client-orange.fr^$document
 ||client-paiement-info.fr^$document
 ||client-paiement-secure.fr^$document
@@ -85184,6 +85195,7 @@
 ||clients-banque-bnpparibas.fr^$document
 ||clients-bnpparibas.fr^$document
 ||clients-compte-support.fr^$document
+||clients-creditmutuel.fr^$document
 ||clients-disney.fr^$document
 ||clients-identification.fr^$document
 ||clients-informa.fr^$document
@@ -112619,6 +112631,7 @@
 ||drmartensfrancefr.fr^$document
 ||drmartensfrancestore.fr^$document
 ||drmartenshomme.fr^$document
+||drmartensoldes.fr^$document
 ||drmartenspairs.fr^$document
 ||drmartensparis.fr^$document
 ||drmartenss.fr^$document
@@ -118181,6 +118194,7 @@
 ||efazbho.tokyo^$document
 ||efazokupucim.tk^$document
 ||efbaed.shop^$document
+||efbet-casino.fr^$document
 ||efbet-france.fr^$document
 ||efbicp.rest^$document
 ||efc960g.shop^$document
@@ -119783,6 +119797,7 @@
 ||electrodepot-lille.fr^$document
 ||electrodepot-reply.fr^$document
 ||electrodepot-shop.fr^$document
+||electrodepot-store.fr^$document
 ||electrodepotgroup.fr^$document
 ||electrodepotsas.fr^$document
 ||electrodepotshop.fr^$document
@@ -120133,6 +120148,7 @@
 ||eliteshop.com.br^$document
 ||elitesneakers.store^$document
 ||elitespin-casino.fr^$document
+||elitespin1.fr^$document
 ||elitestayzio2u.com^$document
 ||elitevolleyaarhus.dk^$document
 ||elithharedvolk.ga^$document
@@ -139955,6 +139971,7 @@
 ||fr-neosoftservices.fr^$document
 ||fr-netflix-paiement.fr^$document
 ||fr-netflix.fr^$document
+||fr-nine-casino.fr^$document
 ||fr-nine.fr^$document
 ||fr-ninecasino.fr^$document
 ||fr-nisshamedicaltechnologiessas.fr^$document
@@ -140271,6 +140288,7 @@
 ||france-assure-sante.fr^$document
 ||france-auchan.fr^$document
 ||france-aujourdhui.fr^$document
+||france-betzino.fr^$document
 ||france-bleu.ovh^$document
 ||france-carte-grise.fr^$document
 ||france-chauffage.fr^$document
@@ -140315,6 +140333,7 @@
 ||france-mizuno.fr^$document
 ||france-moncolis.fr^$document
 ||france-netflix.fr^$document
+||france-nine-casino.fr^$document
 ||france-olympe.fr^$document
 ||france-pistolo.fr^$document
 ||france-premiere.fr^$document
@@ -170766,6 +170785,7 @@
 ||hugobet.fr^$document
 ||hugobetcasino.fr^$document
 ||hugobets-casino.fr^$document
+||hugobets-officiel.fr^$document
 ||hugobetscasino.fr^$document
 ||hugoboss-fr.fr^$document
 ||hugoboss-france.fr^$document
@@ -190498,6 +190518,7 @@
 ||julio-fr.fr^$document
 ||julittatreese.xyz^$document
 ||julius-1.fr^$document
+||julius-casino-com.fr^$document
 ||julius-casino-fr.fr^$document
 ||julius-casino-france.fr^$document
 ||julius-casino-live.fr^$document
@@ -202035,6 +202056,9 @@
 ||lamatydeti.ga^$document
 ||lamazonglaqnva.ga^$document
 ||lamb37infatua.futbol^$document
+||lamba-bet.fr^$document
+||lambaa.fr^$document
+||lambabett.fr^$document
 ||lambberkeytendcont.cf^$document
 ||lambchacphatalstorterd.tk^$document
 ||lambda-group.si^$document
@@ -215290,6 +215314,7 @@
 ||luckiest.xyz^$document
 ||luckiestcasino.fr^$document
 ||luckis.fr^$document
+||luckleopard-fr.fr^$document
 ||lucklipchahipqui.tk^$document
 ||luckmia.de^$document
 ||luckmp.com^$document
@@ -215370,6 +215395,7 @@
 ||lucky31connexion.fr^$document
 ||lucky31france.fr^$document
 ||lucky31i.fr^$document
+||lucky31officiel.fr^$document
 ||lucky31s.fr^$document
 ||lucky7-casino.fr^$document
 ||lucky7bonus-fr.fr^$document
@@ -234043,6 +234069,7 @@
 ||mucispstalarar.ml^$document
 ||mucjbmd.bar^$document
 ||muck-boots.fr^$document
+||muckbootchaussures.fr^$document
 ||muckbootsfrance.fr^$document
 ||muckbootsosterreich.at^$document
 ||muckbootsoutletstore.de^$document
@@ -244437,6 +244464,7 @@
 ||nine-casino-enligne.fr^$document
 ||nine-casino-fr.fr^$document
 ||nine-casino-login.fr^$document
+||nine-casino-official.fr^$document
 ||nine-casino-online.fr^$document
 ||nine-casino1.fr^$document
 ||nine-casino2.fr^$document
@@ -271866,6 +271894,7 @@
 ||pointsmoneystory.biz^$document
 ||pointsnightwholes.biz^$document
 ||pointsortstoryright.buzz^$document
+||pointsp.fr^$document
 ||pointspartdirector.bar^$document
 ||pointsplacegroup.biz^$document
 ||pointspointshang.buzz^$document
@@ -294819,6 +294848,7 @@
 ||reservation-enligne.fr^$document
 ||reservation-facile.fr^$document
 ||reservation-id9159398.fr^$document
+||reservation-leboncoin.fr^$document
 ||reservation-vehicule-acheteur-lbc.fr^$document
 ||reservation-vehicule-acheteurlbc.fr^$document
 ||reservation-vehiculelbc.fr^$document
@@ -314304,6 +314334,7 @@
 ||shop-darty.com^$document
 ||shop-deal.news^$document
 ||shop-degussa-goldbarren.de^$document
+||shop-electrodepot.fr^$document
 ||shop-ertekesites.news^$document
 ||shop-hausdesfildern.de^$document
 ||shop-highvibrations.dk^$document
@@ -314465,6 +314496,7 @@
 ||shoprseasafetyoutlet.shop^$document
 ||shoprufe.com^$document
 ||shops-colruyt.fr^$document
+||shops-electrodepot.fr^$document
 ||shops-eminem.com^$document
 ||shops-net.com^$document
 ||shopsaltpepper.com^$document
@@ -323215,6 +323247,7 @@
 ||spinbetter.club^$document
 ||spinbetter.fr^$document
 ||spinbetter.online^$document
+||spinbit-casino.fr^$document
 ||spinboggpyhtuhena.ga^$document
 ||spinbos.fr^$document
 ||spinboss-2026.fr^$document
@@ -326094,6 +326127,8 @@
 ||staywaythrowpoint.biz^$document
 ||stazserceidammoytrid.ml^$document
 ||stb5r4.rest^$document
+||stbarthluxurywatches.fr^$document
+||stbarthwatches.fr^$document
 ||stbaur.tokyo^$document
 ||stbfjq.tokyo^$document
 ||stbkig.tokyo^$document
@@ -327369,6 +327404,7 @@
 ||store-cycle.com^$document
 ||store-depot.cam^$document
 ||store-disney.fr^$document
+||store-electrodepot.fr^$document
 ||store-farmranch.com^$document
 ||store-france.fr^$document
 ||store-franprix.fr^$document
@@ -342755,6 +342791,7 @@
 ||thorcas1no-fr.fr^$document
 ||thorcasino-enligne.fr^$document
 ||thorcasino-fr.fr^$document
+||thorcasino-officiel.fr^$document
 ||thorcasino.fr^$document
 ||thorcasino1.fr^$document
 ||thorcasinofrance.fr^$document
@@ -365212,6 +365249,7 @@
 ||vaxpsr.rest^$document
 ||vaxret.tokyo^$document
 ||vay0n7.cyou^$document
+||vaycasino-com.fr^$document
 ||vayco.de^$document
 ||vaydwi.rest^$document
 ||vayela.com^$document
@@ -381427,6 +381465,7 @@
 ||westace-casino-365.fr^$document
 ||westace-casino-777.fr^$document
 ||westace-casino-888.fr^$document
+||westace-casinos.fr^$document
 ||westacecasinos.fr^$document
 ||westaces-fr.fr^$document
 ||westacescasino.fr^$document
@@ -399515,6 +399554,7 @@
 ||yonibet3.fr^$document
 ||yonibetcasino.fr^$document
 ||yonibetcasinos.fr^$document
+||yonibetofficiel.fr^$document
 ||yonlbkww.tokyo^$document
 ||yonnerepublicaine.fr^$document
 ||yonorai.xyz^$document
