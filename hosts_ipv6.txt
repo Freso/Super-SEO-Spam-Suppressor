@@ -100440,6 +100440,8 @@
 ::1 www.axaassurances.fr
 ::1 axabanco.fr
 ::1 www.axabanco.fr
+::1 axacoins.com
+::1 www.axacoins.com
 ::1 axaespaceclient.fr
 ::1 www.axaespaceclient.fr
 ::1 axafinancement.fr
@@ -106192,6 +106194,8 @@
 ::1 www.banquepoplaire.fr
 ::1 banquepopuiaire.fr
 ::1 www.banquepopuiaire.fr
+::1 banquepopulair.fr
+::1 www.banquepopulair.fr
 ::1 banquepopulaire-annulation.fr
 ::1 www.banquepopulaire-annulation.fr
 ::1 banquepopulaire-appdemo.fr
@@ -138656,6 +138660,8 @@
 ::1 www.bwin-official.fr
 ::1 bwin188.org
 ::1 www.bwin188.org
+::1 bwincasino.fr
+::1 www.bwincasino.fr
 ::1 bwincasinofrance.fr
 ::1 www.bwincasinofrance.fr
 ::1 bwincodepromo.fr
@@ -144446,6 +144452,8 @@
 ::1 www.canada2024-lnterac.fr
 ::1 canadabreakingnews.com
 ::1 www.canadabreakingnews.com
+::1 canadadrugstore.com
+::1 www.canadadrugstore.com
 ::1 canadagooseoutletfrance.fr
 ::1 www.canadagooseoutletfrance.fr
 ::1 canadagoosepaschere.fr
@@ -148210,6 +148218,8 @@
 ::1 www.casino-aquawin.fr
 ::1 casino-argent-reel.fr
 ::1 www.casino-argent-reel.fr
+::1 casino-arlequinfrance.fr
+::1 www.casino-arlequinfrance.fr
 ::1 casino-astral.fr
 ::1 www.casino-astral.fr
 ::1 casino-banque.fr
@@ -148568,6 +148578,8 @@
 ::1 www.casino-touch.fr
 ::1 casino-trino-online.de
 ::1 www.casino-trino-online.de
+::1 casino-tropeziapalace.fr
+::1 www.casino-tropeziapalace.fr
 ::1 casino-trueluck.fr
 ::1 www.casino-trueluck.fr
 ::1 casino-tucan.fr
@@ -148576,6 +148588,8 @@
 ::1 www.casino-turbo-wins.fr
 ::1 casino-twin-fr.fr
 ::1 www.casino-twin-fr.fr
+::1 casino-unibetfrance.fr
+::1 www.casino-unibetfrance.fr
 ::1 casino-unique1.fr
 ::1 www.casino-unique1.fr
 ::1 casino-vale.fr
@@ -267478,6 +267492,8 @@
 ::1 www.fetirearesco.ml
 ::1 fetish4movie.mobi
 ::1 www.fetish4movie.mobi
+::1 fetishmegastore.com
+::1 www.fetishmegastore.com
 ::1 fetistterroaspoonchor.tk
 ::1 www.fetistterroaspoonchor.tk
 ::1 fetjvjj.bar
@@ -280940,6 +280956,8 @@
 ::1 www.francecanal.fr
 ::1 francecasher.fr
 ::1 www.francecasher.fr
+::1 francecasinobetify.fr
+::1 www.francecasinobetify.fr
 ::1 francecertif.fr
 ::1 www.francecertif.fr
 ::1 francechronique.fr
@@ -281008,6 +281026,8 @@
 ::1 www.franceloisir.fr
 ::1 francelucky8.fr
 ::1 www.francelucky8.fr
+::1 francemagicalspin.fr
+::1 www.francemagicalspin.fr
 ::1 francemusicstore.com
 ::1 www.francemusicstore.com
 ::1 francenumgouv.fr
@@ -364700,6 +364720,8 @@
 ::1 www.irobot-france.fr
 ::1 irobot-trade.com
 ::1 www.irobot-trade.com
+::1 irobotfr.fr
+::1 www.irobotfr.fr
 ::1 irobotfrance.fr
 ::1 www.irobotfrance.fr
 ::1 irodolp.web.app
@@ -371314,6 +371336,8 @@
 ::1 www.jackpotbobcasino-fr.fr
 ::1 jackpotbobcasinofrance.fr
 ::1 www.jackpotbobcasinofrance.fr
+::1 jackpotbobfrance.fr
+::1 www.jackpotbobfrance.fr
 ::1 jackpotcash.fr
 ::1 www.jackpotcash.fr
 ::1 jackpotcasino-fr.fr
@@ -509618,6 +509642,8 @@
 ::1 www.onlinecasinoplay.icu
 ::1 onlinecasinositeindia.com
 ::1 www.onlinecasinositeindia.com
+::1 onlinecasinoslasvegas.com
+::1 www.onlinecasinoslasvegas.com
 ::1 onlinecasinosohneverifizierung.de
 ::1 www.onlinecasinosohneverifizierung.de
 ::1 onlineciti.com
@@ -524196,6 +524222,8 @@
 ::1 www.panamajack-france.fr
 ::1 panamajackdeutschland.de
 ::1 www.panamajackdeutschland.de
+::1 panamajackfr.fr
+::1 www.panamajackfr.fr
 ::1 panamajackparis.fr
 ::1 www.panamajackparis.fr
 ::1 panandbarrobelf.ga
@@ -586232,8 +586260,6 @@
 ::1 www.reings.store
 ::1 reinholdmetall.ee
 ::1 www.reinholdmetall.ee
-::1 reinholdrasenmaher.com
-::1 www.reinholdrasenmaher.com
 ::1 reinholzexpress.com
 ::1 www.reinholzexpress.com
 ::1 reinigungszubehor.com
@@ -634392,6 +634418,8 @@
 ::1 www.sixsmorgapendcal.cf
 ::1 sixstatesecurity.mom
 ::1 www.sixstatesecurity.mom
+::1 sixt-france.fr
+::1 www.sixt-france.fr
 ::1 sixteenmuffledpeppery.com
 ::1 www.sixteenmuffledpeppery.com
 ::1 sixtexpnalimam.ga
@@ -697816,8 +697844,6 @@
 ::1 www.topcode.in
 ::1 topcountrysongs.eu
 ::1 www.topcountrysongs.eu
-::1 topcyclebike.com
-::1 www.topcyclebike.com
 ::1 topdcemamicitop.gq
 ::1 www.topdcemamicitop.gq
 ::1 topdealad.com
@@ -698666,6 +698692,8 @@
 ::1 www.tortuga-1.fr
 ::1 tortuga-casino-fr.fr
 ::1 www.tortuga-casino-fr.fr
+::1 tortuga-casino-fra.fr
+::1 www.tortuga-casino-fra.fr
 ::1 tortuga-casino-online.fr
 ::1 www.tortuga-casino-online.fr
 ::1 tortuga-casinos.fr
@@ -702322,6 +702350,8 @@
 ::1 www.transcashattestation.fr
 ::1 transcashlogin.fr
 ::1 www.transcashlogin.fr
+::1 transcashmastercard.fr
+::1 www.transcashmastercard.fr
 ::1 transcashrecharge.fr
 ::1 www.transcashrecharge.fr
 ::1 transcilien.fr
@@ -720496,6 +720526,8 @@
 ::1 www.unique-casino1.fr
 ::1 unique-casinofr.fr
 ::1 www.unique-casinofr.fr
+::1 unique-casinofrance.fr
+::1 www.unique-casinofrance.fr
 ::1 unique-casinoonline.fr
 ::1 www.unique-casinoonline.fr
 ::1 unique-exchange.co
@@ -736010,6 +736042,8 @@
 ::1 www.verificationprime.fr
 ::1 verificationrdv-leboncoin.fr
 ::1 www.verificationrdv-leboncoin.fr
+::1 verificationrecharge.fr
+::1 www.verificationrecharge.fr
 ::1 verifications-amendes.fr
 ::1 www.verifications-amendes.fr
 ::1 verifications-identites.fr
@@ -768242,6 +768276,8 @@
 ::1 www.winoui-enligne.fr
 ::1 winoui-fr.fr
 ::1 www.winoui-fr.fr
+::1 winoui-fra.fr
+::1 www.winoui-fra.fr
 ::1 winoui-france.fr
 ::1 www.winoui-france.fr
 ::1 winoui-frbonus.fr
@@ -768262,6 +768298,8 @@
 ::1 www.winouibet.fr
 ::1 winouicasino-fr.fr
 ::1 www.winouicasino-fr.fr
+::1 winouicasino-france.fr
+::1 www.winouicasino-france.fr
 ::1 winouicasino1.fr
 ::1 www.winouicasino1.fr
 ::1 winouicasinofr.fr
@@ -774086,6 +774124,8 @@
 ::1 www.wranchungptinenuk.ml
 ::1 wranglerfr.fr
 ::1 www.wranglerfr.fr
+::1 wranglerfrance.fr
+::1 www.wranglerfrance.fr
 ::1 wraninelalon.gq
 ::1 www.wraninelalon.gq
 ::1 wrapdifunbiklthisp.ml

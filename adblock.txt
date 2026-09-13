@@ -50222,6 +50222,7 @@
 ||axa-update.fr^$document
 ||axaassurances.fr^$document
 ||axabanco.fr^$document
+||axacoins.com^$document
 ||axaespaceclient.fr^$document
 ||axafinancement.fr^$document
 ||axaimarketfx.com^$document
@@ -53098,6 +53099,7 @@
 ||banquepop-tour.fr^$document
 ||banquepoplaire.fr^$document
 ||banquepopuiaire.fr^$document
+||banquepopulair.fr^$document
 ||banquepopulaire-annulation.fr^$document
 ||banquepopulaire-appdemo.fr^$document
 ||banquepopulaire-connexion.fr^$document
@@ -69330,6 +69332,7 @@
 ||bwin-casino.fr^$document
 ||bwin-official.fr^$document
 ||bwin188.org^$document
+||bwincasino.fr^$document
 ||bwincasinofrance.fr^$document
 ||bwincodepromo.fr^$document
 ||bwinel.com^$document
@@ -72225,6 +72228,7 @@
 ||canada-virement2024.fr^$document
 ||canada2024-lnterac.fr^$document
 ||canadabreakingnews.com^$document
+||canadadrugstore.com^$document
 ||canadagooseoutletfrance.fr^$document
 ||canadagoosepaschere.fr^$document
 ||canadanewsreport.com^$document
@@ -74107,6 +74111,7 @@
 ||casino-amunra.fr^$document
 ||casino-aquawin.fr^$document
 ||casino-argent-reel.fr^$document
+||casino-arlequinfrance.fr^$document
 ||casino-astral.fr^$document
 ||casino-banque.fr^$document
 ||casino-banzai.fr^$document
@@ -74286,10 +74291,12 @@
 ||casino-togethers.fr^$document
 ||casino-touch.fr^$document
 ||casino-trino-online.de^$document
+||casino-tropeziapalace.fr^$document
 ||casino-trueluck.fr^$document
 ||casino-tucan.fr^$document
 ||casino-turbo-wins.fr^$document
 ||casino-twin-fr.fr^$document
+||casino-unibetfrance.fr^$document
 ||casino-unique1.fr^$document
 ||casino-vale.fr^$document
 ||casino-vasy.fr^$document
@@ -133741,6 +133748,7 @@
 ||fetipadudun.tk^$document
 ||fetirearesco.ml^$document
 ||fetish4movie.mobi^$document
+||fetishmegastore.com^$document
 ||fetistterroaspoonchor.tk^$document
 ||fetjvjj.bar^$document
 ||fetlilydrave.gq^$document
@@ -140472,6 +140480,7 @@
 ||francecadstre.fr^$document
 ||francecanal.fr^$document
 ||francecasher.fr^$document
+||francecasinobetify.fr^$document
 ||francecertif.fr^$document
 ||francechronique.fr^$document
 ||franceconcerts.fr^$document
@@ -140506,6 +140515,7 @@
 ||francelogistiquesuivit.fr^$document
 ||franceloisir.fr^$document
 ||francelucky8.fr^$document
+||francemagicalspin.fr^$document
 ||francemusicstore.com^$document
 ||francenumgouv.fr^$document
 ||franceparebrice.fr^$document
@@ -182352,6 +182362,7 @@
 ||irntommeve.gq^$document
 ||irobot-france.fr^$document
 ||irobot-trade.com^$document
+||irobotfr.fr^$document
 ||irobotfrance.fr^$document
 ||irodolp.web.app^$document
 ||irognewchuck.cf^$document
@@ -185659,6 +185670,7 @@
 ||jackpotbob-online.fr^$document
 ||jackpotbobcasino-fr.fr^$document
 ||jackpotbobcasinofrance.fr^$document
+||jackpotbobfrance.fr^$document
 ||jackpotcash.fr^$document
 ||jackpotcasino-fr.fr^$document
 ||jackpotcasino-france.fr^$document
@@ -254811,6 +254823,7 @@
 ||onlinecasinoparis.com^$document
 ||onlinecasinoplay.icu^$document
 ||onlinecasinositeindia.com^$document
+||onlinecasinoslasvegas.com^$document
 ||onlinecasinosohneverifizierung.de^$document
 ||onlineciti.com^$document
 ||onlineclassesfortrading.buzz^$document
@@ -262100,6 +262113,7 @@
 ||panalttopchemdriftai.ml^$document
 ||panamajack-france.fr^$document
 ||panamajackdeutschland.de^$document
+||panamajackfr.fr^$document
 ||panamajackparis.fr^$document
 ||panandbarrobelf.ga^$document
 ||pananlezasadd.cf^$document
@@ -293118,7 +293132,6 @@
 ||reineygultuilos.ga^$document
 ||reings.store^$document
 ||reinholdmetall.ee^$document
-||reinholdrasenmaher.com^$document
 ||reinholzexpress.com^$document
 ||reinigungszubehor.com^$document
 ||reiniskanngala.tk^$document
@@ -317198,6 +317211,7 @@
 ||sixsmedpikusi.tk^$document
 ||sixsmorgapendcal.cf^$document
 ||sixstatesecurity.mom^$document
+||sixt-france.fr^$document
 ||sixteenmuffledpeppery.com^$document
 ||sixtexpnalimam.ga^$document
 ||sixthaporse.ga^$document
@@ -348910,7 +348924,6 @@
 ||topclesimingvormoukh.gq^$document
 ||topcode.in^$document
 ||topcountrysongs.eu^$document
-||topcyclebike.com^$document
 ||topdcemamicitop.gq^$document
 ||topdealad.com^$document
 ||topdeals-shop.online^$document
@@ -349335,6 +349348,7 @@
 ||tortue-casino.fr^$document
 ||tortuga-1.fr^$document
 ||tortuga-casino-fr.fr^$document
+||tortuga-casino-fra.fr^$document
 ||tortuga-casino-online.fr^$document
 ||tortuga-casinos.fr^$document
 ||tortuga-casinotortuga.fr^$document
@@ -351163,6 +351177,7 @@
 ||transcash-services.fr^$document
 ||transcashattestation.fr^$document
 ||transcashlogin.fr^$document
+||transcashmastercard.fr^$document
 ||transcashrecharge.fr^$document
 ||transcilien.fr^$document
 ||transconnecet.fr^$document
@@ -360250,6 +360265,7 @@
 ||unique-casino-pari.fr^$document
 ||unique-casino1.fr^$document
 ||unique-casinofr.fr^$document
+||unique-casinofrance.fr^$document
 ||unique-casinoonline.fr^$document
 ||unique-exchange.co^$document
 ||unique-mobile.fr^$document
@@ -368007,6 +368023,7 @@
 ||verificationppl.fr^$document
 ||verificationprime.fr^$document
 ||verificationrdv-leboncoin.fr^$document
+||verificationrecharge.fr^$document
 ||verifications-amendes.fr^$document
 ||verifications-identites.fr^$document
 ||verifications-infos.fr^$document
@@ -384123,6 +384140,7 @@
 ||winoui-club.fr^$document
 ||winoui-enligne.fr^$document
 ||winoui-fr.fr^$document
+||winoui-fra.fr^$document
 ||winoui-france.fr^$document
 ||winoui-frbonus.fr^$document
 ||winoui-game.fr^$document
@@ -384133,6 +384151,7 @@
 ||winoui1.fr^$document
 ||winouibet.fr^$document
 ||winouicasino-fr.fr^$document
+||winouicasino-france.fr^$document
 ||winouicasino1.fr^$document
 ||winouicasinofr.fr^$document
 ||winouicasinofrance.fr^$document
@@ -387045,6 +387064,7 @@
 ||wragolciamasra.cf^$document
 ||wranchungptinenuk.ml^$document
 ||wranglerfr.fr^$document
+||wranglerfrance.fr^$document
 ||wraninelalon.gq^$document
 ||wrapdifunbiklthisp.ml^$document
 ||wraplaternconnodars.tk^$document
