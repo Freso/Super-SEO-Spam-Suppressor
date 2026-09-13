@@ -106260,6 +106260,8 @@
 ::1 www.banquesocietegenerales.fr
 ::1 banquespopulaire.fr
 ::1 www.banquespopulaire.fr
+::1 banquetangerine.fr
+::1 www.banquetangerine.fr
 ::1 banquetesws.cf
 ::1 www.banquetesws.cf
 ::1 banqupopulaire-verification.fr
@@ -129510,6 +129512,8 @@
 ::1 www.boutphoremocar.gq
 ::1 boutsoftsanhoje.gq
 ::1 www.boutsoftsanhoje.gq
+::1 bouttiqueoffresetpromotionsfr.fr
+::1 www.bouttiqueoffresetpromotionsfr.fr
 ::1 bouvru.bar
 ::1 www.bouvru.bar
 ::1 bouvtlelofulro.gq
@@ -136842,6 +136846,8 @@
 ::1 www.burgeomalpets.tk
 ::1 burgerking-antilles.fr
 ::1 www.burgerking-antilles.fr
+::1 burgerking-roue.fr
+::1 www.burgerking-roue.fr
 ::1 burgerservicenummer.eu
 ::1 www.burgerservicenummer.eu
 ::1 burggaphahehuntsuns.tk
@@ -142104,6 +142110,8 @@
 ::1 www.caf-remboursement.fr
 ::1 caf-seinesaintdenis.fr
 ::1 www.caf-seinesaintdenis.fr
+::1 caf33.fr
+::1 www.caf33.fr
 ::1 caf94.fr
 ::1 www.caf94.fr
 ::1 cafa.my.id
@@ -147552,6 +147560,8 @@
 ::1 www.cas-etu-bordeaux.fr
 ::1 cas-ino-sans-verification.fr
 ::1 www.cas-ino-sans-verification.fr
+::1 cas-service-cle.fr
+::1 www.cas-service-cle.fr
 ::1 cas1nozer.fr
 ::1 www.cas1nozer.fr
 ::1 cas1nozerzz.fr
@@ -148258,6 +148268,8 @@
 ::1 www.casino-clic.fr
 ::1 casino-coin.fr
 ::1 www.casino-coin.fr
+::1 casino-crazyking.fr
+::1 www.casino-crazyking.fr
 ::1 casino-cresus-enligne.fr
 ::1 www.casino-cresus-enligne.fr
 ::1 casino-crownplay.fr
@@ -148588,6 +148600,8 @@
 ::1 www.casino-viggoslots.fr
 ::1 casino-viperwin.fr
 ::1 www.casino-viperwin.fr
+::1 casino-vival-spar.fr
+::1 www.casino-vival-spar.fr
 ::1 casino-wazamba.fr
 ::1 www.casino-wazamba.fr
 ::1 casino-west-ace.fr
@@ -149618,6 +149632,8 @@
 ::1 www.casinovip.xyz
 ::1 casinovipluck.fr
 ::1 www.casinovipluck.fr
+::1 casinovivalspar.fr
+::1 www.casinovivalspar.fr
 ::1 casinovulcan.pw
 ::1 www.casinovulcan.pw
 ::1 casinowild-sultan.fr
@@ -179084,6 +179100,8 @@
 ::1 www.confirmation-client-paypal.fr
 ::1 confirmation-credit-agri.fr
 ::1 www.confirmation-credit-agri.fr
+::1 confirmation-de-vos-rendez-vous-remise-secu-leboncoin.fr
+::1 www.confirmation-de-vos-rendez-vous-remise-secu-leboncoin.fr
 ::1 confirmation-de-vos-rendez-vous-remise-securise-leboncoin.fr
 ::1 www.confirmation-de-vos-rendez-vous-remise-securise-leboncoin.fr
 ::1 confirmation-de-vos-rendez-vous-securise-leboncoin.fr
@@ -210222,6 +210240,8 @@
 ::1 www.dgfpfinancesgouv.fr
 ::1 dgfpi-finances.fr
 ::1 www.dgfpi-finances.fr
+::1 dgfpubliques.fr
+::1 www.dgfpubliques.fr
 ::1 dgftfnn.bar
 ::1 www.dgftfnn.bar
 ::1 dggg14.tokyo
@@ -257692,6 +257712,8 @@
 ::1 www.exodermin.com
 ::1 exodermin.eu
 ::1 www.exodermin.eu
+::1 exoedia.fr
+::1 www.exoedia.fr
 ::1 exofdrapecul.ml
 ::1 www.exofdrapecul.ml
 ::1 exogastritis.com
@@ -257792,6 +257814,8 @@
 ::1 www.exp8tc.tokyo
 ::1 expaderpmala.gq
 ::1 www.expaderpmala.gq
+::1 expadia.fr
+::1 www.expadia.fr
 ::1 expalami.tk
 ::1 www.expalami.tk
 ::1 expandeddown.com
@@ -257870,6 +257894,8 @@
 ::1 www.expeditionmondialrelay.fr
 ::1 expeditions-fnac.fr
 ::1 www.expeditions-fnac.fr
+::1 expedoa.fr
+::1 www.expedoa.fr
 ::1 expeida.fr
 ::1 www.expeida.fr
 ::1 expencutethol.ga
@@ -279976,6 +280002,8 @@
 ::1 www.fr-ingrammmicro.fr
 ::1 fr-instagram.fr
 ::1 www.fr-instagram.fr
+::1 fr-instant-casino.fr
+::1 www.fr-instant-casino.fr
 ::1 fr-instantcasino.fr
 ::1 www.fr-instantcasino.fr
 ::1 fr-instasino.fr
@@ -280218,6 +280246,8 @@
 ::1 www.fr-spingranny.fr
 ::1 fr-spinsy.fr
 ::1 www.fr-spinsy.fr
+::1 fr-sportaza.fr
+::1 www.fr-sportaza.fr
 ::1 fr-staci.fr
 ::1 www.fr-staci.fr
 ::1 fr-starburst.fr
@@ -280832,6 +280862,8 @@
 ::1 www.france-services.fr
 ::1 france-soir.fr
 ::1 www.france-soir.fr
+::1 france-sportaza.fr
+::1 www.france-sportaza.fr
 ::1 france-suivi-colis.fr
 ::1 www.france-suivi-colis.fr
 ::1 france-supermarchesmatch.fr
@@ -305328,8 +305360,12 @@
 ::1 www.goldenlion-online.fr
 ::1 goldenmina-casino.fr
 ::1 www.goldenmina-casino.fr
+::1 goldenmina-fr.fr
+::1 www.goldenmina-fr.fr
 ::1 goldenmina.fr
 ::1 www.goldenmina.fr
+::1 goldenmina1.fr
+::1 www.goldenmina1.fr
 ::1 goldenminacasino.fr
 ::1 www.goldenminacasino.fr
 ::1 goldenminaenligne.fr
@@ -309312,6 +309348,8 @@
 ::1 www.gransino-officiel.fr
 ::1 gransino-online.fr
 ::1 www.gransino-online.fr
+::1 gransino-play.fr
+::1 www.gransino-play.fr
 ::1 gransino.fr
 ::1 www.gransino.fr
 ::1 gransino1.fr
@@ -361912,6 +361950,8 @@
 ::1 www.interbolex.pl
 ::1 intercambiosvirtuales.org
 ::1 www.intercambiosvirtuales.org
+::1 intercasinoeuro.fr
+::1 www.intercasinoeuro.fr
 ::1 intercasinovip.com
 ::1 www.intercasinovip.com
 ::1 interch33mainfra.com
@@ -362334,6 +362374,8 @@
 ::1 www.intimissimi-paris.fr
 ::1 intimissimiat.at
 ::1 www.intimissimiat.at
+::1 intimissimifr.fr
+::1 www.intimissimifr.fr
 ::1 intimissimifrance-fr.fr
 ::1 www.intimissimifrance-fr.fr
 ::1 intimissimilyon.fr
@@ -374124,6 +374166,8 @@
 ::1 www.jerseyload.com
 ::1 jerseymaillot.fr
 ::1 www.jerseymaillot.fr
+::1 jerseymaxstore.fr
+::1 www.jerseymaxstore.fr
 ::1 jerseymonsters.com
 ::1 www.jerseymonsters.com
 ::1 jerseyneu.com
@@ -384836,6 +384880,8 @@
 ::1 www.kaasino-casino.fr
 ::1 kaasinocasino.fr
 ::1 www.kaasinocasino.fr
+::1 kaasinofrance.fr
+::1 www.kaasinofrance.fr
 ::1 kaasufffunccharti.ga
 ::1 www.kaasufffunccharti.ga
 ::1 kaatimiling.ml
@@ -405206,6 +405252,8 @@
 ::1 www.lanoticinni.tk
 ::1 lanounou-animaux.fr
 ::1 www.lanounou-animaux.fr
+::1 lanouvelle-republique.fr
+::1 www.lanouvelle-republique.fr
 ::1 lanouvellecartevitale.fr
 ::1 www.lanouvellecartevitale.fr
 ::1 lanpejeacvi.tk
@@ -489010,6 +489058,8 @@
 ::1 www.nimennikee.tk
 ::1 nimenttrosro.tk
 ::1 www.nimenttrosro.tk
+::1 nimes-aeroport.fr
+::1 www.nimes-aeroport.fr
 ::1 nimes-olympique.fr
 ::1 www.nimes-olympique.fr
 ::1 nimes-stationnement-usager-tefps.fr
@@ -489152,6 +489202,8 @@
 ::1 www.ninecas1no-play.fr
 ::1 ninecas1no-win.fr
 ::1 www.ninecas1no-win.fr
+::1 ninecas1no.fr
+::1 www.ninecas1no.fr
 ::1 ninecasin0.fr
 ::1 www.ninecasin0.fr
 ::1 ninecasinno.fr
@@ -543828,6 +543880,8 @@
 ::1 www.point-relais-pickupcolis.fr
 ::1 point-relais2025.fr
 ::1 www.point-relais2025.fr
+::1 point-s-champagnole.fr
+::1 www.point-s-champagnole.fr
 ::1 point-x.shop
 ::1 www.point-x.shop
 ::1 pointalwayssparts.biz
@@ -552866,6 +552920,8 @@
 ::1 www.princealicasinos-france.fr
 ::1 princealifrance.fr
 ::1 www.princealifrance.fr
+::1 princealionline.fr
+::1 www.princealionline.fr
 ::1 princeliest.com
 ::1 www.princeliest.com
 ::1 princeschoolmasma.com
@@ -591262,6 +591318,8 @@
 ::1 www.retraitepublic.fr
 ::1 retraitlockermondial.fr
 ::1 www.retraitlockermondial.fr
+::1 retraitrapide.fr
+::1 www.retraitrapide.fr
 ::1 retrasetfipa.ml
 ::1 www.retrasetfipa.ml
 ::1 retrate.fr
@@ -696082,6 +696140,8 @@
 ::1 www.todogas.com.co
 ::1 todoymas.eu
 ::1 www.todoymas.eu
+::1 todsfr.fr
+::1 www.todsfr.fr
 ::1 todsparis.fr
 ::1 www.todsparis.fr
 ::1 todspascher.fr
@@ -767334,6 +767394,8 @@
 ::1 www.winamax-sport.fr
 ::1 winamaxcasinofrance.fr
 ::1 www.winamaxcasinofrance.fr
+::1 winamaxfrance.fr
+::1 www.winamaxfrance.fr
 ::1 winamaxparis.fr
 ::1 www.winamaxparis.fr
 ::1 winamaxr.fr
