@@ -32127,6 +32127,7 @@ local-zone: "acheterdubitcoin.com" always_refuse
 local-zone: "acheterfauxbillet.fr" always_refuse
 local-zone: "acheteriptv.fr" always_refuse
 local-zone: "acheterlepermisdeconduire.fr" always_refuse
+local-zone: "acheterpcs.fr" always_refuse
 local-zone: "acheterpermisdeconduire.fr" always_refuse
 local-zone: "acheterviagra.fr" always_refuse
 local-zone: "achetetoncompte.fr" always_refuse
@@ -64620,6 +64621,7 @@ local-zone: "boutiqueizyizzy.com" always_refuse
 local-zone: "boutiquemanola.it" always_refuse
 local-zone: "boutiquemizunoparis.fr" always_refuse
 local-zone: "boutiqueparissaintgermain.fr" always_refuse
+local-zone: "boutiqueprixetoffresfrancectlem.fr" always_refuse
 local-zone: "boutiquerenault.fr" always_refuse
 local-zone: "boutiquerenaultsport.fr" always_refuse
 local-zone: "boutiquerugbyfrance.fr" always_refuse
@@ -76968,6 +76970,7 @@ local-zone: "centre-oppositions.fr" always_refuse
 local-zone: "centre-oppositons.fr" always_refuse
 local-zone: "centre-relaycolis.fr" always_refuse
 local-zone: "centre-support.fr" always_refuse
+local-zone: "centre-universitaire-agen.fr" always_refuse
 local-zone: "centrealdemopu.cf" always_refuse
 local-zone: "centreantaiamendes.fr" always_refuse
 local-zone: "centreaudiovideo.fr" always_refuse
@@ -125928,6 +125931,8 @@ local-zone: "espacemacartevitale-ameli.fr" always_refuse
 local-zone: "espacemagasine.fr" always_refuse
 local-zone: "espacemagasines.fr" always_refuse
 local-zone: "espacemasante.fr" always_refuse
+local-zone: "espacemessageriesecure-autos.fr" always_refuse
+local-zone: "espacemessageriesecurise-auto.fr" always_refuse
 local-zone: "espacemybred.fr" always_refuse
 local-zone: "espacemycreditdunord.fr" always_refuse
 local-zone: "espacemycreditmutuel.fr" always_refuse
@@ -130315,6 +130320,7 @@ local-zone: "facebookj.fr" always_refuse
 local-zone: "facebookl.fr" always_refuse
 local-zone: "facebooklcom.com" always_refuse
 local-zone: "facebooklogin.fr" always_refuse
+local-zone: "facebooks.fr" always_refuse
 local-zone: "facebookshop.pl" always_refuse
 local-zone: "facebool.fr" always_refuse
 local-zone: "facecam.ai" always_refuse
@@ -219074,6 +219080,7 @@ local-zone: "maillotnba.fr" always_refuse
 local-zone: "maillotnbanikepsacher.fr" always_refuse
 local-zone: "maillotnfl.fr" always_refuse
 local-zone: "maillotpalestine.fr" always_refuse
+local-zone: "maillotpascher.fr" always_refuse
 local-zone: "maillotpascher2024.fr" always_refuse
 local-zone: "maillotpascherdefoot.fr" always_refuse
 local-zone: "maillotpersonnalise.fr" always_refuse
@@ -246888,6 +246895,7 @@ local-zone: "noticiando.club" always_refuse
 local-zone: "notif-achat-prime.fr" always_refuse
 local-zone: "notif-advanced-prime.fr" always_refuse
 local-zone: "notif-alertesg.fr" always_refuse
+local-zone: "notif-ar24.fr" always_refuse
 local-zone: "notif-chronopost.fr" always_refuse
 local-zone: "notif-cmb.fr" always_refuse
 local-zone: "notif-connect-prime.fr" always_refuse
@@ -263104,6 +263112,7 @@ local-zone: "patantayrige.gq" always_refuse
 local-zone: "patartmerabtymo.tk" always_refuse
 local-zone: "patasroryshe.tk" always_refuse
 local-zone: "patasysveti.tk" always_refuse
+local-zone: "pataugasofficial.fr" always_refuse
 local-zone: "pataugasofficiel.fr" always_refuse
 local-zone: "patavabo.tk" always_refuse
 local-zone: "pataverexa.rest" always_refuse
@@ -298420,6 +298429,7 @@ local-zone: "river-estates.pl" always_refuse
 local-zone: "river-spin.fr" always_refuse
 local-zone: "river-spins.fr" always_refuse
 local-zone: "river.ac.cn" always_refuse
+local-zone: "riverawatches.fr" always_refuse
 local-zone: "riverbeads.de" always_refuse
 local-zone: "riverbelle-casino.fr" always_refuse
 local-zone: "riverbellecasino.fr" always_refuse
@@ -299567,6 +299577,7 @@ local-zone: "rockvodemhogo.ga" always_refuse
 local-zone: "rockwatersnight.biz" always_refuse
 local-zone: "rockwell-berlin.de" always_refuse
 local-zone: "rockwithyou.de" always_refuse
+local-zone: "rocky-spin-casino.fr" always_refuse
 local-zone: "rocky-spincasino.fr" always_refuse
 local-zone: "rockycreekdesigns.eu" always_refuse
 local-zone: "rockymtnloghomes.buzz" always_refuse
@@ -305358,6 +305369,7 @@ local-zone: "salolitiry.cf" always_refuse
 local-zone: "salomon-france.fr" always_refuse
 local-zone: "salomon-outlet.fr" always_refuse
 local-zone: "salomon-paris.fr" always_refuse
+local-zone: "salomon-store.fr" always_refuse
 local-zone: "salomonannecy.fr" always_refuse
 local-zone: "salomonbordeaux.fr" always_refuse
 local-zone: "salomonchaussures.fr" always_refuse
@@ -309859,6 +309871,7 @@ local-zone: "see-lmo.re" always_refuse
 local-zone: "see-m0.re" always_refuse
 local-zone: "see-m00.re" always_refuse
 local-zone: "see-m0o.re" always_refuse
+local-zone: "see-mc.re" always_refuse
 local-zone: "see-mmor.re" always_refuse
 local-zone: "see-mo0.re" always_refuse
 local-zone: "see-moo.re" always_refuse
@@ -309930,6 +309943,7 @@ local-zone: "seemhaggknowteni.ga" always_refuse
 local-zone: "seemigibcepols.cf" always_refuse
 local-zone: "seemingjoggingplough.com" always_refuse
 local-zone: "seemmo.re" always_refuse
+local-zone: "seemno.re" always_refuse
 local-zone: "seemoo.re" always_refuse
 local-zone: "seemoree.re" always_refuse
 local-zone: "seemoreon.de" always_refuse
@@ -373290,6 +373304,7 @@ local-zone: "vitaminz.si" always_refuse
 local-zone: "vitamurigast.cf" always_refuse
 local-zone: "vitanourishhub.com" always_refuse
 local-zone: "vitarela.at" always_refuse
+local-zone: "vitaslimex-fr.fr" always_refuse
 local-zone: "vitastoolstenre.gq" always_refuse
 local-zone: "vitatube.com" always_refuse
 local-zone: "vitcetingflexto.cf" always_refuse
@@ -374824,6 +374839,7 @@ local-zone: "votrecartevitalemisejourformulaire.fr" always_refuse
 local-zone: "votrecertificationqualiopi.fr" always_refuse
 local-zone: "votrecolischronopost.fr" always_refuse
 local-zone: "votrecolisposte.fr" always_refuse
+local-zone: "votrecolisrefenligne.fr" always_refuse
 local-zone: "votrecompte-securepass.fr" always_refuse
 local-zone: "votrecomptenetfiix.fr" always_refuse
 local-zone: "votreconseillerorangeenvisio.fr" always_refuse

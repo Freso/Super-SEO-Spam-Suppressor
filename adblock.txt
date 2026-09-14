@@ -32132,6 +32132,7 @@
 ||acheterfauxbillet.fr^$document
 ||acheteriptv.fr^$document
 ||acheterlepermisdeconduire.fr^$document
+||acheterpcs.fr^$document
 ||acheterpermisdeconduire.fr^$document
 ||acheterviagra.fr^$document
 ||achetetoncompte.fr^$document
@@ -64755,6 +64756,7 @@
 ||boutiquemanola.it^$document
 ||boutiquemizunoparis.fr^$document
 ||boutiqueparissaintgermain.fr^$document
+||boutiqueprixetoffresfrancectlem.fr^$document
 ||boutiquerenault.fr^$document
 ||boutiquerenaultsport.fr^$document
 ||boutiquerugbyfrance.fr^$document
@@ -77110,6 +77112,7 @@
 ||centre-oppositons.fr^$document
 ||centre-relaycolis.fr^$document
 ||centre-support.fr^$document
+||centre-universitaire-agen.fr^$document
 ||centrealdemopu.cf^$document
 ||centreantaiamendes.fr^$document
 ||centreaudiovideo.fr^$document
@@ -126196,6 +126199,8 @@
 ||espacemagasine.fr^$document
 ||espacemagasines.fr^$document
 ||espacemasante.fr^$document
+||espacemessageriesecure-autos.fr^$document
+||espacemessageriesecurise-auto.fr^$document
 ||espacemybred.fr^$document
 ||espacemycreditdunord.fr^$document
 ||espacemycreditmutuel.fr^$document
@@ -130585,6 +130590,7 @@
 ||facebookl.fr^$document
 ||facebooklcom.com^$document
 ||facebooklogin.fr^$document
+||facebooks.fr^$document
 ||facebookshop.pl^$document
 ||facebool.fr^$document
 ||facecam.ai^$document
@@ -219486,6 +219492,7 @@
 ||maillotnbanikepsacher.fr^$document
 ||maillotnfl.fr^$document
 ||maillotpalestine.fr^$document
+||maillotpascher.fr^$document
 ||maillotpascher2024.fr^$document
 ||maillotpascherdefoot.fr^$document
 ||maillotpersonnalise.fr^$document
@@ -247347,6 +247354,7 @@
 ||notif-achat-prime.fr^$document
 ||notif-advanced-prime.fr^$document
 ||notif-alertesg.fr^$document
+||notif-ar24.fr^$document
 ||notif-chronopost.fr^$document
 ||notif-cmb.fr^$document
 ||notif-connect-prime.fr^$document
@@ -263596,6 +263604,7 @@
 ||patartmerabtymo.tk^$document
 ||patasroryshe.tk^$document
 ||patasysveti.tk^$document
+||pataugasofficial.fr^$document
 ||pataugasofficiel.fr^$document
 ||patavabo.tk^$document
 ||pataverexa.rest^$document
@@ -299015,6 +299024,7 @@
 ||river-spin.fr^$document
 ||river-spins.fr^$document
 ||river.ac.cn^$document
+||riverawatches.fr^$document
 ||riverbeads.de^$document
 ||riverbelle-casino.fr^$document
 ||riverbellecasino.fr^$document
@@ -300163,6 +300173,7 @@
 ||rockwatersnight.biz^$document
 ||rockwell-berlin.de^$document
 ||rockwithyou.de^$document
+||rocky-spin-casino.fr^$document
 ||rocky-spincasino.fr^$document
 ||rockycreekdesigns.eu^$document
 ||rockymtnloghomes.buzz^$document
@@ -305957,6 +305968,7 @@
 ||salomon-france.fr^$document
 ||salomon-outlet.fr^$document
 ||salomon-paris.fr^$document
+||salomon-store.fr^$document
 ||salomonannecy.fr^$document
 ||salomonbordeaux.fr^$document
 ||salomonchaussures.fr^$document
@@ -310463,6 +310475,7 @@
 ||see-m0.re^$document
 ||see-m00.re^$document
 ||see-m0o.re^$document
+||see-mc.re^$document
 ||see-mmor.re^$document
 ||see-mo0.re^$document
 ||see-moo.re^$document
@@ -310535,6 +310548,7 @@
 ||seemigibcepols.cf^$document
 ||seemingjoggingplough.com^$document
 ||seemmo.re^$document
+||seemno.re^$document
 ||seemoo.re^$document
 ||seemoree.re^$document
 ||seemoreon.de^$document
@@ -374013,6 +374027,7 @@
 ||vitamurigast.cf^$document
 ||vitanourishhub.com^$document
 ||vitarela.at^$document
+||vitaslimex-fr.fr^$document
 ||vitastoolstenre.gq^$document
 ||vitatube.com^$document
 ||vitcetingflexto.cf^$document
@@ -375554,6 +375569,7 @@
 ||votrecertificationqualiopi.fr^$document
 ||votrecolischronopost.fr^$document
 ||votrecolisposte.fr^$document
+||votrecolisrefenligne.fr^$document
 ||votrecompte-securepass.fr^$document
 ||votrecomptenetfiix.fr^$document
 ||votreconseillerorangeenvisio.fr^$document
