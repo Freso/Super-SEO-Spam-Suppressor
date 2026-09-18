@@ -11812,6 +11812,8 @@
 ::1 www.1m8mz.cyou
 ::1 1m9qzq8.shop
 ::1 www.1m9qzq8.shop
+::1 1maillot.fr
+::1 www.1maillot.fr
 ::1 1maimt8.shop
 ::1 www.1maimt8.shop
 ::1 1majeolomouc.eu
@@ -76100,6 +76102,8 @@
 ::1 www.allyspin-casino1.fr
 ::1 allyspin-casinoofficiel.fr
 ::1 www.allyspin-casinoofficiel.fr
+::1 allyspin-casinos.fr
+::1 www.allyspin-casinos.fr
 ::1 allyspin-com.fr
 ::1 www.allyspin-com.fr
 ::1 allyspin-fr.fr
@@ -115326,6 +115330,8 @@
 ::1 www.betify-casino-online-fr.fr
 ::1 betify-casino-online-france.fr
 ::1 www.betify-casino-online-france.fr
+::1 betify-casino-online.fr
+::1 www.betify-casino-online.fr
 ::1 betify-casino-play-fr.fr
 ::1 www.betify-casino-play-fr.fr
 ::1 betify-casino-play-france.fr
@@ -115420,6 +115426,8 @@
 ::1 www.betify.wf
 ::1 betify.xyz
 ::1 www.betify.xyz
+::1 betify10.fr
+::1 www.betify10.fr
 ::1 betify3.fr
 ::1 www.betify3.fr
 ::1 betify5sh.fr
@@ -115458,6 +115466,8 @@
 ::1 www.betifycasino-official.fr
 ::1 betifycasino-officiel.fr
 ::1 www.betifycasino-officiel.fr
+::1 betifycasino-online.fr
+::1 www.betifycasino-online.fr
 ::1 betifycasino3.fr
 ::1 www.betifycasino3.fr
 ::1 betifycasino4.fr
@@ -115474,8 +115484,12 @@
 ::1 www.betifycasinoo.fr
 ::1 betifycasinoofrance1.fr
 ::1 www.betifycasinoofrance1.fr
+::1 betifycasinoonline.fr
+::1 www.betifycasinoonline.fr
 ::1 betifycasinos-fr.fr
 ::1 www.betifycasinos-fr.fr
+::1 betifycasinos-france.fr
+::1 www.betifycasinos-france.fr
 ::1 betifycasinos.fr
 ::1 www.betifycasinos.fr
 ::1 betifycasinos1.fr
@@ -145754,6 +145768,8 @@
 ::1 www.captainkatja.xyz
 ::1 captainofallseas.com
 ::1 www.captainofallseas.com
+::1 captainslots-com.fr
+::1 www.captainslots-com.fr
 ::1 captainslots-fr.fr
 ::1 www.captainslots-fr.fr
 ::1 captainslotsfr.fr
@@ -148704,6 +148720,8 @@
 ::1 www.casino-prive-france.fr
 ::1 casino-revolut.fr
 ::1 www.casino-revolut.fr
+::1 casino-rizz.fr
+::1 www.casino-rizz.fr
 ::1 casino-robocat.fr
 ::1 www.casino-robocat.fr
 ::1 casino-roby.fr
@@ -148916,6 +148934,8 @@
 ::1 www.casinobetblast.fr
 ::1 casinobetclic.fr
 ::1 www.casinobetclic.fr
+::1 casinobetify-online.fr
+::1 www.casinobetify-online.fr
 ::1 casinobetify.fr
 ::1 www.casinobetify.fr
 ::1 casinobetify1.fr
@@ -149906,6 +149926,8 @@
 ::1 www.casinozer-4.fr
 ::1 casinozer-bet.fr
 ::1 www.casinozer-bet.fr
+::1 casinozer-casino-fr.fr
+::1 www.casinozer-casino-fr.fr
 ::1 casinozer-casino-france.fr
 ::1 www.casinozer-casino-france.fr
 ::1 casinozer-casino.fr
@@ -150098,6 +150120,8 @@
 ::1 www.casoocasino.fr
 ::1 casoola-fr.fr
 ::1 www.casoola-fr.fr
+::1 casoolacasinofr.fr
+::1 www.casoolacasinofr.fr
 ::1 casoolacasinos.fr
 ::1 www.casoolacasinos.fr
 ::1 casoolafr.fr
@@ -187574,6 +187598,8 @@
 ::1 www.crash-casino.fr
 ::1 crash-fr.fr
 ::1 www.crash-fr.fr
+::1 crash-pirate.fr
+::1 www.crash-pirate.fr
 ::1 crash.xyz
 ::1 www.crash.xyz
 ::1 crashbet.fr
@@ -189050,6 +189076,8 @@
 ::1 www.cresuscasina.fr
 ::1 cresuscasino-1.fr
 ::1 www.cresuscasino-1.fr
+::1 cresuscasino-com.fr
+::1 www.cresuscasino-com.fr
 ::1 cresuscasino-en-ligne.fr
 ::1 www.cresuscasino-en-ligne.fr
 ::1 cresuscasino-fr.fr
@@ -224328,6 +224356,10 @@
 ::1 www.dragolkeyzardkind.tk
 ::1 dragon-fr.fr
 ::1 www.dragon-fr.fr
+::1 dragon1a-fr.fr
+::1 www.dragon1a-fr.fr
+::1 dragon1a.fr
+::1 www.dragon1a.fr
 ::1 dragonara.xyz
 ::1 www.dragonara.xyz
 ::1 dragonballmerch.de
@@ -264558,6 +264590,8 @@
 ::1 www.fatpiratecasinofr.fr
 ::1 fatpiratecasinos.fr
 ::1 www.fatpiratecasinos.fr
+::1 fatpiratee.fr
+::1 www.fatpiratee.fr
 ::1 fatpiratefr.fr
 ::1 www.fatpiratefr.fr
 ::1 fatpiratefrance.fr
@@ -284254,6 +284288,8 @@
 ::1 www.frshpb.cyou
 ::1 frsnapchat.fr
 ::1 www.frsnapchat.fr
+::1 frsneakshop.fr
+::1 www.frsneakshop.fr
 ::1 frswg5.cyou
 ::1 www.frswg5.cyou
 ::1 frsxm3.cyou
@@ -306874,6 +306910,8 @@
 ::1 www.google-drive.fr
 ::1 google-drive.zip
 ::1 www.google-drive.zip
+::1 google-images.fr
+::1 www.google-images.fr
 ::1 google-info.cn
 ::1 www.google-info.cn
 ::1 google-mail.fr
@@ -343778,6 +343816,8 @@
 ::1 www.hwdvtzrx.xyz
 ::1 hwe.org.tw
 ::1 www.hwe.org.tw
+::1 hwebmail-orange.fr
+::1 www.hwebmail-orange.fr
 ::1 hweibocom.xyz
 ::1 www.hweibocom.xyz
 ::1 hwejjex.tokyo
@@ -361996,6 +362036,8 @@
 ::1 www.instantcasinoo1.fr
 ::1 instantcasinoonline.fr
 ::1 www.instantcasinoonline.fr
+::1 instantcasinos-com.fr
+::1 www.instantcasinos-com.fr
 ::1 instantcasinos1.fr
 ::1 www.instantcasinos1.fr
 ::1 instantcassino.fr
@@ -371872,6 +371914,8 @@
 ::1 www.jackphedortiater.cf
 ::1 jackpokercasino.fr
 ::1 www.jackpokercasino.fr
+::1 jackpot-bob-casinos.fr
+::1 www.jackpot-bob-casinos.fr
 ::1 jackpot-bob-france.fr
 ::1 www.jackpot-bob-france.fr
 ::1 jackpot-bob-jouer.fr
@@ -397038,8 +397082,12 @@
 ::1 www.kormaysabcentla.ga
 ::1 kormuj.bar
 ::1 www.kormuj.bar
+::1 korn-checkout.fr
+::1 www.korn-checkout.fr
 ::1 korn-eurotour.fr
 ::1 www.korn-eurotour.fr
+::1 korn-lives.fr
+::1 www.korn-lives.fr
 ::1 kornbaddgandmenquileg.cf
 ::1 www.kornbaddgandmenquileg.cf
 ::1 kornechesnacarhau.tk
@@ -427122,6 +427170,8 @@
 ::1 www.lolajack-online.fr
 ::1 lolajack-play.fr
 ::1 www.lolajack-play.fr
+::1 lolajack1-fr.fr
+::1 www.lolajack1-fr.fr
 ::1 lolajackbonus.fr
 ::1 www.lolajackbonus.fr
 ::1 lolajackcasino-fr.fr
@@ -427130,8 +427180,12 @@
 ::1 www.lolajackcasino.fr
 ::1 lolajackenligne.fr
 ::1 www.lolajackenligne.fr
+::1 lolajackfrance.fr
+::1 www.lolajackfrance.fr
 ::1 lolajackk-fr.fr
 ::1 www.lolajackk-fr.fr
+::1 lolajackkfr.fr
+::1 www.lolajackkfr.fr
 ::1 lolajackofficial.fr
 ::1 www.lolajackofficial.fr
 ::1 lolajackplay.fr
@@ -431526,6 +431580,8 @@
 ::1 www.luckhash.org
 ::1 lucki.fr
 ::1 www.lucki.fr
+::1 lucki31fr.fr
+::1 www.lucki31fr.fr
 ::1 luckicasino-fr.fr
 ::1 www.luckicasino-fr.fr
 ::1 luckicasino-france.fr
@@ -431620,6 +431676,8 @@
 ::1 www.lucky-gems-fr.fr
 ::1 lucky-gems.fr
 ::1 www.lucky-gems.fr
+::1 lucky-knife.fr
+::1 www.lucky-knife.fr
 ::1 lucky-lost.fr
 ::1 www.lucky-lost.fr
 ::1 lucky-luke.fr
@@ -431776,6 +431834,8 @@
 ::1 www.lucky8casino-france.fr
 ::1 lucky8casino.fr
 ::1 www.lucky8casino.fr
+::1 lucky8casino1.fr
+::1 www.lucky8casino1.fr
 ::1 lucky8casinofr.fr
 ::1 www.lucky8casinofr.fr
 ::1 lucky8casinofrance.fr
@@ -455152,6 +455212,8 @@
 ::1 www.millionercasinos.fr
 ::1 millionerfr.fr
 ::1 www.millionerfr.fr
+::1 millionerr.fr
+::1 www.millionerr.fr
 ::1 millioners-casino.fr
 ::1 www.millioners-casino.fr
 ::1 millioners-casinos.fr
@@ -455192,6 +455254,8 @@
 ::1 www.millionz-online.fr
 ::1 millionz-promo.fr
 ::1 www.millionz-promo.fr
+::1 millionzcas1no-fr.fr
+::1 www.millionzcas1no-fr.fr
 ::1 millionzcas1no.fr
 ::1 www.millionzcas1no.fr
 ::1 millionzcasino-france.fr
@@ -462788,6 +462852,8 @@
 ::1 www.mondial-relay-reprogrammation-colis.fr
 ::1 mondial-relay-reprogrammation.fr
 ::1 www.mondial-relay-reprogrammation.fr
+::1 mondial-relay-retour.fr
+::1 www.mondial-relay-retour.fr
 ::1 mondial-relay-seine-maritime.fr
 ::1 www.mondial-relay-seine-maritime.fr
 ::1 mondial-relay-services.fr
@@ -495858,6 +495924,8 @@
 ::1 www.nova-jackpot-casino.fr
 ::1 nova-jackpot-fr.fr
 ::1 www.nova-jackpot-fr.fr
+::1 nova-jackpots.fr
+::1 www.nova-jackpots.fr
 ::1 nova-mia.de
 ::1 www.nova-mia.de
 ::1 nova-parts.ru
@@ -510818,6 +510886,8 @@
 ::1 www.onlyspincasino.fr
 ::1 onlyspins-casino-fr.fr
 ::1 www.onlyspins-casino-fr.fr
+::1 onlyspins-casinos.fr
+::1 www.onlyspins-casinos.fr
 ::1 onlyspins-en-ligne.fr
 ::1 www.onlyspins-en-ligne.fr
 ::1 onlyspins-enligne.fr
@@ -530670,6 +530740,8 @@
 ::1 www.peachclass.net
 ::1 peachehirosfi.ml
 ::1 www.peachehirosfi.ml
+::1 peaches-casino.fr
+::1 www.peaches-casino.fr
 ::1 peachesfr.fr
 ::1 www.peachesfr.fr
 ::1 peachossom.com
@@ -618386,6 +618458,8 @@
 ::1 www.sciencenewworkadult.biz
 ::1 sciencesetlavenir.fr
 ::1 www.sciencesetlavenir.fr
+::1 sciencespo-finance.fr
+::1 www.sciencespo-finance.fr
 ::1 sciencespo-lyon-admin.fr
 ::1 www.sciencespo-lyon-admin.fr
 ::1 scientific-federation.org
@@ -625682,6 +625756,8 @@
 ::1 www.service-vulnerable.fr
 ::1 service-wero.fr
 ::1 www.service-wero.fr
+::1 service-xoom-contestation.fr
+::1 www.service-xoom-contestation.fr
 ::1 service-z9mmkhqhpefjqippj6xewpmnc.xyz
 ::1 www.service-z9mmkhqhpefjqippj6xewpmnc.xyz
 ::1 service24hours.xyz
@@ -630200,6 +630276,8 @@
 ::1 www.shopmood.de
 ::1 shopmotorbikeparts.com
 ::1 www.shopmotorbikeparts.com
+::1 shopmyprime.fr
+::1 www.shopmyprime.fr
 ::1 shopnavali.com
 ::1 www.shopnavali.com
 ::1 shopnobazar.xyz
@@ -647880,6 +647958,8 @@
 ::1 www.spinfests.fr
 ::1 spinfevercasino.fr
 ::1 www.spinfevercasino.fr
+::1 spinfiin.fr
+::1 www.spinfiin.fr
 ::1 spinfin-casino.fr
 ::1 www.spinfin-casino.fr
 ::1 spinfin-enligne.fr
@@ -648080,6 +648160,8 @@
 ::1 www.spinmayacasino.fr
 ::1 spinmillion-casino.fr
 ::1 www.spinmillion-casino.fr
+::1 spinmillion-com.fr
+::1 www.spinmillion-com.fr
 ::1 spinmillion-france.fr
 ::1 www.spinmillion-france.fr
 ::1 spinmillion1.fr
@@ -686830,6 +686912,8 @@
 ::1 www.thopowcebentnylo.ml
 ::1 thoquanrizediffta.ga
 ::1 www.thoquanrizediffta.ga
+::1 thor-casino-com.fr
+::1 www.thor-casino-com.fr
 ::1 thor-fortune-casino.fr
 ::1 www.thor-fortune-casino.fr
 ::1 thorboeje.xyz
@@ -721546,6 +721630,8 @@
 ::1 www.uniqlosfrance.fr
 ::1 uniqlosuomioutlet.com
 ::1 www.uniqlosuomioutlet.com
+::1 unique-cas1no-fr.fr
+::1 www.unique-cas1no-fr.fr
 ::1 unique-cas1no.fr
 ::1 www.unique-cas1no.fr
 ::1 unique-casino-fr.fr
