@@ -65474,6 +65474,8 @@
 ::1 www.activearly.com
 ::1 activebeat.fr
 ::1 www.activebeat.fr
+::1 activeelectric.net
+::1 www.activeelectric.net
 ::1 activeitzone.fr
 ::1 www.activeitzone.fr
 ::1 activepla.xyz
@@ -128396,6 +128398,8 @@
 ::1 www.boomgoutitiro.tk
 ::1 boomipanmettwelcia.cf
 ::1 www.boomipanmettwelcia.cf
+::1 boomjoo.co
+::1 www.boomjoo.co
 ::1 boomnaracanima.tk
 ::1 www.boomnaracanima.tk
 ::1 booms-bet-casino.fr
@@ -132338,6 +132342,8 @@
 ::1 www.brennholzweber.de
 ::1 brennholzwerner.de
 ::1 www.brennholzwerner.de
+::1 brennholzwidmann.de
+::1 www.brennholzwidmann.de
 ::1 brenntag.ee
 ::1 www.brenntag.ee
 ::1 brennuischif.ml
@@ -148628,6 +148634,8 @@
 ::1 www.casino-hermes.fr
 ::1 casino-horus.fr
 ::1 www.casino-horus.fr
+::1 casino-housebets.fr
+::1 www.casino-housebets.fr
 ::1 casino-hugobets.fr
 ::1 www.casino-hugobets.fr
 ::1 casino-igobet.fr
@@ -149250,6 +149258,8 @@
 ::1 www.casinohorus.fr
 ::1 casinohouse.fr
 ::1 www.casinohouse.fr
+::1 casinohousebets.fr
+::1 www.casinohousebets.fr
 ::1 casinohugo.fr
 ::1 www.casinohugo.fr
 ::1 casinohugobets.fr
@@ -155934,6 +155944,8 @@
 ::1 www.cetelem-bnpparibas.fr
 ::1 cetelem-connecte.fr
 ::1 www.cetelem-connecte.fr
+::1 cetelem-contact.fr
+::1 www.cetelem-contact.fr
 ::1 cetelem-financement.fr
 ::1 www.cetelem-financement.fr
 ::1 cetelem-particulier-notifications.fr
@@ -172696,6 +172708,8 @@
 ::1 www.cmcre.fr
 ::1 cmcroata.ce.gov.br
 ::1 www.cmcroata.ce.gov.br
+::1 cmctradingeu.com
+::1 www.cmctradingeu.com
 ::1 cmd-ns7efhlcf2.biz
 ::1 www.cmd-ns7efhlcf2.biz
 ::1 cmd-prime.fr
@@ -179424,6 +179438,8 @@
 ::1 www.confirmation-de-vos-rendezvous-securise-leboncoin.fr
 ::1 confirmation-de-votre-rendez-vous-auto-securise-leboncoin.fr
 ::1 www.confirmation-de-votre-rendez-vous-auto-securise-leboncoin.fr
+::1 confirmation-de-votre-rendez-vous-secu-via-leboncoin.fr
+::1 www.confirmation-de-votre-rendez-vous-secu-via-leboncoin.fr
 ::1 confirmation-details-rdv-leboncoin.fr
 ::1 www.confirmation-details-rdv-leboncoin.fr
 ::1 confirmation-devotre-rendez-vous-securise-leboncoin.fr
@@ -202986,6 +203002,8 @@
 ::1 www.de-orion.site
 ::1 de-schmuckens.com
 ::1 www.de-schmuckens.com
+::1 de-shimano.com
+::1 www.de-shimano.com
 ::1 de-smuller.nl
 ::1 www.de-smuller.nl
 ::1 de-telegrcn.org
@@ -203836,6 +203854,8 @@
 ::1 www.deckcalmn.com
 ::1 deckconcopilsuu.cf
 ::1 www.deckconcopilsuu.cf
+::1 deckeldrauf.com
+::1 www.deckeldrauf.com
 ::1 deckfenogari.gq
 ::1 www.deckfenogari.gq
 ::1 deckkrematdimanland.cf
@@ -205100,6 +205120,8 @@
 ::1 www.dekagarpufnza.tk
 ::1 dekani.si
 ::1 www.dekani.si
+::1 dekantier.de
+::1 www.dekantier.de
 ::1 dekapivova.tk
 ::1 www.dekapivova.tk
 ::1 dekaralgisives.cf
@@ -209488,6 +209510,8 @@
 ::1 www.deutothoughra.ml
 ::1 deutsch-brennholz.de
 ::1 www.deutsch-brennholz.de
+::1 deutschapotheke.com
+::1 www.deutschapotheke.com
 ::1 deutschdeal.com
 ::1 www.deutschdeal.com
 ::1 deutsche-armut.de
@@ -214092,6 +214116,8 @@
 ::1 www.digitalwalkingmaps.eu
 ::1 digitalwavesway.com
 ::1 www.digitalwavesway.com
+::1 digitalwertezentrum.de
+::1 www.digitalwertezentrum.de
 ::1 digitalyuans.xyz
 ::1 www.digitalyuans.xyz
 ::1 digitax-solutions.de
@@ -274262,6 +274288,8 @@
 ::1 www.flimgeoresub.tk
 ::1 flimitcheytheli.gq
 ::1 www.flimitcheytheli.gq
+::1 flimmenpapst.com
+::1 www.flimmenpapst.com
 ::1 flimsypark.com
 ::1 www.flimsypark.com
 ::1 flimulexal.gq
@@ -282332,6 +282360,8 @@
 ::1 www.fredwestfohoment.ga
 ::1 free-adult-videos.xyz
 ::1 www.free-adult-videos.xyz
+::1 free-assistance.fr
+::1 www.free-assistance.fr
 ::1 free-bang-blog.agency
 ::1 www.free-bang-blog.agency
 ::1 free-best-cum.xyz
@@ -297532,8 +297562,6 @@
 ::1 www.get-thebest-prizes.info
 ::1 get-things-done.cc
 ::1 www.get-things-done.cc
-::1 get-wuffy.com
-::1 www.get-wuffy.com
 ::1 get-yer-rocks-off.nl
 ::1 www.get-yer-rocks-off.nl
 ::1 get-your-best-prize.info
@@ -332220,6 +332248,8 @@
 ::1 www.hex7m6.cyou
 ::1 hexa-tronic.com
 ::1 www.hexa-tronic.com
+::1 hexadistri.com
+::1 www.hexadistri.com
 ::1 hexagonal-wide-prose.glitch.me
 ::1 www.hexagonal-wide-prose.glitch.me
 ::1 hexagonresources.org
@@ -338338,6 +338368,8 @@
 ::1 www.hophelltohella.ml
 ::1 hopigsuntlecve.tk
 ::1 www.hopigsuntlecve.tk
+::1 hopital-ensisheim.fr
+::1 www.hopital-ensisheim.fr
 ::1 hopital-nord-alsace.fr
 ::1 www.hopital-nord-alsace.fr
 ::1 hopital-veterinaire.ca
@@ -339512,6 +339544,8 @@
 ::1 www.hotels-collections.fr
 ::1 hotels-colombo.com
 ::1 www.hotels-colombo.com
+::1 hotels-colorado.net
+::1 www.hotels-colorado.net
 ::1 hotelsandiego.xyz
 ::1 www.hotelsandiego.xyz
 ::1 hotelsandkaas.dk
@@ -371884,6 +371918,8 @@
 ::1 www.jack-casino.fr
 ::1 jack-the-ripper.net
 ::1 www.jack-the-ripper.net
+::1 jack-wolfskinfrance.fr
+::1 www.jack-wolfskinfrance.fr
 ::1 jack21casino.fr
 ::1 www.jack21casino.fr
 ::1 jack7e.xyz
@@ -413188,6 +413224,8 @@
 ::1 www.lenirosab.tk
 ::1 lenisrobutasof.gq
 ::1 www.lenisrobutasof.gq
+::1 lenkerclip.com
+::1 www.lenkerclip.com
 ::1 lenlaconlimosun.tk
 ::1 www.lenlaconlimosun.tk
 ::1 lenlauvanantonan.ml
@@ -438504,10 +438542,14 @@
 ::1 www.mafia-en-ligne.fr
 ::1 mafia-enligne.fr
 ::1 www.mafia-enligne.fr
+::1 mafia-online-play.fr
+::1 www.mafia-online-play.fr
 ::1 mafia-online.fr
 ::1 www.mafia-online.fr
 ::1 mafia-play.fr
 ::1 www.mafia-play.fr
+::1 mafia2-online.fr
+::1 www.mafia2-online.fr
 ::1 mafiacasino-fr.fr
 ::1 www.mafiacasino-fr.fr
 ::1 mafiacasino-france.fr
@@ -442710,6 +442752,8 @@
 ::1 www.maratenroper.ga
 ::1 maratevater.cf
 ::1 www.maratevater.cf
+::1 marathonasset.com
+::1 www.marathonasset.com
 ::1 marathondulacduder.fr
 ::1 www.marathondulacduder.fr
 ::1 marathonpleadparachute.com
@@ -484464,6 +484508,8 @@
 ::1 www.neubingnosyntlo.ga
 ::1 neubjorentic.cf
 ::1 www.neubjorentic.cf
+::1 neublasinstrumente.com
+::1 www.neublasinstrumente.com
 ::1 neublinloketen.cf
 ::1 www.neublinloketen.cf
 ::1 neubloodovhearterc.cf
@@ -495660,6 +495706,8 @@
 ::1 www.notifbonus.fr
 ::1 notifcationmail.fr
 ::1 www.notifcationmail.fr
+::1 notife-ar24.fr
+::1 www.notife-ar24.fr
 ::1 notification-achat.fr
 ::1 www.notification-achat.fr
 ::1 notification-ameli.fr
@@ -517054,6 +517102,8 @@
 ::1 www.oubuey.shop
 ::1 oubxqt.shop
 ::1 www.oubxqt.shop
+::1 ouces.heuristicreview.company
+::1 www.ouces.heuristicreview.company
 ::1 ouctdch.cyou
 ::1 www.ouctdch.cyou
 ::1 oud.sint-janscollege.be
@@ -520754,8 +520804,8 @@
 ::1 www.p-cybertek.fr
 ::1 p-d-n.ru
 ::1 www.p-d-n.ru
-::1 p-ep.com
-::1 www.p-ep.com
+::1 p-ep.org
+::1 www.p-ep.org
 ::1 p-group.jp
 ::1 www.p-group.jp
 ::1 p-particuliers.fr
@@ -531738,6 +531788,8 @@
 ::1 www.pellet-ecos.company.site
 ::1 pellet-haus.com
 ::1 www.pellet-haus.com
+::1 pellet-werk.com
+::1 www.pellet-werk.com
 ::1 pelletkraft.de
 ::1 www.pelletkraft.de
 ::1 pelletopia.de
@@ -580706,6 +580758,8 @@
 ::1 www.rasberrypi.org
 ::1 rascanigis.tk
 ::1 www.rascanigis.tk
+::1 rascassesas.com
+::1 www.rascassesas.com
 ::1 rascatunjaifa.gq
 ::1 www.rascatunjaifa.gq
 ::1 raschika.info
@@ -590426,6 +590480,8 @@
 ::1 www.replicakaufen.de
 ::1 replicareview.io
 ::1 www.replicareview.io
+::1 replicasrelojes.to
+::1 www.replicasrelojes.to
 ::1 replicaswatches.vip
 ::1 www.replicaswatches.vip
 ::1 replicate.ai
@@ -590456,6 +590512,8 @@
 ::1 www.replifamolab.gq
 ::1 replika-uhr.to
 ::1 www.replika-uhr.to
+::1 replikuhrenshop.de
+::1 www.replikuhrenshop.de
 ::1 repliqueburberry.fr
 ::1 www.repliqueburberry.fr
 ::1 repliquecartier.fr
@@ -602338,8 +602396,6 @@
 ::1 www.rolesthingbusinesss.biz
 ::1 rolex-replica.to
 ::1 www.rolex-replica.to
-::1 rolexwanduhr.de
-::1 www.rolexwanduhr.de
 ::1 rolexyeals.com
 ::1 www.rolexyeals.com
 ::1 rolezamtibo.ga
@@ -627504,8 +627560,6 @@
 ::1 www.sexhubmovs.com
 ::1 sexhunt.xyz
 ::1 www.sexhunt.xyz
-::1 sexicats.com
-::1 www.sexicats.com
 ::1 sexigo.eu
 ::1 www.sexigo.eu
 ::1 sexinthekitchen.eu
@@ -684016,6 +684070,8 @@
 ::1 www.the-bitcoin-bank.com
 ::1 the-car-glass.fr
 ::1 www.the-car-glass.fr
+::1 the-culinology.com
+::1 www.the-culinology.com
 ::1 the-cuties.com
 ::1 www.the-cuties.com
 ::1 the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
@@ -708458,6 +708514,8 @@
 ::1 www.trustuu.com
 ::1 trustworthyexisting.com
 ::1 www.trustworthyexisting.com
+::1 trusty-eu.com
+::1 www.trusty-eu.com
 ::1 trusty-faultless.nl
 ::1 www.trusty-faultless.nl
 ::1 trustydealmarket.com
@@ -736320,6 +736378,8 @@
 ::1 www.vendofabmo.ml
 ::1 vendokz.xyz
 ::1 www.vendokz.xyz
+::1 vendome-logistique.com
+::1 www.vendome-logistique.com
 ::1 vendomeprestige.com
 ::1 www.vendomeprestige.com
 ::1 vendomesaro.tk
@@ -749596,6 +749656,8 @@
 ::1 www.vivaia-schuhe.de
 ::1 vivaiaboutiques.fr
 ::1 www.vivaiaboutiques.fr
+::1 vivaiacollection.com
+::1 www.vivaiacollection.com
 ::1 vivaiaparis.fr
 ::1 www.vivaiaparis.fr
 ::1 vivaiaschaussures.fr
@@ -753000,6 +753062,8 @@
 ::1 www.vpu-vorbereitung.online
 ::1 vpucenter.dk
 ::1 www.vpucenter.dk
+::1 vpudoktor.com
+::1 www.vpudoktor.com
 ::1 vpufuchs.com
 ::1 www.vpufuchs.com
 ::1 vpumad.bar
@@ -764166,6 +764230,8 @@
 ::1 www.wenmefuthernordbots.ga
 ::1 wenmorusscertilyg.tk
 ::1 www.wenmorusscertilyg.tk
+::1 wenndennpelletsgmbh.de
+::1 www.wenndennpelletsgmbh.de
 ::1 wennelun.gq
 ::1 www.wennelun.gq
 ::1 wenreabutgolfsuclind.tk
@@ -786328,6 +786394,8 @@
 ::1 www.xn--leboncoin-paiement-securis-direct-purchase-fr-07d.fr
 ::1 xn--leboncoinfranais-opb.fr
 ::1 www.xn--leboncoinfranais-opb.fr
+::1 xn--leboncoinscuris-knbf.fr
+::1 www.xn--leboncoinscuris-knbf.fr
 ::1 xn--leboncon-i2a.fr
 ::1 www.xn--leboncon-i2a.fr
 ::1 xn--lecanardenchain-pnb.fr
