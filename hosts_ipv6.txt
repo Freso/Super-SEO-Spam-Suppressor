@@ -72650,6 +72650,8 @@
 ::1 www.airupespana.com
 ::1 airupfr.fr
 ::1 www.airupfr.fr
+::1 airupfrance-fr.fr
+::1 www.airupfrance-fr.fr
 ::1 airupfrance.fr
 ::1 www.airupfrance.fr
 ::1 airupgreece.net
@@ -101608,8 +101610,12 @@
 ::1 www.azuq5w.tokyo
 ::1 azur-casino.fr
 ::1 www.azur-casino.fr
+::1 azur-casino2.fr
+::1 www.azur-casino2.fr
 ::1 azur-casinofr.fr
 ::1 www.azur-casinofr.fr
+::1 azur-casinos.fr
+::1 www.azur-casinos.fr
 ::1 azurapoolcare.com
 ::1 www.azurapoolcare.com
 ::1 azurcasino-france.fr
@@ -115586,6 +115592,8 @@
 ::1 www.betlike.fr
 ::1 betlironanakal.ga
 ::1 www.betlironanakal.ga
+::1 betlive-casinos.fr
+::1 www.betlive-casinos.fr
 ::1 betlive-france.fr
 ::1 www.betlive-france.fr
 ::1 betlive-official.fr
@@ -115882,6 +115890,8 @@
 ::1 www.betriviera-casino.fr
 ::1 betriviera-casinos.fr
 ::1 www.betriviera-casinos.fr
+::1 betriviera-france.fr
+::1 www.betriviera-france.fr
 ::1 betrivieracasino.fr
 ::1 www.betrivieracasino.fr
 ::1 betrivieracasinos.fr
@@ -148910,6 +148920,8 @@
 ::1 www.casino333-fr.fr
 ::1 casino4u.fr
 ::1 www.casino4u.fr
+::1 casino770-casino.fr
+::1 www.casino770-casino.fr
 ::1 casino770-france.fr
 ::1 www.casino770-france.fr
 ::1 casino770com.fr
@@ -149312,6 +149324,8 @@
 ::1 www.casinolab-en-ligne.fr
 ::1 casinolab-enligne.fr
 ::1 www.casinolab-enligne.fr
+::1 casinolab-france.fr
+::1 www.casinolab-france.fr
 ::1 casinolab-officiel.fr
 ::1 www.casinolab-officiel.fr
 ::1 casinolab1.fr
@@ -150434,6 +150448,8 @@
 ::1 www.casubphaheasenar.tk
 ::1 casudmed.fr
 ::1 www.casudmed.fr
+::1 casumo-casinos.fr
+::1 www.casumo-casinos.fr
 ::1 casumo-fr.fr
 ::1 www.casumo-fr.fr
 ::1 casumocasino.fr
@@ -174256,6 +174272,8 @@
 ::1 www.codengineering.ru
 ::1 codenong.com
 ::1 www.codenong.com
+::1 codepcs.fr
+::1 www.codepcs.fr
 ::1 coder-solution-jp.com
 ::1 www.coder-solution-jp.com
 ::1 coder-solution-ru.com
@@ -175084,6 +175102,8 @@
 ::1 www.colas-digital-solutions.fr
 ::1 colas-france-construction.fr
 ::1 www.colas-france-construction.fr
+::1 colas-france-construtions.fr
+::1 www.colas-france-construtions.fr
 ::1 colasgroup.fr
 ::1 www.colasgroup.fr
 ::1 colaslistmanismi.ga
@@ -184870,6 +184890,8 @@
 ::1 www.cosmo96decreas.kim
 ::1 cosmobet-casino.fr
 ::1 www.cosmobet-casino.fr
+::1 cosmobet-casinos.fr
+::1 www.cosmobet-casinos.fr
 ::1 cosmographix.it
 ::1 www.cosmographix.it
 ::1 cosmolovonisar.ml
@@ -189120,6 +189142,8 @@
 ::1 www.cresuscasino-win.fr
 ::1 cresuscasino1.fr
 ::1 www.cresuscasino1.fr
+::1 cresuscasino2.fr
+::1 www.cresuscasino2.fr
 ::1 cresuscasino366.fr
 ::1 www.cresuscasino366.fr
 ::1 cresuscasinofr.fr
@@ -191518,6 +191542,8 @@
 ::1 www.csescentpillbiti.ml
 ::1 csf-carrefour-france.fr
 ::1 www.csf-carrefour-france.fr
+::1 csf-loireatlantique.fr
+::1 www.csf-loireatlantique.fr
 ::1 csf21.pl
 ::1 www.csf21.pl
 ::1 csfczfg.tokyo
@@ -280578,6 +280604,8 @@
 ::1 www.fr-nine.fr
 ::1 fr-ninecasino.fr
 ::1 www.fr-ninecasino.fr
+::1 fr-ninecasinos.fr
+::1 www.fr-ninecasinos.fr
 ::1 fr-nisshamedicaltechnologiessas.fr
 ::1 www.fr-nisshamedicaltechnologiessas.fr
 ::1 fr-nomini.fr
@@ -305276,6 +305304,8 @@
 ::1 www.godxwr.rest
 ::1 godz-app.fr
 ::1 www.godz-app.fr
+::1 godz-casino-fr.fr
+::1 www.godz-casino-fr.fr
 ::1 godzcasino-fr.fr
 ::1 www.godzcasino-fr.fr
 ::1 godzcasino1.fr
@@ -358014,6 +358044,8 @@
 ::1 www.info-compte-help.fr
 ::1 info-compte-netfiix.fr
 ::1 www.info-compte-netfiix.fr
+::1 info-compte-netflix.fr
+::1 www.info-compte-netflix.fr
 ::1 info-compte-vitale.fr
 ::1 www.info-compte-vitale.fr
 ::1 info-compte.fr
@@ -362048,6 +362080,8 @@
 ::1 www.instantcas1no.fr
 ::1 instantcasina.fr
 ::1 www.instantcasina.fr
+::1 instantcasino-com.fr
+::1 www.instantcasino-com.fr
 ::1 instantcasino-enligne.fr
 ::1 www.instantcasino-enligne.fr
 ::1 instantcasino-fr.fr
@@ -362062,6 +362096,8 @@
 ::1 www.instantcasino-online.fr
 ::1 instantcasino1.fr
 ::1 www.instantcasino1.fr
+::1 instantcasino2.fr
+::1 www.instantcasino2.fr
 ::1 instantcasinoconexion.fr
 ::1 www.instantcasinoconexion.fr
 ::1 instantcasinoconnexion.fr
@@ -379146,6 +379182,8 @@
 ::1 www.joker-casino.fr
 ::1 joker-streaming-altadefinizione.site
 ::1 www.joker-streaming-altadefinizione.site
+::1 joker8-casinos.fr
+::1 www.joker8-casinos.fr
 ::1 joker8-enligne.fr
 ::1 www.joker8-enligne.fr
 ::1 joker8-fr.fr
@@ -421810,6 +421848,10 @@
 ::1 www.lipofireta.ml
 ::1 lipoguarvehealth.tk
 ::1 www.lipoguarvehealth.tk
+::1 lipojaroacheter.fr
+::1 www.lipojaroacheter.fr
+::1 lipojarofrance.fr
+::1 www.lipojarofrance.fr
 ::1 lipothermefi.tk
 ::1 www.lipothermefi.tk
 ::1 lipozhonglandbecon.tk
@@ -438058,6 +438100,8 @@
 ::1 www.madcasinno.fr
 ::1 madcasino-777.fr
 ::1 www.madcasino-777.fr
+::1 madcasino-com.fr
+::1 www.madcasino-com.fr
 ::1 madcasino-enligne.fr
 ::1 www.madcasino-enligne.fr
 ::1 madcasino-fr.fr
@@ -461970,6 +462014,8 @@
 ::1 www.mon-espace-generale.fr
 ::1 mon-espace-impots.fr
 ::1 www.mon-espace-impots.fr
+::1 mon-espace-mondial.fr
+::1 www.mon-espace-mondial.fr
 ::1 mon-espace-nickel.fr
 ::1 www.mon-espace-nickel.fr
 ::1 mon-espace-orange.fr
@@ -463466,6 +463512,8 @@
 ::1 www.monespacelivraison.fr
 ::1 monespacementgenerale.fr
 ::1 www.monespacementgenerale.fr
+::1 monespacemondial.fr
+::1 www.monespacemondial.fr
 ::1 monespacenetflix.fr
 ::1 www.monespacenetflix.fr
 ::1 monespaceorange.fr
@@ -472652,6 +472700,8 @@
 ::1 www.myemertillhurlsimp.tk
 ::1 myemonotadesc.ga
 ::1 www.myemonotadesc.ga
+::1 myempire-casinos.fr
+::1 www.myempire-casinos.fr
 ::1 myempire-fr.fr
 ::1 www.myempire-fr.fr
 ::1 myempirecasino1.fr
@@ -490214,6 +490264,8 @@
 ::1 www.ninecasinoofr.fr
 ::1 ninecasinopromo.fr
 ::1 www.ninecasinopromo.fr
+::1 ninecasinos-com.fr
+::1 www.ninecasinos-com.fr
 ::1 ninecasinos-fr.fr
 ::1 www.ninecasinos-fr.fr
 ::1 ninecasinos1.fr
@@ -602412,10 +602464,14 @@
 ::1 www.rolletocasino.fr
 ::1 rolletto-casino.fr
 ::1 www.rolletto-casino.fr
+::1 rolletto-casinos.fr
+::1 www.rolletto-casinos.fr
 ::1 rolletto-fr.fr
 ::1 www.rolletto-fr.fr
 ::1 rolletto.fr
 ::1 www.rolletto.fr
+::1 rolletto777.fr
+::1 www.rolletto777.fr
 ::1 rollettocasino-france.fr
 ::1 www.rollettocasino-france.fr
 ::1 rollettocasino.fr
@@ -633190,6 +633246,8 @@
 ::1 www.simsinos-france.fr
 ::1 simsinos-french.fr
 ::1 www.simsinos-french.fr
+::1 simsinos-online.fr
+::1 www.simsinos-online.fr
 ::1 simsinos1.fr
 ::1 www.simsinos1.fr
 ::1 simsinos2.fr
@@ -633216,6 +633274,8 @@
 ::1 www.simsinosofficiel.fr
 ::1 simsinosonline.fr
 ::1 www.simsinosonline.fr
+::1 simsinoss-france.fr
+::1 www.simsinoss-france.fr
 ::1 simsresource.ru
 ::1 www.simsresource.ru
 ::1 simssinos.fr
@@ -637050,6 +637110,8 @@
 ::1 www.skyhawk.xyz
 ::1 skyhills-casino.fr
 ::1 www.skyhills-casino.fr
+::1 skyhills-casinos.fr
+::1 www.skyhills-casinos.fr
 ::1 skyhomes.dk
 ::1 www.skyhomes.dk
 ::1 skyie.com
@@ -638170,6 +638232,8 @@
 ::1 www.slotitonraeding.cf
 ::1 slotlair-casino.fr
 ::1 www.slotlair-casino.fr
+::1 slotlair-casinos.fr
+::1 www.slotlair-casinos.fr
 ::1 slotlair-fr.fr
 ::1 www.slotlair-fr.fr
 ::1 slotlair.fr
@@ -648094,6 +648158,8 @@
 ::1 www.spinfiin.fr
 ::1 spinfin-casino.fr
 ::1 www.spinfin-casino.fr
+::1 spinfin-casinos.fr
+::1 www.spinfin-casinos.fr
 ::1 spinfin-enligne.fr
 ::1 www.spinfin-enligne.fr
 ::1 spinfin-fr.fr
@@ -648218,6 +648284,8 @@
 ::1 www.spinmacho2.fr
 ::1 spinmadness-fr.fr
 ::1 www.spinmadness-fr.fr
+::1 spinmadness.fr
+::1 www.spinmadness.fr
 ::1 spinmama-1.fr
 ::1 www.spinmama-1.fr
 ::1 spinmama-app.fr
@@ -660954,6 +661022,8 @@
 ::1 www.sulsodadis.ml
 ::1 sulsytersratober.cf
 ::1 www.sulsytersratober.cf
+::1 sultan-casino.fr
+::1 www.sultan-casino.fr
 ::1 sultanajjosand.cf
 ::1 www.sultanajjosand.cf
 ::1 sultanlegend.my.id
@@ -725910,6 +725980,8 @@
 ::1 www.urssaf-aquitaine.fr
 ::1 urssaf-cesu.fr
 ::1 www.urssaf-cesu.fr
+::1 urssaf-doeth.fr
+::1 www.urssaf-doeth.fr
 ::1 urssaf-france.fr
 ::1 www.urssaf-france.fr
 ::1 urssaf-gestion-idf.fr
@@ -736026,6 +736098,8 @@
 ::1 www.velolobby.eu
 ::1 velomandryvo.xyz
 ::1 www.velomandryvo.xyz
+::1 velora-officiel.fr
+::1 www.velora-officiel.fr
 ::1 veloracasino.fr
 ::1 www.veloracasino.fr
 ::1 velorawellnessshop.com
@@ -748496,6 +748570,8 @@
 ::1 www.viplocaldate2.com
 ::1 vipluck-casino-fr.fr
 ::1 www.vipluck-casino-fr.fr
+::1 vipluck-casinos.fr
+::1 www.vipluck-casinos.fr
 ::1 vipluck-fr1.fr
 ::1 www.vipluck-fr1.fr
 ::1 vipluckcasino-fr.fr
@@ -754222,12 +754298,16 @@
 ::1 www.vulkan-vegase.fr
 ::1 vulkan-vegass.fr
 ::1 www.vulkan-vegass.fr
+::1 vulkan.tf
+::1 www.vulkan.tf
 ::1 vulkanbetting.biz
 ::1 www.vulkanbetting.biz
 ::1 vulkanvegas-fr.fr
 ::1 www.vulkanvegas-fr.fr
 ::1 vulkanvegas.casino
 ::1 www.vulkanvegas.casino
+::1 vulkanvegas.tf
+::1 www.vulkanvegas.tf
 ::1 vulkanvegasfr.fr
 ::1 www.vulkanvegasfr.fr
 ::1 vulkanvegasfrance.fr
@@ -760638,6 +760718,8 @@
 ::1 www.wazamba-officiel.fr
 ::1 wazamba-wazamba.fr
 ::1 www.wazamba-wazamba.fr
+::1 wazamba.tf
+::1 www.wazamba.tf
 ::1 wazambacasino-fr.fr
 ::1 www.wazambacasino-fr.fr
 ::1 wazambacasinoapp.fr
@@ -767268,6 +767350,10 @@
 ::1 www.wilchnespiacouback.tk
 ::1 wilcobbsucyl.gq
 ::1 www.wilcobbsucyl.gq
+::1 wild-casino.fr
+::1 www.wild-casino.fr
+::1 wild-casinos.fr
+::1 www.wild-casinos.fr
 ::1 wild-dice-casino.fr
 ::1 www.wild-dice-casino.fr
 ::1 wild-dice-casinoofficiel.fr
@@ -767530,6 +767616,8 @@
 ::1 www.wildschlaf.com
 ::1 wildsino-casino.fr
 ::1 www.wildsino-casino.fr
+::1 wildsino-casinos.fr
+::1 www.wildsino-casinos.fr
 ::1 wildsino-en-ligne.fr
 ::1 www.wildsino-en-ligne.fr
 ::1 wildsino-enligne.fr
@@ -767626,6 +767714,8 @@
 ::1 www.wildzycasino.fr
 ::1 wildzyfr.fr
 ::1 www.wildzyfr.fr
+::1 wildzyofficiel.fr
+::1 www.wildzyofficiel.fr
 ::1 wilegl.bar
 ::1 www.wilegl.bar
 ::1 wilfcariropchaucon.tk
@@ -769478,6 +769568,8 @@
 ::1 www.winnamax.fr
 ::1 winnaogriplak.cf
 ::1 www.winnaogriplak.cf
+::1 winner-casinos.fr
+::1 www.winner-casinos.fr
 ::1 winner-fr.fr
 ::1 www.winner-fr.fr
 ::1 winner-yourprise-supergut.life
@@ -769602,6 +769694,8 @@
 ::1 www.winningscasino.fr
 ::1 winningtogether.fr
 ::1 www.winningtogether.fr
+::1 winningz-casinos.fr
+::1 www.winningz-casinos.fr
 ::1 winningz-france.fr
 ::1 www.winningz-france.fr
 ::1 winningz-officiel.fr
@@ -769624,6 +769718,8 @@
 ::1 www.winnlesdepetu.tk
 ::1 winnomonbutt.tk
 ::1 www.winnomonbutt.tk
+::1 winnplace.fr
+::1 www.winnplace.fr
 ::1 winns.fr
 ::1 www.winns.fr
 ::1 winntendstatenton.ga
@@ -769654,6 +769750,8 @@
 ::1 www.winonaryder.xyz
 ::1 winoracasino.fr
 ::1 www.winoracasino.fr
+::1 winorama-casinos.fr
+::1 www.winorama-casinos.fr
 ::1 winorama-fr.fr
 ::1 www.winorama-fr.fr
 ::1 winorama-official.fr
@@ -769722,6 +769820,8 @@
 ::1 www.winouifr.fr
 ::1 winouionline.fr
 ::1 www.winouionline.fr
+::1 winouis.fr
+::1 www.winouis.fr
 ::1 winouiw.fr
 ::1 www.winouiw.fr
 ::1 winouiwin.fr
@@ -770030,6 +770130,8 @@
 ::1 www.winwemogca.tk
 ::1 winwhaderide.gq
 ::1 www.winwhaderide.gq
+::1 winwin-casinos.fr
+::1 www.winwin-casinos.fr
 ::1 winwinagreements.com
 ::1 www.winwinagreements.com
 ::1 winwinbet.fr
@@ -770332,6 +770434,8 @@
 ::1 www.wishwin-enligne.fr
 ::1 wishwin-fr.fr
 ::1 www.wishwin-fr.fr
+::1 wishwin-wishwin.fr
+::1 www.wishwin-wishwin.fr
 ::1 wishwin1.fr
 ::1 www.wishwin1.fr
 ::1 wishyourselflates.rest
