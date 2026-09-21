@@ -114362,6 +114362,8 @@
 ::1 www.bestpharm-eu.com
 ::1 bestpillpharmacy.com
 ::1 www.bestpillpharmacy.com
+::1 bestpillsnetwork.com
+::1 www.bestpillsnetwork.com
 ::1 bestpods.fr
 ::1 www.bestpods.fr
 ::1 bestpometlupe.cf
@@ -116630,8 +116632,6 @@
 ::1 www.bforbinary.com
 ::1 bforebank.fr
 ::1 www.bforebank.fr
-::1 bforex.com
-::1 www.bforex.com
 ::1 bforgb.tokyo
 ::1 www.bforgb.tokyo
 ::1 bfouoq.rest
@@ -121482,6 +121482,8 @@
 ::1 www.bitcoin-revolution.org
 ::1 bitcoin-shop.ro
 ::1 www.bitcoin-shop.ro
+::1 bitcoin-up.io
+::1 www.bitcoin-up.io
 ::1 bitcoin-xact.fr
 ::1 www.bitcoin-xact.fr
 ::1 bitcoinarchon.com
@@ -203554,6 +203556,8 @@
 ::1 www.deboomerang.eu
 ::1 deboperhillde.gq
 ::1 www.deboperhillde.gq
+::1 debot-maschinen.de
+::1 www.debot-maschinen.de
 ::1 debovoten.gq
 ::1 www.debovoten.gq
 ::1 debremisicounpost.gq
@@ -254906,6 +254910,8 @@
 ::1 www.eumatip.co
 ::1 eumeds24.com
 ::1 www.eumeds24.com
+::1 eumedz.com
+::1 www.eumedz.com
 ::1 eumund.xyz
 ::1 www.eumund.xyz
 ::1 eumypo.tokyo
@@ -261472,6 +261478,8 @@
 ::1 www.fabdxj.rest
 ::1 fabdytasercent.tk
 ::1 www.fabdytasercent.tk
+::1 fabecodis.com
+::1 www.fabecodis.com
 ::1 fabelbo.dk
 ::1 www.fabelbo.dk
 ::1 faberipotpost.gq
@@ -339524,6 +339532,8 @@
 ::1 www.hotelheavyforget.xyz
 ::1 hotelimaginewheres.rest
 ::1 www.hotelimaginewheres.rest
+::1 hotelinphuket.net
+::1 www.hotelinphuket.net
 ::1 hotelissimo.fr
 ::1 www.hotelissimo.fr
 ::1 hotelitfromshome.rest
@@ -432790,8 +432800,6 @@
 ::1 www.lumenor.ai
 ::1 lumenrosa.de
 ::1 www.lumenrosa.de
-::1 lumentes.com
-::1 www.lumentes.com
 ::1 lumepotikogaw.tk
 ::1 www.lumepotikogaw.tk
 ::1 lumerabeautyclub.com
@@ -452822,8 +452830,6 @@
 ::1 www.mg7lzf.tokyo
 ::1 mg7ofa.tokyo
 ::1 www.mg7ofa.tokyo
-::1 mgaffaires.com
-::1 www.mgaffaires.com
 ::1 mgaibt.cyou
 ::1 www.mgaibt.cyou
 ::1 mgaj0fy.tokyo
@@ -465142,6 +465148,8 @@
 ::1 www.mooredvazwe.myshopify.com
 ::1 mooremanor.xyz
 ::1 www.mooremanor.xyz
+::1 mooris.de
+::1 www.mooris.de
 ::1 moornacimostdoho.tk
 ::1 www.moornacimostdoho.tk
 ::1 moorugly.com
@@ -514178,8 +514186,6 @@
 ::1 www.ordergunmagazinesonline.com
 ::1 orderonceareanight.biz
 ::1 www.orderonceareanight.biz
-::1 orderrxstore.com
-::1 www.orderrxstore.com
 ::1 orders-prime.fr
 ::1 www.orders-prime.fr
 ::1 orderspointsheworks.biz
@@ -602396,8 +602402,6 @@
 ::1 www.rolesthingbusinesss.biz
 ::1 rolex-replica.to
 ::1 www.rolex-replica.to
-::1 rolexwanduhr.de
-::1 www.rolexwanduhr.de
 ::1 rolexyeals.com
 ::1 www.rolexyeals.com
 ::1 rolezamtibo.ga
@@ -618144,6 +618148,8 @@
 ::1 www.schmidt-wundberatung.de
 ::1 schmidtiefbaugmbh.de
 ::1 www.schmidtiefbaugmbh.de
+::1 schmidtmaschine.de
+::1 www.schmidtmaschine.de
 ::1 schmidtmode.de
 ::1 www.schmidtmode.de
 ::1 schmidts-handel.de
@@ -627562,6 +627568,8 @@
 ::1 www.sexhubmovs.com
 ::1 sexhunt.xyz
 ::1 www.sexhunt.xyz
+::1 sexicats.com
+::1 www.sexicats.com
 ::1 sexigo.eu
 ::1 www.sexigo.eu
 ::1 sexinthekitchen.eu
@@ -749660,8 +749668,6 @@
 ::1 www.vivaia-schuhe.de
 ::1 vivaiaboutiques.fr
 ::1 www.vivaiaboutiques.fr
-::1 vivaiacollection.com
-::1 www.vivaiacollection.com
 ::1 vivaiaparis.fr
 ::1 www.vivaiaparis.fr
 ::1 vivaiaschaussures.fr

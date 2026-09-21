@@ -57184,6 +57184,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bestpertconlenxmer.ml/*
 *://*.bestpharm-eu.com/*
 *://*.bestpillpharmacy.com/*
+*://*.bestpillsnetwork.com/*
 *://*.bestpods.fr/*
 *://*.bestpometlupe.cf/*
 *://*.bestprepaidcards.xyz/*
@@ -58318,7 +58319,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bfoggq.tokyo/*
 *://*.bforbinary.com/*
 *://*.bforebank.fr/*
-*://*.bforex.com/*
 *://*.bforgb.tokyo/*
 *://*.bfouoq.rest/*
 *://*.bfoywn.tokyo/*
@@ -60744,6 +60744,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bitcoin-pharmacy.com/*
 *://*.bitcoin-revolution.org/*
 *://*.bitcoin-shop.ro/*
+*://*.bitcoin-up.io/*
 *://*.bitcoin-xact.fr/*
 *://*.bitcoinarchon.com/*
 *://*.bitcoinblackfriday.com/*
@@ -101780,6 +101781,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.debofromolo.ml/*
 *://*.deboomerang.eu/*
 *://*.deboperhillde.gq/*
+*://*.debot-maschinen.de/*
 *://*.debovoten.gq/*
 *://*.debremisicounpost.gq/*
 *://*.debroussailleuse.eu/*
@@ -127456,6 +127458,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.eumasia.com/*
 *://*.eumatip.co/*
 *://*.eumeds24.com/*
+*://*.eumedz.com/*
 *://*.eumund.xyz/*
 *://*.eumypo.tokyo/*
 *://*.eun3ey.cyou/*
@@ -130739,6 +130742,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fabdream.art/*
 *://*.fabdxj.rest/*
 *://*.fabdytasercent.tk/*
+*://*.fabecodis.com/*
 *://*.fabelbo.dk/*
 *://*.faberipotpost.gq/*
 *://*.fabestiovirew.gq/*
@@ -169765,6 +169769,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hotelgallimberti.it/*
 *://*.hotelheavyforget.xyz/*
 *://*.hotelimaginewheres.rest/*
+*://*.hotelinphuket.net/*
 *://*.hotelissimo.fr/*
 *://*.hotelitfromshome.rest/*
 *://*.hoteljacobgade.dk/*
@@ -216398,7 +216403,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lumenor.ai/*
 *://*.lumenor.ai/*
 *://*.lumenrosa.de/*
-*://*.lumentes.com/*
 *://*.lumepotikogaw.tk/*
 *://*.lumerabeautyclub.com/*
 *://*.lumesccyboferlo.cf/*
@@ -226414,7 +226418,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mg6eqap.cyou/*
 *://*.mg7lzf.tokyo/*
 *://*.mg7ofa.tokyo/*
-*://*.mgaffaires.com/*
 *://*.mgaibt.cyou/*
 *://*.mgaj0fy.tokyo/*
 *://*.mgajfk.tokyo/*
@@ -232574,6 +232577,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mooreandpetersen.com/*
 *://*.mooredvazwe.myshopify.com/*
 *://*.mooremanor.xyz/*
+*://*.mooris.de/*
 *://*.moornacimostdoho.tk/*
 *://*.moorugly.com/*
 *://*.moosastgurdtinave.ml/*
@@ -257092,7 +257096,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.orderflowers.xyz/*
 *://*.ordergunmagazinesonline.com/*
 *://*.orderonceareanight.biz/*
-*://*.orderrxstore.com/*
 *://*.orders-prime.fr/*
 *://*.orderspointsheworks.biz/*
 *://*.ordersurfsite.com/*
@@ -301201,7 +301204,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rolesroomstraditionals.bar/*
 *://*.rolesthingbusinesss.biz/*
 *://*.rolex-replica.to/*
-*://*.rolexwanduhr.de/*
 *://*.rolexyeals.com/*
 *://*.rolezamtibo.ga/*
 *://*.rolf24.ee/*
@@ -309075,6 +309077,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.schmidt-ulm-mde.de/*
 *://*.schmidt-wundberatung.de/*
 *://*.schmidtiefbaugmbh.de/*
+*://*.schmidtmaschine.de/*
 *://*.schmidtmode.de/*
 *://*.schmidts-handel.de/*
 *://*.schmidtstil.com/*
@@ -313784,6 +313787,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sexhardcorexxxcams.buzz/*
 *://*.sexhubmovs.com/*
 *://*.sexhunt.xyz/*
+*://*.sexicats.com/*
 *://*.sexigo.eu/*
 *://*.sexinthekitchen.eu/*
 *://*.sexirenpato.tk/*
@@ -374833,7 +374837,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vivahost.host/*
 *://*.vivaia-schuhe.de/*
 *://*.vivaiaboutiques.fr/*
-*://*.vivaiacollection.com/*
 *://*.vivaiaparis.fr/*
 *://*.vivaiaschaussures.fr/*
 *://*.vivaiaschuhe.at/*
