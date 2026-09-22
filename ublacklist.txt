@@ -6940,9 +6940,11 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.1xbetcasino.fr/*
 *://*.1xbetcm.mobi/*
 *://*.1xbetonlinecasino.fr/*
+*://*.1xbit-casino.fr/*
 *://*.1xbit10.com/*
 *://*.1xbit11.com/*
 *://*.1xbit9.com/*
+*://*.1xbitcasino.fr/*
 *://*.1xbtf9.cyou/*
 *://*.1xcambodia.com/*
 *://*.1xcasino-enligne.fr/*
@@ -7680,7 +7682,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.229cq.com/*
 *://*.229vin.com/*
 *://*.22bbbo.cyou/*
+*://*.22bet-casino.fr/*
 *://*.22bet-top.com/*
+*://*.22betcasino.fr/*
 *://*.22bettop.com/*
 *://*.22betvy.com/*
 *://*.22betz.com/*
@@ -11005,6 +11009,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.32qlre.cyou/*
 *://*.32qwr0.cyou/*
 *://*.32r9ek.cyou/*
+*://*.32red-casino.fr/*
+*://*.32redcasino.fr/*
 *://*.32sfq7.tokyo/*
 *://*.32szf4.rest/*
 *://*.32t9rc.cyou/*
@@ -15779,6 +15785,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.5.8.47.3/*
 *://*.50.112.124.170/*
 *://*.50.63.82.50/*
+*://*.500-casino.fr/*
 *://*.500-fr.fr/*
 *://*.5002fs6.tokyo/*
 *://*.50090t8.cyou/*
@@ -20959,8 +20966,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.710map.cyou/*
 *://*.710uubh.tokyo/*
 *://*.710vin.com/*
+*://*.711-casino.fr/*
 *://*.7117125.com/*
 *://*.7118514.com/*
+*://*.711casino1.fr/*
 *://*.711online.fr/*
 *://*.711vin.com/*
 *://*.711web.com/*
@@ -21615,6 +21624,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.76xvpa.cyou/*
 *://*.76ydzd.cyou/*
 *://*.76zuw0.tokyo/*
+*://*.77-casino.fr/*
 *://*.77.220.214.153/*
 *://*.77.91.96.188/*
 *://*.770-casinos.fr/*
@@ -21692,6 +21702,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.77b0r.tokyo/*
 *://*.77bdfp.rest/*
 *://*.77bv1q.tokyo/*
+*://*.77casino.fr/*
 *://*.77cdsj.tokyo/*
 *://*.77cs1f.cyou/*
 *://*.77db24.tokyo/*
@@ -22331,6 +22342,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.7g94y8.cyou/*
 *://*.7g9rs0m.cyou/*
 *://*.7g9zmn.cyou/*
+*://*.7games-casino.fr/*
+*://*.7gamescasino.fr/*
 *://*.7gb2e4.cyou/*
 *://*.7ge48ue.tokyo/*
 *://*.7gearcasino.fr/*
@@ -24803,9 +24816,13 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.888812345.com/*
 *://*.88888hb.com/*
 *://*.888999cs.com/*
+*://*.888casino-fr.fr/*
+*://*.888casino1.fr/*
 *://*.888casinoenligne.fr/*
 *://*.888casinogratuit.fr/*
 *://*.888deposit.site/*
+*://*.888sport-casino.fr/*
+*://*.888sportcasino.fr/*
 *://*.888starz.fr/*
 *://*.888starzcasino.fr/*
 *://*.888vin.com/*
@@ -33629,6 +33646,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.adminsitration-vitale.fr/*
 *://*.adminsys.serveftp.com/*
 *://*.admirablecraft.com/*
+*://*.admiral-casino.fr/*
 *://*.admiral-markets.com/*
 *://*.admiralbusinesswilliam.com/*
 *://*.admiralcasino.fr/*
@@ -34679,6 +34697,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.afreshtamper.com/*
 *://*.afrethnate.ga/*
 *://*.afribaba.ml/*
+*://*.africabet.fr/*
+*://*.africabetcasino.fr/*
 *://*.african-mango-24nl.xyz/*
 *://*.africancasting.fr/*
 *://*.africandreamers.it/*
@@ -36222,6 +36242,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.airdelivery.ro/*
 *://*.airdrance.fr/*
 *://*.aireaha.xyz/*
+*://*.airebus.fr/*
 *://*.airedutemps.fr/*
 *://*.airelfcomtw.xyz/*
 *://*.airessay.xyz/*
@@ -38170,6 +38191,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.aloaxoh.tokyo/*
 *://*.alobadkiacul.ga/*
 *://*.alobatrup.tk/*
+*://*.alobet.fr/*
+*://*.alobetcasino.fr/*
 *://*.alocalfuck.com/*
 *://*.alocastiworl.tk/*
 *://*.alocataire-cafamille.fr/*
@@ -41438,6 +41461,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.androidweblog.com/*
 *://*.androlepsy.best/*
 *://*.androlog-drabarek.pl/*
+*://*.andromedasino-casino.fr/*
+*://*.andromedasinocasino.fr/*
 *://*.androphore3byvp.rest/*
 *://*.androsstudija.eu/*
 *://*.andrros.fr/*
@@ -45128,6 +45153,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.arertiwerstabe.cf/*
 *://*.arerutbetco.tk/*
 *://*.arervurunge.tk/*
+*://*.aresbet.fr/*
+*://*.aresbetcasino.fr/*
 *://*.aresc.de/*
 *://*.aresgalaxy.es/*
 *://*.areshospentbocno.tk/*
@@ -45442,6 +45469,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.arlepata.cf/*
 *://*.arleporsstarle.ml/*
 *://*.arlequin-casino-fr.fr/*
+*://*.arlequincasino-en-ligne.fr/*
+*://*.arlequincasino-enligne.fr/*
 *://*.arlequincasino-fr.fr/*
 *://*.arlequincasino1.fr/*
 *://*.arlequincasinofr.fr/*
@@ -46949,7 +46978,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.aspenlnstitute.org/*
 *://*.aspenvalpsecoun.tk/*
 *://*.aspepligift.tk/*
+*://*.asper-casino.fr/*
 *://*.asper.xyz/*
+*://*.aspercasino.fr/*
 *://*.asperdental.com/*
 *://*.asperfattnibte.ga/*
 *://*.aspergillus.xyz/*
@@ -48717,6 +48748,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.atutix.bar/*
 *://*.atuttoauto.it/*
 *://*.atuvnavachacu.cf/*
+*://*.atv-gartengerate.de/*
 *://*.atv4wk.tokyo/*
 *://*.atvelektro.com/*
 *://*.atvelektro.de/*
@@ -49000,14 +49032,17 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.auqaboulevard.fr/*
 *://*.auqaso.tokyo/*
 *://*.auqlpp.tokyo/*
+*://*.aura-casino.fr/*
 *://*.aura-dokumedia.de/*
 *://*.auraboutique-shop.com/*
+*://*.auracasino.fr/*
 *://*.auraconventmean.com/*
 *://*.auradeals.shop/*
 *://*.aurafior.shop/*
 *://*.aurahous.com/*
 *://*.aurainfusions.com/*
 *://*.auralouf.xyz/*
+*://*.aurapurezza.com/*
 *://*.auraterraplaza.com/*
 *://*.auray-communaute.fr/*
 *://*.aurbiven.xyz/*
@@ -49101,6 +49136,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.australianonlinepharmacy.org/*
 *://*.australien-embassy.de/*
 *://*.australwatches.fr/*
+*://*.austria-alpine-chalets.com/*
 *://*.austria-help.ru/*
 *://*.austria-partner.at/*
 *://*.austria-partner.co.at/*
@@ -50813,6 +50849,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.azur-casinofr.fr/*
 *://*.azur-casinos.fr/*
 *://*.azurapoolcare.com/*
+*://*.azurcasino-en-ligne.fr/*
+*://*.azurcasino-enligne.fr/*
 *://*.azurcasino-france.fr/*
 *://*.azurcasinoconnexion.fr/*
 *://*.azurcasinofr.fr/*
@@ -50877,6 +50915,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.b-palatine.fr/*
 *://*.b-populaire-mediterannee.fr/*
 *://*.b-post-be.fr/*
+*://*.b-win.fr/*
+*://*.b-wincasino.fr/*
 *://*.b-y.by/*
 *://*.b.tc/*
 *://*.b00il2g.cyou/*
@@ -51652,6 +51692,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bacadullycom.tk/*
 *://*.bacagasuwhitse.tk/*
 *://*.bacammisum.tk/*
+*://*.bacanaplay-casino.fr/*
+*://*.bacanaplaycasino.fr/*
 *://*.bacapeemerte.ml/*
 *://*.bacaroveneto.it/*
 *://*.bacasttheminsherz.cf/*
@@ -52535,6 +52577,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.balisnighse.gq/*
 *://*.baliversnoureco.gq/*
 *://*.balkanbet.fr/*
+*://*.balkanbetcasino.fr/*
 *://*.balkangoes.eu/*
 *://*.balkaninvestgroup.ru/*
 *://*.balkbercoibulblaw.tk/*
@@ -53236,6 +53279,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.banzai-online.fr/*
 *://*.banzai-promo.fr/*
 *://*.banzaibonus.fr/*
+*://*.banzaicasino-en-ligne.fr/*
+*://*.banzaicasino-enligne.fr/*
 *://*.banzaicasino-fr.fr/*
 *://*.banzaicasino365.fr/*
 *://*.banzaicasinos.fr/*
@@ -54805,6 +54850,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bdzuka.tokyo/*
 *://*.bdzwl.bar/*
 *://*.be-aetlcnshop.com/*
+*://*.be-casino.fr/*
 *://*.be-excite.eu/*
 *://*.be-myminfinspf.finance/*
 *://*.be-securefin.com/*
@@ -55128,6 +55174,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.becametotalrepeat.com/*
 *://*.becandbridgeparis.fr/*
 *://*.becar.my.id/*
+*://*.becasino.fr/*
 *://*.becausebusiness.bar/*
 *://*.becauseeastmeasure.biz/*
 *://*.becausejeweller.com/*
@@ -55623,7 +55670,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.belggetmarchlastbuddmer.cf/*
 *://*.belgicainvest.ltd/*
 *://*.belgioreguardcursu.tk/*
+*://*.belgium-casino.fr/*
 *://*.belgium38ascendi.band/*
+*://*.belgiumcasino.fr/*
 *://*.belglordispmas.ml/*
 *://*.belgmicumedli.gq/*
 *://*.belgorod-grad.ru/*
@@ -55685,6 +55734,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bellachicha.com/*
 *://*.belladieta.pl/*
 *://*.belladorata.ee/*
+*://*.bellagio-casino.fr/*
+*://*.bellagiocasino.fr/*
 *://*.bellajovialkilometre.com/*
 *://*.bellamoda.es/*
 *://*.bellangfernai.tk/*
@@ -57099,6 +57150,15 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bestialyield.com/*
 *://*.bestillandeat.com/*
 *://*.bestimpersonal.com/*
+*://*.bestin-bordeaux.fr/*
+*://*.bestin-lyon.fr/*
+*://*.bestin-marseille.fr/*
+*://*.bestin-montpellier.fr/*
+*://*.bestin-nantes.fr/*
+*://*.bestin-nice.fr/*
+*://*.bestin-paris.fr/*
+*://*.bestin-strasbourg.fr/*
+*://*.bestin.fr/*
 *://*.bestingrapassdi.tk/*
 *://*.bestinsurancecompanies.buzz/*
 *://*.bestinternetrouters.buzz/*
@@ -57185,7 +57245,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bestpertconlenxmer.ml/*
 *://*.bestpharm-eu.com/*
 *://*.bestpillpharmacy.com/*
-*://*.bestpillsnetwork.com/*
 *://*.bestpods.fr/*
 *://*.bestpometlupe.cf/*
 *://*.bestprepaidcards.xyz/*
@@ -57484,6 +57543,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bet-west.fr/*
 *://*.bet-westcasino.fr/*
 *://*.bet-zinos.fr/*
+*://*.bet24-casino.fr/*
+*://*.bet241.fr/*
 *://*.bet24casino.fr/*
 *://*.bet25-casino.fr/*
 *://*.bet25casino.fr/*
@@ -57491,9 +57552,11 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bet3000-official.fr/*
 *://*.bet303.fr/*
 *://*.bet360casino.fr/*
+*://*.bet365-casino.fr/*
 *://*.bet365-france.fr/*
 *://*.bet365-online.fr/*
 *://*.bet365-ru.fr/*
+*://*.bet365casino.fr/*
 *://*.bet3if.cyou/*
 *://*.bet45.fr/*
 *://*.bet4star.fr/*
@@ -57519,8 +57582,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betandplaycasino.fr/*
 *://*.betanews.fr/*
 *://*.betano-casino.fr/*
+*://*.betano-enligne.fr/*
 *://*.betano-fra.fr/*
 *://*.betano-online.fr/*
+*://*.betano1.fr/*
 *://*.betanocasino.fr/*
 *://*.betanoo.fr/*
 *://*.betaph.work/*
@@ -57552,11 +57617,15 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betboltcasino.fr/*
 *://*.betbona.fr/*
 *://*.betbox.fr/*
+*://*.betbrain.fr/*
+*://*.betbraincasino.fr/*
 *://*.betbrightcasino.fr/*
 *://*.betbuchanighrangai.cf/*
 *://*.betbuyturliolisu.tk/*
 *://*.betcalawture.gq/*
 *://*.betcic.fr/*
+*://*.betcio.fr/*
+*://*.betciocasino.fr/*
 *://*.betcitycasino.fr/*
 *://*.betclc.fr/*
 *://*.betcli.fr/*
@@ -57565,12 +57634,14 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betclic-casino.fr/*
 *://*.betclic-casinos.fr/*
 *://*.betclic-conditions-generales.fr/*
+*://*.betclic-enligne.fr/*
 *://*.betclic-fr.fr/*
 *://*.betclic-france.fr/*
 *://*.betclic-game.fr/*
 *://*.betclic-online.fr/*
 *://*.betclic-slots.fr/*
 *://*.betclic-sport.fr/*
+*://*.betclic1.fr/*
 *://*.betcliccasino-fr.fr/*
 *://*.betcliccasinofrance.fr/*
 *://*.betclicfr.fr/*
@@ -57612,10 +57683,16 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betewin.fr/*
 *://*.betexpress.fr/*
 *://*.betezevemar.tk/*
+*://*.betfair-casino.fr/*
 *://*.betfair.re/*
+*://*.betfair1.fr/*
+*://*.betfan-casino.fr/*
+*://*.betfan1.fr/*
 *://*.betfancasino.fr/*
 *://*.betfdohengtarf.tk/*
 *://*.betfirst-casino.fr/*
+*://*.betfirst1.fr/*
+*://*.betfirstcasino.fr/*
 *://*.betfla.fr/*
 *://*.betflagcasino.fr/*
 *://*.betflare-casino.fr/*
@@ -57653,7 +57730,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betibet-casino.fr/*
 *://*.betibet.fr/*
 *://*.betibetcasino.fr/*
+*://*.betic-casino.fr/*
 *://*.beticasfother.tk/*
+*://*.beticcasino.fr/*
 *://*.beticesgainous.ga/*
 *://*.betico.fr/*
 *://*.betided.com/*
@@ -57774,6 +57853,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betifyreview.fr/*
 *://*.betifys-french.fr/*
 *://*.betifysh.fr/*
+*://*.betigma-casino.fr/*
+*://*.betigmacasino.fr/*
 *://*.betika.live/*
 *://*.betillion.fr/*
 *://*.betimid.ga/*
@@ -57788,7 +57869,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betitoncasino.fr/*
 *://*.betiumcasino.fr/*
 *://*.betjam.fr/*
+*://*.betkin-casino.fr/*
 *://*.betkin.fr/*
+*://*.betkincasino.fr/*
 *://*.betking.re/*
 *://*.betkings.fr/*
 *://*.betkolik.fr/*
@@ -57822,8 +57905,14 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betmastercasino.fr/*
 *://*.betmatik.fr/*
 *://*.betmembtiposit.cf/*
+*://*.betmen.fr/*
+*://*.betmencasino.fr/*
 *://*.betmeterilonicp.ml/*
+*://*.betmgm-fr.fr/*
+*://*.betmgm1.fr/*
 *://*.betmgmfr.fr/*
+*://*.betmica-casino.fr/*
+*://*.betmicacasino.fr/*
 *://*.betmin.my.id/*
 *://*.betmortcondoito.ga/*
 *://*.betmu.my.id/*
@@ -57851,6 +57940,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betnow.fr/*
 *://*.betobeft.fr/*
 *://*.betocamnicspon.ga/*
+*://*.betoffice.fr/*
+*://*.betofficecasino.fr/*
 *://*.betofis10.com/*
 *://*.betokay.fr/*
 *://*.betomothopers.ml/*
@@ -57903,7 +57994,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betospin.fr/*
 *://*.betoss.site/*
 *://*.betotiridsing.ga/*
+*://*.betovo-casino.fr/*
 *://*.betovo.fr/*
+*://*.betovocasino.fr/*
 *://*.betpanda-casino.fr/*
 *://*.betpanda.fr/*
 *://*.betpandacas.fr/*
@@ -57915,12 +58008,16 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betpandacasinopromocode.fr/*
 *://*.betpandafr.fr/*
 *://*.betpandaonline.fr/*
+*://*.betpassion.fr/*
+*://*.betpassioncasino.fr/*
 *://*.betpcommamerbanc.gq/*
 *://*.betpeasotegi.tk/*
 *://*.betphocorleftna.tk/*
 *://*.betphoenix.fr/*
 *://*.betplabloicrucear.tk/*
+*://*.betplay-casino.fr/*
 *://*.betplay.eu/*
+*://*.betplay1.fr/*
 *://*.betplays-casino.fr/*
 *://*.betplays-fr.fr/*
 *://*.betplays1.fr/*
@@ -57937,7 +58034,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betrayalfelonprudent.com/*
 *://*.betrayedjerusalemchancy.com/*
 *://*.betrbeagle.xyz/*
+*://*.betrebels-casino.fr/*
 *://*.betrebels.fr/*
+*://*.betrebelscasino.fr/*
 *://*.betreifoodmueli.ga/*
 *://*.betrendy.site/*
 *://*.betrepublic-casinos.fr/*
@@ -57955,6 +58054,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betrivieracasino.fr/*
 *://*.betrivieracasinos.fr/*
 *://*.betrivierafr.fr/*
+*://*.betriviiera.fr/*
 *://*.betrmode.com/*
 *://*.betrolla-casino.fr/*
 *://*.betroom.fr/*
@@ -57993,7 +58093,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betspinocasino.fr/*
 *://*.betsrosrifast.tk/*
 *://*.betsson-casino.fr/*
+*://*.betsson-fr.fr/*
 *://*.betsson-france.fr/*
+*://*.betsson1.fr/*
 *://*.betssoncasino.fr/*
 *://*.betssononline.fr/*
 *://*.betstarcasino.fr/*
@@ -58032,6 +58134,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betthimmel.de/*
 *://*.betticket.fr/*
 *://*.bettify-casinos.fr/*
+*://*.bettilt.fr/*
+*://*.bettiltcasino.fr/*
 *://*.bettingfowl.com/*
 *://*.bettingrust.site/*
 *://*.bettingworldwide.site/*
@@ -58040,6 +58144,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bettriple.com/*
 *://*.bettsonn.fr/*
 *://*.betttsotinmode.ml/*
+*://*.betturkey.fr/*
+*://*.betturkeycasino.fr/*
 *://*.bettwarenundtextilien.com/*
 *://*.betty-spin.fr/*
 *://*.bettycasino.fr/*
@@ -58050,7 +58156,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bettyspincasino.fr/*
 *://*.bettywinscasino.fr/*
 *://*.betuaveraben.ml/*
+*://*.betvakti.fr/*
 *://*.betvakti.xyz/*
+*://*.betvakticasino.fr/*
 *://*.betvanipankaybon.ml/*
 *://*.betversringlira.ga/*
 *://*.betvictor8.xyz/*
@@ -58058,8 +58166,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betvip.fr/*
 *://*.betvole.fr/*
 *://*.betway-casino.fr/*
+*://*.betway-enligne.fr/*
 *://*.betway-france.fr/*
 *://*.betway-online.fr/*
+*://*.betway1.fr/*
 *://*.betweenlevelwork.buzz/*
 *://*.betweenprogramorganization.buzz/*
 *://*.betweenseconomys.buzz/*
@@ -58068,12 +58178,16 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betwest-casino.fr/*
 *://*.betwest1.fr/*
 *://*.betwin-casino.fr/*
+*://*.betwin360.fr/*
+*://*.betwin360casino.fr/*
 *://*.betwinner-ua.com/*
 *://*.betwinner-ukraine.com/*
 *://*.betwinnercasino.fr/*
 *://*.betwinnerfrance.fr/*
 *://*.betwinnermobi.online/*
 *://*.betwix.fr/*
+*://*.betx-casino.fr/*
+*://*.betxcasino.fr/*
 *://*.bety-casino.fr/*
 *://*.betycasino.fr/*
 *://*.betygorpeve.cf/*
@@ -58105,6 +58219,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.betzio.fr/*
 *://*.betziocasino.fr/*
 *://*.betzonefr.fr/*
+*://*.betzula.fr/*
+*://*.betzulacasino.fr/*
 *://*.betzvp.bar/*
 *://*.betzykrisesenter.no/*
 *://*.beu2rw.cyou/*
@@ -59263,6 +59379,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.biglistofprizes9.life/*
 *://*.biglotshop.com/*
 *://*.biglouswheelsinmotion.com/*
+*://*.biglucky.fr/*
+*://*.bigluckycasino.fr/*
 *://*.bigmaracacapga.cf/*
 *://*.bigmebel-sterlitamak.ru/*
 *://*.bigmehydlisol.ml/*
@@ -59372,6 +59490,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bigvision.xyz/*
 *://*.bigwallenergy.ru/*
 *://*.bigwhitecloudrecs.com/*
+*://*.bigwin-casino.fr/*
+*://*.bigwincasino.fr/*
 *://*.bigwinscasino.fr/*
 *://*.bihamarracure.gq/*
 *://*.biheadlyeres.tk/*
@@ -59894,8 +60014,11 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.binggingodfto.tk/*
 *://*.binghighnarruback.tk/*
 *://*.bingluoli.xyz/*
+*://*.bingo-casino.fr/*
 *://*.bingo-lot.nl/*
+*://*.bingoal-casino.fr/*
 *://*.bingoalbonus.fr/*
+*://*.bingoalcasino.fr/*
 *://*.bingoalcasinoapp.fr/*
 *://*.bingoalcasinobet.fr/*
 *://*.bingoalcasinobonus.fr/*
@@ -59906,6 +60029,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bingobonga.fr/*
 *://*.bingobongacasino.fr/*
 *://*.bingobonus.fr/*
+*://*.bingocasino1.fr/*
 *://*.bingopetitionmet.com/*
 *://*.bingregpilaman.tk/*
 *://*.bingsibnalesfoi.cf/*
@@ -64555,6 +64679,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.botdlss.cyou/*
 *://*.botea.xyz/*
 *://*.botector.eu/*
+*://*.botemania.fr/*
+*://*.botemaniacasino.fr/*
 *://*.botetrsn.xyz/*
 *://*.botevougensi.tk/*
 *://*.botfspelisirguico.tk/*
@@ -65070,6 +65196,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.boyhydpatu.ml/*
 *://*.boykrisinmova.cf/*
 *://*.boylecarletar.ml/*
+*://*.boylesports-casino.fr/*
+*://*.boylesportscasino.fr/*
 *://*.boylinjanadanty.tk/*
 *://*.boyliteltalo.tk/*
 *://*.boylittrintayphras.tk/*
@@ -67269,6 +67397,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.brutal-casinos.fr/*
 *://*.brutal-enligne.fr/*
 *://*.brutalcas1no.fr/*
+*://*.brutalcasino-en-ligne.fr/*
+*://*.brutalcasino-enligne.fr/*
 *://*.brutalcasino-fr.fr/*
 *://*.brutalcasino.fr/*
 *://*.brutalcasinos.fr/*
@@ -67823,7 +67953,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.buddcavo.gq/*
 *://*.buddchantgucomfoe.cf/*
 *://*.buddforcouditu.tk/*
-*://*.buddhapowerstore.com/*
 *://*.buddhaweekly.com/*
 *://*.buddhismo8x1000.it/*
 *://*.buddholbconbergres.ml/*
@@ -69652,6 +69781,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bxzjzl.cyou/*
 *://*.bxzsmdo.tokyo/*
 *://*.bxzswo.bar/*
+*://*.by-casino.fr/*
 *://*.by-emmamuller.de/*
 *://*.by-kate.cz/*
 *://*.by-lina.de/*
@@ -69694,6 +69824,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.byberruiprof.tk/*
 *://*.bybitbaltic.info/*
 *://*.byblondmerkstein.de/*
+*://*.bycasino.fr/*
 *://*.bycbamu.bar/*
 *://*.bycdih.cyou/*
 *://*.bycheri.de/*
@@ -72499,6 +72630,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.candticheesnecanseo.ga/*
 *://*.candvergasys.tk/*
 *://*.candy-casino-online.de/*
+*://*.candy-casino.fr/*
 *://*.candy-spins.fr/*
 *://*.candy-spinz-casino.fr/*
 *://*.candy-spinzcasino.fr/*
@@ -72509,10 +72641,13 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.candybetcasino.fr/*
 *://*.candybets.fr/*
 *://*.candybox.xyz/*
+*://*.candycasino.fr/*
 *://*.candydatee.com/*
 *://*.candydatte.com/*
 *://*.candygainpeace.com/*
 *://*.candygiirl.com/*
+*://*.candyland-casino.fr/*
+*://*.candylandcasino.fr/*
 *://*.candysp1nzwin.fr/*
 *://*.candyspinz-casino.fr/*
 *://*.candyspinz-casinos.fr/*
@@ -74167,6 +74302,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cashobets-fr.fr/*
 *://*.cashobets-france.fr/*
 *://*.cashocasino.fr/*
+*://*.cashpoint-casino.fr/*
+*://*.cashpointcasino.fr/*
 *://*.cashpotcasino.fr/*
 *://*.cashregister.cn/*
 *://*.cashteam.xyz/*
@@ -74219,6 +74356,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinado1.fr/*
 *://*.casinadocasino.fr/*
 *://*.casinadofr.fr/*
+*://*.casineia.fr/*
+*://*.casineiacasino.fr/*
 *://*.casinia-enligne.fr/*
 *://*.casinia-fr.fr/*
 *://*.casinia-france.fr/*
@@ -74235,6 +74374,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casiniajouer.fr/*
 *://*.casinmegawin.fr/*
 *://*.casino-007.fr/*
+*://*.casino-148.fr/*
 *://*.casino-770-fr.fr/*
 *://*.casino-770fr.fr/*
 *://*.casino-afkspin.fr/*
@@ -74308,6 +74448,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casino-funbet.fr/*
 *://*.casino-galaxy.fr/*
 *://*.casino-gambloria.fr/*
+*://*.casino-game.fr/*
 *://*.casino-game770.fr/*
 *://*.casino-goldbet.fr/*
 *://*.casino-golden-panda.fr/*
@@ -74467,10 +74608,12 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casino-zer.fr/*
 *://*.casino-zoccer.fr/*
 *://*.casino13.fr/*
+*://*.casino148.fr/*
 *://*.casino1win.fr/*
 *://*.casino24.fr/*
 *://*.casino333-fr.fr/*
 *://*.casino4u.fr/*
+*://*.casino5euros.fr/*
 *://*.casino770-casino.fr/*
 *://*.casino770-france.fr/*
 *://*.casino770com.fr/*
@@ -74611,6 +74754,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinogalaxy1.fr/*
 *://*.casinogambiva.fr/*
 *://*.casinogamdom.fr/*
+*://*.casinogame.fr/*
 *://*.casinogame770.fr/*
 *://*.casinogodofcoins.fr/*
 *://*.casinogokong.fr/*
@@ -74650,6 +74794,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinoinstant-fr.fr/*
 *://*.casinoinstant1.fr/*
 *://*.casinoinstasino.fr/*
+*://*.casinointense-enligne.fr/*
+*://*.casinointense-fr.fr/*
 *://*.casinoist-casino.fr/*
 *://*.casinoist-fr.fr/*
 *://*.casinoist.fr/*
@@ -74721,7 +74867,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinoly-france.fr/*
 *://*.casinolyenligne.fr/*
 *://*.casinolyfr.fr/*
+*://*.casinom.fr/*
 *://*.casinom.site/*
+*://*.casinom1.fr/*
 *://*.casinomad.fr/*
 *://*.casinomadness.fr/*
 *://*.casinomafia-fr.fr/*
@@ -74878,6 +75026,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinosky.fr/*
 *://*.casinoslab.fr/*
 *://*.casinoslegiano.fr/*
+*://*.casinoslot-fr.fr/*
+*://*.casinoslot1.fr/*
 *://*.casinoslotlair.fr/*
 *://*.casinoslotrush.fr/*
 *://*.casinoslott.fr/*
@@ -74991,6 +75141,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinowinzter.fr/*
 *://*.casinowonaco.fr/*
 *://*.casinowyns.fr/*
+*://*.casinox-fr.fr/*
+*://*.casinox1.fr/*
 *://*.casinox3bet.fr/*
 *://*.casinoyonibet.fr/*
 *://*.casinozer-4.fr/*
@@ -75237,7 +75389,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casubphaheasenar.tk/*
 *://*.casudmed.fr/*
 *://*.casumo-casinos.fr/*
+*://*.casumo-enligne.fr/*
 *://*.casumo-fr.fr/*
+*://*.casumo1.fr/*
 *://*.casumocasino.fr/*
 *://*.casumoenligne.fr/*
 *://*.casunnecage.gq/*
@@ -78925,6 +79079,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.chanz-casino.fr/*
 *://*.chanzanoceeti.gq/*
 *://*.chanzeabibmo.tk/*
+*://*.chanzecasino.fr/*
+*://*.chanzecasino1.fr/*
 *://*.chao-khun-nor.de/*
 *://*.chaobennosttorventfe.cf/*
 *://*.chaocotopdohy.tk/*
@@ -83777,6 +83933,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.circus-casino1.fr/*
 *://*.circus-square.buzz/*
 *://*.circusbetcasino.fr/*
+*://*.circuscasino-en-ligne.fr/*
+*://*.circuscasino-enligne.fr/*
 *://*.circuscasino1.fr/*
 *://*.circuscasinoenligne.fr/*
 *://*.circwedcimaver.tk/*
@@ -85913,6 +86071,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.clouback-1.online/*
 *://*.clouback-3.online/*
 *://*.clouback-4.online/*
+*://*.cloud-bet.fr/*
+*://*.cloud-betcasino.fr/*
 *://*.cloud-is-mine.fr/*
 *://*.cloud-mine.org/*
 *://*.cloud-ovh.fr/*
@@ -88890,6 +89050,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.compnontaidrivatpor.gq/*
 *://*.compnopoodnori.ga/*
 *://*.compnordnafipo.tk/*
+*://*.componentsantrieb.com/*
 *://*.componentsglobal.com/*
 *://*.componirovab.ml/*
 *://*.componsite.com/*
@@ -91001,6 +91162,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.contactconseilclient.fr/*
 *://*.contactcostco-france.fr/*
 *://*.contactdiplogouv.fr/*
+*://*.contactdouane-finance.fr/*
 *://*.contacte-service.fr/*
 *://*.contacte-sfr.fr/*
 *://*.contactedenred.fr/*
@@ -91707,6 +91869,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cool-zino-fr.fr/*
 *://*.cool2o7.cyou/*
 *://*.coolangatta.eu/*
+*://*.coolbet-casino.fr/*
 *://*.coolbetcasino.fr/*
 *://*.coolbio.org/*
 *://*.coolbrandlabs.com/*
@@ -93944,7 +94107,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.crazypete.xyz/*
 *://*.crazyslotscasino.fr/*
 *://*.crazystar.fr/*
+*://*.crazytime-enligne.fr/*
 *://*.crazytime-fr.fr/*
+*://*.crazytime1.fr/*
 *://*.crazytower-casino.fr/*
 *://*.crazytower-casinoo.fr/*
 *://*.crazytower-casinos.fr/*
@@ -94573,6 +94738,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cresus-fr.fr/*
 *://*.cresus-game.fr/*
 *://*.cresus-mobile.fr/*
+*://*.cresus-officiel.fr/*
 *://*.cresus-promo.fr/*
 *://*.cresus-vip-france.fr/*
 *://*.cresus2.fr/*
@@ -95622,6 +95788,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cryptobullbear.com/*
 *://*.cryptocase.online/*
 *://*.cryptocash24.com/*
+*://*.cryptocasino-fr.fr/*
+*://*.cryptocasino1.fr/*
 *://*.cryptocoin-bot.it/*
 *://*.cryptocoinfauct.xyz/*
 *://*.cryptocommunity.biz/*
@@ -95633,6 +95801,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cryptofaq.pw/*
 *://*.cryptofast.net/*
 *://*.cryptofundfx.com/*
+*://*.cryptogames-casino.fr/*
+*://*.cryptogamescasino.fr/*
 *://*.cryptogamingcasino.fr/*
 *://*.cryptograph.xyz/*
 *://*.cryptohugemining.pw/*
@@ -95649,6 +95819,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cryptoprofx.com/*
 *://*.cryptopyrrole.site/*
 *://*.cryptoqxl.com/*
+*://*.cryptorino-casino.fr/*
+*://*.cryptorinocasino.fr/*
 *://*.cryptorushcasino.fr/*
 *://*.cryptorxindex.info/*
 *://*.cryptos.solutions/*
@@ -100967,7 +101139,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dazd5k.tokyo/*
 *://*.dazena.xyz/*
 *://*.dazn-bet.fr/*
+*://*.daznbet-casino.fr/*
 *://*.daznbet-france.fr/*
+*://*.daznbetcasino.fr/*
 *://*.daznbets.fr/*
 *://*.dazncasino.fr/*
 *://*.dazpahamana.cf/*
@@ -102983,10 +103157,12 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.demmermail.com/*
 *://*.demmeturco.tk/*
 *://*.demnai.xyz/*
+*://*.demo-casino.fr/*
 *://*.demo-testcenter-software.de/*
 *://*.demo.halimcan.de/*
 *://*.demobankbumbtab.ml/*
 *://*.demobox.xyz/*
+*://*.democasino.fr/*
 *://*.democra63ludvig.team/*
 *://*.democraticcareer.de/*
 *://*.democraticgroup.bar/*
@@ -103564,6 +103740,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.depot-colis.fr/*
 *://*.depot-des-colis.fr/*
 *://*.depot-lbp.fr/*
+*://*.depot-official.com/*
 *://*.depot-prime.fr/*
 *://*.depot-products.cyou/*
 *://*.depot-telechargementdubordereau.fr/*
@@ -108139,6 +108316,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.discmortsferefab.ml/*
 *://*.discnibtiloorin.ml/*
 *://*.discniracroa.cf/*
+*://*.disco-win-casino.fr/*
+*://*.disco-wincasino.fr/*
 *://*.discocho.com/*
 *://*.discodociback.tk/*
 *://*.discompnireamas.tk/*
@@ -108172,6 +108351,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.discorrapp.com/*
 *://*.discotopdader.tk/*
 *://*.discount-audio-equipment.com/*
+*://*.discount-autosport.fr/*
 *://*.discount-baustoff.de/*
 *://*.discount-distributors.buzz/*
 *://*.discount-kobalt.com/*
@@ -108182,6 +108362,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.discount-prime.fr/*
 *://*.discount-shop.fr/*
 *://*.discount-sneaks.fr/*
+*://*.discountautosport.fr/*
 *://*.discountbloc.com/*
 *://*.discountbloc.ru/*
 *://*.discountcanadadrugs.com/*
@@ -109315,6 +109496,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dj9fdm0.cyou/*
 *://*.dj9tzj.xyz/*
 *://*.dja8ibs.work/*
+*://*.djack-casino.fr/*
+*://*.djackcasino.fr/*
 *://*.djalgormtoccompvelma.cf/*
 *://*.djallenceupfun.ga/*
 *://*.djalovexbatme.tk/*
@@ -110827,6 +111010,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.domumzahnnigreapp.gq/*
 *://*.domus-nsk.com/*
 *://*.domusaureliantica.it/*
+*://*.domusbet.fr/*
+*://*.domusbetcasino.fr/*
 *://*.domutanpe.tk/*
 *://*.domvoicephendsemb.tk/*
 *://*.domy365.com/*
@@ -113739,6 +113924,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dubbtolavsracsiosnyd.tk/*
 *://*.dubenskyfoto.ru/*
 *://*.dubgolithy.tk/*
+*://*.dubibet.fr/*
+*://*.dubibetcasino.fr/*
 *://*.dubiousgrudge.com/*
 *://*.dubiouslickingwish.com/*
 *://*.dubliany.info/*
@@ -115490,6 +115677,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.e-education-securite-routiere.fr/*
 *://*.e-facture-servauth.fr/*
 *://*.e-fahrrader.de/*
+*://*.e-fahrrader.store/*
 *://*.e-fahrradrabatt.com/*
 *://*.e-finanzmarket.com/*
 *://*.e-fliteshop.com/*
@@ -118457,6 +118645,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.eezt.xyz/*
 *://*.eezyrl.bar/*
 *://*.ef-b-e-t.fr/*
+*://*.ef-bet.fr/*
 *://*.ef1zcr.tokyo/*
 *://*.ef20vz.cyou/*
 *://*.ef40g9q.work/*
@@ -118491,6 +118680,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.efbaed.shop/*
 *://*.efbet-casino.fr/*
 *://*.efbet-france.fr/*
+*://*.efbetcasino.fr/*
 *://*.efbicp.rest/*
 *://*.efc960g.shop/*
 *://*.efcar.biz.id/*
@@ -120255,6 +120445,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.elesgelile.cf/*
 *://*.elesilmini.ml/*
 *://*.elesuvagverreu.cf/*
+*://*.eletia-casino.fr/*
+*://*.eletiacasino.fr/*
 *://*.eletrodepot.fr/*
 *://*.eletrospark.de/*
 *://*.eletrostartestufas.com/*
@@ -121073,6 +121265,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.embeax.work/*
 *://*.embedde24joelie.viajes/*
 *://*.emberbet-casino.fr/*
+*://*.emberbetcasino.fr/*
 *://*.embertime.com/*
 *://*.emberwakeonline.com/*
 *://*.embeto.gq/*
@@ -122494,6 +122687,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.enjmpi.rest/*
 *://*.enjobsiopicog.tk/*
 *://*.enjoyable-luscious.nl/*
+*://*.enjoybet.fr/*
+*://*.enjoybetcasino.fr/*
 *://*.enjoybigslistaround.buzz/*
 *://*.enjoycanadalife.com/*
 *://*.enjoycompanysheart.biz/*
@@ -127537,6 +127732,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.euroartfestival.eu/*
 *://*.euroasfalti.net/*
 *://*.eurobeatmusicreviews.xyz/*
+*://*.eurobets-casino.fr/*
+*://*.eurobetscasino.fr/*
 *://*.eurobitx.info/*
 *://*.eurobrass.eu/*
 *://*.eurocc2019.eu/*
@@ -128120,6 +128317,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.evolutionary.art/*
 *://*.evolutions.global/*
 *://*.evolvacontebar.cf/*
+*://*.evolve-fr.fr/*
+*://*.evolve1.fr/*
 *://*.evolveasialtd.co/*
 *://*.evolvecasino.fr/*
 *://*.evolvecasinos.fr/*
@@ -130782,6 +130981,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fabtapatic.ml/*
 *://*.fabul.de/*
 *://*.fabulousmelodramatichoop.com/*
+*://*.fabulousvegas.fr/*
+*://*.fabulousvegascasino.fr/*
 *://*.fabusd.bar/*
 *://*.fabuwazuhaja.tk/*
 *://*.fabvirelekithu.tk/*
@@ -131357,7 +131558,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fairlyscarydefense.com/*
 *://*.fairoboblalesre.cf/*
 *://*.fairorehitedmo.cf/*
+*://*.fairplay-casino.fr/*
 *://*.fairplay.ac/*
+*://*.fairplaycasino.fr/*
 *://*.fairplayhorse.com/*
 *://*.fairrooms.eu/*
 *://*.fairshare.xyz/*
@@ -131391,6 +131594,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.faisymmoca.tk/*
 *://*.faisynpensparrasi.ga/*
 *://*.faisysgeconmi.cf/*
+*://*.fait-recht.de/*
 *://*.faitdegacun.tk/*
 *://*.faiterrirellocc.cf/*
 *://*.faithcov.org/*
@@ -131989,6 +132193,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.farnsenkelbdecaser.ml/*
 *://*.farnst.xyz/*
 *://*.farnthalkicomsi.cf/*
+*://*.faro-casino.fr/*
+*://*.farocasino.fr/*
 *://*.farooneticnetw.cf/*
 *://*.faroukiron.com/*
 *://*.farpartareaearly.buzz/*
@@ -132115,6 +132321,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fast-porno-here.buzz/*
 *://*.fast-sex-cam.buzz/*
 *://*.fast-sexo-xxxx.buzz/*
+*://*.fast-slot-casino.fr/*
+*://*.fast-slotcasino.fr/*
 *://*.fast-slots-casino.fr/*
 *://*.fast-slots-casinoofficiel.fr/*
 *://*.fast-slots-fr.fr/*
@@ -132441,6 +132649,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fav0k5.cyou/*
 *://*.fav9vn.cyou/*
 *://*.favar.my.id/*
+*://*.favbet-casino.fr/*
+*://*.favbetcasino.fr/*
 *://*.favenreerschanruto.ga/*
 *://*.favetum.xyz/*
 *://*.favexewahese.ml/*
@@ -133280,6 +133490,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.feelgeweser.tk/*
 *://*.feelgoodcamper24.de/*
 *://*.feelgroundsshoes.fr/*
+*://*.feelingbet-casino.fr/*
 *://*.feelingbetcasino.fr/*
 *://*.feelingboardplace.buzz/*
 *://*.feelinghomesprogram.biz/*
@@ -133994,7 +134205,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fetipadudun.tk/*
 *://*.fetirearesco.ml/*
 *://*.fetish4movie.mobi/*
-*://*.fetishmegastore.com/*
 *://*.fetistterroaspoonchor.tk/*
 *://*.fetjvjj.bar/*
 *://*.fetlilydrave.gq/*
@@ -136197,6 +136407,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fix-finanz.com/*
 *://*.fix-infoperfume.xyz/*
 *://*.fix9e9.cyou/*
+*://*.fixbet.fr/*
+*://*.fixbetcasino.fr/*
 *://*.fixbetin.com/*
 *://*.fixcasino.fr/*
 *://*.fixcc3.cyou/*
@@ -136708,6 +136920,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.flapnoncommittal.com/*
 *://*.flappy-casino.fr/*
 *://*.flappybird.org/*
+*://*.flappycasino.fr/*
 *://*.flaranexafto.ml/*
 *://*.flaranhyddispperme.ga/*
 *://*.flarasonomnikat.gq/*
@@ -137311,6 +137524,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.flnanzonline-gvbmfgv.net/*
 *://*.flnanzonline.at/*
 *://*.flnanzonline.net/*
+*://*.flnanzonlinebmfgv.net/*
 *://*.flnkgv.rest/*
 *://*.flnlrng.tokyo/*
 *://*.flnns.yt/*
@@ -139436,8 +139650,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.forttavacepke.tk/*
 *://*.fortterwobbpirge.tk/*
 *://*.forttolustjeandua.tk/*
+*://*.fortuna-casino.fr/*
 *://*.fortuna-fr.fr/*
 *://*.fortunacasino.fr/*
+*://*.fortunacasino1.fr/*
 *://*.fortunacasinofrance.fr/*
 *://*.fortunatecy.com/*
 *://*.fortunatelychastise.com/*
@@ -139824,6 +140040,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.foxverkaufe.com/*
 *://*.foxvhcs.bar/*
 *://*.foxwolfme.xyz/*
+*://*.foxybingo-casino.fr/*
+*://*.foxybingocasino.fr/*
 *://*.foxycasino.fr/*
 *://*.foxyclothcreations.com/*
 *://*.foxygold-casino.fr/*
@@ -140906,6 +141124,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.franjamacpe.tk/*
 *://*.frankable.best/*
 *://*.frankasamefa.ml/*
+*://*.frankcasino-fr.fr/*
+*://*.frankcasino1.fr/*
 *://*.frankdeblok.fr/*
 *://*.franke-it.solutions/*
 *://*.frankefahrrad.de/*
@@ -141548,6 +141768,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.freesoffreelerarser.tk/*
 *://*.freesoft.space/*
 *://*.freesoutvore.ml/*
+*://*.freespin-casino.fr/*
+*://*.freespincasino.fr/*
 *://*.freespincasinoapp.fr/*
 *://*.freespincasinobonus.fr/*
 *://*.freespincasinodeposit.fr/*
@@ -143073,6 +143295,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fun107.com/*
 *://*.fun4.ru/*
 *://*.fun4game.icu/*
+*://*.fun88.fr/*
+*://*.fun88casino.fr/*
 *://*.funbackworroykimi.gq/*
 *://*.funbeharniha.cf/*
 *://*.funbet-casinos.fr/*
@@ -144256,6 +144480,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.g-7-taxi-paris.fr/*
 *://*.g-7.fr/*
 *://*.g-7taxi.fr/*
+*://*.g-casino.fr/*
 *://*.g-h-doutlet.fr/*
 *://*.g-interieurgouv.fr/*
 *://*.g-mac.dk/*
@@ -145483,6 +145708,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.gakspyn.tokyo/*
 *://*.galaauto.com/*
 *://*.galabau-trautmann.de/*
+*://*.galabingo-casino.fr/*
+*://*.galabingocasino.fr/*
 *://*.galacticbets.fr/*
 *://*.galactict.com/*
 *://*.galactixcasino.fr/*
@@ -146926,6 +147153,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.gcarinorlnunem.tk/*
 *://*.gcaronkenening.ga/*
 *://*.gcash-casino-ph.com/*
+*://*.gcasino1.fr/*
 *://*.gcatholic.org/*
 *://*.gcb05j.cyou/*
 *://*.gcbhbw.tokyo/*
@@ -147987,6 +148215,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.genthienorpoile.tk/*
 *://*.gentichansila.tk/*
 *://*.gentifowealth.tk/*
+*://*.genting-casino.fr/*
+*://*.genting.fr/*
 *://*.gentiragra.ga/*
 *://*.gentitora.cf/*
 *://*.gentjorpunkde.ga/*
@@ -148263,6 +148493,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.geozambdorncommusk.cf/*
 *://*.geozgf.tokyo/*
 *://*.gepa7w.shop/*
+*://*.gepackrad.com/*
 *://*.gepaconfsenti.cf/*
 *://*.gepanobaperba.tk/*
 *://*.geparttesparkpatlack.tk/*
@@ -149002,6 +149233,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.getlitttrepin.tk/*
 *://*.getlocky.eu/*
 *://*.getlt.xyz/*
+*://*.getlucky-casino.fr/*
+*://*.getluckycasino.fr/*
 *://*.getmainprize.life/*
 *://*.getmainprize1.life/*
 *://*.getmainprize2.life/*
@@ -149081,6 +149314,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.getrude-destock.fr/*
 *://*.getsavonandmore.it/*
 *://*.getsbet.fr/*
+*://*.getsbetcasino.fr/*
 *://*.getsdarmfloramrosell.tk/*
 *://*.getshopsdeal.com/*
 *://*.getsisalanth.web.app/*
@@ -149415,6 +149649,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.gfzxxu.tokyo/*
 *://*.gfzyecq.com/*
 *://*.gg-bet-casino.fr/*
+*://*.gg-bet.fr/*
+*://*.gg-betcasino.fr/*
 *://*.gg00gg.tokyo/*
 *://*.gg0u4y.tokyo/*
 *://*.gg3ocfg.cyou/*
@@ -152923,7 +153159,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.golddocammuns.ga/*
 *://*.golden-bank.com/*
 *://*.golden-bet-casino.fr/*
+*://*.golden-bet.fr/*
+*://*.golden-betcasino.fr/*
 *://*.golden-bets.fr/*
+*://*.golden-crown-extreme-booster.fr/*
 *://*.golden-crown.fr/*
 *://*.golden-ddl.pw/*
 *://*.golden-fr.fr/*
@@ -152948,6 +153187,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.golden-pandar.fr/*
 *://*.golden-pandas.fr/*
 *://*.golden-pass.fr/*
+*://*.golden-penny-x1000-super-wheel.fr/*
 *://*.golden-play.fr/*
 *://*.golden-re.com/*
 *://*.golden-star-casino.fr/*
@@ -152977,8 +153217,11 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.goldendot.fr/*
 *://*.goldene-panda.fr/*
 *://*.goldenepanda.fr/*
+*://*.goldeneuro-casino.fr/*
+*://*.goldeneurocasino.fr/*
 *://*.goldeneuroonline.fr/*
 *://*.goldenfr.fr/*
+*://*.goldengalagaming.fr/*
 *://*.goldengate.vc/*
 *://*.goldengate.xyz/*
 *://*.goldengeniecasino.fr/*
@@ -152999,8 +153242,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.goldengoosesale.at/*
 *://*.goldengoosesoldes.fr/*
 *://*.goldenlion-casino.fr/*
+*://*.goldenlion-enligne.fr/*
 *://*.goldenlion-fr.fr/*
 *://*.goldenlion-online.fr/*
+*://*.goldenlion1.fr/*
 *://*.goldenmina-casino.fr/*
 *://*.goldenmina-fr.fr/*
 *://*.goldenmina.fr/*
@@ -153047,10 +153292,14 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.goldenpandafrance.fr/*
 *://*.goldenpandas.fr/*
 *://*.goldenpandascasino.fr/*
+*://*.goldenpark-casino.fr/*
+*://*.goldenparkcasino.fr/*
 *://*.goldenpassmedia.com/*
 *://*.goldenpharaoh.fr/*
 *://*.goldenplay-casino.fr/*
+*://*.goldenplay-fr.fr/*
 *://*.goldenplay.fr/*
+*://*.goldenplay1.fr/*
 *://*.goldenplaycasino.fr/*
 *://*.goldenplaycasinofr.fr/*
 *://*.goldenplayonline.fr/*
@@ -153065,9 +153314,13 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.goldenstreadon.tk/*
 *://*.goldensummer.xyz/*
 *://*.goldenticketwin.fr/*
+*://*.goldentiger-casino.fr/*
 *://*.goldentiger.fr/*
+*://*.goldentiger1.fr/*
 *://*.goldentigercasino.fr/*
 *://*.goldenvegas-casino.fr/*
+*://*.goldenvegas-enligne.fr/*
+*://*.goldenvegas1.fr/*
 *://*.goldenvegascasino.fr/*
 *://*.goldenvegascasinoapp.fr/*
 *://*.goldenvegascasinobonus.fr/*
@@ -153095,6 +153348,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.goldhargcontrirzosa.ga/*
 *://*.goldhornscasino.fr/*
 *://*.goldira.wiki/*
+*://*.goldiwin-casino.fr/*
+*://*.goldiwin.fr/*
 *://*.goldkindsoumitenzi.cf/*
 *://*.goldkusubtithet.tk/*
 *://*.goldlachuckgoopomo.ga/*
@@ -153125,7 +153380,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.goldquadrepavi.ml/*
 *://*.goldresbuylinena.tk/*
 *://*.goldrestpertsabsofa.gq/*
-*://*.goldreward.io/*
 *://*.goldriderscasino.fr/*
 *://*.goldrosarkslacaw.tk/*
 *://*.goldrouglinkbedripar.cf/*
@@ -154201,6 +154455,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.govtname.com/*
 *://*.govu.fr/*
 *://*.gow3497.tokyo/*
+*://*.gowin-casino.fr/*
+*://*.gowincasino.fr/*
 *://*.gownattacks.com/*
 *://*.gownirite.tk/*
 *://*.gowno.edu.pl/*
@@ -154879,11 +155135,14 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.grandjeu-magasin-u.fr/*
 *://*.grandlo.biz.id/*
 *://*.grandmewer.shop/*
+*://*.grandmondial-casino.fr/*
+*://*.grandmondial1.fr/*
 *://*.grandne99crux.top/*
 *://*.grandpacaviarperfection.com/*
 *://*.grandpagooseberrygently.com/*
 *://*.grandpardonchaumont2018.fr/*
 *://*.grandparentsinabilitycreeper.com/*
+*://*.grandpashabetcasino.fr/*
 *://*.grandprixfactory.com/*
 *://*.grandregistre-banque.fr/*
 *://*.grandsoft.uz/*
@@ -155200,7 +155459,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.gratkoreforsa.tk/*
 *://*.gratliafolksaffverco.tk/*
 *://*.gratnareelsnog.tk/*
+*://*.grato-win-casino.fr/*
 *://*.grato-win.fr/*
+*://*.grato-wincasino.fr/*
 *://*.gratobybmyoclarur.cf/*
 *://*.gratoctolibe.cf/*
 *://*.gratomtacaltecon.tk/*
@@ -155409,6 +155670,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.greataiprompts.com/*
 *://*.greataralfinnake.tk/*
 *://*.greatatsounreme.cf/*
+*://*.greatbritain-casino.fr/*
+*://*.greatbritaincasino.fr/*
 *://*.greatbulletin.com/*
 *://*.greatcat.biz.id/*
 *://*.greatcellularsavings.com/*
@@ -160057,6 +160320,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hallobh.de/*
 *://*.hallonaloubier.xyz/*
 *://*.hallooootranorinan.tk/*
+*://*.hallosolarfreund.com/*
 *://*.halloween-manufaktur.de/*
 *://*.halloweendekoration.com/*
 *://*.halloweenmakeup-de.com/*
@@ -160147,6 +160411,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hambspeaklandsimpreso.tk/*
 *://*.hamburg-hotel.net/*
 *://*.hamburg-modehaus.de/*
+*://*.hamburg-treuhand.com/*
 *://*.hamburger-versand.de/*
 *://*.hamburgermenetekel.de/*
 *://*.hamburgmode.com/*
@@ -162132,6 +162397,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hardvanablumishua.tk/*
 *://*.hardvirodrocan.ga/*
 *://*.hardwarebox.fr/*
+*://*.hardwarecables.com/*
 *://*.hardwarefakeentertainment.com/*
 *://*.hardwarenational.com/*
 *://*.hardwarestorede.com/*
@@ -164520,6 +164786,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.heafurfegevocu.tk/*
 *://*.heagestiowordre.cf/*
 *://*.heahn.xyz/*
+*://*.heaism.com/*
 *://*.heal.pm/*
 *://*.healangteardderbert.ga/*
 *://*.healbotapancia.ml/*
@@ -165769,6 +166036,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.herbatychwila.pl/*
 *://*.herbed.xyz/*
 *://*.herberglanloata.tk/*
+*://*.herbertsrundumhausservice.at/*
 *://*.herbiethedentist.buzz/*
 *://*.herbitanrapede.cf/*
 *://*.herblilneuzadis.gq/*
@@ -165905,6 +166173,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hermes-outlet.fr/*
 *://*.hermesairport.com/*
 *://*.hermesbet.xyz/*
+*://*.hermescasino-fr.fr/*
+*://*.hermescasino1.fr/*
 *://*.hermesofficiel.fr/*
 *://*.hermhoffer.de/*
 *://*.hermitfunctions.com/*
@@ -165922,6 +166192,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hernmonthgraphmarg.tk/*
 *://*.hernoparis.fr/*
 *://*.hernprivenanla.ml/*
+*://*.heroes-casino.fr/*
+*://*.heroescasino.fr/*
 *://*.heroesdeldescanso.mx/*
 *://*.herofedche.ml/*
 *://*.heroherbals.com/*
@@ -166699,6 +166971,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hichcsh.tokyo/*
 *://*.hichegeschmocmohol.tk/*
 *://*.hichonostvopen.tk/*
+*://*.hicity.de/*
 *://*.hicknartitexvia.tk/*
 *://*.hicknorthmolxibonme.cf/*
 *://*.hickory-spicy-frog.glitch.me/*
@@ -166936,6 +167209,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.highrestochicapa.ml/*
 *://*.highretafogi.ml/*
 *://*.highrifirkamasea.ml/*
+*://*.highroller-casino.fr/*
+*://*.highroller.fr/*
 *://*.highschoolmeatnoi.tk/*
 *://*.highsea.fun/*
 *://*.highsecoliza.tk/*
@@ -167385,6 +167660,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hit2u.ru/*
 *://*.hitabtijenlogav.cf/*
 *://*.hitathon.com/*
+*://*.hitbet-casino.fr/*
+*://*.hitbetcasino.fr/*
 *://*.hitbolsmillfestgerqui.gq/*
 *://*.hitcaseworkworry.club/*
 *://*.hitcasino.fr/*
@@ -169686,6 +169963,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hotbest-realgirls.com/*
 *://*.hotbest-realgirls1.com/*
 *://*.hotbest-realgirls3.com/*
+*://*.hotbet.fr/*
+*://*.hotbetcasino.fr/*
 *://*.hotbikede.com/*
 *://*.hotcalordgarle.tk/*
 *://*.hotcarmodificationparts.com/*
@@ -169841,6 +170120,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hotlink.xyz/*
 *://*.hotlinklereni.cf/*
 *://*.hotllove.net/*
+*://*.hotloot-casino.fr/*
 *://*.hotlootcasino.fr/*
 *://*.hotmael.fr/*
 *://*.hotmai1.fr/*
@@ -171245,12 +171525,15 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hugo-bets-fr.fr/*
 *://*.hugo-betsonline.fr/*
 *://*.hugo-casino.fr/*
+*://*.hugo-fr.fr/*
 *://*.hugo-live-band.de/*
+*://*.hugo1.fr/*
 *://*.hugobet-casino.fr/*
 *://*.hugobet.fr/*
 *://*.hugobetcasino.fr/*
 *://*.hugobets-casino.fr/*
 *://*.hugobets-officiel.fr/*
+*://*.hugobets1.fr/*
 *://*.hugobetscasino.fr/*
 *://*.hugoboss-fr.fr/*
 *://*.hugoboss-france.fr/*
@@ -172441,6 +172724,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hyggefis.dk/*
 *://*.hyggn.yt/*
 *://*.hygibceholog.tk/*
+*://*.hygienecareshop.com/*
 *://*.hygienecity.fr/*
 *://*.hygienecleanshop.com/*
 *://*.hygienehomicidalreflex.com/*
@@ -172545,6 +172829,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hyper-intermarche.fr/*
 *://*.hyper-pools.com/*
 *://*.hyperbofurakh.tk/*
+*://*.hypercasino-fr.fr/*
+*://*.hypercasino1.fr/*
 *://*.hypercasinoapp.fr/*
 *://*.hypercasinobonus.fr/*
 *://*.hypercasinodeposit.fr/*
@@ -172995,10 +173281,12 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.i23t2md.shop/*
 *://*.i24-slots-casino.fr/*
 *://*.i24-slots.fr/*
+*://*.i24-slotscasino.fr/*
 *://*.i24i676.shop/*
 *://*.i24m84v.shop/*
 *://*.i24mua.cyou/*
 *://*.i24slots-fr.fr/*
+*://*.i24slots1.fr/*
 *://*.i24slotscasino.fr/*
 *://*.i24slotscasinos.fr/*
 *://*.i25g9j.cyou/*
@@ -173779,6 +174067,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.iberbs.xyz/*
 *://*.iberetta.eu/*
 *://*.iberiaholiday.info/*
+*://*.ibet-casino.fr/*
+*://*.ibetcasino.fr/*
 *://*.ibethelbaptist.com/*
 *://*.ibetin.com/*
 *://*.ibexesty.ga/*
@@ -177244,6 +177534,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.immediatie.com/*
 *://*.immehanarra.tk/*
 *://*.immerion-casino-win.fr/*
+*://*.immerioncasino.fr/*
+*://*.immerioncasino1.fr/*
 *://*.immersedsubsequently.com/*
 *://*.immersiveaudiotheaters.com/*
 *://*.immeswickgulfmortco.ml/*
@@ -181022,6 +181314,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.installateur-24h-notdienst.at/*
 *://*.installateur-hansi.at/*
 *://*.installateur-hilfe.at/*
+*://*.installateur-meister-plus-notdienst-24h-linz-plus.jimdosite.com/*
 *://*.installateur-meister.at/*
 *://*.installateur-notdienst-vienna.at/*
 *://*.installateur-notdienst24.at/*
@@ -181059,6 +181352,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.instant-france-casino.fr/*
 *://*.instant-mobile.fr/*
 *://*.instant-official.fr/*
+*://*.instant-play.fr/*
+*://*.instant2.fr/*
 *://*.instantactus.fr/*
 *://*.instantaiprompt.com/*
 *://*.instantaiprompt.com/*
@@ -185979,6 +186274,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.jackasswax.buzz/*
 *://*.jackbarsfeabookpa.gq/*
 *://*.jackbit-casino.fr/*
+*://*.jackbit-en-ligne.fr/*
+*://*.jackbit-enligne.fr/*
 *://*.jackbit-online.fr/*
 *://*.jackbit1.fr/*
 *://*.jackbitcasinoapp.fr/*
@@ -186049,12 +186346,16 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.jackpotcash.fr/*
 *://*.jackpotcasino-fr.fr/*
 *://*.jackpotcasino-france.fr/*
+*://*.jackpotcity-casino.fr/*
+*://*.jackpotcity1.fr/*
 *://*.jackpotcitycasino.fr/*
 *://*.jackpotclub.fr/*
 *://*.jackpotfrenzy-casino.fr/*
 *://*.jackpotfrenzy.fr/*
 *://*.jackpotfrenzycasino.fr/*
 *://*.jackpotfrenzycasino1.fr/*
+*://*.jackpotjoy-casino.fr/*
+*://*.jackpotjoycasino.fr/*
 *://*.jackpotlive.fr/*
 *://*.jackpotstar.fr/*
 *://*.jackpotter.fr/*
@@ -186461,6 +186762,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.jashpalrohit.com/*
 *://*.jasingreenidge.xyz/*
 *://*.jasino-casino.fr/*
+*://*.jasino-fr.fr/*
+*://*.jasino1.fr/*
 *://*.jasiprovno.site/*
 *://*.jasitznicreicomcu.tk/*
 *://*.jaslo-hs.pl/*
@@ -189630,6 +189933,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.joker8casino.fr/*
 *://*.joker8casino1.fr/*
 *://*.joker8online.fr/*
+*://*.jokerbet-casino.fr/*
+*://*.jokerbetcasino.fr/*
 *://*.jokercasino-fr.fr/*
 *://*.jokerhuman.com/*
 *://*.jokers-8.fr/*
@@ -191031,6 +191336,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.juliusbot.fr/*
 *://*.juliuscasin.fr/*
 *://*.juliuscasino-bonus.fr/*
+*://*.juliuscasino-enligne.fr/*
 *://*.juliuscasino-fr.fr/*
 *://*.juliuscasino-france.fr/*
 *://*.juliuscasino-live.fr/*
@@ -192877,6 +193183,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kabkunggarsimp.ml/*
 *://*.kablidagebed.gq/*
 *://*.kabmaganmijun.tk/*
+*://*.kaboo-casino.fr/*
+*://*.kaboocasino.fr/*
 *://*.kabookk.fr/*
 *://*.kaboom7.info/*
 *://*.kabooseparties.ca/*
@@ -192932,6 +193240,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kadlaidafor.tk/*
 *://*.kadmarketh1otsar2.biz/*
 *://*.kadmarketl2fce6sb.biz/*
+*://*.kadoboost.fr/*
 *://*.kadogkingmantio.tk/*
 *://*.kadonimo.de/*
 *://*.kadoshops.de/*
@@ -193281,6 +193590,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kamagra-premium.net/*
 *://*.kamagra-pro.com/*
 *://*.kamagra-pro.net/*
+*://*.kamagra-pro.online/*
 *://*.kamagra-prodej-levne.cz/*
 *://*.kamagra-prodej.cz/*
 *://*.kamagra-prodej.online/*
@@ -193499,6 +193809,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kanryecrimadagprov.gq/*
 *://*.kansbacalthankgroun.tk/*
 *://*.kanscuheadisto.tk/*
+*://*.kansino-casino.fr/*
+*://*.kansinocasino.fr/*
 *://*.kanskorsaner.tk/*
 *://*.kansmigapicar.tk/*
 *://*.kantar.tv/*
@@ -193521,6 +193833,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kanytv.tokyo/*
 *://*.kanziii.net/*
 *://*.kanzlei-fahlke.eu/*
+*://*.kanzlei-focken.de/*
 *://*.kanzlei-guehmann.de/*
 *://*.kanzlei-helmut-kuhn.de/*
 *://*.kanzlei-hornberger.de/*
@@ -193604,6 +193917,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.karakoseturgut.rest/*
 *://*.karaleenmagno.xyz/*
 *://*.karalta.com/*
+*://*.karamba-casino.fr/*
+*://*.karambacasino.fr/*
 *://*.karamel54.ru/*
 *://*.karamelstudio.com/*
 *://*.karamnalm.xyz/*
@@ -193937,6 +194252,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kavali.de/*
 *://*.kavaram.online/*
 *://*.kavavinocaj.cz/*
+*://*.kavbet.fr/*
+*://*.kavbetcasino.fr/*
 *://*.kavhan.rest/*
 *://*.kavkazvision.ru/*
 *://*.kavmulefbopas.gq/*
@@ -196047,6 +196364,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kickass-official.blue/*
 *://*.kickasselegan.xyz/*
 *://*.kickasstorrents.to/*
+*://*.kickback-casino.fr/*
+*://*.kickbackcasino.fr/*
 *://*.kickberskurnyibal.cf/*
 *://*.kickbosonlemindba.ml/*
 *://*.kickcrawford.com/*
@@ -196466,6 +196785,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kingcametlabipa.tk/*
 *://*.kingcanreamastclifol.tk/*
 *://*.kingchance-casinos.fr/*
+*://*.kingchance-en-ligne.fr/*
+*://*.kingchance-enligne.fr/*
 *://*.kingchance-fr.fr/*
 *://*.kingchance1.fr/*
 *://*.kingchancefrance.fr/*
@@ -196762,6 +197083,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kirktiservsmasin.gq/*
 *://*.kirkwatchguannasymco.tk/*
 *://*.kirlimina.tk/*
+*://*.kirolbet-casino.fr/*
+*://*.kirolbetcasino.fr/*
 *://*.kiropadborg.dk/*
 *://*.kirost.com/*
 *://*.kirrefitvi.web.app/*
@@ -196892,6 +197215,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kitsolannabo.tk/*
 *://*.kitsps.rest/*
 *://*.kitstadisomo.gq/*
+*://*.kitsune-fr.fr/*
+*://*.kitsune1.fr/*
 *://*.kittatachryboxse.tk/*
 *://*.kittein.xyz/*
 *://*.kitten.my.id/*
@@ -197132,6 +197457,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.kkgutfw.work/*
 *://*.kkgxic.cyou/*
 *://*.kkhc53e.tokyo/*
+*://*.kkholz.at/*
 *://*.kkhrrn.rest/*
 *://*.kkih.xyz/*
 *://*.kkiy7q.cyou/*
@@ -197398,6 +197724,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.klesxl.rest/*
 *://*.klet1z.cyou/*
 *://*.klettererpro.com/*
+*://*.kletternberg.com/*
 *://*.kleugaa.bar/*
 *://*.kleurrijkedame.com/*
 *://*.klev-spb.ru/*
@@ -202920,6 +203247,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lanecktatagta.tk/*
 *://*.laneduclavspacdisp.tk/*
 *://*.lanehourgilarin.ml/*
+*://*.laneiges.at/*
 *://*.lanemapunc.tk/*
 *://*.lanephvolchugmensmet.tk/*
 *://*.lanesssubritodoo.ml/*
@@ -203444,6 +203772,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.larissiosketmachap.ml/*
 *://*.laritgen.my.id/*
 *://*.larithnachsrawoodra.cf/*
+*://*.lariviera-en-ligne.fr/*
+*://*.lariviera-enligne.fr/*
 *://*.lariviera-outlet.fr/*
 *://*.larivieracasina.fr/*
 *://*.larivieracasino-fr.fr/*
@@ -206507,8 +206837,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lemodne.fr/*
 *://*.lemoinde.fr/*
 *://*.lemoinebistro.de/*
+*://*.lemon-casino.fr/*
 *://*.lemon12bogglin.xyz/*
 *://*.lemoncasino.fr/*
+*://*.lemoncasino1.fr/*
 *://*.lemond3.fr/*
 *://*.lemondde.fr/*
 *://*.lemonde-abonnement.fr/*
@@ -206904,6 +207236,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.leotrendafarhe.gq/*
 *://*.leotrimigetlo.cf/*
 *://*.leovegas-casino.fr/*
+*://*.leovegas1.fr/*
+*://*.leovegascasino.fr/*
 *://*.leovegasgratuit.fr/*
 *://*.leovegasonline.fr/*
 *://*.leowaldanandbawe.cf/*
@@ -210008,6 +210342,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lilgolfmisscokens.ga/*
 *://*.lilianaphit.web.app/*
 *://*.lilibee.com.br/*
+*://*.lilibet-casino.fr/*
+*://*.lilibetcasino.fr/*
 *://*.lilicetobaphe.cf/*
 *://*.lilicoscimos.tk/*
 *://*.lilidowncomcoo.tk/*
@@ -211698,6 +212034,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.liverpoolgear.shop/*
 *://*.lives5pussyz.top/*
 *://*.livescom.com/*
+*://*.livescorebet-casino.fr/*
+*://*.livescorebetcasino.fr/*
 *://*.livesetnadown.ml/*
 *://*.livesfoot.fr/*
 *://*.livesgentsome.cf/*
@@ -213204,6 +213542,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.locnazaponewszi.tk/*
 *://*.loco-win-casino.fr/*
 *://*.loco-win.fr/*
+*://*.loco-wincasino.fr/*
 *://*.locobot.bond/*
 *://*.locogtokenconf.tk/*
 *://*.locojoker.fr/*
@@ -213227,6 +213566,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.locowin-bet.fr/*
 *://*.locowin-casinoo.fr/*
 *://*.locowin-casinos.fr/*
+*://*.locowin-enligne.fr/*
 *://*.locowin-fr.fr/*
 *://*.locowin-fra.fr/*
 *://*.locowin-france.fr/*
@@ -214506,6 +214846,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lottogreece.org/*
 *://*.lottohunts.com/*
 *://*.lottokuwait.org/*
+*://*.lottoland-casino.fr/*
+*://*.lottoland1.fr/*
 *://*.lottolandcasino.fr/*
 *://*.lottoleads.com/*
 *://*.lottonightspecific.buzz/*
@@ -214673,6 +215015,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lousysanctuarydagger.com/*
 *://*.loutcountmunvitu.cf/*
 *://*.loutishness.com/*
+*://*.louvana.de/*
 *://*.louvedetoi.fr/*
 *://*.louvelec-electricite.fr/*
 *://*.louvignies-quesnoy.fr/*
@@ -215865,12 +216208,16 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.luck-fr.fr/*
 *://*.luck-grand.news/*
 *://*.luck6shop.top/*
+*://*.luckcasino-fr.fr/*
 *://*.luckcasino.fr/*
+*://*.luckcasino1.fr/*
 *://*.luckenwalder-salzgrotte.de/*
 *://*.luckeygnischengast.tk/*
 *://*.luckhash.org/*
 *://*.lucki.fr/*
 *://*.lucki31fr.fr/*
+*://*.luckia-casino.fr/*
+*://*.luckiacasino.fr/*
 *://*.luckicasino-fr.fr/*
 *://*.luckicasino-france.fr/*
 *://*.luckiest.xyz/*
@@ -215920,7 +216267,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lucky-gems.fr/*
 *://*.lucky-knife.fr/*
 *://*.lucky-lost.fr/*
+*://*.lucky-luke-casino.fr/*
 *://*.lucky-luke.fr/*
+*://*.lucky-lukecasino.fr/*
 *://*.lucky-meslots.fr/*
 *://*.lucky-ones.fr/*
 *://*.lucky-pharaoh-spiel.de/*
@@ -215986,6 +216335,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lucky8-fra.fr/*
 *://*.lucky8-france.fr/*
 *://*.lucky8-jeux.fr/*
+*://*.lucky8-joue.fr/*
 *://*.lucky8-jouer.fr/*
 *://*.lucky8-la-france.fr/*
 *://*.lucky8-login.fr/*
@@ -215993,6 +216343,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lucky8-online.fr/*
 *://*.lucky8-play-olline.fr/*
 *://*.lucky8-promo.fr/*
+*://*.lucky81.fr/*
 *://*.lucky8casino-com.fr/*
 *://*.lucky8casino-fr.fr/*
 *://*.lucky8casino-france.fr/*
@@ -216868,6 +217219,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.luxury-shop.at/*
 *://*.luxury-vita.com/*
 *://*.luxurybagya.co/*
+*://*.luxurycasino-fr.fr/*
+*://*.luxurycasino1.fr/*
 *://*.luxurydupes.co.uk/*
 *://*.luxuryfurnishing.biz/*
 *://*.luxuryliving.xyz/*
@@ -216920,7 +217273,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lvaiev.bar/*
 *://*.lvapcm.rest/*
 *://*.lvawzk.tokyo/*
+*://*.lvbet-casino.fr/*
 *://*.lvbet.fr/*
+*://*.lvbetcasino.fr/*
 *://*.lvbgcu.cyou/*
 *://*.lvbngv.rest/*
 *://*.lvbtfw.tokyo/*
@@ -218908,6 +219263,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.macguegamadgai.tk/*
 *://*.machabcurimanle.cf/*
 *://*.machafasizahard.tk/*
+*://*.machance-enligne.fr/*
+*://*.machance1.fr/*
 *://*.machancebonus.fr/*
 *://*.machancecasino-official.fr/*
 *://*.machancecasino.fr/*
@@ -219274,6 +219631,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mafenphocongu.ga/*
 *://*.mafenveto.cf/*
 *://*.mafettdingradi.gq/*
+*://*.mafia-argent-reel.fr/*
+*://*.mafia-argent-reel1.fr/*
+*://*.mafia-argentreel.fr/*
 *://*.mafia-bonus.fr/*
 *://*.mafia-casino-fr.fr/*
 *://*.mafia-casino-france.fr/*
@@ -219282,10 +219642,16 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mafia-casinoofficiel.fr/*
 *://*.mafia-casinos.fr/*
 *://*.mafia-en-ligne.fr/*
+*://*.mafia-enligne-france.fr/*
+*://*.mafia-enligne-jouer.fr/*
 *://*.mafia-enligne.fr/*
+*://*.mafia-jouer-argentreel.fr/*
+*://*.mafia-jouer-enligne.fr/*
 *://*.mafia-online-play.fr/*
 *://*.mafia-online.fr/*
+*://*.mafia-onlinecasin0.fr/*
 *://*.mafia-play.fr/*
+*://*.mafia-sinscrire.fr/*
 *://*.mafia2-online.fr/*
 *://*.mafiacasino-fr.fr/*
 *://*.mafiacasino-france.fr/*
@@ -219497,8 +219863,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.maghypobelo.tk/*
 *://*.magiaac.bar/*
 *://*.magiata.eu/*
+*://*.magic-bird.fr/*
 *://*.magic-flight.fr/*
 *://*.magic-win.fr/*
+*://*.magic-wincasino.fr/*
 *://*.magical-spin-casino.fr/*
 *://*.magical-spin-casinos.fr/*
 *://*.magical-spincasino.fr/*
@@ -219508,6 +219876,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.magicaldeals.shop/*
 *://*.magicaldefinition.xyz/*
 *://*.magicallyspecification.com/*
+*://*.magicalspin-en-ligne.fr/*
+*://*.magicalspin-enligne.fr/*
 *://*.magicalspin-france.fr/*
 *://*.magicalspin-online.fr/*
 *://*.magicalspin24.fr/*
@@ -219528,18 +219898,25 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.magicianoptimisticbeard.com/*
 *://*.magicmaman.com/*
 *://*.magicode.me/*
+*://*.magicplanet.fr/*
+*://*.magicplanetcasino.fr/*
 *://*.magicplayzone.com/*
 *://*.magicpotionoutletstore.shop/*
 *://*.magicrea.fr/*
+*://*.magicred.fr/*
+*://*.magicredcasino.fr/*
 *://*.magicsoninlaw.com/*
 *://*.magicstudio.com/*
 *://*.magicstudio.com/*
 *://*.magicwandshop.de/*
+*://*.magicwin-casino.fr/*
 *://*.magicwin-fr.fr/*
 *://*.magicwin1.fr/*
 *://*.magicwincasino.fr/*
 *://*.magicwinfr.fr/*
 *://*.magicwinonline.fr/*
+*://*.magicwins-casino.fr/*
+*://*.magicwinscasino.fr/*
 *://*.magicworld.xyz/*
 *://*.magikdepotfrance.fr/*
 *://*.maginp.com/*
@@ -220233,7 +220610,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.majeoutlet.fr/*
 *://*.majesolde.fr/*
 *://*.majespaceperson.fr/*
+*://*.majestic-slots-casino.fr/*
 *://*.majestic-slots-online.fr/*
+*://*.majestic-slotscasino.fr/*
 *://*.majesticinsensitive.com/*
 *://*.majesticliked.com/*
 *://*.majesticslot.fr/*
@@ -220488,6 +220867,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.maljeffnichathidy.tk/*
 *://*.malkatours.ru/*
 *://*.malkuptlongcutola.gq/*
+*://*.mall.gresholm.com/*
 *://*.mall0530.com/*
 *://*.mall0539.com/*
 *://*.mall0635.com/*
@@ -221690,6 +222070,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.market.glenleigha.com/*
 *://*.market.livaxxen.org/*
 *://*.market.silverbournea.com/*
+*://*.market.stonebournea.com/*
 *://*.market.westfieldon.com/*
 *://*.market24prime.shop/*
 *://*.market2trade.com/*
@@ -222344,6 +222725,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.matabrolidock.ga/*
 *://*.matacharsimi.cf/*
 *://*.mataderliguabma.cf/*
+*://*.matadorbet.fr/*
+*://*.matadorbetcasino.fr/*
 *://*.matagelar.tk/*
 *://*.matalehygef.ml/*
 *://*.matalpoundnolpa.tk/*
@@ -222791,6 +223174,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mawysboaqucons.tk/*
 *://*.max-apteka.pl/*
 *://*.max-berg.com/*
+*://*.max-bet-casino.fr/*
+*://*.max-betcasino.fr/*
 *://*.max-healthcarerx.com/*
 *://*.max-hotel.ro/*
 *://*.max-prime.fr/*
@@ -222822,8 +223207,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.maxh5t.cyou/*
 *://*.maxhard.xyz/*
 *://*.maxi-markt.com/*
+*://*.maxibet-casino.fr/*
 *://*.maxibet-fr.fr/*
 *://*.maxibet.fr/*
+*://*.maxibetcasino.fr/*
 *://*.maxibets.fr/*
 *://*.maxicom.ga/*
 *://*.maxiffot.fr/*
@@ -223953,6 +224340,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mediperdi.tk/*
 *://*.mediplanet.fr/*
 *://*.mediplus-berlin.de/*
+*://*.medirao.com/*
 *://*.medirezept.net/*
 *://*.medisirstiklas.eu/*
 *://*.medisite.fr/*
@@ -224138,6 +224526,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mega-prize-area8.life/*
 *://*.mega-prize-area9.life/*
 *://*.mega-win-fr.fr/*
+*://*.mega-wincasino.fr/*
 *://*.mega6.com/*
 *://*.megaballcasino.fr/*
 *://*.megabet-casino.fr/*
@@ -224155,6 +224544,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.megabonus-point9.life/*
 *://*.megabookcasino.fr/*
 *://*.megabooru.com/*
+*://*.megacasino-fr.fr/*
+*://*.megacasino1.fr/*
 *://*.megaccix.web.app/*
 *://*.megacix.com/*
 *://*.megacomsoycom.tk/*
@@ -224210,6 +224601,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.megawin-casino-999.fr/*
 *://*.megawin-casino-france.fr/*
 *://*.megawin-casinos.fr/*
+*://*.megawin-enligne.fr/*
 *://*.megawin-fr.fr/*
 *://*.megawin-france.fr/*
 *://*.megawincas1no.fr/*
@@ -225435,6 +225827,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.merknalarecsi.cf/*
 *://*.merksoncha.tk/*
 *://*.merktertioxi.web.app/*
+*://*.merkur-casino.fr/*
+*://*.merkurcasino.fr/*
 *://*.merkwelltoddbepo.ml/*
 *://*.merlaigrapurvedli.ml/*
 *://*.merlamifomu.ml/*
@@ -227521,6 +227915,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.milafeba.tk/*
 *://*.milahaimujhe.com/*
 *://*.milaikas.dk/*
+*://*.milanbahis.fr/*
+*://*.milanbahiscasino.fr/*
 *://*.milanlyndwranexsa.ml/*
 *://*.milano-horny4love.space/*
 *://*.milano-pizzaservice-neumarkt.de/*
@@ -227673,10 +228069,14 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.millihenry.space/*
 *://*.millilalemi.ga/*
 *://*.millimeterskeptical.biz/*
+*://*.million-casino.fr/*
 *://*.million-fr.fr/*
 *://*.million-recht.de/*
+*://*.millionaire-casino.fr/*
+*://*.millionairecasino.fr/*
 *://*.millionaireevaporatewealth.com/*
 *://*.millioncasino.fr/*
+*://*.millioncasino1.fr/*
 *://*.millioncaveau.it/*
 *://*.milliondollarcreators.com/*
 *://*.millioner-casino-france.fr/*
@@ -228718,6 +229118,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mission-internet.fr/*
 *://*.missionacceptstate.biz/*
 *://*.missiondayroomnumbers.bar/*
+*://*.missiondiscount-pro.fr/*
 *://*.missionfactless.biz/*
 *://*.missionhoarfrost.com/*
 *://*.missionspeoples.biz/*
@@ -230319,6 +230720,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.modernswantrace.bar/*
 *://*.moderoosn.xyz/*
 *://*.moderwear.shop/*
+*://*.modesacs.fr/*
 *://*.modeschulte.de/*
 *://*.modestogold.com/*
 *://*.modestselfevident.com/*
@@ -231230,6 +231632,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.monachangspamopry.tk/*
 *://*.monaco-jack-fr.fr/*
 *://*.monaco-jack.fr/*
+*://*.monacobet.fr/*
+*://*.monacobetcasino.fr/*
 *://*.monacojack-casino.fr/*
 *://*.monacojack-fr.fr/*
 *://*.monacojack2.fr/*
@@ -232441,6 +232845,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.montors.my.id/*
 *://*.montowalatse.cf/*
 *://*.montp3.fr/*
+*://*.montparnassetour.fr/*
 *://*.montparvie-v-gestion.com/*
 *://*.montpelier.fr/*
 *://*.montpellierfc.fr/*
@@ -232454,6 +232859,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.montrepas-cher.fr/*
 *://*.montreremarli.ml/*
 *://*.montrereplique.to/*
+*://*.montrerepliquehomme.fr/*
+*://*.montrerepliqueluxe.fr/*
 *://*.montres-intelligentes.com/*
 *://*.montresfrance.fr/*
 *://*.montreslip.fr/*
@@ -233005,6 +233412,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mossransaliwhitt.ml/*
 *://*.mosssoftprovcarta.tk/*
 *://*.most-advanced-vpn.com/*
+*://*.most-bet-casino.fr/*
+*://*.most-betcasino.fr/*
 *://*.mostazoaptoare.net/*
 *://*.mostbet-fr-win.fr/*
 *://*.mostbetcasino.fr/*
@@ -234108,6 +234517,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mrfw4t.cyou/*
 *://*.mrg5ijb.tokyo/*
 *://*.mrgjuik.tokyo/*
+*://*.mrgreen-casino.fr/*
+*://*.mrgreen1.fr/*
 *://*.mrgreenfrance.fr/*
 *://*.mrgtnh9.cyou/*
 *://*.mrh3il.cyou/*
@@ -234168,6 +234579,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mrpunter-fr.fr/*
 *://*.mrpunter1.fr/*
 *://*.mrpuoe.bar/*
+*://*.mrq-casino.fr/*
+*://*.mrqcasino.fr/*
 *://*.mrqftii.bar/*
 *://*.mrqidr.shop/*
 *://*.mrqrzi.shop/*
@@ -234201,6 +234614,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mrununprefinsug.ml/*
 *://*.mruunzm.tokyo/*
 *://*.mrvegas-casino.fr/*
+*://*.mrvegas-fr.fr/*
+*://*.mrvegas1.fr/*
 *://*.mrvpjmg.bar/*
 *://*.mrvwje.tokyo/*
 *://*.mrw2qn.cyou/*
@@ -234216,6 +234631,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mrwsjl.bar/*
 *://*.mrwzot.rest/*
 *://*.mrx-bet-casino.fr/*
+*://*.mrx-betcasino.fr/*
 *://*.mrx-emploi-ouest.fr/*
 *://*.mrx0k2.cyou/*
 *://*.mrx0q78.cyou/*
@@ -239015,6 +239431,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.napokirslacums.tk/*
 *://*.napoleon-fr.fr/*
 *://*.napoleonarets.web.app/*
+*://*.napoleoncasino-fr.fr/*
+*://*.napoleoncasino1.fr/*
 *://*.napoleonjeux.fr/*
 *://*.napoleonrabatt.com/*
 *://*.napoli-sexysexytime.space/*
@@ -240884,6 +241302,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.neo2web.com/*
 *://*.neo43.tokyo/*
 *://*.neo67i.cyou/*
+*://*.neobet-casino.fr/*
+*://*.neobetcasino.fr/*
 *://*.neoblacocophsup.cf/*
 *://*.neobliccamtellpas.cf/*
 *://*.neoblogchordingfe.ga/*
@@ -241010,7 +241430,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.neotadesvewelno.ml/*
 *://*.neotatkereg.cf/*
 *://*.neoteasegard.tk/*
-*://*.neotechix.com/*
 *://*.neotiahizkadan.ga/*
 *://*.neotibosleni.ml/*
 *://*.neotihithandreac.ga/*
@@ -241414,6 +241833,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.net-abonnement-regulation.fr/*
 *://*.net-auction.buzz/*
 *://*.net-best-hd.buzz/*
+*://*.net-betcasino.fr/*
 *://*.net-boat.com/*
 *://*.net-cam-fuck.buzz/*
 *://*.net-clip-wap.buzz/*
@@ -241481,6 +241901,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.netbapergillking.cf/*
 *://*.netbarnwindphota.ml/*
 *://*.netbergterrikavic.cf/*
+*://*.netbet1.fr/*
 *://*.netbeviwhoscthes.ml/*
 *://*.netbfelofawhelu.ml/*
 *://*.netblogweb.agency/*
@@ -248142,6 +248563,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.noveteadram.com/*
 *://*.novexa.sbs/*
 *://*.novexpert.ee/*
+*://*.novibet-casino.fr/*
+*://*.novibetcasino.fr/*
 *://*.novidilopons.ml/*
 *://*.noviestore.com/*
 *://*.novifashion.de/*
@@ -248161,6 +248584,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.novo-nakupovanje.cam/*
 *://*.novodenarja.today/*
 *://*.novohair.ru/*
+*://*.novoline-casino.fr/*
+*://*.novolinecasino.fr/*
 *://*.novolo.shop/*
 *://*.novopub.xyz/*
 *://*.novores.de/*
@@ -249856,6 +250281,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.nvbonus.fr/*
 *://*.nvbvpe.rest/*
 *://*.nvc85m.shop/*
+*://*.nvcasino-en-ligne.fr/*
 *://*.nvcasino-fr.fr/*
 *://*.nvcasino-france.fr/*
 *://*.nvcasino-login.fr/*
@@ -254372,6 +254798,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.olybetcasino.fr/*
 *://*.olybetcasinos.fr/*
 *://*.olybets.fr/*
+*://*.olybetscasino.fr/*
 *://*.olycracboydis.ga/*
 *://*.olyjoi.cyou/*
 *://*.olylb1.cyou/*
@@ -254388,6 +254815,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.olympe-casino1.fr/*
 *://*.olympe-casinofr.fr/*
 *://*.olympe-casinos.fr/*
+*://*.olympe-en-ligne.fr/*
+*://*.olympe-enligne.fr/*
 *://*.olympe-prime.fr/*
 *://*.olympebonus.fr/*
 *://*.olympecasino-france.fr/*
@@ -254970,6 +255399,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ondrejhanel.eu/*
 *://*.ondusaltwarmbe.ga/*
 *://*.ondyiv.tokyo/*
+*://*.one-casino.fr/*
 *://*.one-clean.de/*
 *://*.one-fashions.com/*
 *://*.one-new-message-amazing.com/*
@@ -254986,6 +255416,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.onecall.xyz/*
 *://*.onecalldelivery.xyz/*
 *://*.onecar.biz.id/*
+*://*.onecasino1.fr/*
 *://*.onecharter.it/*
 *://*.oneclick-fr.fr/*
 *://*.oneclickmoebel.de/*
@@ -255826,6 +256257,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.onvotabbotip.ml/*
 *://*.onvsro.rest/*
 *://*.onwebvicengamo.tk/*
+*://*.onwin.fr/*
+*://*.onwincasino.fr/*
 *://*.onws88m.tokyo/*
 *://*.onxfzqt.tokyo/*
 *://*.onxhpj.shop/*
@@ -256577,6 +257010,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.optherveverpa.gq/*
 *://*.opti-hr.ee/*
 *://*.opti-nova.net/*
+*://*.optibet-casino.fr/*
+*://*.optibetcasino.fr/*
 *://*.optichostsolutionsvadgw2o1.biz/*
 *://*.optichostsolutionsxm28vhod.biz/*
 *://*.opticlegacy.com/*
@@ -261888,8 +262323,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.paevanderero.gq/*
 *://*.paewhacornacon.gq/*
 *://*.paexilsoranpo.ml/*
+*://*.paf-casino.fr/*
 *://*.pafarmpertulastdist.cf/*
 *://*.pafasenrebi.tk/*
+*://*.pafcasino.fr/*
 *://*.pafelanmughbacrea.cf/*
 *://*.paffeholz.com/*
 *://*.pafhcf.bar/*
@@ -263185,7 +263622,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.parions-sport-online.fr/*
 *://*.parions-sport-promo.fr/*
 *://*.parions-sportt.fr/*
+*://*.parionssport-casino.fr/*
 *://*.parionssport7.fr/*
+*://*.parionssportcasino.fr/*
 *://*.parionssportfr.fr/*
 *://*.parionweb.fr/*
 *://*.parionwebs.fr/*
@@ -263237,6 +263676,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.parissaintgermainstore.fr/*
 *://*.parissportifs-enligne.fr/*
 *://*.parissportifshorsarjel.fr/*
+*://*.parisvip-casino.fr/*
+*://*.parisvip1.fr/*
 *://*.pariwencong.cf/*
 *://*.parjijujets.ml/*
 *://*.parjogob.ml/*
@@ -263695,7 +264136,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.partobasve.tk/*
 *://*.partopondceba.tk/*
 *://*.partoracava.cf/*
+*://*.partouche-enligne.fr/*
 *://*.partouche-pasino.fr/*
+*://*.partouche1.fr/*
 *://*.partouchefr.fr/*
 *://*.partouchefrance.fr/*
 *://*.partouchepasino.fr/*
@@ -263798,6 +264241,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.party-tent.pl/*
 *://*.partyardsownskins.biz/*
 *://*.partybra.com/*
+*://*.partycasino-fr.fr/*
+*://*.partycasino1.fr/*
 *://*.partycrewz.com/*
 *://*.partyd.cc/*
 *://*.partydekorabatt.com/*
@@ -263807,7 +264252,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.partying.xyz/*
 *://*.partyingapplied.com/*
 *://*.partyingconfirm.com/*
+*://*.partypoker-casino.fr/*
 *://*.partypoker-fr.fr/*
+*://*.partypoker1.fr/*
 *://*.partypokercasino.fr/*
 *://*.partypokers.fr/*
 *://*.partyprintables.com.au/*
@@ -266422,6 +266869,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.pepperdyne.com/*
 *://*.peppermayofr.fr/*
 *://*.peppermill-casino.fr/*
+*://*.peppermill-fr.fr/*
+*://*.peppermill1.fr/*
 *://*.peppermillcasino1.fr/*
 *://*.peppermillcasino777.fr/*
 *://*.peppermillcasinoapp.fr/*
@@ -270741,6 +271190,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.plajantafel.cf/*
 *://*.plakgangresrochil.gq/*
 *://*.plameco-decken.info/*
+*://*.plan-bet.fr/*
 *://*.plan-prime.fr/*
 *://*.plan-vitale.fr/*
 *://*.planable.best/*
@@ -270757,6 +271207,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.planatunym.ml/*
 *://*.planbatthebli.ga/*
 *://*.planbe.xyz/*
+*://*.planbet-casino.fr/*
 *://*.planbet.fr/*
 *://*.planbetcasino.fr/*
 *://*.planbringoverlot.biz/*
@@ -271207,6 +271658,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.playmojo-casino.fr/*
 *://*.playmojo.fr/*
 *://*.playmojocasino.fr/*
+*://*.playojo-casino.fr/*
+*://*.playojo1.fr/*
 *://*.playojocasino.fr/*
 *://*.playoncequestions.biz/*
 *://*.playovi.eu/*
@@ -271216,6 +271669,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.playpro.fr/*
 *://*.playregal-casino1.fr/*
 *://*.playregal-casinos.fr/*
+*://*.playregal-en-ligne.fr/*
+*://*.playregal-enligne.fr/*
 *://*.playregal-fr.fr/*
 *://*.playregal-france.fr/*
 *://*.playregal-online.fr/*
@@ -271234,6 +271689,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.playsons.my.id/*
 *://*.playsstudentsalways.biz/*
 *://*.playstaition.com/*
+*://*.playstar-casino.fr/*
+*://*.playstarcasino.fr/*
 *://*.playstation-boome.myshopify.com/*
 *://*.playstation-boomer.myshopify.com/*
 *://*.playstationgamer.buzz/*
@@ -271249,6 +271706,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.playtronia.com/*
 *://*.playtube.cc/*
 *://*.playtv.es/*
+*://*.playuzu-casino.fr/*
+*://*.playuzucasino.fr/*
 *://*.playvenix.de/*
 *://*.playwelcome.site/*
 *://*.playwithsocialmedia.fr/*
@@ -272441,6 +272900,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.pohoucoocompri.gq/*
 *://*.pohoulenethicont.tk/*
 *://*.pohpex.cyou/*
+*://*.poiago.com/*
 *://*.poiann.xyz/*
 *://*.poibarcaxysfa.ml/*
 *://*.poibarziehynlo.tk/*
@@ -272733,7 +273193,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.pokerjohhterti.tk/*
 *://*.pokermatchh.fr/*
 *://*.pokers-match.fr/*
+*://*.pokerstars-casino.fr/*
 *://*.pokerstars-online.com/*
+*://*.pokerstars1.fr/*
 *://*.pokerstarsenligne.fr/*
 *://*.pokerstarsfrance.fr/*
 *://*.pokerstarz.fr/*
@@ -273289,6 +273751,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.poovdy.rest/*
 *://*.poowagggitherti.ml/*
 *://*.poozgi.cyou/*
+*://*.pop-casino.fr/*
 *://*.popact.info/*
 *://*.popagrieparma.tk/*
 *://*.popalog.com/*
@@ -273302,6 +273765,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.popburamsi.tk/*
 *://*.popbuzecumeathat.tk/*
 *://*.popcartruck.com/*
+*://*.popcasino.fr/*
 *://*.popcochibepor.tk/*
 *://*.popcorenbbook.web.app/*
 *://*.popcorn-flix.fr/*
@@ -274057,6 +274521,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.porttragindijackmen.tk/*
 *://*.porttrepbigarm.ml/*
 *://*.portuense.eu/*
+*://*.portugal-casino.fr/*
+*://*.portugalcasino.fr/*
 *://*.portugalnewstoday.com/*
 *://*.porturnfocotiry.cf/*
 *://*.portvacepcuna.cf/*
@@ -276296,12 +276762,14 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.presterbcarbreroo.ga/*
 *://*.presterhighprimiz.ga/*
 *://*.presterngersdecga.gq/*
+*://*.prestige-casino.fr/*
 *://*.prestige-container.com/*
 *://*.prestige-estate.pl/*
 *://*.prestige-nails.fr/*
 *://*.prestige-outlet.fr/*
 *://*.prestige-vin.com/*
 *://*.prestigebanq.com/*
+*://*.prestigecasino1.fr/*
 *://*.prestigekids.eu/*
 *://*.prestigemetalle.de/*
 *://*.prestigemotorimports.com/*
@@ -276589,6 +277057,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.prilintheneno.tk/*
 *://*.prilovroba.ga/*
 *://*.prim-tourbillon.cz/*
+*://*.primabat.fr/*
 *://*.primabataladep.gq/*
 *://*.primacgradkombace.gq/*
 *://*.primada.de/*
@@ -276609,6 +277078,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.primanworcesi.tk/*
 *://*.primanymab.tk/*
 *://*.primaphreyrisde.ga/*
+*://*.primaplay.fr/*
+*://*.primaplaycasino.fr/*
 *://*.primapzamadi.ga/*
 *://*.primarcatap.tk/*
 *://*.primariamalucuflori.ro/*
@@ -277038,6 +277509,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.princeali-casino-fr.fr/*
 *://*.princeali-casino1.fr/*
 *://*.princeali-casinos.fr/*
+*://*.princeali-en-ligne.fr/*
+*://*.princeali-enligne.fr/*
 *://*.princeali-online.fr/*
 *://*.princealicasino-fr.fr/*
 *://*.princealicasino-france.fr/*
@@ -286378,6 +286851,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.quickwincasinopromocode.fr/*
 *://*.quickwinfrance.fr/*
 *://*.quickwinofficiel.fr/*
+*://*.quickz-casino.fr/*
+*://*.quickzcasino.fr/*
 *://*.quiclamlacnexttricma.ga/*
 *://*.quicleanexoutor.cf/*
 *://*.quiclemwertuhand.tk/*
@@ -286667,6 +287142,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.quinimgekene.gq/*
 *://*.quinisotiralmorr.tk/*
 *://*.quinitawi.ga/*
+*://*.quinnbet.fr/*
+*://*.quinnbetcasino.fr/*
 *://*.quinnmo.xyz/*
 *://*.quinobucmasa.ga/*
 *://*.quinohampgede.ga/*
@@ -293263,7 +293740,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.registerglobal.site/*
 *://*.registerk.com/*
 *://*.registerofyachts.org/*
-*://*.registerp.com/*
 *://*.registerswoop.com/*
 *://*.registerzentrale.de/*
 *://*.registrar-servers2lhitn6.biz/*
@@ -296098,6 +296574,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.reszuegibsi.tk/*
 *://*.reszynsna.tk/*
 *://*.ret1gs.tokyo/*
+*://*.retabet-casino.fr/*
+*://*.retabetcasino.fr/*
 *://*.retabtabarro.gq/*
 *://*.retabtemphosrina.tk/*
 *://*.retachacymingurl.tk/*
@@ -296995,6 +297473,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rh1mzc.cyou/*
 *://*.rh2mou.cyou/*
 *://*.rh36m1.cyou/*
+*://*.rh3e2v9ia.com/*
 *://*.rh3fpg.cyou/*
 *://*.rh3gx7pwl.shop/*
 *://*.rh3lkp.tokyo/*
@@ -299649,7 +300128,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rivo1.fr/*
 *://*.rivocas1no-fr.fr/*
 *://*.rivocas1no.fr/*
+*://*.rivocasino-fr.fr/*
 *://*.rivocasino.fr/*
+*://*.rivocasino1.fr/*
 *://*.rivonalto.cf/*
 *://*.rivonza.de/*
 *://*.rivorna.de/*
@@ -299704,11 +300185,15 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rizew.com/*
 *://*.rizin.pl/*
 *://*.rizipeconsnongu.cf/*
+*://*.rizk-casino.fr/*
+*://*.rizkcasino.fr/*
 *://*.rizsenodero.cf/*
 *://*.rizycimo.ga/*
 *://*.rizz-casino-fr.fr/*
 *://*.rizz-casino.fr/*
 *://*.rizz-casinos.fr/*
+*://*.rizz-enligne.fr/*
+*://*.rizz1.fr/*
 *://*.rizzatokuechen.de/*
 *://*.rizzcasino-fr.fr/*
 *://*.rizzcasino.fr/*
@@ -301080,6 +301565,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rohypmerecon.ml/*
 *://*.roiberbestconday.gq/*
 *://*.roibetcasino.fr/*
+*://*.roibets-casino.fr/*
+*://*.roibetscasino.fr/*
 *://*.roibetsfrance.fr/*
 *://*.roibifima.tk/*
 *://*.roibranenconbett.tk/*
@@ -301156,6 +301643,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rokensmupertimb.tk/*
 *://*.rokerkole.ml/*
 *://*.rokersupppresre.tk/*
+*://*.roketbet.fr/*
+*://*.roketbetcasino.fr/*
 *://*.rokh12.cyou/*
 *://*.rokifans.xyz/*
 *://*.rokirofraridow.tk/*
@@ -301243,7 +301732,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rollangel.com/*
 *://*.rollaperse.tk/*
 *://*.rollbackhear.com/*
+*://*.rollbit-enligne.fr/*
 *://*.rollbit-fr.fr/*
+*://*.rollbit1.fr/*
 *://*.rollbitcasino.fr/*
 *://*.rollbitcasinoapp.fr/*
 *://*.rollbitcasinobet.fr/*
@@ -302386,6 +302877,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.royal-casino.fr/*
 *://*.royala.fr/*
 *://*.royalacecasino.fr/*
+*://*.royalbet-casino.fr/*
+*://*.royalbetcasino.fr/*
 *://*.royalcaninfrance.fr/*
 *://*.royalcarebean.com/*
 *://*.royalcarillon.dk/*
@@ -302412,6 +302905,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.royalpfoten.de/*
 *://*.royalrabbitcasino-online.fr/*
 *://*.royalrelentcorrespondence.com/*
+*://*.royalrookcasino.fr/*
 *://*.royalsbarbq.dk/*
 *://*.royalsharesonline.online/*
 *://*.royalspinzcasino.fr/*
@@ -303226,8 +303720,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rtoxjj.bar/*
 *://*.rtoxjj.rest/*
 *://*.rtoyandersson.gq/*
+*://*.rtp-casino.fr/*
 *://*.rtp61pw.cyou/*
 *://*.rtpaqv.shop/*
+*://*.rtpcasino.fr/*
 *://*.rtpdbjm.cyou/*
 *://*.rtpslpa.cn/*
 *://*.rtqh7c.cyou/*
@@ -303899,6 +304395,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rustbarmejelba.ga/*
 *://*.rustbithelneublac.ml/*
 *://*.rustbonus.site/*
+*://*.rustchance-casino.fr/*
+*://*.rustchancecasino.fr/*
 *://*.rustconsteczpresmei.ml/*
 *://*.rustdesk.co.nz/*
 *://*.rustdesk.io/*
@@ -306219,6 +306717,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sagzp7.cyou/*
 *://*.sahabatdaihatsu.bar/*
 *://*.sahabatdaihatsu.rest/*
+*://*.sahabet.fr/*
+*://*.sahabetcasino.fr/*
 *://*.sahabifisa.tk/*
 *://*.sahacudemit.tk/*
 *://*.sahafenstracsedu.ga/*
@@ -307183,6 +307683,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sanitaer-meier.de/*
 *://*.sanitaerbox.com/*
 *://*.sanitaerfreude.com/*
+*://*.sanitaetshausshop.com/*
 *://*.sanitasiteofficiel.fr/*
 *://*.sanitatsbedarf24.com/*
 *://*.sanitiser.xyz/*
@@ -307190,6 +307691,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sanjanocardstar.ml/*
 *://*.sankafecsing.tk/*
 *://*.sankinggallcorara.ga/*
+*://*.sankracasino-fr.fr/*
+*://*.sankracasino1.fr/*
 *://*.sanktuarium-tomaszow.eu/*
 *://*.sankvershachundgand.tk/*
 *://*.sanlalimerott.gq/*
@@ -307565,6 +308068,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sarantoya.dk/*
 *://*.sararsawa.web.app/*
 *://*.sarasazo.it/*
+*://*.sarasohaus.com/*
 *://*.sarasotarent.dk/*
 *://*.sarasygi.tk/*
 *://*.saratovaluminstroy.ru/*
@@ -308678,6 +309182,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.scarofexuntherca.tk/*
 *://*.scarovimtristick.tk/*
 *://*.scaroxvimerfa.ml/*
+*://*.scarpa-de.myshopify.com/*
 *://*.scarpa-france.fr/*
 *://*.scarpaosterreich.at/*
 *://*.scarpassmycolresap.tk/*
@@ -309491,6 +309996,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sconumenspacon.tk/*
 *://*.sconureronret.tk/*
 *://*.sconyhercephi.tk/*
+*://*.scooore.fr/*
+*://*.scooorecasino.fr/*
 *://*.scoopalattima.ml/*
 *://*.scoopelec.fr/*
 *://*.scoopleeasofusspin.tk/*
@@ -316662,9 +317169,12 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.simsinofrance.fr/*
 *://*.simsinos-casino1.fr/*
 *://*.simsinos-casinos.fr/*
+*://*.simsinos-en-ligne.fr/*
 *://*.simsinos-fra.fr/*
 *://*.simsinos-france.fr/*
 *://*.simsinos-french.fr/*
+*://*.simsinos-official.fr/*
+*://*.simsinos-officiel.fr/*
 *://*.simsinos-online.fr/*
 *://*.simsinos1.fr/*
 *://*.simsinos2.fr/*
@@ -318547,6 +319057,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.skyballoons.cz/*
 *://*.skybar.kz/*
 *://*.skybdeconxentlinkral.ga/*
+*://*.skybet-casino.fr/*
 *://*.skybetcasino.fr/*
 *://*.skybexfonirox.tk/*
 *://*.skybextilalib.tk/*
@@ -318670,6 +319181,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.skytorinin.tk/*
 *://*.skytrax.xyz/*
 *://*.skyvault.ltd/*
+*://*.skyvegas.fr/*
+*://*.skyvegascasino.fr/*
 *://*.skyvxh.rest/*
 *://*.skywarerexdumse.ml/*
 *://*.skywatmure.tk/*
@@ -319076,6 +319589,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sllate.fr/*
 *://*.sllfgm.bar/*
 *://*.slloap.rest/*
+*://*.sllotlair.fr/*
 *://*.sllrbi.tokyo/*
 *://*.sllwvu.tokyo/*
 *://*.slmbip.rest/*
@@ -319105,6 +319619,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.slogterpsulthove.tk/*
 *://*.sloi1.com/*
 *://*.slon.online/*
+*://*.slootlair.fr/*
 *://*.slopagpebelmont.ga/*
 *://*.slopdihochtehaw.ga/*
 *://*.slopemower.xyz/*
@@ -319135,6 +319650,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.slotapabvehur.tk/*
 *://*.slotasberhygird.gq/*
 *://*.slotbunnycasino.fr/*
+*://*.slotcasino-fr.fr/*
+*://*.slotcasino1.fr/*
 *://*.sloteskasosi.ga/*
 *://*.slotewacan.tk/*
 *://*.slotexo-fr.fr/*
@@ -319142,7 +319659,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.slotexofr.fr/*
 *://*.slotexoofficiel.fr/*
 *://*.slotexpress-casino.fr/*
+*://*.slotexpress-fr.fr/*
 *://*.slotexpress-mobile.fr/*
+*://*.slotexpress1.fr/*
 *://*.slotfeathers.fr/*
 *://*.slotgem-casino.fr/*
 *://*.slotgem.fr/*
@@ -319194,7 +319713,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.slotougpelis.tk/*
 *://*.slotozen.fr/*
 *://*.slotpal.fr/*
+*://*.slotpalace-casino.fr/*
 *://*.slotpalace.fr/*
+*://*.slotpalacecasino.fr/*
 *://*.slotpalaces.fr/*
 *://*.slotra.fr/*
 *://*.slotravecasino.fr/*
@@ -323023,6 +323544,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spacee-nikel.fr/*
 *://*.spacefls.com/*
 *://*.spacefortuna-casinos.fr/*
+*://*.spacefortuna-en-ligne.fr/*
+*://*.spacefortuna-enligne.fr/*
 *://*.spacefortuna-fr.fr/*
 *://*.spacefortunacasinos.fr/*
 *://*.spacefortunafr.fr/*
@@ -324067,6 +324590,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spinbetter.club/*
 *://*.spinbetter.fr/*
 *://*.spinbetter.online/*
+*://*.spinbi.fr/*
+*://*.spinbicasino.fr/*
 *://*.spinbit-casino.fr/*
 *://*.spinboggpyhtuhena.ga/*
 *://*.spinbos.fr/*
@@ -324107,6 +324632,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spindynasty-officiel.fr/*
 *://*.spindynasty1.fr/*
 *://*.spindynastycasino-fr.fr/*
+*://*.spindynastycasino.fr/*
 *://*.spindynastyfrance.fr/*
 *://*.spinello.fr/*
 *://*.spinemcopondstuc.tk/*
@@ -324223,6 +324749,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spinmayacasino.fr/*
 *://*.spinmillion-casino.fr/*
 *://*.spinmillion-com.fr/*
+*://*.spinmillion-en-ligne.fr/*
+*://*.spinmillion-enligne.fr/*
 *://*.spinmillion-france.fr/*
 *://*.spinmillion1.fr/*
 *://*.spinmillioncasino-fr.fr/*
@@ -324280,6 +324808,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spinpolo-casino.fr/*
 *://*.spinpolocasino.fr/*
 *://*.spinporreamopar.tk/*
+*://*.spinreelz.fr/*
+*://*.spinreelzcasino.fr/*
 *://*.spinresradictihat.cf/*
 *://*.spinriacaticu.gq/*
 *://*.spinrisecasino.fr/*
@@ -324306,6 +324836,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spinsbonus.fr/*
 *://*.spinsboss.fr/*
 *://*.spinsbro.fr/*
+*://*.spinscasino.fr/*
 *://*.spinscasinos.fr/*
 *://*.spinsdeluxe-casino.fr/*
 *://*.spinshadowpro.fr/*
@@ -324391,6 +324922,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spinvisynreleser.tk/*
 *://*.spinvoyagecasino.fr/*
 *://*.spinw.xyz/*
+*://*.spinwin-casino.fr/*
+*://*.spinwincasino.fr/*
 *://*.spinwinera-fr.fr/*
 *://*.spinxtremecasino.fr/*
 *://*.spinybet.fr/*
@@ -324763,6 +325296,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sportazacasinofrance.fr/*
 *://*.sportazacasinos.fr/*
 *://*.sportbagsshop.com/*
+*://*.sportbet-casino.fr/*
+*://*.sportbetcasino.fr/*
 *://*.sportbible.com/*
 *://*.sportbigsplacenumber.rest/*
 *://*.sportbike.ee/*
@@ -324782,6 +325317,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sportilha.com/*
 *://*.sportime.xyz/*
 *://*.sportingaltovicentino.it/*
+*://*.sportingbets.fr/*
+*://*.sportingbetscasino.fr/*
 *://*.sportingdog.ru/*
 *://*.sportinphoto.it/*
 *://*.sportitalia-bet.fr/*
@@ -326005,6 +326542,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.stake-casino1.fr/*
 *://*.stake-casino2.fr/*
 *://*.stake-casinos.fr/*
+*://*.stake-en-ligne.fr/*
+*://*.stake-enligne.fr/*
 *://*.stake-nl.fr/*
 *://*.stake-officiel.fr/*
 *://*.stake-online.fr/*
@@ -326288,6 +326827,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.stanley-cups.at/*
 *://*.stanley-cups.de/*
 *://*.stanley-france.fr/*
+*://*.stanleybet-casino.fr/*
+*://*.stanleybetcasino.fr/*
 *://*.stanleycup.com.de/*
 *://*.stanleycupfrance.fr/*
 *://*.stanleycupthailand.com/*
@@ -326416,8 +326957,12 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.staravnetlaza.cf/*
 *://*.staravphorasin.gq/*
 *://*.starballhou.ml/*
+*://*.starbet-casino.fr/*
+*://*.starbetcasino.fr/*
 *://*.starbucks.re/*
 *://*.starcabuzzcomlea.tk/*
+*://*.starcasino-enligne.fr/*
+*://*.starcasino-fr.fr/*
 *://*.starcasino1.fr/*
 *://*.starcasino2.fr/*
 *://*.starcedo.tk/*
@@ -326932,6 +327477,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.stax.bet/*
 *://*.staxino-casino-101.fr/*
 *://*.staxino-casino-888.fr/*
+*://*.staxino-en-ligne.fr/*
+*://*.staxino-enligne.fr/*
 *://*.staxino-france.fr/*
 *://*.staxinocasino.fr/*
 *://*.staxinofrance.fr/*
@@ -327570,6 +328117,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sticterbell.tk/*
 *://*.sticurince.ml/*
 *://*.sticwecdarighfibcoa.tk/*
+*://*.stiefelvia.com/*
 *://*.stienen-damast.de/*
 *://*.stiestonia.ee/*
 *://*.stifadpecisuses.tk/*
@@ -327982,6 +328530,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.stoicyeti.xyz/*
 *://*.stoiximan.fr/*
 *://*.stokdv.xyz/*
+*://*.stoked-casino.fr/*
+*://*.stokedcasino.fr/*
 *://*.stokinemedbathsorp.tk/*
 *://*.stokinovibenwhe.ga/*
 *://*.stokkefrance.fr/*
@@ -328250,6 +328800,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.store.aktuellerezensionen.de/*
 *://*.store.app-valley.vip/*
 *://*.store.kestrelby.com/*
+*://*.store.kingslora.com/*
 *://*.store.promomesh.com/*
 *://*.store.rosebournea.com/*
 *://*.store.useum.org/*
@@ -330996,12 +331547,16 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.superbox.xyz/*
 *://*.supercarplay.fr/*
 *://*.supercars.pro/*
+*://*.supercasino-fr.fr/*
+*://*.supercasino1.fr/*
 *://*.supercasino777.fr/*
 *://*.supercasinoapp.fr/*
 *://*.supercasinobonus.fr/*
 *://*.supercasinologin.fr/*
 *://*.supercasinoslot.fr/*
 *://*.supercasualdating.com/*
+*://*.supercat-casino.fr/*
+*://*.supercatcasino.fr/*
 *://*.supercbd.xyz/*
 *://*.superchanges.buzz/*
 *://*.superchaussure.fr/*
@@ -332537,6 +333092,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sweets7hustlerz.com/*
 *://*.sweetsaltysale.com/*
 *://*.sweetsatikindter.ml/*
+*://*.sweetsino-casino.fr/*
+*://*.sweetsinocasino.fr/*
 *://*.sweetsparadise.xyz/*
 *://*.sweettewyracpo.cf/*
 *://*.sweetunavin.tk/*
@@ -336003,6 +336560,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.talkrootsnensscor.tk/*
 *://*.talkshow.xyz/*
 *://*.talksocbeperphand.ga/*
+*://*.talksport.fr/*
+*://*.talksportcasino.fr/*
 *://*.talkstodaycasephysical.biz/*
 *://*.talksusemebar.tk/*
 *://*.talktalkmyaccount.co.uk/*
@@ -336323,6 +336882,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tanghobbfepacothe.ml/*
 *://*.tangholbamechond.ml/*
 *://*.tanghungturburu.ga/*
+*://*.tangiers.fr/*
+*://*.tangierscasino.fr/*
 *://*.tangjostderrofinti.gq/*
 *://*.tangleoccasion.com/*
 *://*.tanglimoblowb.tk/*
@@ -339309,6 +339870,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tempncaril.gq/*
 *://*.tempnegsubt.tk/*
 *://*.tempnonmostnewsto.cf/*
+*://*.tempobet.fr/*
+*://*.tempobetcasino.fr/*
 *://*.temporaryoffice.eu/*
 *://*.tempphiltheapeca.tk/*
 *://*.temppimomascars.ml/*
@@ -347189,6 +347752,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tipsmemilih.my.id/*
 *://*.tipsnorrflorserlo.tk/*
 *://*.tipsphichecwadsmasconf.tk/*
+*://*.tipsport-casino.fr/*
+*://*.tipsportcasino.fr/*
 *://*.tipsspeedercromun.gq/*
 *://*.tipsvacmonstroszu.ml/*
 *://*.tipswefeldschusin.cf/*
@@ -347203,7 +347768,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tipurpcorlittre.tk/*
 *://*.tipurtaralge.gq/*
 *://*.tipvortex.net/*
+*://*.tipwin-casino.fr/*
 *://*.tipwin-online.fr/*
+*://*.tipwincasino.fr/*
 *://*.tipwit.xyz/*
 *://*.tipwithsvirmocydo.tk/*
 *://*.tipytibackfritid.tk/*
@@ -348772,6 +349339,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.todaybusinesscreates.biz/*
 *://*.todaydesignspeople.de/*
 *://*.todaydownload.xyz/*
+*://*.todayhealthmatters.com/*
 *://*.todayil.com/*
 *://*.todaymarketdeal.com/*
 *://*.todaynumbermove.biz/*
@@ -349398,7 +349966,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tonwhegastwheelkanuss.tk/*
 *://*.tonwiralesgi.ml/*
 *://*.tony-bet.fr/*
+*://*.tonybet-casino.fr/*
 *://*.tonybet-casinofr.fr/*
+*://*.tonybetcasino.fr/*
 *://*.tonybiancoparis.fr/*
 *://*.tonysky.ru/*
 *://*.tonyspins-fr.fr/*
@@ -349644,6 +350214,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.topbrokersranking.com/*
 *://*.topbusinessvoipprovider.buzz/*
 *://*.topcashbackfr.fr/*
+*://*.topcasino-fr.fr/*
+*://*.topcasino1.fr/*
 *://*.topcasinosamazing.fr/*
 *://*.topcasinosbest.fr/*
 *://*.topcellular.it/*
@@ -349854,6 +350426,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.topworldnewstoday.com/*
 *://*.topworldsraffle.com/*
 *://*.topwvs.bar/*
+*://*.topx-casino.fr/*
+*://*.topxcasino.fr/*
 *://*.topxxxcams.xyz/*
 *://*.topxxxgirls.best/*
 *://*.topxxxn.best/*
@@ -350101,6 +350675,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tortuga.re/*
 *://*.tortuga5.fr/*
 *://*.tortugaa.fr/*
+*://*.tortugacasino-en-ligne.fr/*
+*://*.tortugacasino-enligne.fr/*
 *://*.tortugacasino-france.fr/*
 *://*.tortugacasino-online.fr/*
 *://*.tortugacasino365.fr/*
@@ -350116,6 +350692,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tortugaofficiel.fr/*
 *://*.tortugapromo.fr/*
 *://*.tortugas-casino.fr/*
+*://*.tortugass.fr/*
 *://*.tortystvisaper.tk/*
 *://*.toruletombcily.tk/*
 *://*.torumdifeta.cf/*
@@ -350218,6 +350795,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.totaladblocker.xyz/*
 *://*.totalanergies.fr/*
 *://*.totalav.com/*
+*://*.totalbet-casino.fr/*
+*://*.totalbetcasino.fr/*
+*://*.totalcasino-fr.fr/*
+*://*.totalcasino1.fr/*
 *://*.totalcasinoo.fr/*
 *://*.totalcasinos.fr/*
 *://*.totalcasinoss.fr/*
@@ -350290,6 +350871,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.totocasino.fr/*
 *://*.totoforrala.tk/*
 *://*.totogaming-casino.fr/*
+*://*.totogaming1.fr/*
 *://*.totogamingcasino.fr/*
 *://*.totogifthouse.com/*
 *://*.totohongkongpools4d.com/*
@@ -350320,7 +350902,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.touch-casinos.fr/*
 *://*.touchagilegoddess.com/*
 *://*.touchbgranomidlogli.ga/*
+*://*.touchcasino-enligne.fr/*
 *://*.touchcasino-fr.fr/*
+*://*.touchcasino1.fr/*
 *://*.touchcasinoapp.fr/*
 *://*.touchcasinobonus.fr/*
 *://*.touchcasinologo777.fr/*
@@ -352725,6 +353309,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.trend8540news.xyz/*
 *://*.trend9136porn.xyz/*
 *://*.trendaloo.com/*
+*://*.trendartikelwelt.de/*
 *://*.trendbet.fr/*
 *://*.trendboutiquekoln.de/*
 *://*.trendclipmag.agency/*
@@ -354184,6 +354769,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.trunthorbafoufag.ml/*
 *://*.trunulsaga.ml/*
 *://*.trunzerinin.ml/*
+*://*.truof.com/*
 *://*.trupharmacbd.com/*
 *://*.trupoynt.com/*
 *://*.truptihaberland.xyz/*
@@ -355285,6 +355871,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tumbduckrambcanmensle.tk/*
 *://*.tumbdukisspawafen.cf/*
 *://*.tumberland.com/*
+*://*.tumbet.fr/*
+*://*.tumbetcasino.fr/*
 *://*.tumbforalapi.tk/*
 *://*.tumbgacithem.gq/*
 *://*.tumbglenemacer.tk/*
@@ -360788,6 +361376,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.uni-assas.fr/*
 *://*.uni-avignon.fr/*
 *://*.uni-bet.fr/*
+*://*.uni-betcasino.fr/*
 *://*.uni-bordeaux.fr/*
 *://*.uni-bpclermont.fr/*
 *://*.uni-brest.fr/*
@@ -361014,6 +361603,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.unique.center/*
 *://*.uniquebonus.fr/*
 *://*.uniquecasina.fr/*
+*://*.uniquecasino-en-ligne.fr/*
+*://*.uniquecasino-enligne.fr/*
 *://*.uniquecasino-france.fr/*
 *://*.uniquecasino-official.fr/*
 *://*.uniquecasino3.fr/*
@@ -364609,6 +365200,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.uzzawwj.tokyo/*
 *://*.uzzddc.tokyo/*
 *://*.uzzmmw.tokyo/*
+*://*.v-bet-casino.fr/*
+*://*.v-betcasino.fr/*
 *://*.v-fanonlyswaqe.de/*
 *://*.v-museum.top/*
 *://*.v-onepharma.com/*
@@ -366064,7 +366657,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vavcji.tokyo/*
 *://*.vavcrkd.work/*
 *://*.vave-casinos.fr/*
+*://*.vavecasino-fr.fr/*
 *://*.vavecasino-official.fr/*
+*://*.vavecasino1.fr/*
 *://*.vavecasino3.fr/*
 *://*.vavecasino365.fr/*
 *://*.vavecasino366.fr/*
@@ -367870,6 +368465,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vegasplus-casino-888.fr/*
 *://*.vegasplus-casinos.fr/*
 *://*.vegasplus-com.fr/*
+*://*.vegasplus-en-ligne.fr/*
+*://*.vegasplus-enligne.fr/*
 *://*.vegasplus-fr.fr/*
 *://*.vegasplus-france.fr/*
 *://*.vegasplus-official.fr/*
@@ -370284,6 +370881,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.video-real-xcams.buzz/*
 *://*.video-sex-hd.buzz/*
 *://*.video-sexy-sexcams.agency/*
+*://*.video-slotscasino.fr/*
 *://*.video-streaming-app.com/*
 *://*.video-trend-movie.xyz/*
 *://*.video-trend-xcams.xyz/*
@@ -370368,6 +370966,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.videoprimeabo.fr/*
 *://*.videoprimevideo.fr/*
 *://*.videose.com/*
+*://*.videoslots-casino.fr/*
 *://*.videospiel-markt.de/*
 *://*.videosporn.xyz/*
 *://*.videossa.com/*
@@ -370780,11 +371379,13 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.viggle.ai/*
 *://*.viggo-casino.fr/*
 *://*.viggo-slots-casino.fr/*
+*://*.viggo-slotscasino.fr/*
 *://*.viggoslots-casino-1.fr/*
 *://*.viggoslots-casinoonline.fr/*
 *://*.viggoslots-casinos.fr/*
 *://*.viggoslots-france.fr/*
 *://*.viggoslots-official.fr/*
+*://*.viggoslots1.fr/*
 *://*.viggoslotscasino.fr/*
 *://*.viggoslotscasino1.fr/*
 *://*.viggoslotscasinofrance.fr/*
@@ -373903,6 +374504,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vincispinofficiel.fr/*
 *://*.vincispinonline.com/*
 *://*.vincispinonline.fr/*
+*://*.vincitu-casino.fr/*
+*://*.vincitucasino.fr/*
 *://*.vincompreseclire.ga/*
 *://*.vindckraftbarents.gq/*
 *://*.vindhem.eu/*
@@ -374345,6 +374948,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vipluckss.fr/*
 *://*.vipluckssfr.fr/*
 *://*.viply.my.id/*
+*://*.vipmonte-casino.fr/*
+*://*.vipmontecasino.fr/*
 *://*.vipnews24.eu/*
 *://*.vipnick.com/*
 *://*.vipohefurdisc.cf/*
@@ -374418,6 +375023,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.virestiotech.tk/*
 *://*.viretsignpene.tk/*
 *://*.virga.xyz/*
+*://*.virginbet-casino.fr/*
+*://*.virginbetcasino.fr/*
+*://*.virgingames-casino.fr/*
+*://*.virgingamescasino.fr/*
 *://*.virginhomeseller.com/*
 *://*.virginiatonight.com/*
 *://*.virgintedddy.xyz/*
@@ -374836,6 +375445,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.viuzdc.tokyo/*
 *://*.viv.im/*
 *://*.viva-design56.ru/*
+*://*.vivabet-casino.fr/*
+*://*.vivabetcasino.fr/*
 *://*.vivabikes.de/*
 *://*.vivaboosts.com/*
 *://*.vivaciousprinter.com/*
@@ -375207,10 +375818,12 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vl7iqw4.cyou/*
 *://*.vl9geay.cyou/*
 *://*.vl9lvlc.cyou/*
+*://*.vlad-casino.fr/*
 *://*.vlad-iv.ru/*
 *://*.vlada.live/*
 *://*.vladacorloka.tk/*
 *://*.vladadiphtheacipco.gq/*
+*://*.vladcasino1.fr/*
 *://*.vladcervswathofluo.tk/*
 *://*.vladliaceena.tk/*
 *://*.vladticlobstene.tk/*
@@ -377582,6 +378195,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vxirtq.bar/*
 *://*.vxjctw.tokyo/*
 *://*.vxjifx.bar/*
+*://*.vxjskiy.shop/*
 *://*.vxjzgr.tokyo/*
 *://*.vxk03ti.cyou/*
 *://*.vxk2kse.cyou/*
@@ -380457,6 +381071,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.wbcn5d.tokyo/*
 *://*.wbd8.cn/*
 *://*.wbdata.dk/*
+*://*.wbdhyer.shop/*
 *://*.wbduan.com/*
 *://*.wbdxxol.cyou/*
 *://*.wbdymm.tokyo/*
@@ -383898,6 +384513,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.wildwildcasino.fr/*
 *://*.wildwoodhosting6etee22d.biz/*
 *://*.wildwoodhostingzkbpda24.biz/*
+*://*.wildz-casino.fr/*
+*://*.wildz1.fr/*
 *://*.wildzcasino.fr/*
 *://*.wildzenligne.fr/*
 *://*.wildzibebiluro.tk/*
@@ -383952,7 +384569,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.williagfu.web.app/*
 *://*.william-barclay.com/*
 *://*.williamhill-casino.fr/*
+*://*.williamhill-fr.fr/*
 *://*.williamhill-online.fr/*
+*://*.williamhill1.fr/*
 *://*.williammcvicar.xyz/*
 *://*.williammoondds.com/*
 *://*.williamp.xyz/*
@@ -383965,6 +384584,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.willmaesn.xyz/*
 *://*.willmangmitgchram.cf/*
 *://*.willmansprogram.biz/*
+*://*.willms-forsttechnik.de/*
 *://*.willoilsareaespecially.buzz/*
 *://*.willpalavelpperit.tk/*
 *://*.willraretor.tk/*
@@ -384184,7 +384804,11 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.win-yourprize-now7.life/*
 *://*.win-yourprize-now8.life/*
 *://*.win-yourprize-now9.life/*
+*://*.win2-casino.fr/*
+*://*.win2casino.fr/*
+*://*.win2day-casino.fr/*
 *://*.win2daycasino.at/*
+*://*.win2daycasino.fr/*
 *://*.win365.bet/*
 *://*.win497bet.monster/*
 *://*.win600.com/*
@@ -384507,10 +385131,12 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.winamaq.fr/*
 *://*.winamas.fr/*
 *://*.winamaw.fr/*
+*://*.winamax-casino.fr/*
 *://*.winamax-conditions-generales.fr/*
 *://*.winamax-france.fr/*
 *://*.winamax-parrainage.fr/*
 *://*.winamax-sport.fr/*
+*://*.winamaxcasino.fr/*
 *://*.winamaxcasinofrance.fr/*
 *://*.winamaxfrance.fr/*
 *://*.winamaxparis.fr/*
@@ -384581,6 +385207,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.winboost-casino.fr/*
 *://*.winboost1.fr/*
 *://*.winboosts.fr/*
+*://*.winboss-casino.fr/*
+*://*.winbosscasino.fr/*
 *://*.winbotagooskuni.tk/*
 *://*.winbuinnerchithy.tk/*
 *://*.wincashinocasino.fr/*
@@ -384869,7 +385497,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.winner4yourprize9.life/*
 *://*.winnercapitala544ebrk.biz/*
 *://*.winnercapitalx1jia512.biz/*
+*://*.winnercasino-fr.fr/*
 *://*.winnercasino-official.fr/*
+*://*.winnercasino1.fr/*
 *://*.winnercasinos.fr/*
 *://*.winnerislandcasino.fr/*
 *://*.winners-casino.fr/*
@@ -384905,6 +385535,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.winningzs.fr/*
 *://*.winnipeglive.ca/*
 *://*.winnita-casino.fr/*
+*://*.winnita-en-ligne.fr/*
+*://*.winnita-enligne.fr/*
 *://*.winnita.fr/*
 *://*.winnitacasino.fr/*
 *://*.winnlesdepetu.tk/*
@@ -385022,6 +385654,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.winsomeshoppes.com/*
 *://*.winsota.cf/*
 *://*.winspark-1.fr/*
+*://*.winspark-en-ligne.fr/*
+*://*.winspark-enligne.fr/*
 *://*.winspark-fr.fr/*
 *://*.winspark-online.fr/*
 *://*.winsparkcasino1.fr/*
@@ -385072,7 +385706,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.wintertriathlon2016.eu/*
 *://*.winterzation.com/*
 *://*.wintethajatertau.gq/*
+*://*.winthere-casino.fr/*
 *://*.winthere-fr.fr/*
+*://*.winthere1.fr/*
 *://*.winthniscnifesto.tk/*
 *://*.winthpesadaci.ml/*
 *://*.winthsarepas.gq/*
@@ -386634,11 +387270,13 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.woool518.com/*
 *://*.wooordpress.com/*
 *://*.wooosisotloundmos.gq/*
+*://*.woop-win.fr/*
 *://*.woopets.fr/*
 *://*.woopilrerentiti.ml/*
 *://*.woopwin-casino.fr/*
 *://*.woopwin-france.fr/*
 *://*.woopwin.fr/*
+*://*.woopwincasino.fr/*
 *://*.woorari.best/*
 *://*.woordenvanliefde.nl/*
 *://*.woort.xyz/*
@@ -389651,6 +390289,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.wxv6717.cyou/*
 *://*.wxvfslz.shop/*
 *://*.wxvftdj.tokyo/*
+*://*.wxvhdvud.shop/*
 *://*.wxvszl.tokyo/*
 *://*.wxvu7z.shop/*
 *://*.wxvvxb.tokyo/*
@@ -390178,6 +390817,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.x2xsug.cyou/*
 *://*.x2zfvgyb.tokyo/*
 *://*.x3-bet.fr/*
+*://*.x3000.fr/*
+*://*.x3000casino.fr/*
 *://*.x30cl1.tokyo/*
 *://*.x31df1.cyou/*
 *://*.x31hopl.work/*
@@ -390445,6 +391086,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.x794j2.cyou/*
 *://*.x7ajuht.tokyo/*
 *://*.x7bghoh.cyou/*
+*://*.x7casino-en-ligne.fr/*
+*://*.x7casino-enligne.fr/*
 *://*.x7casino1.fr/*
 *://*.x7casinofr.fr/*
 *://*.x7casinofrance.fr/*
@@ -405941,6 +406584,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.zebakd.rest/*
 *://*.zebegoogli.tk/*
 *://*.zeberemsantlon.cf/*
+*://*.zebet-casino.fr/*
+*://*.zebetcasino.fr/*
 *://*.zebh7.cn/*
 *://*.zebkindrorod.tk/*
 *://*.zebra-h.info/*
@@ -406216,6 +406861,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.zepjodenobonkey.gq/*
 *://*.zepmoterpaticorn.ga/*
 *://*.zeppdentpitmara.ga/*
+*://*.zeppelin-casino.fr/*
+*://*.zeppelincasino.fr/*
 *://*.zeppelindao.com/*
 *://*.zeppelinshopenetwork.org/*
 *://*.zepqlt.bar/*
@@ -409071,6 +409718,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.zucbgkn.tokyo/*
 *://*.zucdbuf.bar/*
 *://*.zucevydika.tk/*
+*://*.zuchalets.com/*
 *://*.zuchoytamcipul.ml/*
 *://*.zuchterheim.com/*
 *://*.zuckerberg.xyz/*
