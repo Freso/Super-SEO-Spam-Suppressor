@@ -69154,6 +69154,8 @@
 ::1 www.afjjop.shop
 ::1 afjnkf.rest
 ::1 www.afjnkf.rest
+::1 afk-spins-fr.fr
+::1 www.afk-spins-fr.fr
 ::1 afkarawemdabe.tk
 ::1 www.afkarawemdabe.tk
 ::1 afkbsw.cyou
@@ -72504,6 +72506,8 @@
 ::1 www.airfrance-relationce.fr
 ::1 airfrance-surbooking.fr
 ::1 www.airfrance-surbooking.fr
+::1 airfrance-tickets.fr
+::1 www.airfrance-tickets.fr
 ::1 airfrancefreight.fr
 ::1 www.airfrancefreight.fr
 ::1 airfrancetransport.fr
@@ -105864,6 +105868,8 @@
 ::1 www.bang982web.xyz
 ::1 bangalilovesambhu.biz
 ::1 www.bangalilovesambhu.biz
+::1 bangawin.fr
+::1 www.bangawin.fr
 ::1 bangbamicceiluab.cf
 ::1 www.bangbamicceiluab.cf
 ::1 bangbogl.com
@@ -126708,6 +126714,8 @@
 ::1 www.bnpparibas-nouvelle-cledigital.fr
 ::1 bnpparibas-nouvelle-cledigitale.fr
 ::1 www.bnpparibas-nouvelle-cledigitale.fr
+::1 bnpparibas-realestate.fr
+::1 www.bnpparibas-realestate.fr
 ::1 bnpparibas-securisation.fr
 ::1 www.bnpparibas-securisation.fr
 ::1 bnpparibas-securite.fr
@@ -126748,6 +126756,8 @@
 ::1 www.bnpparibaspro.fr
 ::1 bnpparibois.fr
 ::1 www.bnpparibois.fr
+::1 bnpparisbas-realestate.fr
+::1 www.bnpparisbas-realestate.fr
 ::1 bnppfimmobilier.fr
 ::1 www.bnppfimmobilier.fr
 ::1 bnpppf-connexion.fr
@@ -149112,6 +149122,8 @@
 ::1 www.casino-prive-fr.fr
 ::1 casino-prive-france.fr
 ::1 www.casino-prive-france.fr
+::1 casino-reveryplay.fr
+::1 www.casino-reveryplay.fr
 ::1 casino-revolut.fr
 ::1 www.casino-revolut.fr
 ::1 casino-rizz.fr
@@ -149972,6 +149984,8 @@
 ::1 www.casinorainbet.fr
 ::1 casinoretraitinstantane.fr
 ::1 www.casinoretraitinstantane.fr
+::1 casinoreveryplay.fr
+::1 www.casinoreveryplay.fr
 ::1 casinorevolut.fr
 ::1 www.casinorevolut.fr
 ::1 casinorex.fr
@@ -150316,6 +150330,8 @@
 ::1 www.casinowinaura.fr
 ::1 casinowinbay.fr
 ::1 www.casinowinbay.fr
+::1 casinowinbeast.fr
+::1 www.casinowinbeast.fr
 ::1 casinowinbeatz.fr
 ::1 www.casinowinbeatz.fr
 ::1 casinowinhero.fr
@@ -150366,6 +150382,8 @@
 ::1 www.casinozer-com.fr
 ::1 casinozer-enligne.fr
 ::1 www.casinozer-enligne.fr
+::1 casinozer-eu.fr
+::1 www.casinozer-eu.fr
 ::1 casinozer-fr1.fr
 ::1 www.casinozer-fr1.fr
 ::1 casinozer-france1.fr
@@ -186332,6 +186350,8 @@
 ::1 www.coupselodismikun.gq
 ::1 couptumbrockcranlecpyo.ml
 ::1 www.couptumbrockcranlecpyo.ml
+::1 cour-de-cassation.fr
+::1 www.cour-de-cassation.fr
 ::1 courageousalmondtrice.com
 ::1 www.courageousalmondtrice.com
 ::1 courageousbanish.com
@@ -187860,6 +187880,8 @@
 ::1 www.crafsauheatuncouma.cf
 ::1 crafsekecume.tk
 ::1 www.crafsekecume.tk
+::1 craft-soldes.fr
+::1 www.craft-soldes.fr
 ::1 craft0kv3.web.app
 ::1 www.craft0kv3.web.app
 ::1 craftantgenlanota.cf
@@ -411064,6 +411086,8 @@
 ::1 www.leandfescaleebasharg.cf
 ::1 leandrarehoonoder.gq
 ::1 www.leandrarehoonoder.gq
+::1 leanela-fr.fr
+::1 www.leanela-fr.fr
 ::1 leanffmi.com
 ::1 www.leanffmi.com
 ::1 leankalaforjamo.tk
@@ -411960,6 +411984,8 @@
 ::1 www.leclerc-bon.fr
 ::1 leclerc-dev.fr
 ::1 www.leclerc-dev.fr
+::1 leclerc-mavidis.fr
+::1 www.leclerc-mavidis.fr
 ::1 leclerc-socamaine.fr
 ::1 www.leclerc-socamaine.fr
 ::1 leclerc-socamil.fr
@@ -422906,6 +422932,8 @@
 ::1 www.lirasasarmelo.tk
 ::1 lirashaalialift.cf
 ::1 www.lirashaalialift.cf
+::1 lirasp1n-fr.fr
+::1 www.lirasp1n-fr.fr
 ::1 lirasp1nplay.fr
 ::1 www.lirasp1nplay.fr
 ::1 liraspiin.fr
@@ -424104,6 +424132,8 @@
 ::1 www.liveatgreen.ee
 ::1 livebasbershe.tk
 ::1 www.livebasbershe.tk
+::1 livebet-app.fr
+::1 www.livebet-app.fr
 ::1 liveblog.ca
 ::1 www.liveblog.ca
 ::1 livebroadcast.cn
@@ -484976,6 +485006,8 @@
 ::1 www.netfllx-france.fr
 ::1 netfllx-redirection.fr
 ::1 www.netfllx-redirection.fr
+::1 netfllx.fr
+::1 www.netfllx.fr
 ::1 netfllxfrance.fr
 ::1 www.netfllxfrance.fr
 ::1 netflx-account.com
@@ -543284,6 +543316,8 @@
 ::1 www.play-jonnybet.fr
 ::1 play-jonnycasino.fr
 ::1 www.play-jonnycasino.fr
+::1 play-jonnys-fr.fr
+::1 www.play-jonnys-fr.fr
 ::1 play-magneticslots.fr
 ::1 www.play-magneticslots.fr
 ::1 play-one-prime.fr
@@ -579818,6 +579852,8 @@
 ::1 www.rainopavo.web.app
 ::1 rainosigoosrehon.cf
 ::1 www.rainosigoosrehon.cf
+::1 rains-soldes.fr
+::1 www.rains-soldes.fr
 ::1 rainsfrance.fr
 ::1 www.rainsfrance.fr
 ::1 rainsoutlet.fr
@@ -599610,6 +599646,8 @@
 ::1 www.rippgripinelyr.tk
 ::1 rippihunithepo.ml
 ::1 www.rippihunithepo.ml
+::1 ripplebanque.fr
+::1 www.ripplebanque.fr
 ::1 rippleoneselfguards.com
 ::1 www.rippleoneselfguards.com
 ::1 rippletrade.xyz
@@ -600450,6 +600488,8 @@
 ::1 www.rivistaonlinedavanguardia.com
 ::1 rivisulmaverg.gq
 ::1 www.rivisulmaverg.gq
+::1 rivo-cas1no.fr
+::1 www.rivo-cas1no.fr
 ::1 rivo1.fr
 ::1 www.rivo1.fr
 ::1 rivocas1no-fr.fr
@@ -626906,6 +626946,8 @@
 ::1 www.service-mesamendes-antai.fr
 ::1 service-messagerie-leboncoin.fr
 ::1 www.service-messagerie-leboncoin.fr
+::1 service-mma.fr
+::1 www.service-mma.fr
 ::1 service-mondiai-relai.fr
 ::1 www.service-mondiai-relai.fr
 ::1 service-mondial-relai.fr
@@ -634542,6 +634584,8 @@
 ::1 www.simsinofrance-fr.fr
 ::1 simsinofrance.fr
 ::1 www.simsinofrance.fr
+::1 simsinos-cas.fr
+::1 www.simsinos-cas.fr
 ::1 simsinos-casino1.fr
 ::1 www.simsinos-casino1.fr
 ::1 simsinos-casinos.fr
@@ -642534,6 +642578,8 @@
 ::1 www.sneakoutlet.fr
 ::1 sneakr.fr
 ::1 www.sneakr.fr
+::1 sneakrworld.fr
+::1 www.sneakrworld.fr
 ::1 sneakrz.fr
 ::1 www.sneakrz.fr
 ::1 sneakuclaslareadders.ml
@@ -647190,6 +647236,8 @@
 ::1 www.sp15jz.pl
 ::1 sp1nformula-fr.fr
 ::1 www.sp1nformula-fr.fr
+::1 sp1nformula-fra.fr
+::1 www.sp1nformula-fra.fr
 ::1 sp1nformula-plays.fr
 ::1 www.sp1nformula-plays.fr
 ::1 sp1nsy-fr.fr
@@ -649062,6 +649110,8 @@
 ::1 www.spin-aurafr.fr
 ::1 spin-aurafrance.fr
 ::1 www.spin-aurafrance.fr
+::1 spin-auras-fr.fr
+::1 www.spin-auras-fr.fr
 ::1 spin-auras.fr
 ::1 www.spin-auras.fr
 ::1 spin-bara-casino.fr
@@ -649848,6 +649898,8 @@
 ::1 www.spins-alto.fr
 ::1 spins-altos.fr
 ::1 www.spins-altos.fr
+::1 spins-aura.fr
+::1 www.spins-aura.fr
 ::1 spins-casino.fr
 ::1 www.spins-casino.fr
 ::1 spins-heaven.fr
@@ -702354,6 +702406,8 @@
 ::1 www.tower-rushofficiel.fr
 ::1 towerbetcasino.fr
 ::1 www.towerbetcasino.fr
+::1 towercas1no-fr.fr
+::1 www.towercas1no-fr.fr
 ::1 towercasinos.fr
 ::1 www.towercasinos.fr
 ::1 towerrushargent.fr
@@ -768750,6 +768804,8 @@
 ::1 www.wiimenrosandda.tk
 ::1 wiinamax.fr
 ::1 www.wiinamax.fr
+::1 wiinbeastt.fr
+::1 www.wiinbeastt.fr
 ::1 wiipczf.bar
 ::1 www.wiipczf.bar
 ::1 wiiralt.ee
