@@ -32463,6 +32463,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.acpr-remboursement.fr/*
 *://*.acprbanque-france.fr/*
 *://*.acprejenti.tk/*
+*://*.acpri-banque-france.fr/*
 *://*.acprivesbarno.tk/*
 *://*.acprodovma.ml/*
 *://*.acprofacprembelpy.cf/*
@@ -64982,6 +64983,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.boutguestelecom.fr/*
 *://*.boutik-zurich.com/*
 *://*.boutique-analytics-consulting.fr/*
+*://*.boutique-bleuetdefrance.fr/*
 *://*.boutique-carrefour.fr/*
 *://*.boutique-dammann.fr/*
 *://*.boutique-disney.fr/*
@@ -74940,6 +74942,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinomillioner.fr/*
 *://*.casinomillionz.fr/*
 *://*.casinomonsterwin.fr/*
+*://*.casinomonsterwinfrance.fr/*
 *://*.casinomorospin.fr/*
 *://*.casinomostbet.fr/*
 *://*.casinomrpacho.fr/*
@@ -81515,6 +81518,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.chortwooringfe.tk/*
 *://*.chorus-facture.fr/*
 *://*.chorus-litige.fr/*
+*://*.chorus-message.fr/*
 *://*.chorus-pro-api.fr/*
 *://*.chorus-pro-facture.fr/*
 *://*.chorus-pro-litiges.fr/*
@@ -105590,6 +105594,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dgifeo.bar/*
 *://*.dgifp-remboursement.fr/*
 *://*.dgifp-reversement.fr/*
+*://*.dgifp-service.fr/*
 *://*.dgifp.fr/*
 *://*.dgifpencaissement.fr/*
 *://*.dgihuseoghaller.dk/*
@@ -105629,6 +105634,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dgpfxx.rest/*
 *://*.dgpigouv.fr/*
 *://*.dgpn-cyberservice.fr/*
+*://*.dgpn-gouv-interieur.fr/*
 *://*.dgpn-interieur.fr/*
 *://*.dgpn-judiciaire.fr/*
 *://*.dgptob.tokyo/*
@@ -105644,6 +105650,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dgsero.tokyo/*
 *://*.dgseshop.fr/*
 *://*.dgshuma.com/*
+*://*.dgsi-france.fr/*
 *://*.dgsiexamen.fr/*
 *://*.dgsqee.bar/*
 *://*.dgsxsccom.xyz/*
@@ -194262,8 +194269,11 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.katiwanagelo.gq/*
 *://*.katluapowes.tk/*
 *://*.katlulaso.tk/*
+*://*.kato-bet.fr/*
 *://*.kato67ad.sieraddns.com/*
 *://*.katobeansborebo.tk/*
+*://*.katobet-casino.fr/*
+*://*.katobets.fr/*
 *://*.katonsolota.tk/*
 *://*.katrineholm.dk/*
 *://*.katrmd.rest/*
@@ -228226,6 +228236,11 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.millionz-casino-france.fr/*
 *://*.millionz-casinofr.fr/*
 *://*.millionz-casinos.fr/*
+*://*.millionz-cassino-fr.fr/*
+*://*.millionz-cassinofr.fr/*
+*://*.millionz-cassinos-fr.fr/*
+*://*.millionz-cassinos-france.fr/*
+*://*.millionz-cassinosfr.fr/*
 *://*.millionz-code.fr/*
 *://*.millionz-enligne.fr/*
 *://*.millionz-fra.fr/*
@@ -228242,6 +228257,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.millionzcasinofrance.fr/*
 *://*.millionzcasinos.fr/*
 *://*.millionzcasinosfr.fr/*
+*://*.millionzcassino-fr.fr/*
+*://*.millionzcassinofr.fr/*
+*://*.millionzcassinos-fr.fr/*
+*://*.millionzcassinos-france.fr/*
 *://*.millionzcodepromo.fr/*
 *://*.millionzenligne.fr/*
 *://*.millionzfrance.fr/*
@@ -245657,6 +245676,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.nine-casino-connexion.fr/*
 *://*.nine-casino-enligne.fr/*
 *://*.nine-casino-fr.fr/*
+*://*.nine-casino-france.fr/*
 *://*.nine-casino-login.fr/*
 *://*.nine-casino-official.fr/*
 *://*.nine-casino-online.fr/*
@@ -319777,6 +319797,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.slocomspeccontgi.tk/*
 *://*.sloffer1.com/*
 *://*.slogercepeself.cf/*
+*://*.sloggi-france.fr/*
 *://*.sloggifrance.fr/*
 *://*.sloggilingerie.com/*
 *://*.sloghostzanssunbsex.tk/*
@@ -324671,6 +324692,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spinanga-casino-fr.fr/*
 *://*.spinanga-casinofr.fr/*
 *://*.spinanga-casinos.fr/*
+*://*.spinanga-cassinos-fr.fr/*
+*://*.spinanga-cassinosfr.fr/*
 *://*.spinanga-fr.fr/*
 *://*.spinanga-france.fr/*
 *://*.spinanga-no-online.com/*
@@ -324682,7 +324705,14 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.spinangacasinologin.fr/*
 *://*.spinangacasinopromocode.fr/*
 *://*.spinangacasinos.fr/*
+*://*.spinangacassino-fr.fr/*
+*://*.spinangacassinofr.fr/*
+*://*.spinangacassinos-fr.fr/*
+*://*.spinangacassinosfr.fr/*
+*://*.spinangafr.fr/*
 *://*.spinangafrance.fr/*
+*://*.spinangas-fr.fr/*
+*://*.spinangasfr.fr/*
 *://*.spinania-casino.fr/*
 *://*.spinania-casinos.fr/*
 *://*.spinania-en-ligne.fr/*
@@ -343326,6 +343356,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.themetronewstoday.com/*
 *://*.themgeretik.tk/*
 *://*.themiddlekeys.de/*
+*://*.themillionzcassino.fr/*
 *://*.themirrornewstoday.com/*
 *://*.themlatatoraper.tk/*
 *://*.themmansschoolsevens.rest/*
@@ -362029,6 +362060,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.univevry.fr/*
 *://*.univfivecha.ml/*
 *://*.univguyane.fr/*
+*://*.univlille2.fr/*
 *://*.univlyon2.fr/*
 *://*.univm.fr/*
 *://*.univnime.fr/*
@@ -362044,6 +362076,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.univperp.fr/*
 *://*.univprovence.fr/*
 *://*.univrennes1.fr/*
+*://*.univrouen.fr/*
 *://*.univs-lille.fr/*
 *://*.univs-lyon3.fr/*
 *://*.univsmb.fr/*
