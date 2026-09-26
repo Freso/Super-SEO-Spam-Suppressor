@@ -28780,8 +28780,6 @@
 ::1 www.4bhq2j.shop
 ::1 4bigye.cyou
 ::1 www.4bigye.cyou
-::1 4bike.net
-::1 www.4bike.net
 ::1 4bio.pt
 ::1 www.4bio.pt
 ::1 4bisblw.cn
@@ -98320,6 +98318,8 @@
 ::1 www.aut-doc.fr
 ::1 aut-occasion.fr
 ::1 www.aut-occasion.fr
+::1 aut.oanrp.shop
+::1 www.aut.oanrp.shop
 ::1 autain.my.id
 ::1 www.autain.my.id
 ::1 auten-leboncoin.fr
@@ -121780,6 +121780,8 @@
 ::1 www.bitcoin-revolution.org
 ::1 bitcoin-shop.ro
 ::1 www.bitcoin-shop.ro
+::1 bitcoin-up.io
+::1 www.bitcoin-up.io
 ::1 bitcoin-xact.fr
 ::1 www.bitcoin-xact.fr
 ::1 bitcoinarchon.com
@@ -122680,8 +122682,6 @@
 ::1 www.bjm8c.cyou
 ::1 bjmileland.com
 ::1 www.bjmileland.com
-::1 bjmining.com
-::1 www.bjmining.com
 ::1 bjmkjfd.tokyo
 ::1 www.bjmkjfd.tokyo
 ::1 bjmmi.bar
@@ -126444,6 +126444,8 @@
 ::1 www.bnbhotels.fr
 ::1 bnbparibas.fr
 ::1 www.bnbparibas.fr
+::1 bnbsjbir.shop
+::1 www.bnbsjbir.shop
 ::1 bnbtechnologies.buzz
 ::1 www.bnbtechnologies.buzz
 ::1 bnbuhce.tokyo
@@ -154028,8 +154030,6 @@
 ::1 www.cellmasga.ga
 ::1 cellnonpticomri.tk
 ::1 www.cellnonpticomri.tk
-::1 cellpeptides.com
-::1 www.cellpeptides.com
 ::1 cellphonelocation.net
 ::1 www.cellphonelocation.net
 ::1 cellprettysdaykill.rest
@@ -169772,6 +169772,8 @@
 ::1 www.clarachristine-wien.at
 ::1 claraduffy.com
 ::1 www.claraduffy.com
+::1 claragraz.at
+::1 www.claragraz.at
 ::1 claralapchowto.ga
 ::1 www.claralapchowto.ga
 ::1 claraletloumapo.tk
@@ -194970,8 +194972,6 @@
 ::1 www.cvlpzu.tokyo
 ::1 cvm56vi.cyou
 ::1 www.cvm56vi.cyou
-::1 cvmaker.de
-::1 www.cvmaker.de
 ::1 cvmblm.rest
 ::1 www.cvmblm.rest
 ::1 cvmdrxl.cyou
@@ -348044,6 +348044,8 @@
 ::1 www.iamtgz.tokyo
 ::1 iancheer.com
 ::1 www.iancheer.com
+::1 iandamode.com
+::1 www.iandamode.com
 ::1 iandbx.bar
 ::1 www.iandbx.bar
 ::1 iandpl.tokyo
@@ -375986,6 +375988,8 @@
 ::1 www.jetupanhandco.tk
 ::1 jetwarbdersressbacti.gq
 ::1 www.jetwarbdersressbacti.gq
+::1 jetzt-beantragen.com
+::1 www.jetzt-beantragen.com
 ::1 jetzt-dabei-sein.com
 ::1 www.jetzt-dabei-sein.com
 ::1 jetztzeiten.xyz
@@ -387398,6 +387402,8 @@
 ::1 www.kamagra-pro.com
 ::1 kamagra-pro.net
 ::1 www.kamagra-pro.net
+::1 kamagra-pro.online
+::1 www.kamagra-pro.online
 ::1 kamagra-prodej-levne.cz
 ::1 www.kamagra-prodej-levne.cz
 ::1 kamagra-prodej.cz
@@ -435090,8 +435096,6 @@
 ::1 www.lwex.fr
 ::1 lwex02.com
 ::1 www.lwex02.com
-::1 lwf-energy.com
-::1 www.lwf-energy.com
 ::1 lwfbvs.rest
 ::1 www.lwfbvs.rest
 ::1 lwfdznu.tokyo
@@ -439206,6 +439210,8 @@
 ::1 www.madelai29amalgam.xyz
 ::1 madeleine-issing.com
 ::1 www.madeleine-issing.com
+::1 madelinemunchen.com
+::1 www.madelinemunchen.com
 ::1 madelor.com
 ::1 www.madelor.com
 ::1 mademande-ameli.fr
@@ -456770,6 +456776,8 @@
 ::1 www.mimetheasumte.tk
 ::1 mimethormulanto.tk
 ::1 www.mimethormulanto.tk
+::1 mimicoffee.com
+::1 www.mimicoffee.com
 ::1 mimicpursuit.com
 ::1 www.mimicpursuit.com
 ::1 mimidonaro.ml
@@ -466260,6 +466268,8 @@
 ::1 www.mooredvazwe.myshopify.com
 ::1 mooremanor.xyz
 ::1 www.mooremanor.xyz
+::1 mooris.de
+::1 www.mooris.de
 ::1 moornacimostdoho.tk
 ::1 www.moornacimostdoho.tk
 ::1 moorugly.com
@@ -555064,6 +555074,8 @@
 ::1 www.primeminister.fr
 ::1 primenickel.fr
 ::1 www.primenickel.fr
+::1 primeoffer.de
+::1 www.primeoffer.de
 ::1 primepharm24.com
 ::1 www.primepharm24.com
 ::1 primeplatform-ai.com
@@ -753660,6 +753672,8 @@
 ::1 www.voltslotonline.fr
 ::1 volture.de
 ::1 www.volture.de
+::1 volturexa.de
+::1 www.volturexa.de
 ::1 voltus-elektroshop.de
 ::1 www.voltus-elektroshop.de
 ::1 volunteerhere.xyz
@@ -762296,6 +762310,8 @@
 ::1 www.waypumulmostmingde.tk
 ::1 wayractantferjustlumb.tk
 ::1 www.wayractantferjustlumb.tk
+::1 wayrates.com
+::1 www.wayrates.com
 ::1 wayrekrinapuwhist.ml
 ::1 www.wayrekrinapuwhist.ml
 ::1 wayreuneyfuncnanthke.gq
@@ -765342,6 +765358,8 @@
 ::1 www.weinshop-de.com
 ::1 weinundgenusswelt.com
 ::1 www.weinundgenusswelt.com
+::1 weinvielfalt.shop
+::1 www.weinvielfalt.shop
 ::1 weinweltgenuss.com
 ::1 www.weinweltgenuss.com
 ::1 weipabfectsanddikom.gq
@@ -786910,6 +786928,8 @@
 ::1 www.xlolorg.xyz
 ::1 xloowjt.rest
 ::1 www.xloowjt.rest
+::1 xlorventa.shop
+::1 www.xlorventa.shop
 ::1 xlotcoxd.tokyo
 ::1 www.xlotcoxd.tokyo
 ::1 xlp6su.cyou
