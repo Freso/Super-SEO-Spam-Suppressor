@@ -5506,8 +5506,6 @@
 ::1 www.1-coolzino.fr
 ::1 1-jj.xyz
 ::1 www.1-jj.xyz
-::1 1-rx-shop.com
-::1 www.1-rx-shop.com
 ::1 1-speaking.com
 ::1 www.1-speaking.com
 ::1 1-wins.fr
@@ -5598,6 +5596,8 @@
 ::1 www.1018s5.cyou
 ::1 1019110.com
 ::1 www.1019110.com
+::1 101apotheek.com
+::1 www.101apotheek.com
 ::1 101carreviews.online
 ::1 www.101carreviews.online
 ::1 101defvideos.pw
@@ -60622,8 +60622,6 @@
 ::1 www.aaa-telegram.com
 ::1 aaaaua.top
 ::1 www.aaaaua.top
-::1 aaaclothing.ru
-::1 www.aaaclothing.ru
 ::1 aaadddd.com
 ::1 www.aaadddd.com
 ::1 aaahrh.net
@@ -114524,8 +114522,6 @@
 ::1 www.bestpharm-eu.com
 ::1 bestpillpharmacy.com
 ::1 www.bestpillpharmacy.com
-::1 bestpillsnetwork.com
-::1 www.bestpillsnetwork.com
 ::1 bestpods.fr
 ::1 www.bestpods.fr
 ::1 bestpometlupe.cf
@@ -135986,6 +135982,8 @@
 ::1 www.buddchantgucomfoe.cf
 ::1 buddforcouditu.tk
 ::1 www.buddforcouditu.tk
+::1 buddhapowerstore.com
+::1 www.buddhapowerstore.com
 ::1 buddhaweekly.com
 ::1 www.buddhaweekly.com
 ::1 buddhismo8x1000.it
@@ -159314,8 +159312,6 @@
 ::1 www.chdacr.rest
 ::1 chduly.tokyo
 ::1 www.chduly.tokyo
-::1 che.com
-::1 www.che.com
 ::1 che5xc.cyou
 ::1 www.che5xc.cyou
 ::1 cheabustscopud.tk
@@ -334156,8 +334152,6 @@
 ::1 www.hichegeschmocmohol.tk
 ::1 hichonostvopen.tk
 ::1 www.hichonostvopen.tk
-::1 hicity.de
-::1 www.hicity.de
 ::1 hicknartitexvia.tk
 ::1 www.hicknartitexvia.tk
 ::1 hicknorthmolxibonme.cf
@@ -337988,8 +337982,6 @@
 ::1 www.hola-chicas.pro
 ::1 holabet.fr
 ::1 www.holabet.fr
-::1 holapick.com
-::1 www.holapick.com
 ::1 holapywlent.tk
 ::1 www.holapywlent.tk
 ::1 holara.ai
@@ -340362,6 +340354,8 @@
 ::1 www.hotelsilvanasanmarino.it
 ::1 hotelsinperm.ru
 ::1 www.hotelsinperm.ru
+::1 hotelsinvienna.org
+::1 www.hotelsinvienna.org
 ::1 hotelsit.com
 ::1 www.hotelsit.com
 ::1 hotelsofmenorca.com
@@ -453904,6 +453898,8 @@
 ::1 www.mg7lzf.tokyo
 ::1 mg7ofa.tokyo
 ::1 www.mg7ofa.tokyo
+::1 mgaffaires.com
+::1 www.mgaffaires.com
 ::1 mgaibt.cyou
 ::1 www.mgaibt.cyou
 ::1 mgaj0fy.tokyo
@@ -496746,6 +496742,8 @@
 ::1 www.note-u3l.com
 ::1 noteazure-music.de
 ::1 www.noteazure-music.de
+::1 notebookakku.at
+::1 www.notebookakku.at
 ::1 notebooknetzteileshop.de
 ::1 www.notebooknetzteileshop.de
 ::1 notecoughdysu.tk
@@ -506788,8 +506786,6 @@
 ::1 www.offsetcaterpillartacky.com
 ::1 offsetgracefulbehaved.com
 ::1 www.offsetgracefulbehaved.com
-::1 offshorecheapmeds.com
-::1 www.offshorecheapmeds.com
 ::1 offsidegiugliano.shop
 ::1 www.offsidegiugliano.shop
 ::1 offsneakz.fr
@@ -511948,6 +511944,8 @@
 ::1 www.onlineinterviewsoftware.buzz
 ::1 onlinejizzbang.agency
 ::1 www.onlinejizzbang.agency
+::1 onlinekamagra.com
+::1 www.onlinekamagra.com
 ::1 onlinekamagrastore.org
 ::1 www.onlinekamagrastore.org
 ::1 onlinekohler.com
@@ -519168,6 +519166,8 @@
 ::1 www.outletnike.fr
 ::1 outletparis.fr
 ::1 www.outletparis.fr
+::1 outletpc.de
+::1 www.outletpc.de
 ::1 outletpickleball.com
 ::1 www.outletpickleball.com
 ::1 outletpietramosaiciepiastrelle.it
@@ -537798,8 +537798,6 @@
 ::1 www.pharmaracapital.com
 ::1 pharmaright.vu
 ::1 www.pharmaright.vu
-::1 pharmaris.net
-::1 www.pharmaris.net
 ::1 pharmas.xyz
 ::1 www.pharmas.xyz
 ::1 pharmaserve.com
@@ -751362,6 +751360,8 @@
 ::1 www.vivaia-schuhe.de
 ::1 vivaiaboutiques.fr
 ::1 www.vivaiaboutiques.fr
+::1 vivaiacollection.com
+::1 www.vivaiacollection.com
 ::1 vivaiaparis.fr
 ::1 www.vivaiaparis.fr
 ::1 vivaiaschaussures.fr

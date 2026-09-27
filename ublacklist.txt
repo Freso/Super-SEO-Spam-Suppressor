@@ -2756,7 +2756,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.1-class-sexshop.dk/*
 *://*.1-coolzino.fr/*
 *://*.1-jj.xyz/*
-*://*.1-rx-shop.com/*
 *://*.1-speaking.com/*
 *://*.1-wins.fr/*
 *://*.1.0.218.230/*
@@ -2802,6 +2801,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.1018272.cn/*
 *://*.1018s5.cyou/*
 *://*.1019110.com/*
+*://*.101apotheek.com/*
 *://*.101carreviews.online/*
 *://*.101defvideos.pw/*
 *://*.101dh.com/*
@@ -30314,7 +30314,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.aaa-nan.info/*
 *://*.aaa-telegram.com/*
 *://*.aaaaua.top/*
-*://*.aaaclothing.ru/*
 *://*.aaadddd.com/*
 *://*.aaahrh.net/*
 *://*.aaaikg.tokyo/*
@@ -57265,7 +57264,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bestpertconlenxmer.ml/*
 *://*.bestpharm-eu.com/*
 *://*.bestpillpharmacy.com/*
-*://*.bestpillsnetwork.com/*
 *://*.bestpods.fr/*
 *://*.bestpometlupe.cf/*
 *://*.bestprepaidcards.xyz/*
@@ -67996,6 +67994,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.buddcavo.gq/*
 *://*.buddchantgucomfoe.cf/*
 *://*.buddforcouditu.tk/*
+*://*.buddhapowerstore.com/*
 *://*.buddhaweekly.com/*
 *://*.buddhismo8x1000.it/*
 *://*.buddholbconbergres.ml/*
@@ -79660,7 +79659,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.chculfitriahan.ga/*
 *://*.chdacr.rest/*
 *://*.chduly.tokyo/*
-*://*.che.com/*
 *://*.che5xc.cyou/*
 *://*.cheabustscopud.tk/*
 *://*.cheangh.xyz/*
@@ -167081,7 +167079,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hichcsh.tokyo/*
 *://*.hichegeschmocmohol.tk/*
 *://*.hichonostvopen.tk/*
-*://*.hicity.de/*
 *://*.hicknartitexvia.tk/*
 *://*.hicknorthmolxibonme.cf/*
 *://*.hickory-spicy-frog.glitch.me/*
@@ -168997,7 +168994,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hokratedisphel.ml/*
 *://*.hola-chicas.pro/*
 *://*.holabet.fr/*
-*://*.holapick.com/*
 *://*.holapywlent.tk/*
 *://*.holara.ai/*
 *://*.holara.ai/*
@@ -170184,6 +170180,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.hotelsclick.fr/*
 *://*.hotelsilvanasanmarino.it/*
 *://*.hotelsinperm.ru/*
+*://*.hotelsinvienna.org/*
 *://*.hotelsit.com/*
 *://*.hotelsofmenorca.com/*
 *://*.hotelspydns.com/*
@@ -226955,6 +226952,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mg6eqap.cyou/*
 *://*.mg7lzf.tokyo/*
 *://*.mg7ofa.tokyo/*
+*://*.mgaffaires.com/*
 *://*.mgaibt.cyou/*
 *://*.mgaj0fy.tokyo/*
 *://*.mgajfk.tokyo/*
@@ -248376,6 +248374,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.notdaughtersenergy.biz/*
 *://*.note-u3l.com/*
 *://*.noteazure-music.de/*
+*://*.notebookakku.at/*
 *://*.notebooknetzteileshop.de/*
 *://*.notecoughdysu.tk/*
 *://*.notecountrymoney.bar/*
@@ -253397,7 +253396,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.offscaletraffic.com/*
 *://*.offsetcaterpillartacky.com/*
 *://*.offsetgracefulbehaved.com/*
-*://*.offshorecheapmeds.com/*
 *://*.offsidegiugliano.shop/*
 *://*.offsneakz.fr/*
 *://*.offspringwilliamimportantly.com/*
@@ -255977,6 +255975,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.onlineindiespiele.de/*
 *://*.onlineinterviewsoftware.buzz/*
 *://*.onlinejizzbang.agency/*
+*://*.onlinekamagra.com/*
 *://*.onlinekamagrastore.org/*
 *://*.onlinekohler.com/*
 *://*.onlinel.fr/*
@@ -259587,6 +259586,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.outletnewin.com/*
 *://*.outletnike.fr/*
 *://*.outletparis.fr/*
+*://*.outletpc.de/*
 *://*.outletpickleball.com/*
 *://*.outletpietramosaiciepiastrelle.it/*
 *://*.outletprive.fr/*
@@ -268902,7 +268902,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.pharmaplax.com/*
 *://*.pharmaracapital.com/*
 *://*.pharmaright.vu/*
-*://*.pharmaris.net/*
 *://*.pharmas.xyz/*
 *://*.pharmaserve.com/*
 *://*.pharmatheke-europe.com/*
@@ -375684,6 +375683,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vivahost.host/*
 *://*.vivaia-schuhe.de/*
 *://*.vivaiaboutiques.fr/*
+*://*.vivaiacollection.com/*
 *://*.vivaiaparis.fr/*
 *://*.vivaiaschaussures.fr/*
 *://*.vivaiaschuhe.at/*
