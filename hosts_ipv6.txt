@@ -13664,6 +13664,8 @@
 ::1 www.1win-casinos.fr
 ::1 1win-club.fr
 ::1 www.1win-club.fr
+::1 1win-enligne.fr
+::1 www.1win-enligne.fr
 ::1 1win-fr.fr
 ::1 www.1win-fr.fr
 ::1 1win-france.fr
@@ -81832,6 +81834,8 @@
 ::1 www.amunpostanggamas.ml
 ::1 amunpropelagil.ga
 ::1 www.amunpropelagil.ga
+::1 amunra-casinos.fr
+::1 www.amunra-casinos.fr
 ::1 amunra-en-ligne.fr
 ::1 www.amunra-en-ligne.fr
 ::1 amunra-enligne.fr
@@ -88094,6 +88098,8 @@
 ::1 www.appleprovision.fr
 ::1 applepxaf.web.app
 ::1 www.applepxaf.web.app
+::1 appleroom.fr
+::1 www.appleroom.fr
 ::1 appleroses.buzz
 ::1 www.appleroses.buzz
 ::1 applerp.cn
@@ -88108,6 +88114,8 @@
 ::1 www.appleshopp.fr
 ::1 applestare.fr
 ::1 www.applestare.fr
+::1 applestore-support.fr
+::1 www.applestore-support.fr
 ::1 applestoreparis.fr
 ::1 www.applestoreparis.fr
 ::1 appletdejectedsounds.com
@@ -99760,6 +99768,8 @@
 ::1 www.avis-penalite.fr
 ::1 avis-penalites.fr
 ::1 www.avis-penalites.fr
+::1 avis-stationnement-telepaiement.fr
+::1 www.avis-stationnement-telepaiement.fr
 ::1 avis-susp.fr
 ::1 www.avis-susp.fr
 ::1 avisborgosanmartino.it
@@ -115606,6 +115616,8 @@
 ::1 www.betify-casino1.fr
 ::1 betify-casino2.fr
 ::1 www.betify-casino2.fr
+::1 betify-casinofr.fr
+::1 www.betify-casinofr.fr
 ::1 betify-casinologin.fr
 ::1 www.betify-casinologin.fr
 ::1 betify-casinos.fr
@@ -115626,6 +115638,8 @@
 ::1 www.betify-fra.fr
 ::1 betify-france.fr
 ::1 www.betify-france.fr
+::1 betify-frcasino.fr
+::1 www.betify-frcasino.fr
 ::1 betify-game.fr
 ::1 www.betify-game.fr
 ::1 betify-games.fr
@@ -115736,6 +115750,10 @@
 ::1 www.betifycasinos1.fr
 ::1 betifyfr.fr
 ::1 www.betifyfr.fr
+::1 betifyfrancecasino.fr
+::1 www.betifyfrancecasino.fr
+::1 betifyfrcasino.fr
+::1 www.betifyfrcasino.fr
 ::1 betifygame.fr
 ::1 www.betifygame.fr
 ::1 betifyjeu.fr
@@ -149346,6 +149364,8 @@
 ::1 www.casino770com.fr
 ::1 casino770fr.fr
 ::1 www.casino770fr.fr
+::1 casino770france.fr
+::1 www.casino770france.fr
 ::1 casino770slot.fr
 ::1 www.casino770slot.fr
 ::1 casino777enligne.fr
@@ -171298,6 +171318,8 @@
 ::1 www.clients-service.fr
 ::1 clients-sfr.fr
 ::1 www.clients-sfr.fr
+::1 clients-sg.fr
+::1 www.clients-sg.fr
 ::1 clients-societegenerale.fr
 ::1 www.clients-societegenerale.fr
 ::1 clients-support.fr
@@ -184004,6 +184026,8 @@
 ::1 www.coolwaychaussures.fr
 ::1 coolwayfrance.fr
 ::1 www.coolwayfrance.fr
+::1 coolz1no-fra.fr
+::1 www.coolz1no-fra.fr
 ::1 coolz1no.fr
 ::1 www.coolz1no.fr
 ::1 coolzi.fr
@@ -190252,6 +190276,8 @@
 ::1 www.cristalbarbershop.com
 ::1 cristallorent.nl
 ::1 www.cristallorent.nl
+::1 cristalticket.fr
+::1 www.cristalticket.fr
 ::1 cristelcolomb-psychologue.fr
 ::1 www.cristelcolomb-psychologue.fr
 ::1 cristianventurelli.it
@@ -223072,6 +223098,8 @@
 ::1 www.dossier-carte-vitale.fr
 ::1 dossier-clients.fr
 ::1 www.dossier-clients.fr
+::1 dossier-contestation-fr.fr
+::1 www.dossier-contestation-fr.fr
 ::1 dossier-contravention.fr
 ::1 www.dossier-contravention.fr
 ::1 dossier-contraventions.fr
@@ -267064,6 +267092,8 @@
 ::1 www.fedex-tracking.fr
 ::1 fedexexpress.fr
 ::1 www.fedexexpress.fr
+::1 fedexgroupement.fr
+::1 www.fedexgroupement.fr
 ::1 fedezu.es
 ::1 www.fedezu.es
 ::1 fedin.info
@@ -308868,6 +308898,8 @@
 ::1 www.gouv-financementenergies.fr
 ::1 gouv-finances.fr
 ::1 www.gouv-finances.fr
+::1 gouv-fr.fr
+::1 www.gouv-fr.fr
 ::1 gouv-france-connect.fr
 ::1 www.gouv-france-connect.fr
 ::1 gouv-france.fr
@@ -340826,6 +340858,8 @@
 ::1 www.housebets.fr
 ::1 housebetscasino.fr
 ::1 www.housebetscasino.fr
+::1 housebetsfr.fr
+::1 www.housebetsfr.fr
 ::1 housebighomelife.mom
 ::1 www.housebighomelife.mom
 ::1 houseblast.com
@@ -376200,6 +376234,8 @@
 ::1 www.jewellerythrone.com
 ::1 jewelleryvest.com
 ::1 www.jewelleryvest.com
+::1 jewelly-jeans.fr
+::1 www.jewelly-jeans.fr
 ::1 jewelpak.com
 ::1 www.jewelpak.com
 ::1 jewelryclaire.com
@@ -429366,6 +429402,8 @@
 ::1 www.loreal-paris-me.com
 ::1 lorealepoveto.ml
 ::1 www.lorealepoveto.ml
+::1 lorealfrance.fr
+::1 www.lorealfrance.fr
 ::1 loreals.fr
 ::1 www.loreals.fr
 ::1 lorealwear.com
@@ -439620,6 +439658,8 @@
 ::1 www.mafia-jouer-argentreel.fr
 ::1 mafia-jouer-enligne.fr
 ::1 www.mafia-jouer-enligne.fr
+::1 mafia-official.fr
+::1 www.mafia-official.fr
 ::1 mafia-online-play.fr
 ::1 www.mafia-online-play.fr
 ::1 mafia-online.fr
@@ -475154,6 +475194,8 @@
 ::1 www.mystake-casino-fr.fr
 ::1 mystake-casino.fr
 ::1 www.mystake-casino.fr
+::1 mystake-enligne.fr
+::1 www.mystake-enligne.fr
 ::1 mystake-fr-casino.fr
 ::1 www.mystake-fr-casino.fr
 ::1 mystake-fr.fr
@@ -503936,6 +503978,8 @@
 ::1 www.oaraoa.bar
 ::1 oarh4k.xyz
 ::1 www.oarh4k.xyz
+::1 oarnge.fr
+::1 www.oarnge.fr
 ::1 oarqcf.tokyo
 ::1 www.oarqcf.tokyo
 ::1 oarstravelled.com
@@ -512008,6 +512052,8 @@
 ::1 www.onlinegioielli.it
 ::1 onlinegoodshub.com
 ::1 www.onlinegoodshub.com
+::1 onlinegransino.fr
+::1 www.onlinegransino.fr
 ::1 onlinegtn.com
 ::1 www.onlinegtn.com
 ::1 onlinehealthcare.com
@@ -512352,6 +512398,8 @@
 ::1 www.onlyspinss-france.fr
 ::1 onlyspinss.fr
 ::1 www.onlyspinss.fr
+::1 onlyspinz.fr
+::1 www.onlyspinz.fr
 ::1 onlythebestshop.com
 ::1 www.onlythebestshop.com
 ::1 onlywaifus.ai
@@ -581164,6 +581212,8 @@
 ::1 www.randstacd.fr
 ::1 randstaddigitalfrance.fr
 ::1 www.randstaddigitalfrance.fr
+::1 randstade.fr
+::1 www.randstade.fr
 ::1 randstadt.fr
 ::1 www.randstadt.fr
 ::1 randtingtiwire.gq
@@ -608404,6 +608454,8 @@
 ::1 www.ruffprunothgihydcoe.tk
 ::1 ruffsymptoreciding.cf
 ::1 www.ruffsymptoreciding.cf
+::1 ruffwearfrance.fr
+::1 www.ruffwearfrance.fr
 ::1 ruffweargeschaft.com
 ::1 www.ruffweargeschaft.com
 ::1 rufgsh.tokyo
@@ -617572,6 +617624,8 @@
 ::1 www.savaspins-fr.fr
 ::1 savaspinscasino.fr
 ::1 www.savaspinscasino.fr
+::1 savaspyn.fr
+::1 www.savaspyn.fr
 ::1 savbutorisjugg.ga
 ::1 www.savbutorisjugg.ga
 ::1 savchronopost.fr
@@ -627228,6 +627282,8 @@
 ::1 www.service-particuliers-sg.fr
 ::1 service-pass-securite-societegenerale.fr
 ::1 www.service-pass-securite-societegenerale.fr
+::1 service-passeport.fr
+::1 www.service-passeport.fr
 ::1 service-patient-ameli.fr
 ::1 www.service-patient-ameli.fr
 ::1 service-pay.fr
@@ -634856,6 +634912,8 @@
 ::1 www.simsterest.xyz
 ::1 simsusstetovab.ga
 ::1 www.simsusstetovab.ga
+::1 simsyno.fr
+::1 www.simsyno.fr
 ::1 simtairoughpinpe.ga
 ::1 www.simtairoughpinpe.ga
 ::1 simtalpbantepor.ga
@@ -647466,6 +647524,8 @@
 ::1 www.sp1nformula-fra.fr
 ::1 sp1nformula-plays.fr
 ::1 www.sp1nformula-plays.fr
+::1 sp1nsboss.fr
+::1 www.sp1nsboss.fr
 ::1 sp1nsy-fr.fr
 ::1 www.sp1nsy-fr.fr
 ::1 sp1wn1.cyou
@@ -647724,6 +647784,8 @@
 ::1 www.spajaranneru.tk
 ::1 spajlahverfjam.ml
 ::1 www.spajlahverfjam.ml
+::1 spakefortuna.fr
+::1 www.spakefortuna.fr
 ::1 spalbadistbe.gq
 ::1 www.spalbadistbe.gq
 ::1 spalearaduser.ml
@@ -649842,6 +649904,8 @@
 ::1 www.spingrannyfr.fr
 ::1 spingrannyfrance.fr
 ::1 www.spingrannyfrance.fr
+::1 spingrannyy.fr
+::1 www.spingrannyy.fr
 ::1 spingreen.fr
 ::1 www.spingreen.fr
 ::1 spinhub-casino.fr
@@ -789808,6 +789872,8 @@
 ::1 www.xooftoz.bar
 ::1 xoojdc.rest
 ::1 www.xoojdc.rest
+::1 xoom-service-dossier.fr
+::1 www.xoom-service-dossier.fr
 ::1 xoosei.tokyo
 ::1 www.xoosei.tokyo
 ::1 xootymortertpu.tk
