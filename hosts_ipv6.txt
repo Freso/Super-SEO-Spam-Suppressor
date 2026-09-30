@@ -482486,8 +482486,6 @@
 ::1 www.neforvieve.ga
 ::1 nefountu.tk
 ::1 www.nefountu.tk
-::1 nefrevbz.shop
-::1 www.nefrevbz.shop
 ::1 neftiix.fr
 ::1 www.neftiix.fr
 ::1 neftiixfrance.fr
