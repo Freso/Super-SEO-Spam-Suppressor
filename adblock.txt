@@ -8462,7 +8462,6 @@
 ||2689bq.cyou^$document
 ||268vin.com^$document
 ||268vinbet.com^$document
-||269-versand-kleinanzeigen.de^$document
 ||2691374.com^$document
 ||2693150.com^$document
 ||2694323.com^$document
@@ -35457,6 +35456,7 @@
 ||agriredirectiofr.fr^$document
 ||agriservice640.com^$document
 ||agrisiz-dogum.net^$document
+||agritechcenter.de^$document
 ||agriturismo-veneto.it^$document
 ||agriturismofrattavecchia.it^$document
 ||agriturismogabilia.it^$document
@@ -36722,7 +36722,6 @@
 ||akku-laden.at^$document
 ||akku-staubsauger.eu^$document
 ||akkuschrauber-heinrich.com^$document
-||akkusmir.de^$document
 ||akkusnotebook.at^$document
 ||aklahourapo.tk^$document
 ||akldikv.bar^$document
@@ -54925,7 +54924,6 @@
 ||beachsissi.com^$document
 ||beachtennislugano.ch^$document
 ||beachtioconta.tk^$document
-||beachwalkbali.com^$document
 ||beaconzero.net^$document
 ||beacuc.shop^$document
 ||beadaramos.ml^$document
@@ -56364,6 +56362,7 @@
 ||berghoffshop.fr^$document
 ||berghofftools.fr^$document
 ||berghotel-marlstein.de^$document
+||berghuetten-traum.de^$document
 ||bergiact.my.id^$document
 ||bergiamolingo.ga^$document
 ||bergkaminholz.at^$document
@@ -57282,6 +57281,7 @@
 ||bestpertconlenxmer.ml^$document
 ||bestpharm-eu.com^$document
 ||bestpillpharmacy.com^$document
+||bestpillsnetwork.com^$document
 ||bestpods.fr^$document
 ||bestpometlupe.cf^$document
 ||bestprepaidcards.xyz^$document
@@ -66345,6 +66345,7 @@
 ||brennholz-pellets.com^$document
 ||brennholz-quelle.de^$document
 ||brennholz-widmanngmbh.com^$document
+||brennholz-wieslohn.de^$document
 ||brennholz-world.at^$document
 ||brennholz-ws.de^$document
 ||brennholzangebot.com^$document
@@ -66360,6 +66361,7 @@
 ||brennholzhochwald-de.com^$document
 ||brennholzkamin.de^$document
 ||brennholzkaufen.shop^$document
+||brennholzkraft.com^$document
 ||brennholzmarkt.com^$document
 ||brennholzmichalhoff.com^$document
 ||brennholzmoorausmoor-de.com^$document
@@ -77965,6 +77967,7 @@
 ||certificat-critairs.fr^$document
 ||certificat-denongage.fr^$document
 ||certificat-gouv-critair.fr^$document
+||certificat-leboncoin.fr^$document
 ||certificat-mavignette.fr^$document
 ||certificat-vignette-crit-air.fr^$document
 ||certificat-vignette-critair.fr^$document
@@ -78627,6 +78630,7 @@
 ||cgotien.tokyo^$document
 ||cgp0q.bar^$document
 ||cgp4i6p.shop^$document
+||cgptsystem.com^$document
 ||cgpxgg.cyou^$document
 ||cgpxie.tokyo^$document
 ||cgq5sf.tokyo^$document
@@ -87557,9 +87561,11 @@
 ||coffeewdy.com^$document
 ||coffpacotal.tk^$document
 ||coffprofcermaby.gq^$document
+||coffrefort-ants.fr^$document
 ||coffsimprevibooks.ga^$document
 ||cofgt7.cyou^$document
 ||cofgzx.tokyo^$document
+||cofidis-finances.fr^$document
 ||cofidis-sa.fr^$document
 ||cofidix.fr^$document
 ||cofillhuhensconsnor.tk^$document
@@ -97949,6 +97955,7 @@
 ||cxw13.rest^$document
 ||cxw5b0.tokyo^$document
 ||cxwakc.bar^$document
+||cxwauxbw.shop^$document
 ||cxwbfo.cyou^$document
 ||cxwesi.bar^$document
 ||cxwfjh2.tokyo^$document
@@ -100718,6 +100725,7 @@
 ||datelco.dk^$document
 ||datemeetsexfind1.com^$document
 ||datendetektive-online.de^$document
+||datenfin.de^$document
 ||daterredoorgphira.tk^$document
 ||daterrentvittareal.cf^$document
 ||dates-4-you3.com^$document
@@ -102412,6 +102420,7 @@
 ||deeadustsotarabed.tk^$document
 ||deeajenlandphemesuc.tk^$document
 ||deeanvis.my.id^$document
+||deebikespares.com^$document
 ||deecelnidumy.ga^$document
 ||deecheckcantala.cf^$document
 ||deecheforsigh.tk^$document
@@ -132464,7 +132473,10 @@
 ||fast-sexo-xxxx.buzz^$document
 ||fast-sllot-fr.fr^$document
 ||fast-sllot-france.fr^$document
+||fast-sllot.fr^$document
+||fast-sllotfr.fr^$document
 ||fast-sllots-france.fr^$document
+||fast-sllotsfr.fr^$document
 ||fast-slot-casino.fr^$document
 ||fast-slotcasino.fr^$document
 ||fast-slots-casino.fr^$document
@@ -132580,6 +132592,8 @@
 ||fastskanbeajustsubsvir.ga^$document
 ||fastsllot-fr.fr^$document
 ||fastsllot-france.fr^$document
+||fastsllot.fr^$document
+||fastsllots-fr.fr^$document
 ||fastslot-casino.fr^$document
 ||fastslotcasino.fr^$document
 ||fastslots-casino.fr^$document
@@ -136015,6 +136029,7 @@
 ||fintokeversbuck.ga^$document
 ||fintoriteju.tk^$document
 ||fintozunasys.ga^$document
+||fintresor.online^$document
 ||fintrexia.org^$document
 ||fintupimohos.ml^$document
 ||finuer.biz.id^$document
@@ -140051,6 +140066,7 @@
 ||fotzvs.tokyo^$document
 ||foudepatisserie.xyz^$document
 ||foudrectburbgrosad.gq^$document
+||foudrerendivo-fr.fr^$document
 ||foufva.bar^$document
 ||foufva.rest^$document
 ||fougelaslauti.ga^$document
@@ -144329,6 +144345,7 @@
 ||fxy00p.tokyo^$document
 ||fxydveq.tokyo^$document
 ||fxymdz.work^$document
+||fxyoexem.shop^$document
 ||fxywfd.cyou^$document
 ||fy06qm.cyou^$document
 ||fy0ufaz.shop^$document
@@ -154408,6 +154425,7 @@
 ||gourmetconnection.dk^$document
 ||gourmetkitchen.xyz^$document
 ||gournarasa.cf^$document
+||gourv.fr^$document
 ||goussve.com.br^$document
 ||gousynramictersking.ga^$document
 ||goutfjcr.cyou^$document
@@ -188022,6 +188040,7 @@
 ||jesxdt.shop^$document
 ||jesxmw.tokyo^$document
 ||jet-ex-logistic.buzz^$document
+||jet2trips.com^$document
 ||jetajaccoma.ga^$document
 ||jetameno.dk^$document
 ||jetbbulltattludyro.ml^$document
@@ -196576,6 +196595,7 @@
 ||kicherchekoi.fr^$document
 ||kiciasellnow.xyz^$document
 ||kiciat.xyz^$document
+||kick-france.fr^$document
 ||kickarea.cn^$document
 ||kickass-official.blue^$document
 ||kickasselegan.xyz^$document
@@ -198721,6 +198741,7 @@
 ||koagencatorralo.cf^$document
 ||koakindpostcosncu.tk^$document
 ||koalabetcasino.fr^$document
+||koalaknirpse.de^$document
 ||koalapaku.fr^$document
 ||koaonk.cn^$document
 ||koatetherm.fr^$document
@@ -211563,6 +211584,7 @@
 ||lipucnazinneu.tk^$document
 ||lipulcdeglaudist.tk^$document
 ||liputhosurankmi.tk^$document
+||lipvogue.com^$document
 ||lipyrrcol.tk^$document
 ||liq8bl.cyou^$document
 ||liqhlc.bar^$document
@@ -214228,6 +214250,8 @@
 ||lolajack-casino.fr^$document
 ||lolajack-en-ligne.fr^$document
 ||lolajack-enligne.fr^$document
+||lolajack-fr.fr^$document
+||lolajack-fra.fr^$document
 ||lolajack-france.fr^$document
 ||lolajack-official.fr^$document
 ||lolajack-officiel.fr^$document
@@ -214281,6 +214305,7 @@
 ||lollicupstore.xyz^$document
 ||lollikindel.ee^$document
 ||lollipos.fr^$document
+||lolly-bet2.fr^$document
 ||lollybet-casino.fr^$document
 ||lollybetcasino.fr^$document
 ||lollylips.com^$document
@@ -220553,6 +220578,7 @@
 ||maillots-ffoot-actu.fr^$document
 ||maillots-foot-pas-chers.fr^$document
 ||maillots-officiels.fr^$document
+||maillots2rugbystore.fr^$document
 ||maillotsboutique.fr^$document
 ||maillotscorner.fr^$document
 ||maillotsdefou.fr^$document
@@ -220835,6 +220861,7 @@
 ||maj-epay.fr^$document
 ||maj-mabanque-bnpparibas.fr^$document
 ||maj-netflix.fr^$document
+||maj-obligatoire.fr^$document
 ||maj-particulier.fr^$document
 ||maj-vitale.fr^$document
 ||maj-vpass.fr^$document
@@ -233250,6 +233277,7 @@
 ||mooreandpetersen.com^$document
 ||mooredvazwe.myshopify.com^$document
 ||mooremanor.xyz^$document
+||mooris.de^$document
 ||moornacimostdoho.tk^$document
 ||moorugly.com^$document
 ||moosastgurdtinave.ml^$document
@@ -248069,6 +248097,7 @@
 ||norcotires.xyz^$document
 ||norcoupaltnog.tk^$document
 ||nord-cybertek.fr^$document
+||nord-hand.com^$document
 ||nord-vpn.fr^$document
 ||nordaccount.fr^$document
 ||nordactuquotidien.fr^$document
@@ -248450,6 +248479,7 @@
 ||notaiiiires.fr^$document
 ||notaiiires.fr^$document
 ||notaiire.fr^$document
+||notaiires.fr^$document
 ||notairee.fr^$document
 ||notairees.fr^$document
 ||notairegouv.fr^$document
@@ -248799,6 +248829,7 @@
 ||novaris-capitallimited.cfd^$document
 ||novaris-capitallimited.ltd^$document
 ||novashopfrance.fr^$document
+||novaskiin.fr^$document
 ||novaskin-paris.fr^$document
 ||novaskinfr.fr^$document
 ||novasparkling.com^$document
@@ -252324,6 +252355,7 @@
 ||obockecudddi.gq^$document
 ||oboczcr.tokyo^$document
 ||oboena-selection.de^$document
+||obolapvw.shop^$document
 ||obolbiokanterchyd.ga^$document
 ||obominmon.tk^$document
 ||obomtabdesensou.tk^$document
@@ -295074,6 +295106,7 @@
 ||remeloci.tk^$document
 ||remelotabbu.tk^$document
 ||remembercountry.bar^$document
+||rememberdeshop.com^$document
 ||rememberfivetime.biz^$document
 ||remembermanworld.biz^$document
 ||rememberstudent.buzz^$document
@@ -315744,7 +315777,6 @@
 ||shermozz.xyz^$document
 ||sherosokhan.com^$document
 ||sherrymerriamcounseling.com^$document
-||sherum.com^$document
 ||sherwoodknowledge.com^$document
 ||shescasesproblem.biz^$document
 ||sheseatsthingseye.bar^$document
@@ -326790,6 +326822,7 @@
 ||stadedefrance-kaaris.fr^$document
 ||stadedefrance-niska.fr^$document
 ||stadedefrance-sch.fr^$document
+||stadefrance-sdm.fr^$document
 ||staderendime.tk^$document
 ||staderennaisfc.fr^$document
 ||staderennaistransfert.fr^$document
@@ -329544,6 +329577,7 @@
 ||streetsynergies.com^$document
 ||streettennis.eu^$document
 ||streetviewer.online^$document
+||streetwearmode.shop^$document
 ||strefauvc.pl^$document
 ||strefawolnosci.eu^$document
 ||streibl-garten24.de^$document
@@ -332336,6 +332370,7 @@
 ||support-renouvellement-netflix.fr^$document
 ||support-renouvellement.fr^$document
 ||support-restriction-netflix.fr^$document
+||support-rnicrosoft.fr^$document
 ||support-sante.fr^$document
 ||support-securise-paiement.fr^$document
 ||support-securite-ce.fr^$document
@@ -375837,6 +375872,7 @@
 ||vivahost.host^$document
 ||vivaia-schuhe.de^$document
 ||vivaiaboutiques.fr^$document
+||vivaiacollection.com^$document
 ||vivaiaparis.fr^$document
 ||vivaiaschaussures.fr^$document
 ||vivaiaschuhe.at^$document
@@ -380553,6 +380589,7 @@
 ||wasawebloo.tk^$document
 ||wasbroke.com^$document
 ||wascheparfume.de^$document
+||waschmaschinen-spezialist.de^$document
 ||waschzeichen.my.id^$document
 ||waschzone.com^$document
 ||waserdimingwind.ml^$document
@@ -384649,6 +384686,7 @@
 ||wiimenrosandda.tk^$document
 ||wiinamax.fr^$document
 ||wiinbeastt.fr^$document
+||wiinspin.fr^$document
 ||wiipczf.bar^$document
 ||wiiralt.ee^$document
 ||wiiselfdiscla.ga^$document
@@ -393396,6 +393434,7 @@
 ||xjxyxh.cyou^$document
 ||xjy41fr.tokyo^$document
 ||xjyaxing.ru^$document
+||xjyehli.shop^$document
 ||xjyirmn.bar^$document
 ||xjyjiy.rest^$document
 ||xjyjzq.com^$document
