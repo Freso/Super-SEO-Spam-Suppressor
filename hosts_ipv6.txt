@@ -13814,6 +13814,14 @@
 ::1 www.1x-casino.fr
 ::1 1x-ibet3.com
 ::1 www.1x-ibet3.com
+::1 1x-pari-fr.fr
+::1 www.1x-pari-fr.fr
+::1 1x-pari-france.fr
+::1 www.1x-pari-france.fr
+::1 1x-pari.fr
+::1 www.1x-pari.fr
+::1 1x-parifr.fr
+::1 www.1x-parifr.fr
 ::1 1x.tech
 ::1 www.1x.tech
 ::1 1x06tn.cyou
@@ -13986,6 +13994,16 @@
 ::1 www.1xop2d.tokyo
 ::1 1xp2ni.cyou
 ::1 www.1xp2ni.cyou
+::1 1xpari-fr.fr
+::1 www.1xpari-fr.fr
+::1 1xpari-france.fr
+::1 www.1xpari-france.fr
+::1 1xpari.fr
+::1 www.1xpari.fr
+::1 1xpari1.fr
+::1 www.1xpari1.fr
+::1 1xparifr.fr
+::1 www.1xparifr.fr
 ::1 1xqggx8.shop
 ::1 www.1xqggx8.shop
 ::1 1xqwbt.cyou
@@ -69272,6 +69290,8 @@
 ::1 www.afowcrunsichbobeg.tk
 ::1 afp3ay.cyou
 ::1 www.afp3ay.cyou
+::1 afpa-france-travail.fr
+::1 www.afpa-france-travail.fr
 ::1 afpa-nice.fr
 ::1 www.afpa-nice.fr
 ::1 afpaa.fr
@@ -70042,6 +70062,8 @@
 ::1 www.agentbroker.marketing
 ::1 agentops.ai
 ::1 www.agentops.ai
+::1 agents-allianz.fr
+::1 www.agents-allianz.fr
 ::1 agents-co.fr
 ::1 www.agents-co.fr
 ::1 agentspincasino.fr
@@ -77584,8 +77606,6 @@
 ::1 www.aluvea.de
 ::1 alvabcoacontatic.gq
 ::1 www.alvabcoacontatic.gq
-::1 alvara-zurich.ch
-::1 www.alvara-zurich.ch
 ::1 alvebmegeperlo.tk
 ::1 www.alvebmegeperlo.tk
 ::1 alved.xyz
@@ -77638,8 +77658,6 @@
 ::1 www.alvzdozn.cyou
 ::1 alwabitnu.tk
 ::1 www.alwabitnu.tk
-::1 alwansolarhq.shop
-::1 www.alwansolarhq.shop
 ::1 alwarebytes.com
 ::1 www.alwarebytes.com
 ::1 alwaromasatic.cf
@@ -77680,8 +77698,6 @@
 ::1 www.alyalev.cyou
 ::1 alyastore.fr
 ::1 www.alyastore.fr
-::1 alyatransports.com
-::1 www.alyatransports.com
 ::1 alyctracunti.ml
 ::1 www.alyctracunti.ml
 ::1 alyfuncom.xyz
@@ -82056,6 +82072,8 @@
 ::1 www.anabolic-steroids-online.com
 ::1 anabolicalternative.com
 ::1 www.anabolicalternative.com
+::1 anabolikaonlinedeutschland.com
+::1 www.anabolikaonlinedeutschland.com
 ::1 anabpissisin.tk
 ::1 www.anabpissisin.tk
 ::1 anabsadab.gq
@@ -83308,8 +83326,6 @@
 ::1 www.angelvzde.xyz
 ::1 angelx5makez.top
 ::1 www.angelx5makez.top
-::1 angelzubehoerladen.com
-::1 www.angelzubehoerladen.com
 ::1 angenehme.de
 ::1 www.angenehme.de
 ::1 angenthaaraigorro.tk
@@ -83846,8 +83862,6 @@
 ::1 www.ankelinerherz.com
 ::1 anker-france.fr
 ::1 www.anker-france.fr
-::1 ankerflowtech.shop
-::1 www.ankerflowtech.shop
 ::1 ankerfr.fr
 ::1 www.ankerfr.fr
 ::1 ankerkrautde.shop
@@ -87500,8 +87514,6 @@
 ::1 www.apollona.ee
 ::1 apolloniosoluzioni.it
 ::1 www.apolloniosoluzioni.it
-::1 apollus24.com
-::1 www.apollus24.com
 ::1 apollus24.com.com
 ::1 www.apollus24.com.com
 ::1 apolm.xyz
@@ -87578,8 +87590,6 @@
 ::1 www.apotheke-schweiz.net
 ::1 apotheke-windischgarsten.com
 ::1 www.apotheke-windischgarsten.com
-::1 apotheke-zaversko.shop
-::1 www.apotheke-zaversko.shop
 ::1 apotheke.buzz
 ::1 www.apotheke.buzz
 ::1 apotheke24eu.de
@@ -87964,8 +87974,6 @@
 ::1 www.apple-spare.fr
 ::1 apple-support.fr
 ::1 www.apple-support.fr
-::1 apple-ui.com
-::1 www.apple-ui.com
 ::1 apple-verifier.fr
 ::1 www.apple-verifier.fr
 ::1 apple-verifiez.fr
@@ -92496,8 +92504,6 @@
 ::1 www.arvulonikanz.net
 ::1 arvulonikanz.org
 ::1 www.arvulonikanz.org
-::1 arvulonikanz.tech
-::1 www.arvulonikanz.tech
 ::1 arvutmuwiraccia.gq
 ::1 www.arvutmuwiraccia.gq
 ::1 arvutoj.tokyo
@@ -94138,8 +94144,6 @@
 ::1 www.asserrewinewsder.gq
 ::1 assertiveselect.com
 ::1 www.assertiveselect.com
-::1 assess-health.com
-::1 www.assess-health.com
 ::1 assessorship.best
 ::1 www.assessorship.best
 ::1 asset-ace.org
@@ -94576,8 +94580,6 @@
 ::1 www.assortm33jerked.best
 ::1 assortm86anjela.fail
 ::1 www.assortm86anjela.fail
-::1 assoulinesales.shop
-::1 www.assoulinesales.shop
 ::1 asspeacisimpetmia.tk
 ::1 www.asspeacisimpetmia.tk
 ::1 assr-formulaire.fr
@@ -132662,6 +132664,8 @@
 ::1 www.brennholzwerner.de
 ::1 brennholzwidmann.de
 ::1 www.brennholzwidmann.de
+::1 brennkiste.de
+::1 www.brennkiste.de
 ::1 brennstoffemokstat.shop
 ::1 www.brennstoffemokstat.shop
 ::1 brenntag.ee
@@ -175334,6 +175338,8 @@
 ::1 www.coinbase-support.fr
 ::1 coinbase-supportdesk.fr
 ::1 www.coinbase-supportdesk.fr
+::1 coinbase.re
+::1 www.coinbase.re
 ::1 coinbasen.vip
 ::1 www.coinbasen.vip
 ::1 coinbasepro.fr
@@ -241420,6 +241426,10 @@
 ::1 www.elitespin-casino.fr
 ::1 elitespin1.fr
 ::1 www.elitespin1.fr
+::1 elitespin2.fr
+::1 www.elitespin2.fr
+::1 elitespin3.fr
+::1 www.elitespin3.fr
 ::1 elitestayzio2u.com
 ::1 www.elitestayzio2u.com
 ::1 elitevolleyaarhus.dk
@@ -268626,6 +268636,8 @@
 ::1 www.feuerbergplus.com
 ::1 feuerholzexpress.de
 ::1 www.feuerholzexpress.de
+::1 feuerholzliebe.de
+::1 www.feuerholzliebe.de
 ::1 feuerundgrill.myshopify.com
 ::1 www.feuerundgrill.myshopify.com
 ::1 feuerwehr-gemeinde-elleben.de
@@ -291604,6 +291616,8 @@
 ::1 www.galaxy-toolkit.net
 ::1 galaxy-update-check.com
 ::1 www.galaxy-update-check.com
+::1 galaxyfox.io
+::1 www.galaxyfox.io
 ::1 galaxylicht.shop
 ::1 www.galaxylicht.shop
 ::1 galaxys-8.fr
@@ -313274,6 +313288,8 @@
 ::1 www.groupeferroignis.com
 ::1 groupefree.fr
 ::1 www.groupefree.fr
+::1 groupeiffage.fr
+::1 www.groupeiffage.fr
 ::1 groupeimpactmedia.fr
 ::1 www.groupeimpactmedia.fr
 ::1 groupeldlc.fr
@@ -314032,6 +314048,8 @@
 ::1 www.gsare0.shop
 ::1 gsaw5a.shop
 ::1 www.gsaw5a.shop
+::1 gsb-grosshandel.com
+::1 www.gsb-grosshandel.com
 ::1 gsbctdv.tokyo
 ::1 www.gsbctdv.tokyo
 ::1 gsbhxyf.tokyo
@@ -334120,6 +334138,8 @@
 ::1 www.hichegeschmocmohol.tk
 ::1 hichonostvopen.tk
 ::1 www.hichonostvopen.tk
+::1 hicity.de
+::1 www.hicity.de
 ::1 hicknartitexvia.tk
 ::1 www.hicknartitexvia.tk
 ::1 hicknorthmolxibonme.cf
@@ -338302,6 +338322,8 @@
 ::1 www.holzpuzzlez.com
 ::1 holzqualitat.de
 ::1 www.holzqualitat.de
+::1 holzregional.de
+::1 www.holzregional.de
 ::1 holzti.com
 ::1 www.holzti.com
 ::1 holzundheizungkontor.de
@@ -340302,8 +340324,6 @@
 ::1 www.hotels-collections.fr
 ::1 hotels-colombo.com
 ::1 www.hotels-colombo.com
-::1 hotels-colorado.net
-::1 www.hotels-colorado.net
 ::1 hotelsandiego.xyz
 ::1 www.hotelsandiego.xyz
 ::1 hotelsandkaas.dk
@@ -342074,6 +342094,8 @@
 ::1 www.hsec17.fr
 ::1 hsefwo.tokyo
 ::1 www.hsefwo.tokyo
+::1 hselbe-fahrrad.de
+::1 www.hselbe-fahrrad.de
 ::1 hsen6a.xyz
 ::1 www.hsen6a.xyz
 ::1 hseskb.rest
@@ -452602,6 +452624,8 @@
 ::1 www.message-6yhh0c7caanz7kwfyltywkrhz.xyz
 ::1 message-alert.info
 ::1 www.message-alert.info
+::1 message-banque.fr
+::1 www.message-banque.fr
 ::1 message-leboncoin.fr
 ::1 www.message-leboncoin.fr
 ::1 message-prime.fr
@@ -506600,6 +506624,8 @@
 ::1 www.officialkmspico.net
 ::1 officialmenu.com
 ::1 www.officialmenu.com
+::1 officialpaint.com
+::1 www.officialpaint.com
 ::1 officialquestion.biz
 ::1 www.officialquestion.biz
 ::1 officialrebrand.shop
@@ -513050,6 +513076,8 @@
 ::1 www.oongoltyloadzymtoopeethe.buzz
 ::1 oonide.shop
 ::1 www.oonide.shop
+::1 ooniuk.shop
+::1 www.ooniuk.shop
 ::1 oonmm.com
 ::1 www.oonmm.com
 ::1 oonowa.myshopify.com
@@ -589686,6 +589714,8 @@
 ::1 www.remboursement-assurance-maladie.fr
 ::1 remboursement-banque-france.fr
 ::1 www.remboursement-banque-france.fr
+::1 remboursement-bouyguestelecom.fr
+::1 www.remboursement-bouyguestelecom.fr
 ::1 remboursement-ca-cf.fr
 ::1 www.remboursement-ca-cf.fr
 ::1 remboursement-caf.fr
@@ -603668,8 +603698,6 @@
 ::1 www.rolesthingbusinesss.biz
 ::1 rolex-replica.to
 ::1 www.rolex-replica.to
-::1 rolexwanduhr.de
-::1 www.rolexwanduhr.de
 ::1 rolexyeals.com
 ::1 www.rolexyeals.com
 ::1 rolezamtibo.ga
@@ -609806,6 +609834,8 @@
 ::1 www.rx-pharmacies.com
 ::1 rx-qualityshop.com
 ::1 www.rx-qualityshop.com
+::1 rx-true.com
+::1 www.rx-true.com
 ::1 rx186d.cyou
 ::1 www.rx186d.cyou
 ::1 rx1eesa.cn
@@ -628870,6 +628900,8 @@
 ::1 www.sexenbretagne.fr
 ::1 sexfreenews.agency
 ::1 www.sexfreenews.agency
+::1 sexgouv.fr
+::1 www.sexgouv.fr
 ::1 sexhardcorexxxcams.buzz
 ::1 www.sexhardcorexxxcams.buzz
 ::1 sexhubmovs.com
@@ -656606,6 +656638,8 @@
 ::1 www.stifolsi.gq
 ::1 stiftilesdown.ga
 ::1 www.stiftilesdown.ga
+::1 stig-international.com
+::1 www.stig-international.com
 ::1 stigalzayramlu.tk
 ::1 www.stigalzayramlu.tk
 ::1 stigannaficarldis.tk
@@ -666884,6 +666918,8 @@
 ::1 www.swissclaim-ag.ch
 ::1 swisscoinco.com
 ::1 www.swisscoinco.com
+::1 swisscorummanagement.com
+::1 www.swisscorummanagement.com
 ::1 swisse-pro.fr
 ::1 www.swisse-pro.fr
 ::1 swissedgponbipyt.gq
@@ -739910,6 +739946,8 @@
 ::1 www.verticale-blog.it
 ::1 verticalinternational.com
 ::1 www.verticalinternational.com
+::1 vertice-store.fr
+::1 www.vertice-store.fr
 ::1 vertie311.github.io
 ::1 www.vertie311.github.io
 ::1 vertiopersepar.tk
@@ -751200,8 +751238,6 @@
 ::1 www.vivaia-schuhe.de
 ::1 vivaiaboutiques.fr
 ::1 www.vivaiaboutiques.fr
-::1 vivaiacollection.com
-::1 www.vivaiacollection.com
 ::1 vivaiaparis.fr
 ::1 www.vivaiaparis.fr
 ::1 vivaiaschaussures.fr
@@ -770626,6 +770662,14 @@
 ::1 www.winbeast-casino.fr
 ::1 winbeast-fr.fr
 ::1 www.winbeast-fr.fr
+::1 winbeast2.fr
+::1 www.winbeast2.fr
+::1 winbeast3.fr
+::1 www.winbeast3.fr
+::1 winbeast4.fr
+::1 www.winbeast4.fr
+::1 winbeast5.fr
+::1 www.winbeast5.fr
 ::1 winbeat.fr
 ::1 www.winbeat.fr
 ::1 winbeatz-casino.fr
