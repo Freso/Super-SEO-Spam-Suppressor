@@ -100506,7 +100506,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dasmicankesu.ml/*
 *://*.dasnidestrakindja.ml/*
 *://*.dasohandbank.gq/*
-*://*.dasoo.de/*
 *://*.dasorevaparis.de/*
 *://*.dasrasurpcongeson.cf/*
 *://*.dasrestaurant-eiche.de/*
@@ -101586,7 +101585,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ddfx85.tokyo/*
 *://*.ddg193.tokyo/*
 *://*.ddgett.tokyo/*
-*://*.ddgqxkiv.shop/*
 *://*.ddgymv.bar/*
 *://*.ddhavyu.tokyo/*
 *://*.ddhk.yt/*
@@ -101711,11 +101709,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.de-fahrradshop.com/*
 *://*.de-filter.com/*
 *://*.de-fizzclean.com/*
-*://*.de-lumelia.com/*
 *://*.de-musicshop.com/*
 *://*.de-orion.site/*
 *://*.de-schmuckens.com/*
-*://*.de-shimano.com/*
 *://*.de-smuller.nl/*
 *://*.de-telegrcn.org/*
 *://*.de-tero.com/*
@@ -102578,7 +102574,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.degreeweeksmother.buzz/*
 *://*.degreeyouthings.mom/*
 *://*.degrilintlmanburve.tk/*
-*://*.degrillfuerst.com/*
 *://*.degroupage-prime.fr/*
 *://*.degrouptest.com/*
 *://*.degsahefol.tk/*
@@ -102617,7 +102612,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dehardconaliro.gq/*
 *://*.deharmeroun.ga/*
 *://*.dehaternequa.cf/*
-*://*.dehaustierbedarf.com/*
 *://*.dehbzo.tokyo/*
 *://*.deheacive.tk/*
 *://*.deheaholteli.cf/*
@@ -103154,7 +103148,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dematicsas.fr/*
 *://*.dematsearchstomfull.tk/*
 *://*.demboocackoles.tk/*
-*://*.demeaningfulbrands.com/*
 *://*.demeankamouffgoo.tk/*
 *://*.demeano.com/*
 *://*.demeanourpawsdose.com/*
@@ -103782,7 +103775,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.depotcartegrise.fr/*
 *://*.depotchronopost.fr/*
 *://*.depotchronpost.fr/*
-*://*.depotsnow.com/*
 *://*.depoz.company/*
 *://*.depozit-mart.cyou/*
 *://*.deppel.rest/*
@@ -125957,7 +125949,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.eshogsuckchidensdis.gq/*
 *://*.eshop-prime.fr/*
 *://*.eshop-tupperware.fr/*
-*://*.eshop.dealmarketzeny.com/*
 *://*.eshop.sintech.cn/*
 *://*.eshop.stonebournea.com/*
 *://*.eshopelektro.eu/*
