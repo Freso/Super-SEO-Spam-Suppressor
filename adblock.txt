@@ -145993,6 +145993,7 @@
 ||gamesimc.re^$document
 ||gamesinitaly.it^$document
 ||gameslearningsociety.org^$document
+||gameslikefinder.com^$document
 ||gamesloft.com^$document
 ||gamesloot.fr^$document
 ||gamesloots.fr^$document

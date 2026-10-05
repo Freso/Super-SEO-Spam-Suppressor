@@ -145994,6 +145994,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.gamesimc.re/*
 *://*.gamesinitaly.it/*
 *://*.gameslearningsociety.org/*
+*://*.gameslikefinder.com/*
 *://*.gamesloft.com/*
 *://*.gamesloot.fr/*
 *://*.gamesloots.fr/*

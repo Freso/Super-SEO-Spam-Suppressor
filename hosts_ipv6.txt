@@ -291982,6 +291982,8 @@
 ::1 www.gamesinitaly.it
 ::1 gameslearningsociety.org
 ::1 www.gameslearningsociety.org
+::1 gameslikefinder.com
+::1 www.gameslikefinder.com
 ::1 gamesloft.com
 ::1 www.gamesloft.com
 ::1 gamesloot.fr
