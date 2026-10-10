@@ -103448,6 +103448,8 @@
 ::1 www.baccacontheama.tk
 ::1 baccarat-france.fr
 ::1 www.baccarat-france.fr
+::1 baccaratcasino.fr
+::1 www.baccaratcasino.fr
 ::1 baccaratfr.fr
 ::1 www.baccaratfr.fr
 ::1 baccentballluaderfai.tk
@@ -106430,6 +106432,8 @@
 ::1 www.banqueinvest.com
 ::1 banquelaposte.fr
 ::1 www.banquelaposte.fr
+::1 banquemarze.fr
+::1 www.banquemarze.fr
 ::1 banqueoption.com
 ::1 www.banqueoption.com
 ::1 banqueopulaire.fr
@@ -110792,6 +110796,8 @@
 ::1 www.beetinworkbibosly.gq
 ::1 beetlechairmanran.com
 ::1 www.beetlechairmanran.com
+::1 beetsio.fr
+::1 www.beetsio.fr
 ::1 beetty.xyz
 ::1 www.beetty.xyz
 ::1 beetzino-play.fr
@@ -115612,6 +115618,8 @@
 ::1 www.betify-casino2.fr
 ::1 betify-casinofr.fr
 ::1 www.betify-casinofr.fr
+::1 betify-casinofrance.fr
+::1 www.betify-casinofrance.fr
 ::1 betify-casinologin.fr
 ::1 www.betify-casinologin.fr
 ::1 betify-casinos.fr
@@ -155810,6 +155818,8 @@
 ::1 www.certcugukensbruc.tk
 ::1 certdevretekaser.ml
 ::1 www.certdevretekaser.ml
+::1 certeurop.fr
+::1 www.certeurop.fr
 ::1 certfspasl.fr
 ::1 www.certfspasl.fr
 ::1 certfyplsp.fr
@@ -281628,6 +281638,8 @@
 ::1 www.fr9r7.tokyo
 ::1 fra-amunra.fr
 ::1 www.fra-amunra.fr
+::1 fra-betzino.fr
+::1 www.fra-betzino.fr
 ::1 fra-microsoft.fr
 ::1 www.fra-microsoft.fr
 ::1 fra-prime.fr
@@ -306568,6 +306580,10 @@
 ::1 www.golden-outlet.fr
 ::1 golden-palace.fr
 ::1 www.golden-palace.fr
+::1 golden-panda-app.fr
+::1 www.golden-panda-app.fr
+::1 golden-panda-bonus.fr
+::1 www.golden-panda-bonus.fr
 ::1 golden-panda-casinos.fr
 ::1 www.golden-panda-casinos.fr
 ::1 golden-panda-fr.fr
@@ -306576,8 +306592,14 @@
 ::1 www.golden-panda-fra.fr
 ::1 golden-panda-france.fr
 ::1 www.golden-panda-france.fr
+::1 golden-panda-game.fr
+::1 www.golden-panda-game.fr
+::1 golden-panda-jeux.fr
+::1 www.golden-panda-jeux.fr
 ::1 golden-panda-login.fr
 ::1 www.golden-panda-login.fr
+::1 golden-panda-mobile.fr
+::1 www.golden-panda-mobile.fr
 ::1 golden-panda-online.fr
 ::1 www.golden-panda-online.fr
 ::1 golden-panda1.fr
@@ -312704,6 +312726,8 @@
 ::1 www.grmqm3.cyou
 ::1 grnai47.tokyo
 ::1 www.grnai47.tokyo
+::1 grnail.fr
+::1 www.grnail.fr
 ::1 grnenyd.bar
 ::1 www.grnenyd.bar
 ::1 grnixz.tokyo
@@ -314970,6 +314994,8 @@
 ::1 www.gucapahol.gq
 ::1 gucavolte.web.app
 ::1 www.gucavolte.web.app
+::1 gucci-france.fr
+::1 www.gucci-france.fr
 ::1 guccifrance.fr
 ::1 www.guccifrance.fr
 ::1 guccimoinscher.fr
@@ -423860,6 +423886,8 @@
 ::1 www.litige-colis.fr
 ::1 litigecontentieux.fr
 ::1 www.litigecontentieux.fr
+::1 litiges-amazon.fr
+::1 www.litiges-amazon.fr
 ::1 litigeshop-ppl.fr
 ::1 www.litigeshop-ppl.fr
 ::1 litigestationnement.fr
@@ -426688,6 +426716,8 @@
 ::1 www.loakcominadofslim.tk
 ::1 loakechaussure.fr
 ::1 www.loakechaussure.fr
+::1 loakechaussures.fr
+::1 www.loakechaussures.fr
 ::1 loakedeutschland.de
 ::1 www.loakedeutschland.de
 ::1 loakesfrance.fr
@@ -540974,6 +541004,8 @@
 ::1 www.pipelineroster.com
 ::1 pipenungbadc.cf
 ::1 www.pipenungbadc.cf
+::1 piper-spin.fr
+::1 www.piper-spin.fr
 ::1 piper-spincasino.fr
 ::1 www.piper-spincasino.fr
 ::1 piperaresidence.ro
@@ -560078,6 +560110,8 @@
 ::1 www.protectmydevicepro.com
 ::1 protectourfacts.bar
 ::1 www.protectourfacts.bar
+::1 protectsmineursgov.fr
+::1 www.protectsmineursgov.fr
 ::1 protectsurfcloud.com
 ::1 www.protectsurfcloud.com
 ::1 protectsurfhub.com
@@ -579838,6 +579872,8 @@
 ::1 www.rainbetcasino.fr
 ::1 rainbetcasinoonline.fr
 ::1 www.rainbetcasinoonline.fr
+::1 rainbetfr.fr
+::1 www.rainbetfr.fr
 ::1 rainbow-blog.com
 ::1 www.rainbow-blog.com
 ::1 rainbowcctv.com
@@ -782796,10 +782832,18 @@
 ::1 www.x7ajuht.tokyo
 ::1 x7bghoh.cyou
 ::1 www.x7bghoh.cyou
+::1 x7casino-app.fr
+::1 www.x7casino-app.fr
 ::1 x7casino-en-ligne.fr
 ::1 www.x7casino-en-ligne.fr
 ::1 x7casino-enligne.fr
 ::1 www.x7casino-enligne.fr
+::1 x7casino-game.fr
+::1 www.x7casino-game.fr
+::1 x7casino-jeux.fr
+::1 www.x7casino-jeux.fr
+::1 x7casino-online.fr
+::1 www.x7casino-online.fr
 ::1 x7casino1.fr
 ::1 www.x7casino1.fr
 ::1 x7casinofr.fr
