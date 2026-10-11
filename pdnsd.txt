@@ -336684,7 +336684,6 @@ neg {name=taoscharwhigalantheo.ml; types=domain;}
 neg {name=taosegsn.xyz; types=domain;}
 neg {name=taostaninfragmi.tk; types=domain;}
 neg {name=taotao988.com; types=domain;}
-neg {name=taotdzhi.shop; types=domain;}
 neg {name=taotie645.com; types=domain;}
 neg {name=taotycoodena.cf; types=domain;}
 neg {name=taoxiaodui.com; types=domain;}
@@ -338660,7 +338659,6 @@ neg {name=teicasa.it; types=domain;}
 neg {name=teicaslimar.tk; types=domain;}
 neg {name=teich-gartenbau-zickert.de; types=domain;}
 neg {name=teichert-kuentzler.de; types=domain;}
-neg {name=teichfilterelektro.com; types=domain;}
 neg {name=teichwunder.com; types=domain;}
 neg {name=teicompcrusabencon.tk; types=domain;}
 neg {name=teidebttigsofini.ml; types=domain;}
@@ -339616,7 +339614,6 @@ neg {name=tenida.tk; types=domain;}
 neg {name=tenigb.bar; types=domain;}
 neg {name=teniringro.tk; types=domain;}
 neg {name=tenisas.eu; types=domain;}
-neg {name=teniskyunderarmour.sk; types=domain;}
 neg {name=tenisopevilfilt.gq; types=domain;}
 neg {name=tenispro.fr; types=domain;}
 neg {name=tenitawiffting.tk; types=domain;}
@@ -341226,7 +341223,6 @@ neg {name=teustumlavsdownnwan.cf; types=domain;}
 neg {name=teuswareramquebuck.tk; types=domain;}
 neg {name=teutacargephe.tk; types=domain;}
 neg {name=teutimresegite.gq; types=domain;}
-neg {name=teutonicspirits.com; types=domain;}
 neg {name=teutracafar.tk; types=domain;}
 neg {name=teutradbereni.ga; types=domain;}
 neg {name=teutrapockelids.tk; types=domain;}
@@ -342550,7 +342546,6 @@ neg {name=thegoodsite.store; types=domain;}
 neg {name=thegorillavapes.co.uk; types=domain;}
 neg {name=thegossipmaster.com; types=domain;}
 neg {name=thegraduateexchange.com; types=domain;}
-neg {name=thegrand-outlet.com; types=domain;}
 neg {name=thegriforrapa.ml; types=domain;}
 neg {name=thegrimembgireffei.cf; types=domain;}
 neg {name=thegroupsidentifys.bar; types=domain;}
@@ -343043,7 +343038,6 @@ neg {name=thermokeeback.tk; types=domain;}
 neg {name=thermoklima.pl; types=domain;}
 neg {name=thermomix-france.fr; types=domain;}
 neg {name=thermomix-offre.fr; types=domain;}
-neg {name=thermomix-restposten.de; types=domain;}
 neg {name=thermomix-tm6.fr; types=domain;}
 neg {name=thermomix-vorwerk-tm7.de; types=domain;}
 neg {name=thermomix.world; types=domain;}
@@ -343725,7 +343719,6 @@ neg {name=tholenadissa.cf; types=domain;}
 neg {name=tholesfbulltetestcamp.cf; types=domain;}
 neg {name=tholsuneelandda.tk; types=domain;}
 neg {name=thomania-pics.de; types=domain;}
-neg {name=thomannofficiall.com; types=domain;}
 neg {name=thomargesadubu.tk; types=domain;}
 neg {name=thomasbhill2010.com; types=domain;}
 neg {name=thomasbrower.com; types=domain;}
@@ -343737,7 +343730,6 @@ neg {name=thomidregeforf.gq; types=domain;}
 neg {name=thompnanzulourgio.gq; types=domain;}
 neg {name=thompson-sydney.com; types=domain;}
 neg {name=thoneelsgantio.tk; types=domain;}
-neg {name=thongish.store; types=domain;}
 neg {name=thongmorrasa.gq; types=domain;}
 neg {name=thongsacapehyrd.tk; types=domain;}
 neg {name=thongtincongty.biz; types=domain;}
@@ -344390,7 +344382,6 @@ neg {name=tiaglampalfeapu.tk; types=domain;}
 neg {name=tiaglichulitac.gq; types=domain;}
 neg {name=tiaglicnoutorfai.gq; types=domain;}
 neg {name=tiagocardoso.eu; types=domain;}
-neg {name=tiagocarlosdultrary.shop; types=domain;}
 neg {name=tiagufl.bar; types=domain;}
 neg {name=tiagulthecalamb.gq; types=domain;}
 neg {name=tiahamternrindo.tk; types=domain;}
