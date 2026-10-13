@@ -2757,6 +2757,7 @@
 ||1-jj.xyz^$document
 ||1-rx-shop.com^$document
 ||1-speaking.com^$document
+||1-win.fr^$document
 ||1-wins.fr^$document
 ||1.0.218.230^$document
 ||100.20.104.229^$document
@@ -53207,6 +53208,7 @@
 ||banqueccic.fr^$document
 ||banquecentraleeuropeene.fr^$document
 ||banquecentraleeuropeenne.fr^$document
+||banquechalus.fr^$document
 ||banquede-france.fr^$document
 ||banquedebourse.fr^$document
 ||banquedefr-assistance.fr^$document
@@ -56364,6 +56366,7 @@
 ||berggrat.com^$document
 ||berggreenaril.tk^$document
 ||berghandgranen.tk^$document
+||berghausfrance.fr^$document
 ||berghoffshop.fr^$document
 ||berghofftools.fr^$document
 ||berghotel-marlstein.de^$document
@@ -57775,6 +57778,7 @@
 ||beticesgainous.ga^$document
 ||betico.fr^$document
 ||betided.com^$document
+||betify--fr.fr^$document
 ||betify-1.fr^$document
 ||betify-android.fr^$document
 ||betify-apk.fr^$document
@@ -64530,6 +64534,7 @@
 ||bordereau-leboncoin.fr^$document
 ||bordereau-paysecurise.fr^$document
 ||bordereaudedepotsecurise.fr^$document
+||bordereaudepotsecuriser.fr^$document
 ||borderhosts.co.uk^$document
 ||bordifudadi.ga^$document
 ||bordigheraltra.it^$document
@@ -75113,6 +75118,7 @@
 ||casinos-simsinos.fr^$document
 ||casinos-spinanga.fr^$document
 ||casinos-spinmama.fr^$document
+||casinos-stake.fr^$document
 ||casinos-vegasplus.fr^$document
 ||casinos247.fr^$document
 ||casinos770.fr^$document
@@ -86931,6 +86937,7 @@
 ||cnoq7m.cyou^$document
 ||cnow7a.xyz^$document
 ||cnozgk.tokyo^$document
+||cnp--assurance.fr^$document
 ||cnp0nt.cyou^$document
 ||cnp1zgz.tokyo^$document
 ||cnpentair.cn^$document
@@ -97722,6 +97729,7 @@
 ||cwrwv.bar^$document
 ||cwrwv.rest^$document
 ||cws-arch.buzz^$document
+||cws-bnpparibas.fr^$document
 ||cws407.cyou^$document
 ||cwscri.tokyo^$document
 ||cwsfek.bar^$document
@@ -141033,6 +141041,7 @@
 ||france-critair.fr^$document
 ||france-cybertek.fr^$document
 ||france-diplomatie.fr^$document
+||france-discowin.fr^$document
 ||france-dragonia.fr^$document
 ||france-droite.fr^$document
 ||france-electrodepot.fr^$document
@@ -202716,6 +202725,7 @@
 ||lagcampbepartjalink.tk^$document
 ||lagebedpostdato.tk^$document
 ||lageexbeso.ml^$document
+||lagendarmerie.fr^$document
 ||lagenreakccoci.ml^$document
 ||lager-produkte.cyou^$document
 ||lagetacinmau.tk^$document
@@ -228286,6 +228296,7 @@
 ||millioner-casinos.fr^$document
 ||millioner-cassino.fr^$document
 ||millioner-play.fr^$document
+||millioner1-casino.fr^$document
 ||millionerbonus.fr^$document
 ||millionercasino-bonus.fr^$document
 ||millionercasino-fr.fr^$document
@@ -235007,12 +235018,14 @@
 ||msn8cw.shop^$document
 ||msnanty.com^$document
 ||msnc-interieurgouv.fr^$document
+||msnfr.fr^$document
 ||msnhotmail.fr^$document
 ||msnivp.cyou^$document
 ||msnjafci.cyou^$document
 ||msnmessenger.fr^$document
 ||msnmhi.tokyo^$document
 ||msnn.fr^$document
+||msnnews.fr^$document
 ||msnow-place.xyz^$document
 ||msnow-plane.xyz^$document
 ||msnow-play.xyz^$document
@@ -238434,6 +238447,7 @@
 ||n6xx1w.cyou^$document
 ||n6z2tl.cyou^$document
 ||n6zr37.cyou^$document
+||n7-neo-france.fr^$document
 ||n706uoi.tokyo^$document
 ||n70absn.cyou^$document
 ||n712ci.shop^$document
@@ -311663,6 +311677,7 @@
 ||securitesocialeamelie.fr^$document
 ||securitesocietegenerale.fr^$document
 ||securitevitale.fr^$document
+||security-creditagricoles.fr^$document
 ||security-deliveroo.fr^$document
 ||security-instagram.fr^$document
 ||security-lebonc.fr^$document
@@ -320234,6 +320249,7 @@
 ||slutxcamsvid.agency^$document
 ||slutxxxnet.agency^$document
 ||sluyfe.bar^$document
+||slv-ants.fr^$document
 ||slvakb.bar^$document
 ||slvmwf.rest^$document
 ||slvyel.bar^$document
@@ -354986,6 +355002,8 @@
 ||trueglow.de^$document
 ||truehd.fr^$document
 ||truelovefinder.club^$document
+||trueluck-casino-fr.fr^$document
+||trueluck-casino-france.fr^$document
 ||trueluck-casino.fr^$document
 ||trueluck-fr.fr^$document
 ||trueluck-france.fr^$document
@@ -390361,6 +390379,7 @@
 ||wwwfreebox.fr^$document
 ||wwwgemo.fr^$document
 ||wwwgeneration.fr^$document
+||wwwgmail.fr^$document
 ||wwwgmf.fr^$document
 ||wwwgmx.fr^$document
 ||wwwgouv.fr^$document
@@ -390439,6 +390458,7 @@
 ||wwwsimonmed.com^$document
 ||wwwsmc.fr^$document
 ||wwwsofinco.fr^$document
+||wwwsosh.fr^$document
 ||wwwtelemarketing.buzz^$document
 ||wwwtempsl.fr^$document
 ||wwwthechive.com^$document
@@ -409073,6 +409093,7 @@
 ||zomapificadisruptcarsignrextporbu.xyz^$document
 ||zomasaju.tk^$document
 ||zombeemanager.info^$document
+||zombillion-casino.fr^$document
 ||zombillioncasino.fr^$document
 ||zombooru.com^$document
 ||zomerschoolutrecht.nl^$document

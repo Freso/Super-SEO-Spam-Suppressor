@@ -5510,6 +5510,8 @@
 ::1 www.1-rx-shop.com
 ::1 1-speaking.com
 ::1 www.1-speaking.com
+::1 1-win.fr
+::1 www.1-win.fr
 ::1 1-wins.fr
 ::1 www.1-wins.fr
 ::1 1.0.218.230
@@ -106410,6 +106412,8 @@
 ::1 www.banquecentraleeuropeene.fr
 ::1 banquecentraleeuropeenne.fr
 ::1 www.banquecentraleeuropeenne.fr
+::1 banquechalus.fr
+::1 www.banquechalus.fr
 ::1 banquede-france.fr
 ::1 www.banquede-france.fr
 ::1 banquedebourse.fr
@@ -112724,6 +112728,8 @@
 ::1 www.berggreenaril.tk
 ::1 berghandgranen.tk
 ::1 www.berghandgranen.tk
+::1 berghausfrance.fr
+::1 www.berghausfrance.fr
 ::1 berghoffshop.fr
 ::1 www.berghoffshop.fr
 ::1 berghofftools.fr
@@ -115546,6 +115552,8 @@
 ::1 www.betico.fr
 ::1 betided.com
 ::1 www.betided.com
+::1 betify--fr.fr
+::1 www.betify--fr.fr
 ::1 betify-1.fr
 ::1 www.betify-1.fr
 ::1 betify-android.fr
@@ -129056,6 +129064,8 @@
 ::1 www.bordereau-paysecurise.fr
 ::1 bordereaudedepotsecurise.fr
 ::1 www.bordereaudedepotsecurise.fr
+::1 bordereaudepotsecuriser.fr
+::1 www.bordereaudepotsecuriser.fr
 ::1 borderhosts.co.uk
 ::1 www.borderhosts.co.uk
 ::1 bordifudadi.ga
@@ -150222,6 +150232,8 @@
 ::1 www.casinos-spinanga.fr
 ::1 casinos-spinmama.fr
 ::1 www.casinos-spinmama.fr
+::1 casinos-stake.fr
+::1 www.casinos-stake.fr
 ::1 casinos-vegasplus.fr
 ::1 www.casinos-vegasplus.fr
 ::1 casinos247.fr
@@ -173858,6 +173870,8 @@
 ::1 www.cnow7a.xyz
 ::1 cnozgk.tokyo
 ::1 www.cnozgk.tokyo
+::1 cnp--assurance.fr
+::1 www.cnp--assurance.fr
 ::1 cnp0nt.cyou
 ::1 www.cnp0nt.cyou
 ::1 cnp1zgz.tokyo
@@ -195440,6 +195454,8 @@
 ::1 www.cwrwv.rest
 ::1 cws-arch.buzz
 ::1 www.cws-arch.buzz
+::1 cws-bnpparibas.fr
+::1 www.cws-bnpparibas.fr
 ::1 cws407.cyou
 ::1 www.cws407.cyou
 ::1 cwscri.tokyo
@@ -282062,6 +282078,8 @@
 ::1 www.france-cybertek.fr
 ::1 france-diplomatie.fr
 ::1 www.france-diplomatie.fr
+::1 france-discowin.fr
+::1 www.france-discowin.fr
 ::1 france-dragonia.fr
 ::1 www.france-dragonia.fr
 ::1 france-droite.fr
@@ -405428,6 +405446,8 @@
 ::1 www.lagebedpostdato.tk
 ::1 lageexbeso.ml
 ::1 www.lageexbeso.ml
+::1 lagendarmerie.fr
+::1 www.lagendarmerie.fr
 ::1 lagenreakccoci.ml
 ::1 www.lagenreakccoci.ml
 ::1 lager-produkte.cyou
@@ -456568,6 +456588,8 @@
 ::1 www.millioner-cassino.fr
 ::1 millioner-play.fr
 ::1 www.millioner-play.fr
+::1 millioner1-casino.fr
+::1 www.millioner1-casino.fr
 ::1 millionerbonus.fr
 ::1 www.millionerbonus.fr
 ::1 millionercasino-bonus.fr
@@ -470010,6 +470032,8 @@
 ::1 www.msnanty.com
 ::1 msnc-interieurgouv.fr
 ::1 www.msnc-interieurgouv.fr
+::1 msnfr.fr
+::1 www.msnfr.fr
 ::1 msnhotmail.fr
 ::1 www.msnhotmail.fr
 ::1 msnivp.cyou
@@ -470022,6 +470046,8 @@
 ::1 www.msnmhi.tokyo
 ::1 msnn.fr
 ::1 www.msnn.fr
+::1 msnnews.fr
+::1 www.msnnews.fr
 ::1 msnow-place.xyz
 ::1 www.msnow-place.xyz
 ::1 msnow-plane.xyz
@@ -476864,6 +476890,8 @@
 ::1 www.n6z2tl.cyou
 ::1 n6zr37.cyou
 ::1 www.n6zr37.cyou
+::1 n7-neo-france.fr
+::1 www.n7-neo-france.fr
 ::1 n706uoi.tokyo
 ::1 www.n706uoi.tokyo
 ::1 n70absn.cyou
@@ -623322,6 +623350,8 @@
 ::1 www.securitesocietegenerale.fr
 ::1 securitevitale.fr
 ::1 www.securitevitale.fr
+::1 security-creditagricoles.fr
+::1 www.security-creditagricoles.fr
 ::1 security-deliveroo.fr
 ::1 www.security-deliveroo.fr
 ::1 security-instagram.fr
@@ -640464,6 +640494,8 @@
 ::1 www.slutxxxnet.agency
 ::1 sluyfe.bar
 ::1 www.sluyfe.bar
+::1 slv-ants.fr
+::1 www.slv-ants.fr
 ::1 slvakb.bar
 ::1 www.slvakb.bar
 ::1 slvmwf.rest
@@ -709968,6 +710000,10 @@
 ::1 www.truehd.fr
 ::1 truelovefinder.club
 ::1 www.truelovefinder.club
+::1 trueluck-casino-fr.fr
+::1 www.trueluck-casino-fr.fr
+::1 trueluck-casino-france.fr
+::1 www.trueluck-casino-france.fr
 ::1 trueluck-casino.fr
 ::1 www.trueluck-casino.fr
 ::1 trueluck-fr.fr
@@ -780718,6 +780754,8 @@
 ::1 www.wwwgemo.fr
 ::1 wwwgeneration.fr
 ::1 www.wwwgeneration.fr
+::1 wwwgmail.fr
+::1 www.wwwgmail.fr
 ::1 wwwgmf.fr
 ::1 www.wwwgmf.fr
 ::1 wwwgmx.fr
@@ -780874,6 +780912,8 @@
 ::1 www.wwwsmc.fr
 ::1 wwwsofinco.fr
 ::1 www.wwwsofinco.fr
+::1 wwwsosh.fr
+::1 www.wwwsosh.fr
 ::1 wwwtelemarketing.buzz
 ::1 www.wwwtelemarketing.buzz
 ::1 wwwtempsl.fr
@@ -818142,6 +818182,8 @@
 ::1 www.zomasaju.tk
 ::1 zombeemanager.info
 ::1 www.zombeemanager.info
+::1 zombillion-casino.fr
+::1 www.zombillion-casino.fr
 ::1 zombillioncasino.fr
 ::1 www.zombillioncasino.fr
 ::1 zombooru.com
