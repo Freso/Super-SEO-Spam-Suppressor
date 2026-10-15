@@ -37899,6 +37899,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.alleuropills.com/*
 *://*.allevamento-amstaff.it/*
 *://*.alleviatedesignertheir.com/*
+*://*.allexpres.fr/*
+*://*.allexpress.fr/*
 *://*.alleycranealoof.com/*
 *://*.allezpaillade.fr/*
 *://*.allfathhoudec.tk/*
@@ -67486,6 +67488,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.brutal-casino-24.fr/*
 *://*.brutal-casino-365.fr/*
 *://*.brutal-casino-777.fr/*
+*://*.brutal-casino-fr.fr/*
 *://*.brutal-casino-game.fr/*
 *://*.brutal-casino-play.fr/*
 *://*.brutal-casino.fr/*
@@ -67498,6 +67501,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.brutalcasino.fr/*
 *://*.brutalcasinos.fr/*
 *://*.brutalemusic.it/*
+*://*.brutallcasino.fr/*
 *://*.brutallyselfevidentmiser.com/*
 *://*.brutalmathematics.com/*
 *://*.brutalobserver.com/*
@@ -74503,6 +74507,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casino-blitz.fr/*
 *://*.casino-bonus-win.online/*
 *://*.casino-bonuskong.fr/*
+*://*.casino-brutal-fr.fr/*
 *://*.casino-cafeteria.fr/*
 *://*.casino-candyspinz.fr/*
 *://*.casino-captainjack.fr/*
@@ -74612,6 +74617,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casino-manga.fr/*
 *://*.casino-mega-dice.fr/*
 *://*.casino-megawin.fr/*
+*://*.casino-millioner-fr.fr/*
 *://*.casino-millioner.fr/*
 *://*.casino-millionz-france.fr/*
 *://*.casino-millionz.fr/*
@@ -74647,6 +74653,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casino-roby.fr/*
 *://*.casino-rockstar.fr/*
 *://*.casino-rodeoslot.fr/*
+*://*.casino-rolletto.fr/*
 *://*.casino-roman.fr/*
 *://*.casino-roobet.fr/*
 *://*.casino-runa.fr/*
@@ -75108,6 +75115,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casinorockstar.fr/*
 *://*.casinorodeoslot.fr/*
 *://*.casinorolldorado.fr/*
+*://*.casinorolletto.fr/*
 *://*.casinoroobet.fr/*
 *://*.casinoroobetenligne.fr/*
 *://*.casinoroobetfr.fr/*
@@ -75697,6 +75705,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.catgeficcugangdil.tk/*
 *://*.catharijnebioscoop.nl/*
 *://*.catharquitravar.ga/*
+*://*.cathdille.fr/*
 *://*.cathedr19eyeball.review/*
 *://*.cathedralreflectedtranquilizer.com/*
 *://*.cathedralspeedilydiscuss.com/*
@@ -133175,6 +133184,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fcloudvip.xyz/*
 *://*.fcls1x.tokyo/*
 *://*.fclvuia.tokyo/*
+*://*.fcmaillots.fr/*
 *://*.fcmbhkq.bar/*
 *://*.fcmoena.it/*
 *://*.fcmvvha.bar/*
@@ -153718,6 +153728,10 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.golo-bet.fr/*
 *://*.golo-betcasino.fr/*
 *://*.goloansauto.com/*
+*://*.golobet-casino-fr.fr/*
+*://*.golobet.fr/*
+*://*.golobetcasino-fr.fr/*
+*://*.golobets.fr/*
 *://*.golocalaltavaltrebbia.it/*
 *://*.gologle.fr/*
 *://*.golongflooditeg.tk/*
@@ -162352,6 +162366,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.happygroupagency.xyz/*
 *://*.happyhelper.xyz/*
 *://*.happyhome.care/*
+*://*.happyhugo-fr.fr/*
 *://*.happyhugocasino-official.fr/*
 *://*.happyhugocasinos.fr/*
 *://*.happyhugos.fr/*
@@ -228242,6 +228257,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.milimoganomb.tk/*
 *://*.milingpurmaastit.ml/*
 *://*.milioner-casino.fr/*
+*://*.milioner-fr.fr/*
 *://*.milioner.fr/*
 *://*.milionercasino.fr/*
 *://*.milirejusi.tk/*
@@ -228324,13 +228340,16 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.millioncaveau.it/*
 *://*.milliondollarcreators.com/*
 *://*.millioner-casino-france.fr/*
+*://*.millioner-casino-online.fr/*
 *://*.millioner-casinos.fr/*
 *://*.millioner-cassino.fr/*
+*://*.millioner-online.fr/*
 *://*.millioner-play.fr/*
 *://*.millioner1-casino.fr/*
 *://*.millionerbonus.fr/*
 *://*.millionercasino-bonus.fr/*
 *://*.millionercasino-fr.fr/*
+*://*.millionercasino.fr/*
 *://*.millionercasinoenligne.fr/*
 *://*.millionercasinos.fr/*
 *://*.millionerfr.fr/*
@@ -243917,6 +243936,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.next-bricks.com/*
 *://*.next-neu.de/*
 *://*.next-rehabandperformance.be/*
+*://*.next-seat-tickets.fr/*
 *://*.next-stage.fr/*
 *://*.nextagcojp.xyz/*
 *://*.nextbackcharmladkomp.tk/*
@@ -293183,6 +293203,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.recruitingsolutions.com.au/*
 *://*.recruitya.de/*
 *://*.recrutement-afpa.fr/*
+*://*.recrutement-ch-lemans.fr/*
 *://*.recrutement-france.fr/*
 *://*.recrutement-indeed.fr/*
 *://*.recrutement-macif.fr/*
@@ -301329,6 +301350,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.robooktahealth.cf/*
 *://*.robopapoliter.ml/*
 *://*.roborockdeutschland.de/*
+*://*.roborockfrance.fr/*
 *://*.roborockosterreich.at/*
 *://*.roborocks.at/*
 *://*.roborocks.de/*
@@ -302038,11 +302060,13 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rolletertuvostre.ga/*
 *://*.rolleto.fr/*
 *://*.rolletocasino.fr/*
+*://*.rolletto-casino-fr.fr/*
 *://*.rolletto-casino.fr/*
 *://*.rolletto-casinos.fr/*
 *://*.rolletto-fr.fr/*
 *://*.rolletto.fr/*
 *://*.rolletto777.fr/*
+*://*.rollettocasino-fr.fr/*
 *://*.rollettocasino-france.fr/*
 *://*.rollettocasino.fr/*
 *://*.rollettoonline.fr/*
@@ -308634,6 +308658,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.sauconyparis.fr/*
 *://*.sauconyparissale.fr/*
 *://*.sauconyrunningshoes.us/*
+*://*.sauconyshoes.fr/*
 *://*.saucorntuwebtthe.tk/*
 *://*.saucosertpartha.tk/*
 *://*.saucoslaholmleto.cf/*
@@ -311637,6 +311662,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.securise-moncompte.fr/*
 *://*.securised-verif.fr/*
 *://*.securiselbc.fr/*
+*://*.securiseledepot.fr/*
 *://*.securisepaiementleboncoin.fr/*
 *://*.securisepaiements.fr/*
 *://*.securisepal-of.fr/*
@@ -326896,6 +326922,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.stakecasinogratuit.fr/*
 *://*.stakecasinoinfo.fr/*
 *://*.stakecasinonl.fr/*
+*://*.stakecasinoo.fr/*
 *://*.stakecasinosocial.fr/*
 *://*.stakecode.site/*
 *://*.staked-casino.fr/*
@@ -353691,6 +353718,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.trendy-berlin.de/*
 *://*.trendy-swimsuit.com/*
 *://*.trendy-video-app.com/*
+*://*.trendychaussures.fr/*
 *://*.trendyclearance.com/*
 *://*.trendygh.com/*
 *://*.trendyhoster02k52eqrfs.biz/*
@@ -362048,6 +362076,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.univ-bp.fr/*
 *://*.univ-br.fr/*
 *://*.univ-caen.fr/*
+*://*.univ-cathdille.fr/*
 *://*.univ-cefi.fr/*
 *://*.univ-cote-azur.fr/*
 *://*.univ-cote-dazur.fr/*
@@ -388587,6 +388616,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.wozf5i7.tokyo/*
 *://*.wozkuslz.cyou/*
 *://*.wozlan.tokyo/*
+*://*.wp-immobilier-fortuneo.fr/*
 *://*.wp-qa.com/*
 *://*.wp-securiteplus.fr/*
 *://*.wp-stats.nl/*

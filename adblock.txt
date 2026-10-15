@@ -37898,6 +37898,8 @@
 ||alleuropills.com^$document
 ||allevamento-amstaff.it^$document
 ||alleviatedesignertheir.com^$document
+||allexpres.fr^$document
+||allexpress.fr^$document
 ||alleycranealoof.com^$document
 ||allezpaillade.fr^$document
 ||allfathhoudec.tk^$document
@@ -67485,6 +67487,7 @@
 ||brutal-casino-24.fr^$document
 ||brutal-casino-365.fr^$document
 ||brutal-casino-777.fr^$document
+||brutal-casino-fr.fr^$document
 ||brutal-casino-game.fr^$document
 ||brutal-casino-play.fr^$document
 ||brutal-casino.fr^$document
@@ -67497,6 +67500,7 @@
 ||brutalcasino.fr^$document
 ||brutalcasinos.fr^$document
 ||brutalemusic.it^$document
+||brutallcasino.fr^$document
 ||brutallyselfevidentmiser.com^$document
 ||brutalmathematics.com^$document
 ||brutalobserver.com^$document
@@ -74502,6 +74506,7 @@
 ||casino-blitz.fr^$document
 ||casino-bonus-win.online^$document
 ||casino-bonuskong.fr^$document
+||casino-brutal-fr.fr^$document
 ||casino-cafeteria.fr^$document
 ||casino-candyspinz.fr^$document
 ||casino-captainjack.fr^$document
@@ -74611,6 +74616,7 @@
 ||casino-manga.fr^$document
 ||casino-mega-dice.fr^$document
 ||casino-megawin.fr^$document
+||casino-millioner-fr.fr^$document
 ||casino-millioner.fr^$document
 ||casino-millionz-france.fr^$document
 ||casino-millionz.fr^$document
@@ -74646,6 +74652,7 @@
 ||casino-roby.fr^$document
 ||casino-rockstar.fr^$document
 ||casino-rodeoslot.fr^$document
+||casino-rolletto.fr^$document
 ||casino-roman.fr^$document
 ||casino-roobet.fr^$document
 ||casino-runa.fr^$document
@@ -75107,6 +75114,7 @@
 ||casinorockstar.fr^$document
 ||casinorodeoslot.fr^$document
 ||casinorolldorado.fr^$document
+||casinorolletto.fr^$document
 ||casinoroobet.fr^$document
 ||casinoroobetenligne.fr^$document
 ||casinoroobetfr.fr^$document
@@ -75696,6 +75704,7 @@
 ||catgeficcugangdil.tk^$document
 ||catharijnebioscoop.nl^$document
 ||catharquitravar.ga^$document
+||cathdille.fr^$document
 ||cathedr19eyeball.review^$document
 ||cathedralreflectedtranquilizer.com^$document
 ||cathedralspeedilydiscuss.com^$document
@@ -133174,6 +133183,7 @@
 ||fcloudvip.xyz^$document
 ||fcls1x.tokyo^$document
 ||fclvuia.tokyo^$document
+||fcmaillots.fr^$document
 ||fcmbhkq.bar^$document
 ||fcmoena.it^$document
 ||fcmvvha.bar^$document
@@ -153717,6 +153727,10 @@
 ||golo-bet.fr^$document
 ||golo-betcasino.fr^$document
 ||goloansauto.com^$document
+||golobet-casino-fr.fr^$document
+||golobet.fr^$document
+||golobetcasino-fr.fr^$document
+||golobets.fr^$document
 ||golocalaltavaltrebbia.it^$document
 ||gologle.fr^$document
 ||golongflooditeg.tk^$document
@@ -162351,6 +162365,7 @@
 ||happygroupagency.xyz^$document
 ||happyhelper.xyz^$document
 ||happyhome.care^$document
+||happyhugo-fr.fr^$document
 ||happyhugocasino-official.fr^$document
 ||happyhugocasinos.fr^$document
 ||happyhugos.fr^$document
@@ -228241,6 +228256,7 @@
 ||milimoganomb.tk^$document
 ||milingpurmaastit.ml^$document
 ||milioner-casino.fr^$document
+||milioner-fr.fr^$document
 ||milioner.fr^$document
 ||milionercasino.fr^$document
 ||milirejusi.tk^$document
@@ -228323,13 +228339,16 @@
 ||millioncaveau.it^$document
 ||milliondollarcreators.com^$document
 ||millioner-casino-france.fr^$document
+||millioner-casino-online.fr^$document
 ||millioner-casinos.fr^$document
 ||millioner-cassino.fr^$document
+||millioner-online.fr^$document
 ||millioner-play.fr^$document
 ||millioner1-casino.fr^$document
 ||millionerbonus.fr^$document
 ||millionercasino-bonus.fr^$document
 ||millionercasino-fr.fr^$document
+||millionercasino.fr^$document
 ||millionercasinoenligne.fr^$document
 ||millionercasinos.fr^$document
 ||millionerfr.fr^$document
@@ -243916,6 +243935,7 @@
 ||next-bricks.com^$document
 ||next-neu.de^$document
 ||next-rehabandperformance.be^$document
+||next-seat-tickets.fr^$document
 ||next-stage.fr^$document
 ||nextagcojp.xyz^$document
 ||nextbackcharmladkomp.tk^$document
@@ -293182,6 +293202,7 @@
 ||recruitingsolutions.com.au^$document
 ||recruitya.de^$document
 ||recrutement-afpa.fr^$document
+||recrutement-ch-lemans.fr^$document
 ||recrutement-france.fr^$document
 ||recrutement-indeed.fr^$document
 ||recrutement-macif.fr^$document
@@ -301328,6 +301349,7 @@
 ||robooktahealth.cf^$document
 ||robopapoliter.ml^$document
 ||roborockdeutschland.de^$document
+||roborockfrance.fr^$document
 ||roborockosterreich.at^$document
 ||roborocks.at^$document
 ||roborocks.de^$document
@@ -302037,11 +302059,13 @@
 ||rolletertuvostre.ga^$document
 ||rolleto.fr^$document
 ||rolletocasino.fr^$document
+||rolletto-casino-fr.fr^$document
 ||rolletto-casino.fr^$document
 ||rolletto-casinos.fr^$document
 ||rolletto-fr.fr^$document
 ||rolletto.fr^$document
 ||rolletto777.fr^$document
+||rollettocasino-fr.fr^$document
 ||rollettocasino-france.fr^$document
 ||rollettocasino.fr^$document
 ||rollettoonline.fr^$document
@@ -308633,6 +308657,7 @@
 ||sauconyparis.fr^$document
 ||sauconyparissale.fr^$document
 ||sauconyrunningshoes.us^$document
+||sauconyshoes.fr^$document
 ||saucorntuwebtthe.tk^$document
 ||saucosertpartha.tk^$document
 ||saucoslaholmleto.cf^$document
@@ -311636,6 +311661,7 @@
 ||securise-moncompte.fr^$document
 ||securised-verif.fr^$document
 ||securiselbc.fr^$document
+||securiseledepot.fr^$document
 ||securisepaiementleboncoin.fr^$document
 ||securisepaiements.fr^$document
 ||securisepal-of.fr^$document
@@ -326895,6 +326921,7 @@
 ||stakecasinogratuit.fr^$document
 ||stakecasinoinfo.fr^$document
 ||stakecasinonl.fr^$document
+||stakecasinoo.fr^$document
 ||stakecasinosocial.fr^$document
 ||stakecode.site^$document
 ||staked-casino.fr^$document
@@ -353690,6 +353717,7 @@
 ||trendy-berlin.de^$document
 ||trendy-swimsuit.com^$document
 ||trendy-video-app.com^$document
+||trendychaussures.fr^$document
 ||trendyclearance.com^$document
 ||trendygh.com^$document
 ||trendyhoster02k52eqrfs.biz^$document
@@ -362047,6 +362075,7 @@
 ||univ-bp.fr^$document
 ||univ-br.fr^$document
 ||univ-caen.fr^$document
+||univ-cathdille.fr^$document
 ||univ-cefi.fr^$document
 ||univ-cote-azur.fr^$document
 ||univ-cote-dazur.fr^$document
@@ -388586,6 +388615,7 @@
 ||wozf5i7.tokyo^$document
 ||wozkuslz.cyou^$document
 ||wozlan.tokyo^$document
+||wp-immobilier-fortuneo.fr^$document
 ||wp-qa.com^$document
 ||wp-securiteplus.fr^$document
 ||wp-stats.nl^$document
