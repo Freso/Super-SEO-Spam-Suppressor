@@ -75758,6 +75758,8 @@
 ::1 www.alleresedsa.cf
 ::1 allergiker-urlaub.buzz
 ::1 www.allergiker-urlaub.buzz
+::1 allergocover.care
+::1 www.allergocover.care
 ::1 allergy-relief-guide.info
 ::1 www.allergy-relief-guide.info
 ::1 allerhand-md.de
@@ -78492,6 +78494,8 @@
 ::1 www.ambiguityornamenttell.com
 ::1 ambitbio.com
 ::1 www.ambitbio.com
+::1 ambitspot.de
+::1 www.ambitspot.de
 ::1 ambjl01.com
 ::1 www.ambjl01.com
 ::1 ambjl02.com
@@ -132892,6 +132896,8 @@
 ::1 www.brennkiste.de
 ::1 brennstoffemokstat.shop
 ::1 www.brennstoffemokstat.shop
+::1 brennstoffhandel-behnke.de
+::1 www.brennstoffhandel-behnke.de
 ::1 brenntag.ee
 ::1 www.brenntag.ee
 ::1 brennuischif.ml
@@ -136024,6 +136030,8 @@
 ::1 www.buchhaltungbayern.de
 ::1 buchiptidepsi.gq
 ::1 www.buchiptidepsi.gq
+::1 buchlaterne.de
+::1 www.buchlaterne.de
 ::1 buchluzip.ga
 ::1 www.buchluzip.ga
 ::1 buchmessles.ga
@@ -603324,6 +603332,8 @@
 ::1 www.robosparkinvestor.de
 ::1 robosriegreenan.tk
 ::1 www.robosriegreenan.tk
+::1 robot-tonde-aspir.com
+::1 www.robot-tonde-aspir.com
 ::1 robotcdewdpocre.cf
 ::1 www.robotcdewdpocre.cf
 ::1 roboter-freunde.de
@@ -677620,6 +677630,8 @@
 ::1 www.tc-bnk.xyz
 ::1 tc-clicks.com
 ::1 www.tc-clicks.com
+::1 tc-germany.com
+::1 www.tc-germany.com
 ::1 tc-link.net
 ::1 www.tc-link.net
 ::1 tc-offers.org

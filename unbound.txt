@@ -37804,6 +37804,7 @@ local-zone: "allenedmondsfrance.fr" always_refuse
 local-zone: "allerabla.ml" always_refuse
 local-zone: "alleresedsa.cf" always_refuse
 local-zone: "allergiker-urlaub.buzz" always_refuse
+local-zone: "allergocover.care" always_refuse
 local-zone: "allergy-relief-guide.info" always_refuse
 local-zone: "allerhand-md.de" always_refuse
 local-zone: "allerleitrendshop.de" always_refuse
@@ -39167,6 +39168,7 @@ local-zone: "ambiguityhalfmoon.com" always_refuse
 local-zone: "ambiguityneighbourhood.com" always_refuse
 local-zone: "ambiguityornamenttell.com" always_refuse
 local-zone: "ambitbio.com" always_refuse
+local-zone: "ambitspot.de" always_refuse
 local-zone: "ambjl01.com" always_refuse
 local-zone: "ambjl02.com" always_refuse
 local-zone: "ambjl03.com" always_refuse
@@ -66313,6 +66315,7 @@ local-zone: "brennholzwerner.de" always_refuse
 local-zone: "brennholzwidmann.de" always_refuse
 local-zone: "brennkiste.de" always_refuse
 local-zone: "brennstoffemokstat.shop" always_refuse
+local-zone: "brennstoffhandel-behnke.de" always_refuse
 local-zone: "brenntag.ee" always_refuse
 local-zone: "brennuischif.ml" always_refuse
 local-zone: "brenomimflexazun.ga" always_refuse
@@ -67879,6 +67882,7 @@ local-zone: "buchbinderei-klaus-mayer.de" always_refuse
 local-zone: "bucher.xyz" always_refuse
 local-zone: "buchhaltungbayern.de" always_refuse
 local-zone: "buchiptidepsi.gq" always_refuse
+local-zone: "buchlaterne.de" always_refuse
 local-zone: "buchluzip.ga" always_refuse
 local-zone: "buchmessles.ga" always_refuse
 local-zone: "buchnergmbh.com" always_refuse
@@ -301068,6 +301072,7 @@ local-zone: "roborocks.de" always_refuse
 local-zone: "roborockshop.de.com" always_refuse
 local-zone: "robosparkinvestor.de" always_refuse
 local-zone: "robosriegreenan.tk" always_refuse
+local-zone: "robot-tonde-aspir.com" always_refuse
 local-zone: "robotcdewdpocre.cf" always_refuse
 local-zone: "roboter-freunde.de" always_refuse
 local-zone: "robotikstore.com" always_refuse
@@ -338144,6 +338149,7 @@ local-zone: "tbzzlk.bar" always_refuse
 local-zone: "tbzzsn.tokyo" always_refuse
 local-zone: "tc-bnk.xyz" always_refuse
 local-zone: "tc-clicks.com" always_refuse
+local-zone: "tc-germany.com" always_refuse
 local-zone: "tc-link.net" always_refuse
 local-zone: "tc-offers.org" always_refuse
 local-zone: "tc-premium.net" always_refuse

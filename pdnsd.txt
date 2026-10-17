@@ -37804,6 +37804,7 @@ neg {name=allenedmondsfrance.fr; types=domain;}
 neg {name=allerabla.ml; types=domain;}
 neg {name=alleresedsa.cf; types=domain;}
 neg {name=allergiker-urlaub.buzz; types=domain;}
+neg {name=allergocover.care; types=domain;}
 neg {name=allergy-relief-guide.info; types=domain;}
 neg {name=allerhand-md.de; types=domain;}
 neg {name=allerleitrendshop.de; types=domain;}
@@ -39167,6 +39168,7 @@ neg {name=ambiguityhalfmoon.com; types=domain;}
 neg {name=ambiguityneighbourhood.com; types=domain;}
 neg {name=ambiguityornamenttell.com; types=domain;}
 neg {name=ambitbio.com; types=domain;}
+neg {name=ambitspot.de; types=domain;}
 neg {name=ambjl01.com; types=domain;}
 neg {name=ambjl02.com; types=domain;}
 neg {name=ambjl03.com; types=domain;}
@@ -66313,6 +66315,7 @@ neg {name=brennholzwerner.de; types=domain;}
 neg {name=brennholzwidmann.de; types=domain;}
 neg {name=brennkiste.de; types=domain;}
 neg {name=brennstoffemokstat.shop; types=domain;}
+neg {name=brennstoffhandel-behnke.de; types=domain;}
 neg {name=brenntag.ee; types=domain;}
 neg {name=brennuischif.ml; types=domain;}
 neg {name=brenomimflexazun.ga; types=domain;}
@@ -67879,6 +67882,7 @@ neg {name=buchbinderei-klaus-mayer.de; types=domain;}
 neg {name=bucher.xyz; types=domain;}
 neg {name=buchhaltungbayern.de; types=domain;}
 neg {name=buchiptidepsi.gq; types=domain;}
+neg {name=buchlaterne.de; types=domain;}
 neg {name=buchluzip.ga; types=domain;}
 neg {name=buchmessles.ga; types=domain;}
 neg {name=buchnergmbh.com; types=domain;}
@@ -301068,6 +301072,7 @@ neg {name=roborocks.de; types=domain;}
 neg {name=roborockshop.de.com; types=domain;}
 neg {name=robosparkinvestor.de; types=domain;}
 neg {name=robosriegreenan.tk; types=domain;}
+neg {name=robot-tonde-aspir.com; types=domain;}
 neg {name=robotcdewdpocre.cf; types=domain;}
 neg {name=roboter-freunde.de; types=domain;}
 neg {name=robotikstore.com; types=domain;}
@@ -338144,6 +338149,7 @@ neg {name=tbzzlk.bar; types=domain;}
 neg {name=tbzzsn.tokyo; types=domain;}
 neg {name=tc-bnk.xyz; types=domain;}
 neg {name=tc-clicks.com; types=domain;}
+neg {name=tc-germany.com; types=domain;}
 neg {name=tc-link.net; types=domain;}
 neg {name=tc-offers.org; types=domain;}
 neg {name=tc-premium.net; types=domain;}
