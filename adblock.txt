@@ -91465,6 +91465,7 @@
 ||containerslager.com^$document
 ||containersolutionscs.de^$document
 ||containersparks.com^$document
+||containerstahlhaus.com^$document
 ||containerwelt24.com^$document
 ||containerworldllc.store^$document
 ||containgroupdark.buzz^$document
@@ -140470,6 +140471,7 @@
 ||fpkbhq.cyou^$document
 ||fpktji.bar^$document
 ||fplaction.org^$document
+||fplgchauffage.com^$document
 ||fplhzr.tokyo^$document
 ||fpli51.tokyo^$document
 ||fpljub.tokyo^$document
@@ -220456,6 +220458,7 @@
 ||magicwinscasino.fr^$document
 ||magicworld.xyz^$document
 ||magikdepotfrance.fr^$document
+||magiluxe-store.com^$document
 ||maginp.com^$document
 ||magirachaploa.ml^$document
 ||magisamziped.tk^$document
