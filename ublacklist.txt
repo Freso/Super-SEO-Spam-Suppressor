@@ -43902,6 +43902,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.app-for-video.com/*
 *://*.app-good.com/*
 *://*.app-hub-desk.github.io/*
+*://*.app-livraison.fr/*
 *://*.app-localiser.fr/*
 *://*.app-logistics.com/*
 *://*.app-millenium.fr/*
@@ -96408,6 +96409,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ctay1lg.tokyo/*
 *://*.ctb8ny.cyou/*
 *://*.ctbia.tokyo/*
+*://*.ctbike.pl/*
 *://*.ctc-recouvrement.fr/*
 *://*.ctcg3o.xyz/*
 *://*.ctchoops.buzz/*
@@ -106868,6 +106870,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dicedrew.com/*
 *://*.dicehatch.com/*
 *://*.diceknob.com/*
+*://*.dicepalace-fr.fr/*
+*://*.dicepalace8.fr/*
 *://*.dicerfer.es/*
 *://*.dicexin.com/*
 *://*.dicfaphalicepdeo.gq/*
@@ -227372,7 +227376,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.mg6eqap.cyou/*
 *://*.mg7lzf.tokyo/*
 *://*.mg7ofa.tokyo/*
-*://*.mgaffaires.com/*
 *://*.mgaibt.cyou/*
 *://*.mgaj0fy.tokyo/*
 *://*.mgajfk.tokyo/*
@@ -228643,6 +228646,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.millioner-online.fr/*
 *://*.millioner-play.fr/*
 *://*.millioner1-casino.fr/*
+*://*.millioner9.fr/*
 *://*.millionerbonus.fr/*
 *://*.millionercasino-bonus.fr/*
 *://*.millionercasino-fr.fr/*
@@ -228650,6 +228654,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.millionercasinoenligne.fr/*
 *://*.millionercasinos.fr/*
 *://*.millionerfr.fr/*
+*://*.millionerplay.fr/*
 *://*.millionerr.fr/*
 *://*.millioners-casino.fr/*
 *://*.millioners-casinos.fr/*
@@ -264869,6 +264874,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.partysnumberroom.buzz/*
 *://*.partyspins.fr/*
 *://*.partyspinz-casino.fr/*
+*://*.partyspinz.fr/*
+*://*.partyspinz6.fr/*
 *://*.partyspinzcasino.fr/*
 *://*.paruphamildi.tk/*
 *://*.parupsi.my.id/*
@@ -298259,7 +298266,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rhodalatdfathryu.ml/*
 *://*.rhode.co.at/*
 *://*.rhodenlukasur.tk/*
-*://*.rhodeshotel24.com/*
 *://*.rhodicavramrionen.tk/*
 *://*.rhodocextoben.tk/*
 *://*.rhodolmarno.tk/*
@@ -302361,6 +302367,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.rolesroomstraditionals.bar/*
 *://*.rolesthingbusinesss.biz/*
 *://*.rolex-replica.to/*
+*://*.rolexwanduhr.de/*
 *://*.rolexyeals.com/*
 *://*.rolezamtibo.ga/*
 *://*.rolf24.ee/*
@@ -328413,6 +328420,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.steelmeslightedcornful.tk/*
 *://*.steelmoebel.de/*
 *://*.steelonineciv.tk/*
+*://*.steelseries-fr.fr/*
 *://*.steelseries.com.de/*
 *://*.steelstud.org/*
 *://*.steelwebsdicomware.tk/*
@@ -376293,6 +376301,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.vivahost.host/*
 *://*.vivaia-schuhe.de/*
 *://*.vivaiaboutiques.fr/*
+*://*.vivaiacollection.com/*
 *://*.vivaiaparis.fr/*
 *://*.vivaiaschaussures.fr/*
 *://*.vivaiaschuhe.at/*
@@ -385343,10 +385352,12 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.wildsino-kasino.fr/*
 *://*.wildsino-official.fr/*
 *://*.wildsino-officiel.fr/*
+*://*.wildsino6.fr/*
 *://*.wildsinocasino1.fr/*
 *://*.wildsinofr.fr/*
 *://*.wildsinojouer.fr/*
 *://*.wildsinoo.fr/*
+*://*.wildsinoplay.fr/*
 *://*.wildsinos.fr/*
 *://*.wildsnipleofreelnyo.tk/*
 *://*.wildspiccallouta.tk/*
@@ -402001,6 +402012,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.yonibet-official.fr/*
 *://*.yonibet-officiel.fr/*
 *://*.yonibet3.fr/*
+*://*.yonibetapp.fr/*
+*://*.yonibetbet.fr/*
 *://*.yonibetcasino.fr/*
 *://*.yonibetcasinos.fr/*
 *://*.yonibetofficiel.fr/*
