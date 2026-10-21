@@ -316089,6 +316089,7 @@ local-zone: "show8d.com" always_refuse
 local-zone: "showboat.xyz" always_refuse
 local-zone: "showdesignswayagent.bar" always_refuse
 local-zone: "showeaks.xyz" always_refuse
+local-zone: "showeraddict.com" always_refuse
 local-zone: "showerfixture.com" always_refuse
 local-zone: "showerheadmr.com" always_refuse
 local-zone: "showerroomshops.com" always_refuse

@@ -316702,6 +316702,7 @@
 ||showboat.xyz^$document
 ||showdesignswayagent.bar^$document
 ||showeaks.xyz^$document
+||showeraddict.com^$document
 ||showerfixture.com^$document
 ||showerheadmr.com^$document
 ||showerroomshops.com^$document

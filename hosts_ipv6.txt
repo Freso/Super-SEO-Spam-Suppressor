@@ -633400,6 +633400,8 @@
 ::1 www.showdesignswayagent.bar
 ::1 showeaks.xyz
 ::1 www.showeaks.xyz
+::1 showeraddict.com
+::1 www.showeraddict.com
 ::1 showerfixture.com
 ::1 www.showerfixture.com
 ::1 showerheadmr.com
