@@ -59818,6 +59818,7 @@
 ||biljxu.bar^$document
 ||bilkaphowo.tk^$document
 ||billa.prizmar.at^$document
+||billabong-soldes.fr^$document
 ||billabong-turkiye.com^$document
 ||billabong.com.de^$document
 ||billabongfr.fr^$document
@@ -113027,6 +113028,7 @@
 ||dreamcigarettes.com^$document
 ||dreamconsidersjob.bar^$document
 ||dreamdigimedia.blogspot.com^$document
+||dreame-outlet.fr^$document
 ||dreameaginprispertsleb.ml^$document
 ||dreamecugaclugold.tk^$document
 ||dreamelegants.com^$document
@@ -135965,6 +135967,7 @@
 ||finances-verbalisations.fr^$document
 ||financesgouv.fr^$document
 ||financesky.cn^$document
+||financespublique.fr^$document
 ||financetime.xyz^$document
 ||financial-broker.com^$document
 ||financial-exchange.com^$document
@@ -189134,6 +189137,7 @@
 ||jimev1softwares.buzz^$document
 ||jimgreen.fr^$document
 ||jimi.info^$document
+||jimmychoo-france.fr^$document
 ||jimmygaorestaurant.com^$document
 ||jimmysfarmtoys.com^$document
 ||jimtapotsheart.tk^$document
@@ -195887,6 +195891,7 @@
 ||kenwellsgrpo.com^$document
 ||kenzbaldsunbarcma.cf^$document
 ||kenzdysrosame.tk^$document
+||kenzo-soldes.fr^$document
 ||kenzofrance.fr^$document
 ||kenzosoldes.fr^$document
 ||kenzoworld.fr^$document
@@ -207442,6 +207447,7 @@
 ||lemamingbreadcopis.tk^$document
 ||lemandwerssandceco.tk^$document
 ||lemanifestedes15.fr^$document
+||lemans-fc.fr^$document
 ||lemanwatches.fr^$document
 ||lemapubsiofin.tk^$document
 ||lemarathondesmots.be^$document
@@ -215247,6 +215253,7 @@
 ||lormiredtodehy.gq^$document
 ||lornajane-france.fr^$document
 ||lornajanedeutschland.de^$document
+||lornajanefr.fr^$document
 ||lornajaneparis.fr^$document
 ||loro-pianas.de^$document
 ||lorobattiwoo.tk^$document
@@ -260248,6 +260255,7 @@
 ||outletmiumiu.fr^$document
 ||outletnewin.com^$document
 ||outletnike.fr^$document
+||outletpace.fr^$document
 ||outletparis.fr^$document
 ||outletpc.de^$document
 ||outletpickleball.com^$document
@@ -308240,6 +308248,7 @@
 ||samsdinkenarego.tk^$document
 ||samsic-interim.fr^$document
 ||samsmupefibid.ml^$document
+||samsonite-france.fr^$document
 ||samsonite-paris.fr^$document
 ||samsonite-suomi.com^$document
 ||samsonite.com.de^$document
@@ -310023,6 +310032,7 @@
 ||scapamarbusle.tk^$document
 ||scapbattlingtetab.tk^$document
 ||scapelevir.gq^$document
+||scapest-leclerc.fr^$document
 ||scapfimiciti.tk^$document
 ||scapiaa.xyz^$document
 ||scapigproggoodduvi.tk^$document
@@ -334034,6 +334044,7 @@
 ||swatchoutlet.fr^$document
 ||swatchparis.fr^$document
 ||swatchshopping.com^$document
+||swatchsoldes.fr^$document
 ||swatdictheymethlu.ga^$document
 ||swatdillosove.ml^$document
 ||swatenalus.ga^$document
@@ -375720,6 +375731,7 @@
 ||vinlightoconru.tk^$document
 ||vinmagasinet.dk^$document
 ||vinmarcwalanbi.cf^$document
+||vinmec.com^$document
 ||vinmekka.dk^$document
 ||vinmonclettbunkigou.tk^$document
 ||vinnci.fr^$document
