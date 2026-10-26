@@ -37897,6 +37897,7 @@
 ||allerterre.site^$document
 ||alles-abnehmen.eu^$document
 ||alles-anhanger.com^$document
+||alles-origami.store^$document
 ||alles-vergelijken.eu^$document
 ||allesescooter.de^$document
 ||allesfuerdengarten.com^$document
@@ -56401,6 +56402,7 @@
 ||bergcycle.com^$document
 ||bergdensaboti.tk^$document
 ||bergemusoc.cf^$document
+||berger-brennstoffe.com^$document
 ||berger-seidle-shop.de^$document
 ||bergeresdefrance.fr^$document
 ||bergermode.com^$document
@@ -61809,7 +61811,6 @@
 ||blackfriday-shop.fr^$document
 ||blackfridayakcja.pl^$document
 ||blackfridaydeal.xyz^$document
-||blackfridaymegastore.com^$document
 ||blackfridayuk.xyz^$document
 ||blackgurlzsmagickloset.com^$document
 ||blackhawksbuzz.com^$document
@@ -66437,6 +66438,7 @@
 ||brendens.website^$document
 ||brenderoci.ga^$document
 ||brenhen.icu^$document
+||brenholz-karl.de^$document
 ||brenhorcochosy.gq^$document
 ||breninapliapec.tk^$document
 ||brenizebtama.ml^$document
@@ -67944,6 +67946,7 @@
 ||btqkdr.tokyo^$document
 ||btqn9d0.cyou^$document
 ||btqska.tokyo^$document
+||btrgservices.com^$document
 ||btrlkp.tokyo^$document
 ||btrmpq.rest^$document
 ||btroj03.cyou^$document
@@ -96134,6 +96137,7 @@
 ||cryptocurrency-priceszp4kp2tb.biz^$document
 ||cryptocurrencyinsurance.biz^$document
 ||cryptocurrencynews.pw^$document
+||cryptoeasily.com^$document
 ||cryptofaq.pw^$document
 ||cryptofast.net^$document
 ||cryptofundfx.com^$document
@@ -96462,7 +96466,6 @@
 ||ctay1lg.tokyo^$document
 ||ctb8ny.cyou^$document
 ||ctbia.tokyo^$document
-||ctbike.pl^$document
 ||ctc-recouvrement.fr^$document
 ||ctcg3o.xyz^$document
 ||ctchoops.buzz^$document
@@ -111325,6 +111328,7 @@
 ||dometicoutlet.fr^$document
 ||dometliro.tk^$document
 ||domevorifli.ga^$document
+||domfa-bois.com^$document
 ||domfda.tokyo^$document
 ||domhsalobullcon.ga^$document
 ||domhsubiloomanra.ga^$document
@@ -116044,6 +116048,7 @@
 ||e-bikerabatt.com^$document
 ||e-bikermarkt.de^$document
 ||e-bikesmkgmbh-de.com^$document
+||e-bikesmkgmbh.com^$document
 ||e-bikesparepartsde.com^$document
 ||e-boat.it^$document
 ||e-bonc-justifie.fr^$document
@@ -120846,6 +120851,7 @@
 ||elesuvagverreu.cf^$document
 ||eletia-casino.fr^$document
 ||eletiacasino.fr^$document
+||eletro-remedios.com^$document
 ||eletrodepot.fr^$document
 ||eletrospark.de^$document
 ||eletrostartestufas.com^$document
@@ -128949,7 +128955,6 @@
 ||ewi3llf.tokyo^$document
 ||ewige-seide.de^$document
 ||ewige-stadt-rom.info^$document
-||ewigerbund.org^$document
 ||ewihfuu.cn^$document
 ||ewihymytyb.ml^$document
 ||ewimalpopti.cf^$document
@@ -169584,6 +169589,7 @@
 ||holzfurzuhause.de^$document
 ||holzgartenprofi.de^$document
 ||holzgluck.de^$document
+||holzglut24.de^$document
 ||holzgutexpress.de^$document
 ||holzhack-schnitzel.de^$document
 ||holzhambach.com^$document
@@ -233156,6 +233162,7 @@
 ||monido.de^$document
 ||monijolife.ml^$document
 ||monika-maratova.eu^$document
+||monika-mueller-brennholzhandel.de^$document
 ||monika-taschen.com^$document
 ||moninfraction-reglement.fr^$document
 ||moninstructioncolis.fr^$document
@@ -233731,7 +233738,6 @@
 ||moonftremextharwealth.cf^$document
 ||moongadgets.com^$document
 ||moongnersirentso.ga^$document
-||moongor.com^$document
 ||moonibocorsau.tk^$document
 ||moonkie.de^$document
 ||moonl.in^$document
@@ -236550,7 +236556,6 @@
 ||musiqcafe.info^$document
 ||musiqueonline.com^$document
 ||musjackvather.tk^$document
-||muskangaming.com^$document
 ||muskanonline.com^$document
 ||muskasther.cf^$document
 ||muskdasyritu.ml^$document
@@ -248704,7 +248709,6 @@
 ||norfeedbhydrego.cf^$document
 ||norferepretu.tk^$document
 ||norfhipsrentlichec.ga^$document
-||norfolkhotels24.com^$document
 ||norgaardmedier.dk^$document
 ||norge-apt.com^$document
 ||norge-ed.com^$document
@@ -267748,6 +267752,7 @@
 ||pepstore.org^$document
 ||peptepelgentpar.cf^$document
 ||peptide-kaufen.com^$document
+||peptidekonings.com^$document
 ||peptidy.org^$document
 ||peptipenonline.com^$document
 ||peptt.fr^$document
@@ -305191,6 +305196,7 @@
 ||ruphotography.ru^$document
 ||ruphp.com^$document
 ||ruphysetipe.tk^$document
+||rupills.com^$document
 ||rupinx.xyz^$document
 ||rupisegacile.tk^$document
 ||rupjotomo.tk^$document
@@ -305686,6 +305692,7 @@
 ||rx-pharma.net^$document
 ||rx-pharmacies.com^$document
 ||rx-qualityshop.com^$document
+||rx-true.com^$document
 ||rx186d.cyou^$document
 ||rx1eesa.cn^$document
 ||rx1ekn.xyz^$document
@@ -310809,6 +310816,7 @@
 ||scinnurfacocaw.ml^$document
 ||scintognicecom.tk^$document
 ||sciortino.eu^$document
+||sciponoe.com^$document
 ||sciqcp.rest^$document
 ||scisaskalcoapo.ga^$document
 ||sciscirc.com^$document

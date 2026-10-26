@@ -75790,6 +75790,8 @@
 ::1 www.alles-abnehmen.eu
 ::1 alles-anhanger.com
 ::1 www.alles-anhanger.com
+::1 alles-origami.store
+::1 www.alles-origami.store
 ::1 alles-vergelijken.eu
 ::1 www.alles-vergelijken.eu
 ::1 allesescooter.de
@@ -112798,6 +112800,8 @@
 ::1 www.bergdensaboti.tk
 ::1 bergemusoc.cf
 ::1 www.bergemusoc.cf
+::1 berger-brennstoffe.com
+::1 www.berger-brennstoffe.com
 ::1 berger-seidle-shop.de
 ::1 www.berger-seidle-shop.de
 ::1 bergeresdefrance.fr
@@ -123614,8 +123618,6 @@
 ::1 www.blackfridayakcja.pl
 ::1 blackfridaydeal.xyz
 ::1 www.blackfridaydeal.xyz
-::1 blackfridaymegastore.com
-::1 www.blackfridaymegastore.com
 ::1 blackfridayuk.xyz
 ::1 www.blackfridayuk.xyz
 ::1 blackgurlzsmagickloset.com
@@ -132870,6 +132872,8 @@
 ::1 www.brenderoci.ga
 ::1 brenhen.icu
 ::1 www.brenhen.icu
+::1 brenholz-karl.de
+::1 www.brenholz-karl.de
 ::1 brenhorcochosy.gq
 ::1 www.brenhorcochosy.gq
 ::1 breninapliapec.tk
@@ -135884,6 +135888,8 @@
 ::1 www.btqn9d0.cyou
 ::1 btqska.tokyo
 ::1 www.btqska.tokyo
+::1 btrgservices.com
+::1 www.btrgservices.com
 ::1 btrlkp.tokyo
 ::1 www.btrlkp.tokyo
 ::1 btrmpq.rest
@@ -192264,6 +192270,8 @@
 ::1 www.cryptocurrencyinsurance.biz
 ::1 cryptocurrencynews.pw
 ::1 www.cryptocurrencynews.pw
+::1 cryptoeasily.com
+::1 www.cryptoeasily.com
 ::1 cryptofaq.pw
 ::1 www.cryptofaq.pw
 ::1 cryptofast.net
@@ -192920,8 +192928,6 @@
 ::1 www.ctb8ny.cyou
 ::1 ctbia.tokyo
 ::1 www.ctbia.tokyo
-::1 ctbike.pl
-::1 www.ctbike.pl
 ::1 ctc-recouvrement.fr
 ::1 www.ctc-recouvrement.fr
 ::1 ctcg3o.xyz
@@ -222646,6 +222652,8 @@
 ::1 www.dometliro.tk
 ::1 domevorifli.ga
 ::1 www.domevorifli.ga
+::1 domfa-bois.com
+::1 www.domfa-bois.com
 ::1 domfda.tokyo
 ::1 www.domfda.tokyo
 ::1 domhsalobullcon.ga
@@ -232084,6 +232092,8 @@
 ::1 www.e-bikermarkt.de
 ::1 e-bikesmkgmbh-de.com
 ::1 www.e-bikesmkgmbh-de.com
+::1 e-bikesmkgmbh.com
+::1 www.e-bikesmkgmbh.com
 ::1 e-bikesparepartsde.com
 ::1 www.e-bikesparepartsde.com
 ::1 e-boat.it
@@ -241688,6 +241698,8 @@
 ::1 www.eletia-casino.fr
 ::1 eletiacasino.fr
 ::1 www.eletiacasino.fr
+::1 eletro-remedios.com
+::1 www.eletro-remedios.com
 ::1 eletrodepot.fr
 ::1 www.eletrodepot.fr
 ::1 eletrospark.de
@@ -257894,8 +257906,6 @@
 ::1 www.ewige-seide.de
 ::1 ewige-stadt-rom.info
 ::1 www.ewige-stadt-rom.info
-::1 ewigerbund.org
-::1 www.ewigerbund.org
 ::1 ewihfuu.cn
 ::1 www.ewihfuu.cn
 ::1 ewihymytyb.ml
@@ -339164,6 +339174,8 @@
 ::1 www.holzgartenprofi.de
 ::1 holzgluck.de
 ::1 www.holzgluck.de
+::1 holzglut24.de
+::1 www.holzglut24.de
 ::1 holzgutexpress.de
 ::1 www.holzgutexpress.de
 ::1 holzhack-schnitzel.de
@@ -466308,6 +466320,8 @@
 ::1 www.monijolife.ml
 ::1 monika-maratova.eu
 ::1 www.monika-maratova.eu
+::1 monika-mueller-brennholzhandel.de
+::1 www.monika-mueller-brennholzhandel.de
 ::1 monika-taschen.com
 ::1 www.monika-taschen.com
 ::1 moninfraction-reglement.fr
@@ -467458,8 +467472,6 @@
 ::1 www.moongadgets.com
 ::1 moongnersirentso.ga
 ::1 www.moongnersirentso.ga
-::1 moongor.com
-::1 www.moongor.com
 ::1 moonibocorsau.tk
 ::1 www.moonibocorsau.tk
 ::1 moonkie.de
@@ -473096,8 +473108,6 @@
 ::1 www.musiqueonline.com
 ::1 musjackvather.tk
 ::1 www.musjackvather.tk
-::1 muskangaming.com
-::1 www.muskangaming.com
 ::1 muskanonline.com
 ::1 www.muskanonline.com
 ::1 muskasther.cf
@@ -497404,8 +497414,6 @@
 ::1 www.norferepretu.tk
 ::1 norfhipsrentlichec.ga
 ::1 www.norfhipsrentlichec.ga
-::1 norfolkhotels24.com
-::1 www.norfolkhotels24.com
 ::1 norgaardmedier.dk
 ::1 www.norgaardmedier.dk
 ::1 norge-apt.com
@@ -535492,6 +535500,8 @@
 ::1 www.peptepelgentpar.cf
 ::1 peptide-kaufen.com
 ::1 www.peptide-kaufen.com
+::1 peptidekonings.com
+::1 www.peptidekonings.com
 ::1 peptidy.org
 ::1 www.peptidy.org
 ::1 peptipenonline.com
@@ -610378,6 +610388,8 @@
 ::1 www.ruphp.com
 ::1 ruphysetipe.tk
 ::1 www.ruphysetipe.tk
+::1 rupills.com
+::1 www.rupills.com
 ::1 rupinx.xyz
 ::1 www.rupinx.xyz
 ::1 rupisegacile.tk
@@ -611368,6 +611380,8 @@
 ::1 www.rx-pharmacies.com
 ::1 rx-qualityshop.com
 ::1 www.rx-qualityshop.com
+::1 rx-true.com
+::1 www.rx-true.com
 ::1 rx186d.cyou
 ::1 www.rx186d.cyou
 ::1 rx1eesa.cn
@@ -621614,6 +621628,8 @@
 ::1 www.scintognicecom.tk
 ::1 sciortino.eu
 ::1 www.sciortino.eu
+::1 sciponoe.com
+::1 www.sciponoe.com
 ::1 sciqcp.rest
 ::1 www.sciqcp.rest
 ::1 scisaskalcoapo.ga
