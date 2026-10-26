@@ -43905,6 +43905,7 @@
 ||app-client-passecu-sg-assurances.fr^$document
 ||app-clients-vocal.fr^$document
 ||app-cmb.fr^$document
+||app-compte-pro-smgc.fr^$document
 ||app-credit-du-nord.fr^$document
 ||app-creditdunord.fr^$document
 ||app-disneyplus.fr^$document
@@ -77201,6 +77202,7 @@
 ||celgetitahigh.cf^$document
 ||celgzq.cyou^$document
 ||celharddemacor.tk^$document
+||celi0-france.fr^$document
 ||celiaschildminding.xyz^$document
 ||celibeardtehil.tk^$document
 ||celibook.fr^$document
@@ -128214,7 +128216,6 @@
 ||europe-fortunecasino.fr^$document
 ||europe-fortunecasinofr.fr^$document
 ||europe-pack.eu^$document
-||europe-pharm.com^$document
 ||europe-pimco.com^$document
 ||europe-prime.fr^$document
 ||europe-warez.eu^$document
@@ -128955,6 +128956,7 @@
 ||ewi3llf.tokyo^$document
 ||ewige-seide.de^$document
 ||ewige-stadt-rom.info^$document
+||ewigerbund.org^$document
 ||ewihfuu.cn^$document
 ||ewihymytyb.ml^$document
 ||ewimalpopti.cf^$document
@@ -132569,7 +132571,6 @@
 ||farmacijahr.com^$document
 ||farmacijahrvatska24.com^$document
 ||farmadesk.eu^$document
-||farmaed.com^$document
 ||farmakeioellada.com^$document
 ||farmakeioellada24.com^$document
 ||farmakeioellinika.com^$document
@@ -146623,6 +146624,7 @@
 ||ganmatinniapol.tk^$document
 ||ganmedemarve.gq^$document
 ||gannfordezilnu.tk^$document
+||ganni-outlet.fr^$document
 ||ganni-soldes.fr^$document
 ||gannicontiso.tk^$document
 ||gannifr.fr^$document
@@ -155787,6 +155789,8 @@
 ||gransino-play.fr^$document
 ||gransino.fr^$document
 ||gransino1.fr^$document
+||gransino2.fr^$document
+||gransino3.fr^$document
 ||gransinocasino-fr.fr^$document
 ||gransinocasinoo.fr^$document
 ||gransinoenligne.fr^$document
@@ -170622,7 +170626,6 @@
 ||hotelsclick.fr^$document
 ||hotelsilvanasanmarino.it^$document
 ||hotelsinperm.ru^$document
-||hotelsinvienna.org^$document
 ||hotelsit.com^$document
 ||hotelsofmenorca.com^$document
 ||hotelspydns.com^$document
@@ -206814,6 +206817,7 @@
 ||leefigaro.fr^$document
 ||leegaplioponrecu.ga^$document
 ||leegdj.shop^$document
+||leegiano.fr^$document
 ||leejeansfrance.fr^$document
 ||leekai1995.com^$document
 ||leekatisucalterf.ga^$document
@@ -207003,6 +207007,7 @@
 ||legiano-france-fr.fr^$document
 ||legiano-france.fr^$document
 ||legiano-officiel.fr^$document
+||legiano2.fr^$document
 ||legianoapp.fr^$document
 ||legianobonus.fr^$document
 ||legianocas1no.fr^$document
@@ -220101,6 +220106,7 @@
 ||macrimespa.tk^$document
 ||macriseedumpku.tk^$document
 ||macro1wo-rks.digital^$document
+||macron-france.fr^$document
 ||macsasadpebi.tk^$document
 ||macselaphvolklo.tk^$document
 ||macsiocoling.tk^$document
@@ -233738,6 +233744,7 @@
 ||moonftremextharwealth.cf^$document
 ||moongadgets.com^$document
 ||moongnersirentso.ga^$document
+||moongor.com^$document
 ||moonibocorsau.tk^$document
 ||moonkie.de^$document
 ||moonl.in^$document
@@ -264683,6 +264690,7 @@
 ||parsuihome.ml^$document
 ||parsulophosking.gq^$document
 ||part-debloc-clientele.fr^$document
+||part-dgfip.fr^$document
 ||part-socgenerale.fr^$document
 ||partage-prime.fr^$document
 ||partahaci.gq^$document
@@ -272337,7 +272345,6 @@
 ||platicjeesulcoa.tk^$document
 ||platigaqolac.gq^$document
 ||platimotedvema.cf^$document
-||platincoin.com^$document
 ||platinebable.gq^$document
 ||platiniridium.best^$document
 ||platinisingizvfa.buzz^$document
@@ -278884,6 +278891,7 @@
 ||pro-ben.de^$document
 ||pro-binary.com^$document
 ||pro-containers.de^$document
+||pro-dgfip.fr^$document
 ||pro-dostavka.ru^$document
 ||pro-energy.eu^$document
 ||pro-free.fr^$document
@@ -284619,6 +284627,7 @@
 ||qcnnxi.bar^$document
 ||qcnswu.tokyo^$document
 ||qcom.us^$document
+||qcompto-pro.fr^$document
 ||qconsultant.eu^$document
 ||qcp7zn9.tokyo^$document
 ||qcpccqg.tokyo^$document
@@ -320567,6 +320576,7 @@
 ||sllotlair.fr^$document
 ||sllotlairs-fr.fr^$document
 ||sllotlairs-france.fr^$document
+||sllotshammer.fr^$document
 ||sllrbi.tokyo^$document
 ||sllwvu.tokyo^$document
 ||slmbip.rest^$document
@@ -320598,6 +320608,7 @@
 ||sloi1.com^$document
 ||slon.online^$document
 ||slootlair.fr^$document
+||slootshammer.fr^$document
 ||slopagpebelmont.ga^$document
 ||slopdihochtehaw.ga^$document
 ||slopemower.xyz^$document
@@ -325762,6 +325773,8 @@
 ||spinmama-jouer.fr^$document
 ||spinmama-login.fr^$document
 ||spinmama-online.fr^$document
+||spinmama2.fr^$document
+||spinmama3.fr^$document
 ||spinmamaapp.fr^$document
 ||spinmamabonus.fr^$document
 ||spinmamabonuscasino.fr^$document
@@ -326644,7 +326657,6 @@
 ||spydersale.de^$document
 ||spyderwrisemel.tk^$document
 ||spydintravornemenradingnofurtangde.xyz^$document
-||spydiscount24.com^$document
 ||spygok.rest^$document
 ||spyi5p.cyou^$document
 ||spymdefdirofacot.ga^$document
@@ -360416,6 +360428,7 @@
 ||uggoutlet.fr^$document
 ||uggoutlets.fr^$document
 ||uggoutletstore.fr^$document
+||uggparis.fr^$document
 ||uggpascher.fr^$document
 ||uggpassion.fr^$document
 ||uggs-boots.fr^$document
