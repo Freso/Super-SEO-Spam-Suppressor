@@ -389062,6 +389062,7 @@
 ||world-prime.fr^$document
 ||world-product.cam^$document
 ||world-war-z-2013-movie.glitch.me^$document
+||world.taobao.com^$document
 ||worldaffectwhiles.biz^$document
 ||worldageperhaps.xyz^$document
 ||worldaidweb.com^$document

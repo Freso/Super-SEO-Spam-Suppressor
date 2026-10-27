@@ -778120,6 +778120,8 @@
 ::1 www.world-product.cam
 ::1 world-war-z-2013-movie.glitch.me
 ::1 www.world-war-z-2013-movie.glitch.me
+::1 world.taobao.com
+::1 www.world.taobao.com
 ::1 worldaffectwhiles.biz
 ::1 www.worldaffectwhiles.biz
 ::1 worldageperhaps.xyz
