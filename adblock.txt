@@ -2755,7 +2755,6 @@
 ||1-class-sexshop.dk^$document
 ||1-coolzino.fr^$document
 ||1-jj.xyz^$document
-||1-rx-shop.com^$document
 ||1-speaking.com^$document
 ||1-win.fr^$document
 ||1-wins.fr^$document
@@ -37616,6 +37615,7 @@
 ||aliatokazii.ro^$document
 ||alibabacloud.fr^$document
 ||alibabafrance.fr^$document
+||alibabashop.fr^$document
 ||alibabet.fr^$document
 ||alibalven.tk^$document
 ||alibihatsandmore.it^$document
@@ -42011,6 +42011,7 @@
 ||anlachoripersa.gq^$document
 ||anlafillemic.ml^$document
 ||anlage-kauf.de^$document
+||anlagenmontage-knubbe.com^$document
 ||anlalacha.tk^$document
 ||anlaletpacont.gq^$document
 ||anlamerlomar.ga^$document
@@ -54981,6 +54982,7 @@
 ||beachsissi.com^$document
 ||beachtennislugano.ch^$document
 ||beachtioconta.tk^$document
+||beachwalkbali.com^$document
 ||beaconzero.net^$document
 ||beacuc.shop^$document
 ||beadaramos.ml^$document
@@ -56518,6 +56520,7 @@
 ||berliketspagend.ga^$document
 ||berlin-arrival.de^$document
 ||berlin-bar5611.nl^$document
+||berlin-brennstoffe.de^$document
 ||berlin-faq.com^$document
 ||berlin-heilpraktiker.eu^$document
 ||berlin-kids-psychotherapy.de^$document
@@ -59432,6 +59435,7 @@
 ||bigclash-en-ligne.fr^$document
 ||bigclash-enligne.fr^$document
 ||bigclash-france.fr^$document
+||bigclash-frrance.fr^$document
 ||bigclash-game.fr^$document
 ||bigclash-officiel.fr^$document
 ||bigclash-online.fr^$document
@@ -61812,6 +61816,7 @@
 ||blackfriday-shop.fr^$document
 ||blackfridayakcja.pl^$document
 ||blackfridaydeal.xyz^$document
+||blackfridaymegastore.com^$document
 ||blackfridayuk.xyz^$document
 ||blackgurlzsmagickloset.com^$document
 ||blackhawksbuzz.com^$document
@@ -66472,14 +66477,17 @@
 ||brennholzbredemeier.com^$document
 ||brennholzdirekt.com^$document
 ||brennholzgarten.de^$document
+||brennholzhandelmartens.com^$document
 ||brennholzhaus.com^$document
 ||brennholzhaus.de^$document
 ||brennholzhochwald-de.com^$document
 ||brennholzkamin.de^$document
 ||brennholzkaufen.shop^$document
+||brennholzkontorscharf.de^$document
 ||brennholzkraft.com^$document
 ||brennholzmarkt.com^$document
 ||brennholzmichalhoff.com^$document
+||brennholzmuscheid.com^$document
 ||brennholzorgler.at^$document
 ||brennholzruhl.de^$document
 ||brennholzrupp.de^$document
@@ -74581,6 +74589,7 @@
 ||casinia-fr.fr^$document
 ||casinia-france.fr^$document
 ||casinia-online.fr^$document
+||casinia1.fr^$document
 ||casiniacasino.fr^$document
 ||casiniacasinoapp.fr^$document
 ||casiniacasinobet.fr^$document
@@ -78069,6 +78078,7 @@
 ||cersadukylejac.tk^$document
 ||cersimedee.tk^$document
 ||cert-air.fr^$document
+||cert-ants.fr^$document
 ||cert-bfr-banque-france.fr^$document
 ||cert-interieurgouv.fr^$document
 ||certaibilodudning.ga^$document
@@ -92598,6 +92608,9 @@
 ||coriolis-poitiers.fr^$document
 ||corirecage.tk^$document
 ||coriridifes.ga^$document
+||coris-bourse.fr^$document
+||coris-bourses.fr^$document
+||corisbourses.fr^$document
 ||corisfinance.com^$document
 ||coristeles.it^$document
 ||coritesmarepcie.gq^$document
@@ -96139,7 +96152,6 @@
 ||cryptocurrency-priceszp4kp2tb.biz^$document
 ||cryptocurrencyinsurance.biz^$document
 ||cryptocurrencynews.pw^$document
-||cryptoeasily.com^$document
 ||cryptofaq.pw^$document
 ||cryptofast.net^$document
 ||cryptofundfx.com^$document
@@ -128216,6 +128228,7 @@
 ||europe-fortunecasino.fr^$document
 ||europe-fortunecasinofr.fr^$document
 ||europe-pack.eu^$document
+||europe-pharm.com^$document
 ||europe-pimco.com^$document
 ||europe-prime.fr^$document
 ||europe-warez.eu^$document
@@ -128956,7 +128969,6 @@
 ||ewi3llf.tokyo^$document
 ||ewige-seide.de^$document
 ||ewige-stadt-rom.info^$document
-||ewigerbund.org^$document
 ||ewihfuu.cn^$document
 ||ewihymytyb.ml^$document
 ||ewimalpopti.cf^$document
@@ -132571,6 +132583,7 @@
 ||farmacijahr.com^$document
 ||farmacijahrvatska24.com^$document
 ||farmadesk.eu^$document
+||farmaed.com^$document
 ||farmakeioellada.com^$document
 ||farmakeioellada24.com^$document
 ||farmakeioellinika.com^$document
@@ -134634,7 +134647,6 @@
 ||fetipadudun.tk^$document
 ||fetirearesco.ml^$document
 ||fetish4movie.mobi^$document
-||fetishmegastore.com^$document
 ||fetistterroaspoonchor.tk^$document
 ||fetjvjj.bar^$document
 ||fetlilydrave.gq^$document
@@ -160947,6 +160959,7 @@
 ||hambpermatumen.tk^$document
 ||hambponwiracmaico.cf^$document
 ||hambspeaklandsimpreso.tk^$document
+||hamburg-hotel.net^$document
 ||hamburg-modehaus.de^$document
 ||hamburg-treuhand.com^$document
 ||hamburger-versand.de^$document
@@ -169583,6 +169596,7 @@
 ||holzbaubillig.com^$document
 ||holzbrenn-stoffe.com^$document
 ||holzbrenn.de^$document
+||holzbrennstoffeug.de^$document
 ||holzbriketts-kaufen.com^$document
 ||holzbriketts-profi.de^$document
 ||holzd24.com^$document
@@ -170626,6 +170640,7 @@
 ||hotelsclick.fr^$document
 ||hotelsilvanasanmarino.it^$document
 ||hotelsinperm.ru^$document
+||hotelsinvienna.org^$document
 ||hotelsit.com^$document
 ||hotelsofmenorca.com^$document
 ||hotelspydns.com^$document
@@ -204005,6 +204020,7 @@
 ||lankchelcemoro.gq^$document
 ||lankchicfupartcamdie.gq^$document
 ||lankdeefastrackgard.tk^$document
+||lankeleisi.de^$document
 ||lankeypropconlagist.tk^$document
 ||lankhalcaginnozz.tk^$document
 ||lankingjobshansnbud.gq^$document
@@ -221561,6 +221577,7 @@
 ||malimonpuno.cf^$document
 ||malina-24.eu^$document
 ||malina-casino-fr.fr^$document
+||malina-casino.fr^$document
 ||malina-casino1.fr^$document
 ||malina-casinos.fr^$document
 ||malina-fr.fr^$document
@@ -231087,6 +231104,7 @@
 ||mobelimfreien.com^$document
 ||mobelmagie.com^$document
 ||mobelmomente.com^$document
+||mobeloutletneheim.shop^$document
 ||mobelsverkauf.com^$document
 ||mobelwohnen.com^$document
 ||mobelzauber.com^$document
@@ -238265,6 +238283,7 @@
 ||mytect.xyz^$document
 ||mytee.fr^$document
 ||mytegtiteabu.cf^$document
+||mytelhandys.de^$document
 ||myteqp.tokyo^$document
 ||myternigssuanbela.tk^$document
 ||mytester.org^$document
@@ -242173,6 +242192,7 @@
 ||neolimarato.ml^$document
 ||neolitaharvi.gq^$document
 ||neolitakeritney.ga^$document
+||neology-stripe.de^$document
 ||neomacesdeo.cf^$document
 ||neomalensmorsoft.gq^$document
 ||neomimahogar.ga^$document
@@ -248678,6 +248698,7 @@
 ||nordulf.dk^$document
 ||nordvestjyden.dk^$document
 ||nordvian.com^$document
+||nordza.de^$document
 ||nore0p.shop^$document
 ||noreal.my.id^$document
 ||norealpholbthemsjee.tk^$document
@@ -248716,6 +248737,7 @@
 ||norfeedbhydrego.cf^$document
 ||norferepretu.tk^$document
 ||norfhipsrentlichec.ga^$document
+||norfolkhotels24.com^$document
 ||norgaardmedier.dk^$document
 ||norge-apt.com^$document
 ||norge-ed.com^$document
@@ -272345,6 +272367,7 @@
 ||platicjeesulcoa.tk^$document
 ||platigaqolac.gq^$document
 ||platimotedvema.cf^$document
+||platincoin.com^$document
 ||platinebable.gq^$document
 ||platiniridium.best^$document
 ||platinisingizvfa.buzz^$document
@@ -272563,6 +272586,7 @@
 ||playstarcasino.fr^$document
 ||playstation-boome.myshopify.com^$document
 ||playstation-boomer.myshopify.com^$document
+||playstation5.fr^$document
 ||playstationgamer.buzz^$document
 ||playstationn.fr^$document
 ||playstationnetwork.fr^$document
@@ -301046,6 +301070,7 @@
 ||rivistaonlinedavanguardia.com^$document
 ||rivisulmaverg.gq^$document
 ||rivo-cas1no.fr^$document
+||rivo-frrance.fr^$document
 ||rivo1.fr^$document
 ||rivocas1no-fr.fr^$document
 ||rivocas1no.fr^$document
@@ -303409,6 +303434,7 @@
 ||rostgeeliti.ml^$document
 ||rosticcceria.xyz^$document
 ||rostikuche.com^$document
+||rostock-scooter.de^$document
 ||rostock24.com^$document
 ||rostockhaf.de^$document
 ||rostoderdi.gq^$document
@@ -303841,6 +303867,7 @@
 ||royalsbarbq.dk^$document
 ||royalsharesonline.online^$document
 ||royalspinzcasino.fr^$document
+||royalwatches.fr^$document
 ||royaura.shop^$document
 ||roybatoolrofe.tk^$document
 ||roybensswag.fr^$document
@@ -310123,6 +310150,7 @@
 ||scarpa-de.myshopify.com^$document
 ||scarpa-france.fr^$document
 ||scarpaosterreich.at^$document
+||scarpaoutlet.fr^$document
 ||scarpassmycolresap.tk^$document
 ||scarpecollezione.it^$document
 ||scarperrasamo.ml^$document
@@ -316668,6 +316696,7 @@
 ||shopbikeclothes.com^$document
 ||shopbn.cn^$document
 ||shopboostx.com^$document
+||shopbrennholz.com^$document
 ||shopbuyzone.com^$document
 ||shopcampinghiking.com^$document
 ||shopcaravangas.com^$document
@@ -326657,6 +326686,7 @@
 ||spydersale.de^$document
 ||spyderwrisemel.tk^$document
 ||spydintravornemenradingnofurtangde.xyz^$document
+||spydiscount24.com^$document
 ||spygok.rest^$document
 ||spyi5p.cyou^$document
 ||spymdefdirofacot.ga^$document
@@ -329053,6 +329083,7 @@
 ||sternoehalagensfon.tk^$document
 ||sternoverrihusjo.ml^$document
 ||sternstimme.de^$document
+||steroide-medikamente.com^$document
 ||steroide360.com^$document
 ||steronadnaltalon.ml^$document
 ||steropcuprulihol.ml^$document
@@ -333970,6 +334001,7 @@
 ||swabjackpimahol.tk^$document
 ||swabnewscestuset.gq^$document
 ||swabunnirecfieltes.gq^$document
+||swabytec24.com^$document
 ||swadacfurracon.tk^$document
 ||swadapprovwind.tk^$document
 ||swaddecingknowroifis.cf^$document
@@ -340326,6 +340358,7 @@
 ||tekthost.info^$document
 ||tektisecicopa.tk^$document
 ||tekto.pro^$document
+||tektronix-gmbh.com^$document
 ||teku-teku.club^$document
 ||tekverse.club^$document
 ||tekx3o.tokyo^$document
@@ -355992,7 +356025,6 @@
 ||trustingeeks.com^$document
 ||trustinvestment-gmbh.com^$document
 ||trustlayer.net^$document
-||trustmeds24.com^$document
 ||trustmedz.com^$document
 ||trustmycart.com^$document
 ||trustonlinepharmacy.com^$document
@@ -377481,6 +377513,7 @@
 ||vogel-lifestyle.com^$document
 ||vogel.im^$document
 ||vogelbachgarten.de^$document
+||vogeler-technik.de^$document
 ||vogelfutterde.com^$document
 ||vogelfutterhausde.com^$document
 ||vogelpflege.com^$document
@@ -384030,6 +384063,7 @@
 ||werkzeugeholz.de^$document
 ||werkzeugemaschinen.com^$document
 ||werkzeugeprofi.com^$document
+||werkzeugepros.com^$document
 ||werkzeugerasenmaher.de^$document
 ||werkzeugheld24.de^$document
 ||werkzeugland.com^$document
