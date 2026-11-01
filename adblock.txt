@@ -14411,7 +14411,6 @@
 ||4bhhk.tokyo^$document
 ||4bhq2j.shop^$document
 ||4bigye.cyou^$document
-||4bike.net^$document
 ||4bio.pt^$document
 ||4bisblw.cn^$document
 ||4bj5s9.cyou^$document
@@ -49322,6 +49321,7 @@
 ||auth-service-chorus.fr^$document
 ||auth-serviceabo7501.fr^$document
 ||auth-services.fr^$document
+||auth-sg.fr^$document
 ||auth-signin.fr^$document
 ||auth-societegenerale.fr^$document
 ||auth-somfy.fr^$document
@@ -57152,7 +57152,6 @@
 ||bestcentnideftio.ml^$document
 ||bestcentralesupelec.fr^$document
 ||bestcentterreda.gq^$document
-||bestchoicepills.com^$document
 ||bestchopshardcubi.gq^$document
 ||bestcleaningcenter.ro^$document
 ||bestclixtickurzmet.ml^$document
@@ -94780,6 +94779,7 @@
 ||credikosirfawmi.gq^$document
 ||credilkurbirth.gq^$document
 ||credilmutuel.fr^$document
+||credilynx-finance.fr^$document
 ||credimatfourbi.tk^$document
 ||credimteropa.tk^$document
 ||credinatov.tk^$document
@@ -108789,7 +108789,6 @@
 ||discount-audio-equipment.com^$document
 ||discount-autosport.fr^$document
 ||discount-baustoff.de^$document
-||discount-cigarettes-store.net^$document
 ||discount-distributors.buzz^$document
 ||discount-kobalt.com^$document
 ||discount-lightingshop.com^$document
@@ -130755,7 +130754,6 @@
 ||ezzzrr.tokyo^$document
 ||f-franprix.fr^$document
 ||f-voyance.fr^$document
-||f.075756.net^$document
 ||f005m8.shop^$document
 ||f00gtm.cyou^$document
 ||f00hmkj.cyou^$document
@@ -136094,7 +136092,6 @@
 ||finanz.on-aktualisierung.cc^$document
 ||finanzasforex.com^$document
 ||finanzberater-schaaf.de^$document
-||finanzen.075756.net^$document
 ||finanzenexpress.com^$document
 ||finanziata.buzz^$document
 ||finanzonline-gvbmfgv.info^$document
@@ -147066,7 +147063,6 @@
 ||gartenfuhrer.de^$document
 ||gartenfurdu.de^$document
 ||gartengenussde.com^$document
-||gartengeraete-shop.de^$document
 ||gartengluecklich.de^$document
 ||gartengreifer.de^$document
 ||gartenguenter.de^$document
@@ -154926,6 +154922,7 @@
 ||gouv-cybersecurite.fr^$document
 ||gouv-decloyer.fr^$document
 ||gouv-dgfip.fr^$document
+||gouv-diplomat.fr^$document
 ||gouv-diplomatie-europe.fr^$document
 ||gouv-dossierantai.fr^$document
 ||gouv-dossiers.fr^$document
@@ -169488,6 +169485,7 @@
 ||hokaat.co.at^$document
 ||hokachaussurefrance.fr^$document
 ||hokachaussureparis.fr^$document
+||hokachaussures.fr^$document
 ||hokadeutschland.de^$document
 ||hokae.bar^$document
 ||hokaensoldes.fr^$document
@@ -169507,6 +169505,7 @@
 ||hokaoneonesolde.fr^$document
 ||hokaonesolde.fr^$document
 ||hokaonesoldes.fr^$document
+||hokaoutlet.fr^$document
 ||hokaoutletfr.fr^$document
 ||hokaoutletfrance.fr^$document
 ||hokaoutletparis.fr^$document
@@ -170737,7 +170736,6 @@
 ||hotelsclick.fr^$document
 ||hotelsilvanasanmarino.it^$document
 ||hotelsinperm.ru^$document
-||hotelsinvienna.org^$document
 ||hotelsit.com^$document
 ||hotelsofmenorca.com^$document
 ||hotelspydns.com^$document
@@ -226775,6 +226773,7 @@
 ||merrellchaussures.fr^$document
 ||merrelldeutschland.com^$document
 ||merrellenpromos.fr^$document
+||merrellfrance-fr.fr^$document
 ||merrellfrance.fr^$document
 ||merrelloutletonline.de^$document
 ||merrellparissale.fr^$document
@@ -263225,6 +263224,7 @@
 ||padekernalip.cf^$document
 ||padel001.jp^$document
 ||padelindooralbalat.es^$document
+||padeloutlet.fr^$document
 ||padelpop.es^$document
 ||padelschlag.com^$document
 ||paderpmanwatch.tk^$document
@@ -271057,7 +271057,6 @@
 ||pills-store-online24.com^$document
 ||pillscohere.com^$document
 ||pillsshop.live^$document
-||pillstock.net^$document
 ||pilltdotelterec.gq^$document
 ||pillz888.org^$document
 ||pilmesalfialetip.ml^$document
@@ -272483,7 +272482,6 @@
 ||platicjeesulcoa.tk^$document
 ||platigaqolac.gq^$document
 ||platimotedvema.cf^$document
-||platincoin.com^$document
 ||platinebable.gq^$document
 ||platiniridium.best^$document
 ||platinisingizvfa.buzz^$document
@@ -274252,6 +274250,7 @@
 ||polaroid.com.de^$document
 ||polaroidfrance.fr^$document
 ||polaroids.at^$document
+||polaroidsfrance.fr^$document
 ||polarsupply.de^$document
 ||polasrithimelk.tk^$document
 ||polastripavimentilegno.it^$document
@@ -278109,6 +278108,7 @@
 ||primatinwe.tk^$document
 ||primatop.de^$document
 ||primavaraxr400.site^$document
+||primavo24.de^$document
 ||primazgranolper.cf^$document
 ||primcalbosi.web.app^$document
 ||primchouetosenge.ga^$document
@@ -326685,6 +326685,7 @@
 ||sprawkas.gq^$document
 ||sprayfoam.ee^$document
 ||sprayground-france.fr^$document
+||spraygroundfr.fr^$document
 ||spraygroundfrance.fr^$document
 ||spraygrounds.de^$document
 ||sprayitonyou.com^$document

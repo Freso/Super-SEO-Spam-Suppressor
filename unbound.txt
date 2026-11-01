@@ -14408,7 +14408,6 @@ local-zone: "4bhfjc.cyou" always_refuse
 local-zone: "4bhhk.tokyo" always_refuse
 local-zone: "4bhq2j.shop" always_refuse
 local-zone: "4bigye.cyou" always_refuse
-local-zone: "4bike.net" always_refuse
 local-zone: "4bio.pt" always_refuse
 local-zone: "4bisblw.cn" always_refuse
 local-zone: "4bj5s9.cyou" always_refuse
@@ -49207,6 +49206,7 @@ local-zone: "auth-securite-miseajour.fr" always_refuse
 local-zone: "auth-service-chorus.fr" always_refuse
 local-zone: "auth-serviceabo7501.fr" always_refuse
 local-zone: "auth-services.fr" always_refuse
+local-zone: "auth-sg.fr" always_refuse
 local-zone: "auth-signin.fr" always_refuse
 local-zone: "auth-societegenerale.fr" always_refuse
 local-zone: "auth-somfy.fr" always_refuse
@@ -57024,7 +57024,6 @@ local-zone: "bestcasinostop.fr" always_refuse
 local-zone: "bestcentnideftio.ml" always_refuse
 local-zone: "bestcentralesupelec.fr" always_refuse
 local-zone: "bestcentterreda.gq" always_refuse
-local-zone: "bestchoicepills.com" always_refuse
 local-zone: "bestchopshardcubi.gq" always_refuse
 local-zone: "bestcleaningcenter.ro" always_refuse
 local-zone: "bestclixtickurzmet.ml" always_refuse
@@ -94597,6 +94596,7 @@ local-zone: "credigfiberlind.ga" always_refuse
 local-zone: "credikosirfawmi.gq" always_refuse
 local-zone: "credilkurbirth.gq" always_refuse
 local-zone: "credilmutuel.fr" always_refuse
+local-zone: "credilynx-finance.fr" always_refuse
 local-zone: "credimatfourbi.tk" always_refuse
 local-zone: "credimteropa.tk" always_refuse
 local-zone: "credinatov.tk" always_refuse
@@ -108559,7 +108559,6 @@ local-zone: "discounntde.com" always_refuse
 local-zone: "discount-audio-equipment.com" always_refuse
 local-zone: "discount-autosport.fr" always_refuse
 local-zone: "discount-baustoff.de" always_refuse
-local-zone: "discount-cigarettes-store.net" always_refuse
 local-zone: "discount-distributors.buzz" always_refuse
 local-zone: "discount-kobalt.com" always_refuse
 local-zone: "discount-lightingshop.com" always_refuse
@@ -130486,7 +130485,6 @@ local-zone: "ezzz8uy.tokyo" always_refuse
 local-zone: "ezzzrr.tokyo" always_refuse
 local-zone: "f-franprix.fr" always_refuse
 local-zone: "f-voyance.fr" always_refuse
-local-zone: "f.075756.net" always_refuse
 local-zone: "f005m8.shop" always_refuse
 local-zone: "f00gtm.cyou" always_refuse
 local-zone: "f00hmkj.cyou" always_refuse
@@ -135817,7 +135815,6 @@ local-zone: "finansowylis.pl" always_refuse
 local-zone: "finanz.on-aktualisierung.cc" always_refuse
 local-zone: "finanzasforex.com" always_refuse
 local-zone: "finanzberater-schaaf.de" always_refuse
-local-zone: "finanzen.075756.net" always_refuse
 local-zone: "finanzenexpress.com" always_refuse
 local-zone: "finanziata.buzz" always_refuse
 local-zone: "finanzonline-gvbmfgv.info" always_refuse
@@ -146776,7 +146773,6 @@ local-zone: "gartenfuchskreation.de" always_refuse
 local-zone: "gartenfuhrer.de" always_refuse
 local-zone: "gartenfurdu.de" always_refuse
 local-zone: "gartengenussde.com" always_refuse
-local-zone: "gartengeraete-shop.de" always_refuse
 local-zone: "gartengluecklich.de" always_refuse
 local-zone: "gartengreifer.de" always_refuse
 local-zone: "gartenguenter.de" always_refuse
@@ -154616,6 +154612,7 @@ local-zone: "gouv-crypto.fr" always_refuse
 local-zone: "gouv-cybersecurite.fr" always_refuse
 local-zone: "gouv-decloyer.fr" always_refuse
 local-zone: "gouv-dgfip.fr" always_refuse
+local-zone: "gouv-diplomat.fr" always_refuse
 local-zone: "gouv-diplomatie-europe.fr" always_refuse
 local-zone: "gouv-dossierantai.fr" always_refuse
 local-zone: "gouv-dossiers.fr" always_refuse
@@ -169165,6 +169162,7 @@ local-zone: "hoka.pm" always_refuse
 local-zone: "hokaat.co.at" always_refuse
 local-zone: "hokachaussurefrance.fr" always_refuse
 local-zone: "hokachaussureparis.fr" always_refuse
+local-zone: "hokachaussures.fr" always_refuse
 local-zone: "hokadeutschland.de" always_refuse
 local-zone: "hokae.bar" always_refuse
 local-zone: "hokaensoldes.fr" always_refuse
@@ -169184,6 +169182,7 @@ local-zone: "hokaoneoneparis.fr" always_refuse
 local-zone: "hokaoneonesolde.fr" always_refuse
 local-zone: "hokaonesolde.fr" always_refuse
 local-zone: "hokaonesoldes.fr" always_refuse
+local-zone: "hokaoutlet.fr" always_refuse
 local-zone: "hokaoutletfr.fr" always_refuse
 local-zone: "hokaoutletfrance.fr" always_refuse
 local-zone: "hokaoutletparis.fr" always_refuse
@@ -170412,7 +170411,6 @@ local-zone: "hotelsappho.eu" always_refuse
 local-zone: "hotelsclick.fr" always_refuse
 local-zone: "hotelsilvanasanmarino.it" always_refuse
 local-zone: "hotelsinperm.ru" always_refuse
-local-zone: "hotelsinvienna.org" always_refuse
 local-zone: "hotelsit.com" always_refuse
 local-zone: "hotelsofmenorca.com" always_refuse
 local-zone: "hotelspydns.com" always_refuse
@@ -226350,6 +226348,7 @@ local-zone: "merrellcanadaoutlets.com" always_refuse
 local-zone: "merrellchaussures.fr" always_refuse
 local-zone: "merrelldeutschland.com" always_refuse
 local-zone: "merrellenpromos.fr" always_refuse
+local-zone: "merrellfrance-fr.fr" always_refuse
 local-zone: "merrellfrance.fr" always_refuse
 local-zone: "merrelloutletonline.de" always_refuse
 local-zone: "merrellparissale.fr" always_refuse
@@ -262737,6 +262736,7 @@ local-zone: "paddygibneypub.buzz" always_refuse
 local-zone: "padekernalip.cf" always_refuse
 local-zone: "padel001.jp" always_refuse
 local-zone: "padelindooralbalat.es" always_refuse
+local-zone: "padeloutlet.fr" always_refuse
 local-zone: "padelpop.es" always_refuse
 local-zone: "padelschlag.com" always_refuse
 local-zone: "paderpmanwatch.tk" always_refuse
@@ -270540,7 +270540,6 @@ local-zone: "pills-au.com" always_refuse
 local-zone: "pills-store-online24.com" always_refuse
 local-zone: "pillscohere.com" always_refuse
 local-zone: "pillsshop.live" always_refuse
-local-zone: "pillstock.net" always_refuse
 local-zone: "pilltdotelterec.gq" always_refuse
 local-zone: "pillz888.org" always_refuse
 local-zone: "pilmesalfialetip.ml" always_refuse
@@ -271958,7 +271957,6 @@ local-zone: "platicivar.ml" always_refuse
 local-zone: "platicjeesulcoa.tk" always_refuse
 local-zone: "platigaqolac.gq" always_refuse
 local-zone: "platimotedvema.cf" always_refuse
-local-zone: "platincoin.com" always_refuse
 local-zone: "platinebable.gq" always_refuse
 local-zone: "platiniridium.best" always_refuse
 local-zone: "platinisingizvfa.buzz" always_refuse
@@ -273715,6 +273713,7 @@ local-zone: "polaroid-fr.fr" always_refuse
 local-zone: "polaroid.com.de" always_refuse
 local-zone: "polaroidfrance.fr" always_refuse
 local-zone: "polaroids.at" always_refuse
+local-zone: "polaroidsfrance.fr" always_refuse
 local-zone: "polarsupply.de" always_refuse
 local-zone: "polasrithimelk.tk" always_refuse
 local-zone: "polastripavimentilegno.it" always_refuse
@@ -277553,6 +277552,7 @@ local-zone: "primassigtohaphi.tk" always_refuse
 local-zone: "primatinwe.tk" always_refuse
 local-zone: "primatop.de" always_refuse
 local-zone: "primavaraxr400.site" always_refuse
+local-zone: "primavo24.de" always_refuse
 local-zone: "primazgranolper.cf" always_refuse
 local-zone: "primcalbosi.web.app" always_refuse
 local-zone: "primchouetosenge.ga" always_refuse
@@ -326052,6 +326052,7 @@ local-zone: "spravedlivost21.ru" always_refuse
 local-zone: "sprawkas.gq" always_refuse
 local-zone: "sprayfoam.ee" always_refuse
 local-zone: "sprayground-france.fr" always_refuse
+local-zone: "spraygroundfr.fr" always_refuse
 local-zone: "spraygroundfrance.fr" always_refuse
 local-zone: "spraygrounds.de" always_refuse
 local-zone: "sprayitonyou.com" always_refuse

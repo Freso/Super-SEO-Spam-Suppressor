@@ -28818,8 +28818,6 @@
 ::1 www.4bhq2j.shop
 ::1 4bigye.cyou
 ::1 www.4bigye.cyou
-::1 4bike.net
-::1 www.4bike.net
 ::1 4bio.pt
 ::1 www.4bio.pt
 ::1 4bisblw.cn
@@ -98640,6 +98638,8 @@
 ::1 www.auth-serviceabo7501.fr
 ::1 auth-services.fr
 ::1 www.auth-services.fr
+::1 auth-sg.fr
+::1 www.auth-sg.fr
 ::1 auth-signin.fr
 ::1 www.auth-signin.fr
 ::1 auth-societegenerale.fr
@@ -114300,8 +114300,6 @@
 ::1 www.bestcentralesupelec.fr
 ::1 bestcentterreda.gq
 ::1 www.bestcentterreda.gq
-::1 bestchoicepills.com
-::1 www.bestchoicepills.com
 ::1 bestchopshardcubi.gq
 ::1 www.bestchopshardcubi.gq
 ::1 bestcleaningcenter.ro
@@ -189556,6 +189554,8 @@
 ::1 www.credilkurbirth.gq
 ::1 credilmutuel.fr
 ::1 www.credilmutuel.fr
+::1 credilynx-finance.fr
+::1 www.credilynx-finance.fr
 ::1 credimatfourbi.tk
 ::1 www.credimatfourbi.tk
 ::1 credimteropa.tk
@@ -217574,8 +217574,6 @@
 ::1 www.discount-autosport.fr
 ::1 discount-baustoff.de
 ::1 www.discount-baustoff.de
-::1 discount-cigarettes-store.net
-::1 www.discount-cigarettes-store.net
 ::1 discount-distributors.buzz
 ::1 www.discount-distributors.buzz
 ::1 discount-kobalt.com
@@ -261506,8 +261504,6 @@
 ::1 www.f-franprix.fr
 ::1 f-voyance.fr
 ::1 www.f-voyance.fr
-::1 f.075756.net
-::1 www.f.075756.net
 ::1 f005m8.shop
 ::1 www.f005m8.shop
 ::1 f00gtm.cyou
@@ -272184,8 +272180,6 @@
 ::1 www.finanzasforex.com
 ::1 finanzberater-schaaf.de
 ::1 www.finanzberater-schaaf.de
-::1 finanzen.075756.net
-::1 www.finanzen.075756.net
 ::1 finanzenexpress.com
 ::1 www.finanzenexpress.com
 ::1 finanziata.buzz
@@ -294128,8 +294122,6 @@
 ::1 www.gartenfurdu.de
 ::1 gartengenussde.com
 ::1 www.gartengenussde.com
-::1 gartengeraete-shop.de
-::1 www.gartengeraete-shop.de
 ::1 gartengluecklich.de
 ::1 www.gartengluecklich.de
 ::1 gartengreifer.de
@@ -309848,6 +309840,8 @@
 ::1 www.gouv-decloyer.fr
 ::1 gouv-dgfip.fr
 ::1 www.gouv-dgfip.fr
+::1 gouv-diplomat.fr
+::1 www.gouv-diplomat.fr
 ::1 gouv-diplomatie-europe.fr
 ::1 www.gouv-diplomatie-europe.fr
 ::1 gouv-dossierantai.fr
@@ -338972,6 +338966,8 @@
 ::1 www.hokachaussurefrance.fr
 ::1 hokachaussureparis.fr
 ::1 www.hokachaussureparis.fr
+::1 hokachaussures.fr
+::1 www.hokachaussures.fr
 ::1 hokadeutschland.de
 ::1 www.hokadeutschland.de
 ::1 hokae.bar
@@ -339010,6 +339006,8 @@
 ::1 www.hokaonesolde.fr
 ::1 hokaonesoldes.fr
 ::1 www.hokaonesoldes.fr
+::1 hokaoutlet.fr
+::1 www.hokaoutlet.fr
 ::1 hokaoutletfr.fr
 ::1 www.hokaoutletfr.fr
 ::1 hokaoutletfrance.fr
@@ -341470,8 +341468,6 @@
 ::1 www.hotelsilvanasanmarino.it
 ::1 hotelsinperm.ru
 ::1 www.hotelsinperm.ru
-::1 hotelsinvienna.org
-::1 www.hotelsinvienna.org
 ::1 hotelsit.com
 ::1 www.hotelsit.com
 ::1 hotelsofmenorca.com
@@ -453546,6 +453542,8 @@
 ::1 www.merrelldeutschland.com
 ::1 merrellenpromos.fr
 ::1 www.merrellenpromos.fr
+::1 merrellfrance-fr.fr
+::1 www.merrellfrance-fr.fr
 ::1 merrellfrance.fr
 ::1 www.merrellfrance.fr
 ::1 merrelloutletonline.de
@@ -526446,6 +526444,8 @@
 ::1 www.padel001.jp
 ::1 padelindooralbalat.es
 ::1 www.padelindooralbalat.es
+::1 padeloutlet.fr
+::1 www.padeloutlet.fr
 ::1 padelpop.es
 ::1 www.padelpop.es
 ::1 padelschlag.com
@@ -542110,8 +542110,6 @@
 ::1 www.pillscohere.com
 ::1 pillsshop.live
 ::1 www.pillsshop.live
-::1 pillstock.net
-::1 www.pillstock.net
 ::1 pilltdotelterec.gq
 ::1 www.pilltdotelterec.gq
 ::1 pillz888.org
@@ -544962,8 +544960,6 @@
 ::1 www.platigaqolac.gq
 ::1 platimotedvema.cf
 ::1 www.platimotedvema.cf
-::1 platincoin.com
-::1 www.platincoin.com
 ::1 platinebable.gq
 ::1 www.platinebable.gq
 ::1 platiniridium.best
@@ -548500,6 +548496,8 @@
 ::1 www.polaroidfrance.fr
 ::1 polaroids.at
 ::1 www.polaroids.at
+::1 polaroidsfrance.fr
+::1 www.polaroidsfrance.fr
 ::1 polarsupply.de
 ::1 www.polarsupply.de
 ::1 polasrithimelk.tk
@@ -556214,6 +556212,8 @@
 ::1 www.primatop.de
 ::1 primavaraxr400.site
 ::1 www.primavaraxr400.site
+::1 primavo24.de
+::1 www.primavo24.de
 ::1 primazgranolper.cf
 ::1 www.primazgranolper.cf
 ::1 primcalbosi.web.app
@@ -653366,6 +653366,8 @@
 ::1 www.sprayfoam.ee
 ::1 sprayground-france.fr
 ::1 www.sprayground-france.fr
+::1 spraygroundfr.fr
+::1 www.spraygroundfr.fr
 ::1 spraygroundfrance.fr
 ::1 www.spraygroundfrance.fr
 ::1 spraygrounds.de
