@@ -36270,6 +36270,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.airbrush.ai/*
 *://*.airbuds.fr/*
 *://*.airbus-france.fr/*
+*://*.airbus-helicopter.fr/*
 *://*.airbuscorp.xyz/*
 *://*.airbusds.fr/*
 *://*.airbusfr.fr/*
@@ -42194,6 +42195,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.annonce-lbc.fr/*
 *://*.annonce-leboncoin.fr/*
 *://*.annonce28775-bon-coin.fr/*
+*://*.annonceautoboncoin-packserenite.fr/*
 *://*.annoncelight.xyz/*
 *://*.annonces-offre-lbc-25480256.fr/*
 *://*.annonces-offres-lbc8798789678267298.fr/*
@@ -55451,6 +55453,8 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.beeteam.net/*
 *://*.beetinworkbibosly.gq/*
 *://*.beetlechairmanran.com/*
+*://*.beetospin-fr.fr/*
+*://*.beetospin.fr/*
 *://*.beetsio.fr/*
 *://*.beetty.xyz/*
 *://*.beetzino-play.fr/*
@@ -74459,6 +74463,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cash-converters.fr/*
 *://*.cash-hebdo.com/*
 *://*.cash-lounge.fr/*
+*://*.cash-voiture.fr/*
 *://*.cash-win-casino.fr/*
 *://*.cash-wincasino.fr/*
 *://*.cash93.com/*
@@ -74657,6 +74662,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.casino-en-ligne-argen-treel.fr/*
 *://*.casino-en-ligne-betify.fr/*
 *://*.casino-en-ligne-sans-verification.fr/*
+*://*.casino-en-lignes-france.fr/*
 *://*.casino-enligne-argentreel.fr/*
 *://*.casino-enlignefiable.fr/*
 *://*.casino-estrella.fr/*
@@ -78933,6 +78939,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.ch-sedan.fr/*
 *://*.ch-selestat.fr/*
 *://*.ch-sjm.fr/*
+*://*.ch-valence-pro.fr/*
 *://*.ch-valvert-marseille.fr/*
 *://*.ch-vexin.fr/*
 *://*.ch.gluconv.com/*
@@ -87002,6 +87009,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cnam-assurances.com/*
 *://*.cnam-basse-normandie.fr/*
 *://*.cnam-france.fr/*
+*://*.cnam-lr.fr/*
 *://*.cnam-marseille.fr/*
 *://*.cnam-portail.fr/*
 *://*.cnam-prestation.fr/*
@@ -88071,6 +88079,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.colas-digital-solutions.fr/*
 *://*.colas-france-construction.fr/*
 *://*.colas-france-construtions.fr/*
+*://*.colas-group.fr/*
 *://*.colasgroup.fr/*
 *://*.colaslistmanismi.ga/*
 *://*.colavillips.tk/*
@@ -265518,6 +265527,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.patartmerabtymo.tk/*
 *://*.patasroryshe.tk/*
 *://*.patasysveti.tk/*
+*://*.pataugasfrance.fr/*
 *://*.pataugasofficial.fr/*
 *://*.pataugasofficiel.fr/*
 *://*.patavabo.tk/*

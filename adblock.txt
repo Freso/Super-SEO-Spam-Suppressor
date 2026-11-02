@@ -36269,6 +36269,7 @@
 ||airbrush.ai^$document
 ||airbuds.fr^$document
 ||airbus-france.fr^$document
+||airbus-helicopter.fr^$document
 ||airbuscorp.xyz^$document
 ||airbusds.fr^$document
 ||airbusfr.fr^$document
@@ -42193,6 +42194,7 @@
 ||annonce-lbc.fr^$document
 ||annonce-leboncoin.fr^$document
 ||annonce28775-bon-coin.fr^$document
+||annonceautoboncoin-packserenite.fr^$document
 ||annoncelight.xyz^$document
 ||annonces-offre-lbc-25480256.fr^$document
 ||annonces-offres-lbc8798789678267298.fr^$document
@@ -55450,6 +55452,8 @@
 ||beeteam.net^$document
 ||beetinworkbibosly.gq^$document
 ||beetlechairmanran.com^$document
+||beetospin-fr.fr^$document
+||beetospin.fr^$document
 ||beetsio.fr^$document
 ||beetty.xyz^$document
 ||beetzino-play.fr^$document
@@ -74458,6 +74462,7 @@
 ||cash-converters.fr^$document
 ||cash-hebdo.com^$document
 ||cash-lounge.fr^$document
+||cash-voiture.fr^$document
 ||cash-win-casino.fr^$document
 ||cash-wincasino.fr^$document
 ||cash93.com^$document
@@ -74656,6 +74661,7 @@
 ||casino-en-ligne-argen-treel.fr^$document
 ||casino-en-ligne-betify.fr^$document
 ||casino-en-ligne-sans-verification.fr^$document
+||casino-en-lignes-france.fr^$document
 ||casino-enligne-argentreel.fr^$document
 ||casino-enlignefiable.fr^$document
 ||casino-estrella.fr^$document
@@ -78932,6 +78938,7 @@
 ||ch-sedan.fr^$document
 ||ch-selestat.fr^$document
 ||ch-sjm.fr^$document
+||ch-valence-pro.fr^$document
 ||ch-valvert-marseille.fr^$document
 ||ch-vexin.fr^$document
 ||ch.gluconv.com^$document
@@ -87001,6 +87008,7 @@
 ||cnam-assurances.com^$document
 ||cnam-basse-normandie.fr^$document
 ||cnam-france.fr^$document
+||cnam-lr.fr^$document
 ||cnam-marseille.fr^$document
 ||cnam-portail.fr^$document
 ||cnam-prestation.fr^$document
@@ -88070,6 +88078,7 @@
 ||colas-digital-solutions.fr^$document
 ||colas-france-construction.fr^$document
 ||colas-france-construtions.fr^$document
+||colas-group.fr^$document
 ||colasgroup.fr^$document
 ||colaslistmanismi.ga^$document
 ||colavillips.tk^$document
@@ -265517,6 +265526,7 @@
 ||patartmerabtymo.tk^$document
 ||patasroryshe.tk^$document
 ||patasysveti.tk^$document
+||pataugasfrance.fr^$document
 ||pataugasofficial.fr^$document
 ||pataugasofficiel.fr^$document
 ||patavabo.tk^$document
