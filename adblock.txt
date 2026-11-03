@@ -9352,6 +9352,7 @@
 ||2f8wgl0.tokyo^$document
 ||2f9hp2.cyou^$document
 ||2f9x4a.cyou^$document
+||2fa-mailjetapp.fr^$document
 ||2fa-sgpass.fr^$document
 ||2fb6d.rest^$document
 ||2fbijj.cyou^$document
@@ -37378,6 +37379,7 @@
 ||alerdetede.ml^$document
 ||alerexrea.ga^$document
 ||alergassandmasheart.tk^$document
+||alerions-notaires.fr^$document
 ||alerisocec.ga^$document
 ||alerlicor.ml^$document
 ||alerlisesco.cf^$document
@@ -65060,6 +65062,7 @@
 ||boursebitcoin.com^$document
 ||boursecapital.net^$document
 ||boursecar.cf^$document
+||boursedesparis.fr^$document
 ||bourseramabanque.fr^$document
 ||boursidirect.fr^$document
 ||boursingsargwins.tk^$document
@@ -73123,6 +73126,7 @@
 ||capexgo.com^$document
 ||capexnu.asia^$document
 ||capfomillbure.tk^$document
+||capformationsgouv.fr^$document
 ||capgatawhicum.tk^$document
 ||capgemini-engineering.fr^$document
 ||capgemini-technology-services.fr^$document
@@ -114873,6 +114877,7 @@
 ||durabledatabases.com^$document
 ||duracoreforman.xyz^$document
 ||duracrajum.tk^$document
+||duralexfrance.fr^$document
 ||duranlp4t.web.app^$document
 ||durapaint.com^$document
 ||durapen.shop^$document
@@ -120664,6 +120669,7 @@
 ||eleclerc-shop.fr^$document
 ||eleclerc-soldes.fr^$document
 ||eleclercgroupe.fr^$document
+||eleclercmarket.fr^$document
 ||elecmassage.fr^$document
 ||elecmore.co.uk^$document
 ||elecmore.com^$document
@@ -124621,6 +124627,7 @@
 ||equip2019.eu^$document
 ||equipamentoscasarejos.com.br^$document
 ||equipdiscount24.com^$document
+||equipe-logipro.fr^$document
 ||equipe-netflix.fr^$document
 ||equipements-environnement.fr^$document
 ||equipmentrailway.com^$document
@@ -127081,6 +127088,7 @@
 ||espacepersonnel-securite.fr^$document
 ||espacepersonnelameli.fr^$document
 ||espacepersowisesecur.fr^$document
+||espaceprelevement.fr^$document
 ||espaceprimevideo.fr^$document
 ||espaceprive-msa.fr^$document
 ||espacepro-lcl.fr^$document
@@ -132948,6 +132956,7 @@
 ||fatboss-casinos.fr^$document
 ||fatboss-fr.fr^$document
 ||fatboss-france.fr^$document
+||fatboss-jeux.fr^$document
 ||fatboss-officiel.fr^$document
 ||fatboss-online.fr^$document
 ||fatbossbonus.fr^$document
@@ -135977,6 +135986,7 @@
 ||finance-alertefraude.fr^$document
 ||finance-antifraudes.fr^$document
 ||finance-arkea.fr^$document
+||finance-cfs-part.fr^$document
 ||finance-message-incoming.com^$document
 ||finance-prime.fr^$document
 ||finance-publique-secu.fr^$document
@@ -135986,6 +135996,7 @@
 ||finance-verbalisations.fr^$document
 ||financeanalyzer.net^$document
 ||financearkea.fr^$document
+||financecfspart.fr^$document
 ||financeconsult.pl^$document
 ||financegouv.fr^$document
 ||financeinsiderhub.com^$document
@@ -140162,6 +140173,7 @@
 ||fortunica-casiino.fr^$document
 ||fortunica-casino.fr^$document
 ||fortunica-fr.fr^$document
+||fortunica-frrance.fr^$document
 ||fortunica1.fr^$document
 ||fortunicacasino.fr^$document
 ||fortuniica-casino.fr^$document
@@ -185119,6 +185131,7 @@
 ||iustitia.ro^$document
 ||iut-lille.fr^$document
 ||iut1wz.xyz^$document
+||iut45-orleans.fr^$document
 ||iutesh.cyou^$document
 ||iuttvb.bar^$document
 ||iutulg.tokyo^$document
@@ -192046,6 +192059,7 @@
 ||juliuscasinomobile.fr^$document
 ||juliuscasinoonline.fr^$document
 ||juliuscasinos.fr^$document
+||juliusfr1.fr^$document
 ||juliusfrance-fr.fr^$document
 ||juliusfrance.fr^$document
 ||juliusofficial.fr^$document
@@ -202804,6 +202818,7 @@
 ||labotarotumer.ml^$document
 ||labougriere.fr^$document
 ||laboureruniversity.com^$document
+||laboursedesparis.fr^$document
 ||laboususimyr.gq^$document
 ||laboutique-sfr.fr^$document
 ||laboutiquedepaul.fr^$document
@@ -204782,6 +204797,7 @@
 ||lassurancesretraite.fr^$document
 ||lassurancesretraites.fr^$document
 ||last-choice.com^$document
+||last-minutes.fr^$document
 ||lastab.ch^$document
 ||lastagepellikka.monster^$document
 ||lastanotelve.tk^$document
@@ -264595,10 +264611,13 @@
 ||paris-taxig7.fr^$document
 ||paris-univ8.fr^$document
 ||paris-vip-casino.fr^$document
+||paris14e.fr^$document
+||paris15e.fr^$document
 ||paris2-cybertek.fr^$document
 ||paris2024.pl^$document
 ||paris2024.re^$document
 ||paris2o24.fr^$document
+||paris6e.fr^$document
 ||parisbas.fr^$document
 ||pariscasino-fr.fr^$document
 ||pariscybertek.fr^$document
@@ -316731,6 +316750,7 @@
 ||shootsitissuestudent.xyz^$document
 ||shoowroomprive.fr^$document
 ||shop-alarmsystem.com^$document
+||shop-aldi.fr^$document
 ||shop-apotheke.fr^$document
 ||shop-as-monaco.fr^$document
 ||shop-darty.com^$document
@@ -319408,6 +319428,7 @@
 ||siv-ants.fr^$document
 ||siv-antsgouv.fr^$document
 ||siv-gouvants.fr^$document
+||siv-immat.fr^$document
 ||siv-immatriculation.fr^$document
 ||siv-iseregouv.fr^$document
 ||siv-portailprogouv.fr^$document
@@ -399008,6 +399029,7 @@
 ||yahoo-support.fr^$document
 ||yahoo.tf^$document
 ||yahoo.wf^$document
+||yahoo01.fr^$document
 ||yahooc.com^$document
 ||yahooc.om^$document
 ||yahoofrance.fr^$document

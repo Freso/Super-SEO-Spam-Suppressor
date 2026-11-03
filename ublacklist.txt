@@ -9353,6 +9353,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.2f8wgl0.tokyo/*
 *://*.2f9hp2.cyou/*
 *://*.2f9x4a.cyou/*
+*://*.2fa-mailjetapp.fr/*
 *://*.2fa-sgpass.fr/*
 *://*.2fb6d.rest/*
 *://*.2fbijj.cyou/*
@@ -37379,6 +37380,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.alerdetede.ml/*
 *://*.alerexrea.ga/*
 *://*.alergassandmasheart.tk/*
+*://*.alerions-notaires.fr/*
 *://*.alerisocec.ga/*
 *://*.alerlicor.ml/*
 *://*.alerlisesco.cf/*
@@ -65061,6 +65063,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.boursebitcoin.com/*
 *://*.boursecapital.net/*
 *://*.boursecar.cf/*
+*://*.boursedesparis.fr/*
 *://*.bourseramabanque.fr/*
 *://*.boursidirect.fr/*
 *://*.boursingsargwins.tk/*
@@ -73124,6 +73127,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.capexgo.com/*
 *://*.capexnu.asia/*
 *://*.capfomillbure.tk/*
+*://*.capformationsgouv.fr/*
 *://*.capgatawhicum.tk/*
 *://*.capgemini-engineering.fr/*
 *://*.capgemini-technology-services.fr/*
@@ -114874,6 +114878,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.durabledatabases.com/*
 *://*.duracoreforman.xyz/*
 *://*.duracrajum.tk/*
+*://*.duralexfrance.fr/*
 *://*.duranlp4t.web.app/*
 *://*.durapaint.com/*
 *://*.durapen.shop/*
@@ -120665,6 +120670,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.eleclerc-shop.fr/*
 *://*.eleclerc-soldes.fr/*
 *://*.eleclercgroupe.fr/*
+*://*.eleclercmarket.fr/*
 *://*.elecmassage.fr/*
 *://*.elecmore.co.uk/*
 *://*.elecmore.com/*
@@ -124622,6 +124628,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.equip2019.eu/*
 *://*.equipamentoscasarejos.com.br/*
 *://*.equipdiscount24.com/*
+*://*.equipe-logipro.fr/*
 *://*.equipe-netflix.fr/*
 *://*.equipements-environnement.fr/*
 *://*.equipmentrailway.com/*
@@ -127082,6 +127089,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.espacepersonnel-securite.fr/*
 *://*.espacepersonnelameli.fr/*
 *://*.espacepersowisesecur.fr/*
+*://*.espaceprelevement.fr/*
 *://*.espaceprimevideo.fr/*
 *://*.espaceprive-msa.fr/*
 *://*.espacepro-lcl.fr/*
@@ -132949,6 +132957,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fatboss-casinos.fr/*
 *://*.fatboss-fr.fr/*
 *://*.fatboss-france.fr/*
+*://*.fatboss-jeux.fr/*
 *://*.fatboss-officiel.fr/*
 *://*.fatboss-online.fr/*
 *://*.fatbossbonus.fr/*
@@ -135978,6 +135987,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.finance-alertefraude.fr/*
 *://*.finance-antifraudes.fr/*
 *://*.finance-arkea.fr/*
+*://*.finance-cfs-part.fr/*
 *://*.finance-message-incoming.com/*
 *://*.finance-prime.fr/*
 *://*.finance-publique-secu.fr/*
@@ -135987,6 +135997,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.finance-verbalisations.fr/*
 *://*.financeanalyzer.net/*
 *://*.financearkea.fr/*
+*://*.financecfspart.fr/*
 *://*.financeconsult.pl/*
 *://*.financegouv.fr/*
 *://*.financeinsiderhub.com/*
@@ -140163,6 +140174,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.fortunica-casiino.fr/*
 *://*.fortunica-casino.fr/*
 *://*.fortunica-fr.fr/*
+*://*.fortunica-frrance.fr/*
 *://*.fortunica1.fr/*
 *://*.fortunicacasino.fr/*
 *://*.fortuniica-casino.fr/*
@@ -185120,6 +185132,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.iustitia.ro/*
 *://*.iut-lille.fr/*
 *://*.iut1wz.xyz/*
+*://*.iut45-orleans.fr/*
 *://*.iutesh.cyou/*
 *://*.iuttvb.bar/*
 *://*.iutulg.tokyo/*
@@ -192047,6 +192060,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.juliuscasinomobile.fr/*
 *://*.juliuscasinoonline.fr/*
 *://*.juliuscasinos.fr/*
+*://*.juliusfr1.fr/*
 *://*.juliusfrance-fr.fr/*
 *://*.juliusfrance.fr/*
 *://*.juliusofficial.fr/*
@@ -202805,6 +202819,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.labotarotumer.ml/*
 *://*.labougriere.fr/*
 *://*.laboureruniversity.com/*
+*://*.laboursedesparis.fr/*
 *://*.laboususimyr.gq/*
 *://*.laboutique-sfr.fr/*
 *://*.laboutiquedepaul.fr/*
@@ -204783,6 +204798,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.lassurancesretraite.fr/*
 *://*.lassurancesretraites.fr/*
 *://*.last-choice.com/*
+*://*.last-minutes.fr/*
 *://*.lastab.ch/*
 *://*.lastagepellikka.monster/*
 *://*.lastanotelve.tk/*
@@ -264596,10 +264612,13 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.paris-taxig7.fr/*
 *://*.paris-univ8.fr/*
 *://*.paris-vip-casino.fr/*
+*://*.paris14e.fr/*
+*://*.paris15e.fr/*
 *://*.paris2-cybertek.fr/*
 *://*.paris2024.pl/*
 *://*.paris2024.re/*
 *://*.paris2o24.fr/*
+*://*.paris6e.fr/*
 *://*.parisbas.fr/*
 *://*.pariscasino-fr.fr/*
 *://*.pariscybertek.fr/*
@@ -316732,6 +316751,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.shootsitissuestudent.xyz/*
 *://*.shoowroomprive.fr/*
 *://*.shop-alarmsystem.com/*
+*://*.shop-aldi.fr/*
 *://*.shop-apotheke.fr/*
 *://*.shop-as-monaco.fr/*
 *://*.shop-darty.com/*
@@ -319409,6 +319429,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.siv-ants.fr/*
 *://*.siv-antsgouv.fr/*
 *://*.siv-gouvants.fr/*
+*://*.siv-immat.fr/*
 *://*.siv-immatriculation.fr/*
 *://*.siv-iseregouv.fr/*
 *://*.siv-portailprogouv.fr/*
@@ -399009,6 +399030,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.yahoo-support.fr/*
 *://*.yahoo.tf/*
 *://*.yahoo.wf/*
+*://*.yahoo01.fr/*
 *://*.yahooc.com/*
 *://*.yahooc.om/*
 *://*.yahoofrance.fr/*

@@ -18700,6 +18700,8 @@
 ::1 www.2f9hp2.cyou
 ::1 2f9x4a.cyou
 ::1 www.2f9x4a.cyou
+::1 2fa-mailjetapp.fr
+::1 www.2fa-mailjetapp.fr
 ::1 2fa-sgpass.fr
 ::1 www.2fa-sgpass.fr
 ::1 2fb6d.rest
@@ -74752,6 +74754,8 @@
 ::1 www.alerexrea.ga
 ::1 alergassandmasheart.tk
 ::1 www.alergassandmasheart.tk
+::1 alerions-notaires.fr
+::1 www.alerions-notaires.fr
 ::1 alerisocec.ga
 ::1 www.alerisocec.ga
 ::1 alerlicor.ml
@@ -130116,6 +130120,8 @@
 ::1 www.boursecapital.net
 ::1 boursecar.cf
 ::1 www.boursecar.cf
+::1 boursedesparis.fr
+::1 www.boursedesparis.fr
 ::1 bourseramabanque.fr
 ::1 www.bourseramabanque.fr
 ::1 boursidirect.fr
@@ -146242,6 +146248,8 @@
 ::1 www.capexnu.asia
 ::1 capfomillbure.tk
 ::1 www.capfomillbure.tk
+::1 capformationsgouv.fr
+::1 www.capformationsgouv.fr
 ::1 capgatawhicum.tk
 ::1 www.capgatawhicum.tk
 ::1 capgemini-engineering.fr
@@ -229742,6 +229750,8 @@
 ::1 www.duracoreforman.xyz
 ::1 duracrajum.tk
 ::1 www.duracrajum.tk
+::1 duralexfrance.fr
+::1 www.duralexfrance.fr
 ::1 duranlp4t.web.app
 ::1 www.duranlp4t.web.app
 ::1 durapaint.com
@@ -241324,6 +241334,8 @@
 ::1 www.eleclerc-soldes.fr
 ::1 eleclercgroupe.fr
 ::1 www.eleclercgroupe.fr
+::1 eleclercmarket.fr
+::1 www.eleclercmarket.fr
 ::1 elecmassage.fr
 ::1 www.elecmassage.fr
 ::1 elecmore.co.uk
@@ -249238,6 +249250,8 @@
 ::1 www.equipamentoscasarejos.com.br
 ::1 equipdiscount24.com
 ::1 www.equipdiscount24.com
+::1 equipe-logipro.fr
+::1 www.equipe-logipro.fr
 ::1 equipe-netflix.fr
 ::1 www.equipe-netflix.fr
 ::1 equipements-environnement.fr
@@ -254158,6 +254172,8 @@
 ::1 www.espacepersonnelameli.fr
 ::1 espacepersowisesecur.fr
 ::1 www.espacepersowisesecur.fr
+::1 espaceprelevement.fr
+::1 www.espaceprelevement.fr
 ::1 espaceprimevideo.fr
 ::1 www.espaceprimevideo.fr
 ::1 espaceprive-msa.fr
@@ -265892,6 +265908,8 @@
 ::1 www.fatboss-fr.fr
 ::1 fatboss-france.fr
 ::1 www.fatboss-france.fr
+::1 fatboss-jeux.fr
+::1 www.fatboss-jeux.fr
 ::1 fatboss-officiel.fr
 ::1 www.fatboss-officiel.fr
 ::1 fatboss-online.fr
@@ -271950,6 +271968,8 @@
 ::1 www.finance-antifraudes.fr
 ::1 finance-arkea.fr
 ::1 www.finance-arkea.fr
+::1 finance-cfs-part.fr
+::1 www.finance-cfs-part.fr
 ::1 finance-message-incoming.com
 ::1 www.finance-message-incoming.com
 ::1 finance-prime.fr
@@ -271968,6 +271988,8 @@
 ::1 www.financeanalyzer.net
 ::1 financearkea.fr
 ::1 www.financearkea.fr
+::1 financecfspart.fr
+::1 www.financecfspart.fr
 ::1 financeconsult.pl
 ::1 www.financeconsult.pl
 ::1 financegouv.fr
@@ -280320,6 +280342,8 @@
 ::1 www.fortunica-casino.fr
 ::1 fortunica-fr.fr
 ::1 www.fortunica-fr.fr
+::1 fortunica-frrance.fr
+::1 www.fortunica-frrance.fr
 ::1 fortunica1.fr
 ::1 www.fortunica1.fr
 ::1 fortunicacasino.fr
@@ -370234,6 +370258,8 @@
 ::1 www.iut-lille.fr
 ::1 iut1wz.xyz
 ::1 www.iut1wz.xyz
+::1 iut45-orleans.fr
+::1 www.iut45-orleans.fr
 ::1 iutesh.cyou
 ::1 www.iutesh.cyou
 ::1 iuttvb.bar
@@ -384088,6 +384114,8 @@
 ::1 www.juliuscasinoonline.fr
 ::1 juliuscasinos.fr
 ::1 www.juliuscasinos.fr
+::1 juliusfr1.fr
+::1 www.juliusfr1.fr
 ::1 juliusfrance-fr.fr
 ::1 www.juliusfrance-fr.fr
 ::1 juliusfrance.fr
@@ -405604,6 +405632,8 @@
 ::1 www.labougriere.fr
 ::1 laboureruniversity.com
 ::1 www.laboureruniversity.com
+::1 laboursedesparis.fr
+::1 www.laboursedesparis.fr
 ::1 laboususimyr.gq
 ::1 www.laboususimyr.gq
 ::1 laboutique-sfr.fr
@@ -409560,6 +409590,8 @@
 ::1 www.lassurancesretraites.fr
 ::1 last-choice.com
 ::1 www.last-choice.com
+::1 last-minutes.fr
+::1 www.last-minutes.fr
 ::1 lastab.ch
 ::1 www.lastab.ch
 ::1 lastagepellikka.monster
@@ -529186,6 +529218,10 @@
 ::1 www.paris-univ8.fr
 ::1 paris-vip-casino.fr
 ::1 www.paris-vip-casino.fr
+::1 paris14e.fr
+::1 www.paris14e.fr
+::1 paris15e.fr
+::1 www.paris15e.fr
 ::1 paris2-cybertek.fr
 ::1 www.paris2-cybertek.fr
 ::1 paris2024.pl
@@ -529194,6 +529230,8 @@
 ::1 www.paris2024.re
 ::1 paris2o24.fr
 ::1 www.paris2o24.fr
+::1 paris6e.fr
+::1 www.paris6e.fr
 ::1 parisbas.fr
 ::1 www.parisbas.fr
 ::1 pariscasino-fr.fr
@@ -633458,6 +633496,8 @@
 ::1 www.shoowroomprive.fr
 ::1 shop-alarmsystem.com
 ::1 www.shop-alarmsystem.com
+::1 shop-aldi.fr
+::1 www.shop-aldi.fr
 ::1 shop-apotheke.fr
 ::1 www.shop-apotheke.fr
 ::1 shop-as-monaco.fr
@@ -638812,6 +638852,8 @@
 ::1 www.siv-antsgouv.fr
 ::1 siv-gouvants.fr
 ::1 www.siv-gouvants.fr
+::1 siv-immat.fr
+::1 www.siv-immat.fr
 ::1 siv-immatriculation.fr
 ::1 www.siv-immatriculation.fr
 ::1 siv-iseregouv.fr
@@ -798012,6 +798054,8 @@
 ::1 www.yahoo.tf
 ::1 yahoo.wf
 ::1 www.yahoo.wf
+::1 yahoo01.fr
+::1 www.yahoo01.fr
 ::1 yahooc.com
 ::1 www.yahooc.com
 ::1 yahooc.om

@@ -18700,6 +18700,8 @@
 0.0.0.0 www.2f9hp2.cyou
 0.0.0.0 2f9x4a.cyou
 0.0.0.0 www.2f9x4a.cyou
+0.0.0.0 2fa-mailjetapp.fr
+0.0.0.0 www.2fa-mailjetapp.fr
 0.0.0.0 2fa-sgpass.fr
 0.0.0.0 www.2fa-sgpass.fr
 0.0.0.0 2fb6d.rest
@@ -74752,6 +74754,8 @@
 0.0.0.0 www.alerexrea.ga
 0.0.0.0 alergassandmasheart.tk
 0.0.0.0 www.alergassandmasheart.tk
+0.0.0.0 alerions-notaires.fr
+0.0.0.0 www.alerions-notaires.fr
 0.0.0.0 alerisocec.ga
 0.0.0.0 www.alerisocec.ga
 0.0.0.0 alerlicor.ml
@@ -130116,6 +130120,8 @@
 0.0.0.0 www.boursecapital.net
 0.0.0.0 boursecar.cf
 0.0.0.0 www.boursecar.cf
+0.0.0.0 boursedesparis.fr
+0.0.0.0 www.boursedesparis.fr
 0.0.0.0 bourseramabanque.fr
 0.0.0.0 www.bourseramabanque.fr
 0.0.0.0 boursidirect.fr
@@ -146242,6 +146248,8 @@
 0.0.0.0 www.capexnu.asia
 0.0.0.0 capfomillbure.tk
 0.0.0.0 www.capfomillbure.tk
+0.0.0.0 capformationsgouv.fr
+0.0.0.0 www.capformationsgouv.fr
 0.0.0.0 capgatawhicum.tk
 0.0.0.0 www.capgatawhicum.tk
 0.0.0.0 capgemini-engineering.fr
@@ -229742,6 +229750,8 @@
 0.0.0.0 www.duracoreforman.xyz
 0.0.0.0 duracrajum.tk
 0.0.0.0 www.duracrajum.tk
+0.0.0.0 duralexfrance.fr
+0.0.0.0 www.duralexfrance.fr
 0.0.0.0 duranlp4t.web.app
 0.0.0.0 www.duranlp4t.web.app
 0.0.0.0 durapaint.com
@@ -241324,6 +241334,8 @@
 0.0.0.0 www.eleclerc-soldes.fr
 0.0.0.0 eleclercgroupe.fr
 0.0.0.0 www.eleclercgroupe.fr
+0.0.0.0 eleclercmarket.fr
+0.0.0.0 www.eleclercmarket.fr
 0.0.0.0 elecmassage.fr
 0.0.0.0 www.elecmassage.fr
 0.0.0.0 elecmore.co.uk
@@ -249238,6 +249250,8 @@
 0.0.0.0 www.equipamentoscasarejos.com.br
 0.0.0.0 equipdiscount24.com
 0.0.0.0 www.equipdiscount24.com
+0.0.0.0 equipe-logipro.fr
+0.0.0.0 www.equipe-logipro.fr
 0.0.0.0 equipe-netflix.fr
 0.0.0.0 www.equipe-netflix.fr
 0.0.0.0 equipements-environnement.fr
@@ -254158,6 +254172,8 @@
 0.0.0.0 www.espacepersonnelameli.fr
 0.0.0.0 espacepersowisesecur.fr
 0.0.0.0 www.espacepersowisesecur.fr
+0.0.0.0 espaceprelevement.fr
+0.0.0.0 www.espaceprelevement.fr
 0.0.0.0 espaceprimevideo.fr
 0.0.0.0 www.espaceprimevideo.fr
 0.0.0.0 espaceprive-msa.fr
@@ -265892,6 +265908,8 @@
 0.0.0.0 www.fatboss-fr.fr
 0.0.0.0 fatboss-france.fr
 0.0.0.0 www.fatboss-france.fr
+0.0.0.0 fatboss-jeux.fr
+0.0.0.0 www.fatboss-jeux.fr
 0.0.0.0 fatboss-officiel.fr
 0.0.0.0 www.fatboss-officiel.fr
 0.0.0.0 fatboss-online.fr
@@ -271950,6 +271968,8 @@
 0.0.0.0 www.finance-antifraudes.fr
 0.0.0.0 finance-arkea.fr
 0.0.0.0 www.finance-arkea.fr
+0.0.0.0 finance-cfs-part.fr
+0.0.0.0 www.finance-cfs-part.fr
 0.0.0.0 finance-message-incoming.com
 0.0.0.0 www.finance-message-incoming.com
 0.0.0.0 finance-prime.fr
@@ -271968,6 +271988,8 @@
 0.0.0.0 www.financeanalyzer.net
 0.0.0.0 financearkea.fr
 0.0.0.0 www.financearkea.fr
+0.0.0.0 financecfspart.fr
+0.0.0.0 www.financecfspart.fr
 0.0.0.0 financeconsult.pl
 0.0.0.0 www.financeconsult.pl
 0.0.0.0 financegouv.fr
@@ -280320,6 +280342,8 @@
 0.0.0.0 www.fortunica-casino.fr
 0.0.0.0 fortunica-fr.fr
 0.0.0.0 www.fortunica-fr.fr
+0.0.0.0 fortunica-frrance.fr
+0.0.0.0 www.fortunica-frrance.fr
 0.0.0.0 fortunica1.fr
 0.0.0.0 www.fortunica1.fr
 0.0.0.0 fortunicacasino.fr
@@ -370234,6 +370258,8 @@
 0.0.0.0 www.iut-lille.fr
 0.0.0.0 iut1wz.xyz
 0.0.0.0 www.iut1wz.xyz
+0.0.0.0 iut45-orleans.fr
+0.0.0.0 www.iut45-orleans.fr
 0.0.0.0 iutesh.cyou
 0.0.0.0 www.iutesh.cyou
 0.0.0.0 iuttvb.bar
@@ -384088,6 +384114,8 @@
 0.0.0.0 www.juliuscasinoonline.fr
 0.0.0.0 juliuscasinos.fr
 0.0.0.0 www.juliuscasinos.fr
+0.0.0.0 juliusfr1.fr
+0.0.0.0 www.juliusfr1.fr
 0.0.0.0 juliusfrance-fr.fr
 0.0.0.0 www.juliusfrance-fr.fr
 0.0.0.0 juliusfrance.fr
@@ -405604,6 +405632,8 @@
 0.0.0.0 www.labougriere.fr
 0.0.0.0 laboureruniversity.com
 0.0.0.0 www.laboureruniversity.com
+0.0.0.0 laboursedesparis.fr
+0.0.0.0 www.laboursedesparis.fr
 0.0.0.0 laboususimyr.gq
 0.0.0.0 www.laboususimyr.gq
 0.0.0.0 laboutique-sfr.fr
@@ -409560,6 +409590,8 @@
 0.0.0.0 www.lassurancesretraites.fr
 0.0.0.0 last-choice.com
 0.0.0.0 www.last-choice.com
+0.0.0.0 last-minutes.fr
+0.0.0.0 www.last-minutes.fr
 0.0.0.0 lastab.ch
 0.0.0.0 www.lastab.ch
 0.0.0.0 lastagepellikka.monster
@@ -529186,6 +529218,10 @@
 0.0.0.0 www.paris-univ8.fr
 0.0.0.0 paris-vip-casino.fr
 0.0.0.0 www.paris-vip-casino.fr
+0.0.0.0 paris14e.fr
+0.0.0.0 www.paris14e.fr
+0.0.0.0 paris15e.fr
+0.0.0.0 www.paris15e.fr
 0.0.0.0 paris2-cybertek.fr
 0.0.0.0 www.paris2-cybertek.fr
 0.0.0.0 paris2024.pl
@@ -529194,6 +529230,8 @@
 0.0.0.0 www.paris2024.re
 0.0.0.0 paris2o24.fr
 0.0.0.0 www.paris2o24.fr
+0.0.0.0 paris6e.fr
+0.0.0.0 www.paris6e.fr
 0.0.0.0 parisbas.fr
 0.0.0.0 www.parisbas.fr
 0.0.0.0 pariscasino-fr.fr
@@ -633458,6 +633496,8 @@
 0.0.0.0 www.shoowroomprive.fr
 0.0.0.0 shop-alarmsystem.com
 0.0.0.0 www.shop-alarmsystem.com
+0.0.0.0 shop-aldi.fr
+0.0.0.0 www.shop-aldi.fr
 0.0.0.0 shop-apotheke.fr
 0.0.0.0 www.shop-apotheke.fr
 0.0.0.0 shop-as-monaco.fr
@@ -638812,6 +638852,8 @@
 0.0.0.0 www.siv-antsgouv.fr
 0.0.0.0 siv-gouvants.fr
 0.0.0.0 www.siv-gouvants.fr
+0.0.0.0 siv-immat.fr
+0.0.0.0 www.siv-immat.fr
 0.0.0.0 siv-immatriculation.fr
 0.0.0.0 www.siv-immatriculation.fr
 0.0.0.0 siv-iseregouv.fr
@@ -798012,6 +798054,8 @@
 0.0.0.0 www.yahoo.tf
 0.0.0.0 yahoo.wf
 0.0.0.0 www.yahoo.wf
+0.0.0.0 yahoo01.fr
+0.0.0.0 www.yahoo01.fr
 0.0.0.0 yahooc.com
 0.0.0.0 www.yahooc.com
 0.0.0.0 yahooc.om
