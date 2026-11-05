@@ -302594,6 +302594,8 @@
 ::1 www.giqwiao.tokyo
 ::1 girabreoliatilu.cf
 ::1 www.girabreoliatilu.cf
+::1 giraffic.com
+::1 www.giraffic.com
 ::1 giranvipanee.tk
 ::1 www.giranvipanee.tk
 ::1 girararattmite.tk
