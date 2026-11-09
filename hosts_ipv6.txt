@@ -8976,8 +8976,6 @@
 ::1 www.186vin.com
 ::1 18705o.cyou
 ::1 www.18705o.cyou
-::1 1875-financeinvest.com
-::1 www.1875-financeinvest.com
 ::1 187haobo.com
 ::1 www.187haobo.com
 ::1 187jmp.cyou
@@ -14360,6 +14358,8 @@
 ::1 www.1zt2bz.cyou
 ::1 1zt3qf.cyou
 ::1 www.1zt3qf.cyou
+::1 1zu1shop.de
+::1 www.1zu1shop.de
 ::1 1zu690u.tokyo
 ::1 www.1zu690u.tokyo
 ::1 1zu9e1m.tokyo
@@ -31590,6 +31590,8 @@
 ::1 www.4zz5rc.tokyo
 ::1 5-club.ru
 ::1 www.5-club.ru
+::1 5-drugs.com
+::1 www.5-drugs.com
 ::1 5-ee-mo.re
 ::1 www.5-ee-mo.re
 ::1 5-gringo.fr
@@ -36762,6 +36764,8 @@
 ::1 www.5zzngsh.cyou
 ::1 5zzsx4.tokyo
 ::1 www.5zzsx4.tokyo
+::1 6-drugs.com
+::1 www.6-drugs.com
 ::1 60.13.60.19
 ::1 www.60.13.60.19
 ::1 60.16.255.36
@@ -41740,6 +41744,8 @@
 ::1 www.7-drugs.com
 ::1 7-order.com
 ::1 www.7-order.com
+::1 7-pharm.com
+::1 www.7-pharm.com
 ::1 7-signs-casino.fr
 ::1 www.7-signs-casino.fr
 ::1 7-sultans.fr
@@ -62258,8 +62264,6 @@
 ::1 www.aboveallshop.com
 ::1 aboveaveragefinallycast.com
 ::1 www.aboveaveragefinallycast.com
-::1 aboveaverageheavenly.com
-::1 www.aboveaverageheavenly.com
 ::1 aboveboardcomplicate.com
 ::1 www.aboveboardcomplicate.com
 ::1 abovedaygroupquestion.de
@@ -62772,8 +62776,6 @@
 ::1 www.abyist.tokyo
 ::1 abymoxetumun.ga
 ::1 www.abymoxetumun.ga
-::1 abyssfar.com
-::1 www.abyssfar.com
 ::1 abyssmedia.fr
 ::1 www.abyssmedia.fr
 ::1 abythortenre.tk
@@ -63266,6 +63268,8 @@
 ::1 www.acc-paris.fr
 ::1 acc-secure.fr
 ::1 www.acc-secure.fr
+::1 acc.accgn.com
+::1 www.acc.accgn.com
 ::1 acc4b.tokyo
 ::1 www.acc4b.tokyo
 ::1 accabterbbeano.cf
@@ -65098,8 +65102,6 @@
 ::1 www.acreallesehskindmiss.tk
 ::1 acrearizura.gq
 ::1 www.acrearizura.gq
-::1 acrebackcharacter.com
-::1 www.acrebackcharacter.com
 ::1 acreims.fr
 ::1 www.acreims.fr
 ::1 acrenraerebersmil.tk
@@ -65640,8 +65642,6 @@
 ::1 www.activity-prime.fr
 ::1 activityareaofficer.rest
 ::1 www.activityareaofficer.rest
-::1 activityboardhauser.com
-::1 www.activityboardhauser.com
 ::1 activitycommence.com
 ::1 www.activitycommence.com
 ::1 activityfivesrights.club
@@ -66146,8 +66146,6 @@
 ::1 www.adadrebabek.tk
 ::1 adads2.cn
 ::1 www.adads2.cn
-::1 adafashion.ch
-::1 www.adafashion.ch
 ::1 adafmosnati.gq
 ::1 www.adafmosnati.gq
 ::1 adafontcheck.xyz
@@ -66288,6 +66286,8 @@
 ::1 www.adaptationreconsider.com
 ::1 adaptedshake.com
 ::1 www.adaptedshake.com
+::1 adapters-ac.com
+::1 www.adapters-ac.com
 ::1 adapteupartysy.tk
 ::1 www.adapteupartysy.tk
 ::1 adaptlipclamour.com
@@ -66992,6 +66992,8 @@
 ::1 www.adidasforum.fr
 ::1 adidasgazelle.fr
 ::1 www.adidasgazelle.fr
+::1 adidashrvatska.com
+::1 www.adidashrvatska.com
 ::1 adidashungaryhu.com
 ::1 www.adidashungaryhu.com
 ::1 adidasisupra.ro
@@ -67044,8 +67046,6 @@
 ::1 www.adidasyeezy.fr
 ::1 adidasyeezy.uk.com
 ::1 www.adidasyeezy.uk.com
-::1 adidasyeezyboost.de
-::1 www.adidasyeezyboost.de
 ::1 adidasyeezyfrance.fr
 ::1 www.adidasyeezyfrance.fr
 ::1 adidasyeezys.fr
@@ -67232,8 +67232,6 @@
 ::1 www.adl.ukdil.shop
 ::1 adl.uoyps.shop
 ::1 www.adl.uoyps.shop
-::1 adl.wiksh.shop
-::1 www.adl.wiksh.shop
 ::1 adl.zixoko.shop
 ::1 www.adl.zixoko.shop
 ::1 adlamisnighfardo.tk
@@ -67796,6 +67794,8 @@
 ::1 www.adriamoda.de
 ::1 adriamoevents.pl
 ::1 www.adriamoevents.pl
+::1 adrian-beck.de
+::1 www.adrian-beck.de
 ::1 adriancovaci.xyz
 ::1 www.adriancovaci.xyz
 ::1 adrianmaciejewski.pl
@@ -68012,8 +68012,6 @@
 ::1 www.adtitusinroe.tk
 ::1 adtixonmaseta.gq
 ::1 www.adtixonmaseta.gq
-::1 adtng.com
-::1 www.adtng.com
 ::1 adtogmabanjahr.tk
 ::1 www.adtogmabanjahr.tk
 ::1 adtojukobuf.tk
@@ -68188,10 +68186,6 @@
 ::1 www.advancesalesfunnel.com
 ::1 advancesecurity.de
 ::1 www.advancesecurity.de
-::1 advancingtheirs.com
-::1 www.advancingtheirs.com
-::1 advantageroughplay.com
-::1 www.advantageroughplay.com
 ::1 advantagerunyanstevenson.com
 ::1 www.advantagerunyanstevenson.com
 ::1 advantagesblareseizure.com
@@ -69516,6 +69510,8 @@
 ::1 www.afrikakette.de
 ::1 afrinews.eu
 ::1 www.afrinews.eu
+::1 afripo.com
+::1 www.afripo.com
 ::1 afrique-au-coeur.be
 ::1 www.afrique-au-coeur.be
 ::1 afriquenligne.fr
@@ -69528,8 +69524,6 @@
 ::1 www.afroandbodyshop.de
 ::1 afrodita.ee
 ::1 www.afrodita.ee
-::1 afront.io
-::1 www.afront.io
 ::1 afrovemibi.cf
 ::1 www.afrovemibi.cf
 ::1 afrqkp.tokyo
@@ -69936,8 +69930,6 @@
 ::1 www.agcroccobargai.tk
 ::1 agcubf.cyou
 ::1 www.agcubf.cyou
-::1 agda888.com
-::1 www.agda888.com
 ::1 agdalrohoti.ml
 ::1 www.agdalrohoti.ml
 ::1 agddtmj.tokyo
@@ -70786,6 +70778,8 @@
 ::1 www.agocatsansu.cf
 ::1 agocountryaddstory.biz
 ::1 www.agocountryaddstory.biz
+::1 agodahotel.shop
+::1 www.agodahotel.shop
 ::1 agodug.rest
 ::1 www.agodug.rest
 ::1 agofer.tokyo
@@ -75114,6 +75108,8 @@
 ::1 www.alflowofhu.ga
 ::1 alfonline.de
 ::1 www.alfonline.de
+::1 alfonsa.de
+::1 www.alfonsa.de
 ::1 alfonsoquintas.com
 ::1 www.alfonsoquintas.com
 ::1 alforcoumondper.tk
@@ -75768,8 +75764,6 @@
 ::1 www.allbuygh.com
 ::1 allbuysport.com
 ::1 www.allbuysport.com
-::1 allcart.xyz
-::1 www.allcart.xyz
 ::1 allcashback.jp
 ::1 www.allcashback.jp
 ::1 allclothes.club
@@ -75872,8 +75866,6 @@
 ::1 www.alletawestco.cf
 ::1 alletdufte.shop
 ::1 www.alletdufte.shop
-::1 alleuropills.com
-::1 www.alleuropills.com
 ::1 allevamento-amstaff.it
 ::1 www.allevamento-amstaff.it
 ::1 alleviatedesignertheir.com
@@ -76320,8 +76312,6 @@
 ::1 www.allyspinscasino.fr
 ::1 allz.ir
 ::1 www.allz.ir
-::1 alma-market.com
-::1 www.alma-market.com
 ::1 almaca.xyz
 ::1 www.almaca.xyz
 ::1 almaenpenafrance.fr
@@ -77400,8 +77390,6 @@
 ::1 www.alternatei.com
 ::1 alternatelicking.com
 ::1 www.alternatelicking.com
-::1 alternatewavyrid.com
-::1 www.alternatewavyrid.com
 ::1 alternatib.site
 ::1 www.alternatib.site
 ::1 alternativ.xyz
@@ -77594,6 +77582,8 @@
 ::1 www.altrarunningfrance.fr
 ::1 altrarunningshoes.fr
 ::1 www.altrarunningshoes.fr
+::1 altrasens.de
+::1 www.altrasens.de
 ::1 altrashoesparis.fr
 ::1 www.altrashoesparis.fr
 ::1 altravamanreensunc.cf
@@ -77768,6 +77758,8 @@
 ::1 www.aluvea.de
 ::1 alvabcoacontatic.gq
 ::1 www.alvabcoacontatic.gq
+::1 alvara-zurich.ch
+::1 www.alvara-zurich.ch
 ::1 alvebmegeperlo.tk
 ::1 www.alvebmegeperlo.tk
 ::1 alved.xyz
@@ -78144,8 +78136,6 @@
 ::1 www.amarillotexas.xyz
 ::1 amarinar.tk
 ::1 www.amarinar.tk
-::1 amarketss.com
-::1 www.amarketss.com
 ::1 amaron.fr
 ::1 www.amaron.fr
 ::1 amarserver.xyz
@@ -78460,8 +78450,6 @@
 ::1 www.amazongiftcard.fr
 ::1 amazonglobal.live
 ::1 www.amazonglobal.live
-::1 amazongori.com
-::1 www.amazongori.com
 ::1 amazongrowthmarketing.fr
 ::1 www.amazongrowthmarketing.fr
 ::1 amazonh.fr
@@ -81150,8 +81138,6 @@
 ::1 www.amigosamericanos.buzz
 ::1 amikpretalpay.ml
 ::1 www.amikpretalpay.ml
-::1 amiliah.schlafhalt.com
-::1 www.amiliah.schlafhalt.com
 ::1 amilitahbaron.xyz
 ::1 www.amilitahbaron.xyz
 ::1 amillionpoems.buzz
@@ -82034,8 +82020,6 @@
 ::1 www.amusementcombinationconfer.com
 ::1 amusenol.ga
 ::1 www.amusenol.ga
-::1 amuseulteriorpair.com
-::1 www.amuseulteriorpair.com
 ::1 amusgooforso.tk
 ::1 www.amusgooforso.tk
 ::1 amustk.tokyo
@@ -83648,6 +83632,8 @@
 ::1 www.anhagouv.fr
 ::1 anhamamdiewelna.gq
 ::1 www.anhamamdiewelna.gq
+::1 anhanger-behalter.de
+::1 www.anhanger-behalter.de
 ::1 anhanger-shopsey.com
 ::1 www.anhanger-shopsey.com
 ::1 anhanger-zentrum.de
@@ -84324,8 +84310,6 @@
 ::1 www.annafieldparis.fr
 ::1 annafieldshop.de
 ::1 www.annafieldshop.de
-::1 annafieldshop.fr
-::1 www.annafieldshop.fr
 ::1 annafieldshops.fr
 ::1 www.annafieldshops.fr
 ::1 annafieldwien.at
@@ -84348,8 +84332,6 @@
 ::1 www.annami.buzz
 ::1 annamodecostumes.website
 ::1 www.annamodecostumes.website
-::1 annamodehaus.ch
-::1 www.annamodehaus.ch
 ::1 annamodehaus.com
 ::1 www.annamodehaus.com
 ::1 annanebankza.gq
@@ -87906,6 +87888,8 @@
 ::1 www.app-for-video.com
 ::1 app-good.com
 ::1 www.app-good.com
+::1 app-helden.de
+::1 www.app-helden.de
 ::1 app-hub-desk.github.io
 ::1 www.app-hub-desk.github.io
 ::1 app-livraison.fr
@@ -89808,6 +89792,8 @@
 ::1 www.arcakciabonbu.gq
 ::1 arcakelusily.tk
 ::1 www.arcakelusily.tk
+::1 arcaktuell.de
+::1 www.arcaktuell.de
 ::1 arcalilitant.tk
 ::1 www.arcalilitant.tk
 ::1 arcane-bet.fr
@@ -90546,6 +90532,8 @@
 ::1 www.aresweb.fr
 ::1 aretecolni.cf
 ::1 www.aretecolni.cf
+::1 aretephoenix.com
+::1 www.aretephoenix.com
 ::1 arethunalcrin.tk
 ::1 www.arethunalcrin.tk
 ::1 aretl5f.tokyo
@@ -93152,8 +93140,6 @@
 ::1 www.asceto.ru
 ::1 aschaltusel.gq
 ::1 www.aschaltusel.gq
-::1 aschenbecher-deutschland.de
-::1 www.aschenbecher-deutschland.de
 ::1 ascherigiardiniere.ch
 ::1 www.ascherigiardiniere.ch
 ::1 ascherslebener-holzhandel.de
@@ -95892,6 +95878,8 @@
 ::1 www.aszxuq.cyou
 ::1 at.alpine-point.com
 ::1 www.at.alpine-point.com
+::1 at.curalise.com
+::1 www.at.curalise.com
 ::1 at.eeelgnte.shop
 ::1 www.at.eeelgnte.shop
 ::1 at.esrlive.com
@@ -96576,6 +96564,8 @@
 ::1 www.atheleh.tk
 ::1 athenabodywear.com
 ::1 www.athenabodywear.com
+::1 athenafinance.fr
+::1 www.athenafinance.fr
 ::1 athene-shop.com
 ::1 www.athene-shop.com
 ::1 athenea.fr
@@ -96892,8 +96882,6 @@
 ::1 www.atlassion.net
 ::1 atlaswerbetechnik.de
 ::1 www.atlaswerbetechnik.de
-::1 atlataca.com
-::1 www.atlataca.com
 ::1 atlaudegagut.tk
 ::1 www.atlaudegagut.tk
 ::1 atlauncher.fr
@@ -98108,6 +98096,8 @@
 ::1 www.aug-dus.de
 ::1 augend76columbi.top
 ::1 www.augend76columbi.top
+::1 augennstern.com
+::1 www.augennstern.com
 ::1 aughaitoaph.com
 ::1 www.aughaitoaph.com
 ::1 augi.fr
@@ -98386,8 +98376,6 @@
 ::1 www.aureonplay-casino.fr
 ::1 aureonplay.fr
 ::1 www.aureonplay.fr
-::1 auresthiqan.sbs
-::1 www.auresthiqan.sbs
 ::1 aurevo-fashion.com
 ::1 www.aurevo-fashion.com
 ::1 aurevoirboutique.bar
@@ -99290,6 +99278,8 @@
 ::1 www.autoradiomitnavigation.de
 ::1 autoregcatalog.ru
 ::1 www.autoregcatalog.ru
+::1 autoreifen-billig.com
+::1 www.autoreifen-billig.com
 ::1 autorengemeinschaftaugsburg.de
 ::1 www.autorengemeinschaftaugsburg.de
 ::1 autorepairloans.buzz
@@ -99370,8 +99360,6 @@
 ::1 www.autoteile-wf.de
 ::1 autoteileanton.de
 ::1 www.autoteileanton.de
-::1 autoteiledirektpro.com
-::1 www.autoteiledirektpro.com
 ::1 autoteilefachmarkt.de
 ::1 www.autoteilefachmarkt.de
 ::1 autoteileharbor.com
@@ -99546,6 +99534,8 @@
 ::1 www.av-api.com
 ::1 av-fapdu.xyz
 ::1 www.av-fapdu.xyz
+::1 av-shopping.shop
+::1 www.av-shopping.shop
 ::1 av-support.dk
 ::1 www.av-support.dk
 ::1 av0juz4.work
@@ -99610,8 +99600,6 @@
 ::1 www.avalvahofus.tk
 ::1 avamirae.com
 ::1 www.avamirae.com
-::1 avana24.com
-::1 www.avana24.com
 ::1 avance-immediate-impots.fr
 ::1 www.avance-immediate-impots.fr
 ::1 avance-immediate-urssaf.fr
@@ -100496,8 +100484,6 @@
 ::1 www.awecomicsstove.com
 ::1 awecrjmp.com
 ::1 www.awecrjmp.com
-::1 awecrptjmp.com
-::1 www.awecrptjmp.com
 ::1 awed64legitim.pw
 ::1 www.awed64legitim.pw
 ::1 awegnr.bar
@@ -103598,6 +103584,8 @@
 ::1 www.babyliss-france.fr
 ::1 babyliss-pro.fr
 ::1 www.babyliss-pro.fr
+::1 babylissde.de
+::1 www.babylissde.de
 ::1 babylissfr.fr
 ::1 www.babylissfr.fr
 ::1 babylissfrance.fr
@@ -105292,8 +105280,6 @@
 ::1 www.balanceddefensesterile.com
 ::1 balancedecke.de
 ::1 www.balancedecke.de
-::1 balancepadsalestore.com
-::1 www.balancepadsalestore.com
 ::1 balancerightyuniversal.com
 ::1 www.balancerightyuniversal.com
 ::1 balanceslagelse.dk
@@ -105328,6 +105314,8 @@
 ::1 www.bald.xyz
 ::1 balddimartithy.ga
 ::1 www.balddimartithy.ga
+::1 balder-industries.com
+::1 www.balder-industries.com
 ::1 baldercfullvi.cf
 ::1 www.baldercfullvi.cf
 ::1 baldestiftung.de
@@ -106376,6 +106364,8 @@
 ::1 www.bankofbinary.com
 ::1 bankofengland.xyz
 ::1 www.bankofengland.xyz
+::1 bankofinvest.com
+::1 www.bankofinvest.com
 ::1 bankon-bet.fr
 ::1 www.bankon-bet.fr
 ::1 bankonbet-fr.fr
@@ -107338,6 +107328,8 @@
 ::1 www.bargelloperfumes.fr
 ::1 barglenceheari.tk
 ::1 www.barglenceheari.tk
+::1 bargnee.com
+::1 www.bargnee.com
 ::1 bargpt.app
 ::1 www.bargpt.app
 ::1 barguisoduphofer.ga
@@ -107704,8 +107696,6 @@
 ::1 www.bartbaffthermmeno.cf
 ::1 bartbihudeartiapa.tk
 ::1 www.bartbihudeartiapa.tk
-::1 bartcons.com
-::1 www.bartcons.com
 ::1 bartconstictecon.gq
 ::1 www.bartconstictecon.gq
 ::1 bartdeccagibhochan.tk
@@ -108238,8 +108228,6 @@
 ::1 www.baterchaperness.tk
 ::1 bates-boots.com
 ::1 www.bates-boots.com
-::1 batesurveyed.com
-::1 www.batesurveyed.com
 ::1 batex-france.fr
 ::1 www.batex-france.fr
 ::1 batfestkettnymhans.tk
@@ -108712,8 +108700,6 @@
 ::1 www.bawyif.rest
 ::1 bawynssiran.tk
 ::1 www.bawynssiran.tk
-::1 bawz.store
-::1 www.bawz.store
 ::1 baxdpy.tokyo
 ::1 www.baxdpy.tokyo
 ::1 baxdw7.cyou
@@ -109096,6 +109082,8 @@
 ::1 www.bbfpgs.tokyo
 ::1 bbfzjq.tokyo
 ::1 www.bbfzjq.tokyo
+::1 bbgadget.de
+::1 www.bbgadget.de
 ::1 bbgbua.tokyo
 ::1 www.bbgbua.tokyo
 ::1 bbgmjc.tokyo
@@ -109128,6 +109116,8 @@
 ::1 www.bbilmelograno.eu
 ::1 bbilzr.tokyo
 ::1 www.bbilzr.tokyo
+::1 bbimprovements.com
+::1 www.bbimprovements.com
 ::1 bbix.fr
 ::1 www.bbix.fr
 ::1 bbixfq.rest
@@ -110088,6 +110078,8 @@
 ::1 www.beachcitiescommercialbank.com
 ::1 beachdontwandtoka.ga
 ::1 www.beachdontwandtoka.ga
+::1 beachersett.co.uk
+::1 www.beachersett.co.uk
 ::1 beachfdeskhykorestres.tk
 ::1 www.beachfdeskhykorestres.tk
 ::1 beachfmacachoga.gq
@@ -110170,6 +110162,8 @@
 ::1 www.beam21.eu
 ::1 beambead.com
 ::1 www.beambead.com
+::1 beambright.de
+::1 www.beambright.de
 ::1 beamed.xyz
 ::1 www.beamed.xyz
 ::1 beamedloo.com
@@ -110538,8 +110532,6 @@
 ::1 www.beautybylaura.com.au
 ::1 beautycare-press.com
 ::1 www.beautycare-press.com
-::1 beautyclam.de
-::1 www.beautyclam.de
 ::1 beautyfriseurbonn.de
 ::1 www.beautyfriseurbonn.de
 ::1 beautyfullbox.fr
@@ -111594,6 +111586,8 @@
 ::1 www.belada.site
 ::1 belaguabweilapen.ml
 ::1 www.belaguabweilapen.ml
+::1 belagus.com
+::1 www.belagus.com
 ::1 belahantevihum.tk
 ::1 www.belahantevihum.tk
 ::1 belahc.tokyo
@@ -112400,6 +112394,8 @@
 ::1 www.benettonfr.fr
 ::1 benettonfrance.fr
 ::1 www.benettonfrance.fr
+::1 benettonosterreich.com
+::1 www.benettonosterreich.com
 ::1 benettonoutletstore.shop
 ::1 www.benettonoutletstore.shop
 ::1 benettons.fr
@@ -113270,6 +113266,8 @@
 ::1 www.berlinon.eu
 ::1 berlinoutletshop.com
 ::1 www.berlinoutletshop.com
+::1 berlinrideservice.com
+::1 www.berlinrideservice.com
 ::1 berlinsprime.de
 ::1 www.berlinsprime.de
 ::1 berlinstil.de
@@ -113970,8 +113968,6 @@
 ::1 www.bessere-bildung.de
 ::1 bessere-reifen.de
 ::1 www.bessere-reifen.de
-::1 besseregesudheit.com
-::1 www.besseregesudheit.com
 ::1 besseregesundheitbp-at.com
 ::1 www.besseregesundheitbp-at.com
 ::1 bessihodcondtersi.gq
@@ -114034,12 +114030,12 @@
 ::1 www.best-fuck-xxxcams.cloud
 ::1 best-get-prizes.info
 ::1 www.best-get-prizes.info
-::1 best-global-apps.com
-::1 www.best-global-apps.com
 ::1 best-good-winery.com
 ::1 www.best-good-winery.com
 ::1 best-hardcore-clip.agency
 ::1 www.best-hardcore-clip.agency
+::1 best-home.store
+::1 www.best-home.store
 ::1 best-horny-girl-here.com
 ::1 www.best-horny-girl-here.com
 ::1 best-hornygirls.com
@@ -114486,8 +114482,6 @@
 ::1 www.bestdatings-4you-now1.com
 ::1 bestdatingzone2.com
 ::1 www.bestdatingzone2.com
-::1 bestdealtoday.net
-::1 www.bestdealtoday.net
 ::1 bestdeguwouri.gq
 ::1 www.bestdeguwouri.gq
 ::1 bestdemanphoperdo.tk
@@ -114504,6 +114498,8 @@
 ::1 www.bestdosover.tk
 ::1 bestdrugstore247.com
 ::1 www.bestdrugstore247.com
+::1 bestduka.com
+::1 www.bestduka.com
 ::1 bestdurchragcopale.ml
 ::1 www.bestdurchragcopale.ml
 ::1 bestdyguvatora.ga
@@ -114550,6 +114546,8 @@
 ::1 www.bestemed.com
 ::1 bestemedikamente.com
 ::1 www.bestemedikamente.com
+::1 bestenfahrrad.de
+::1 www.bestenfahrrad.de
 ::1 bestenwahl.de
 ::1 www.bestenwahl.de
 ::1 besteoccasion.com
@@ -116502,8 +116500,6 @@
 ::1 www.betptosdefandade.ml
 ::1 betpuan.fr
 ::1 www.betpuan.fr
-::1 betr-for-tod.com
-::1 www.betr-for-tod.com
 ::1 betrailo.com
 ::1 www.betrailo.com
 ::1 betrasesane.ml
@@ -116568,8 +116564,6 @@
 ::1 www.betroom24.fr
 ::1 betroom24casino.fr
 ::1 www.betroom24casino.fr
-::1 betrug.law
-::1 www.betrug.law
 ::1 betrugs-check.de
 ::1 www.betrugs-check.de
 ::1 betrugsexperten.de
@@ -116676,8 +116670,6 @@
 ::1 www.bettdangdistconmyowten.tk
 ::1 bettel.fr
 ::1 www.bettel.fr
-::1 better-smoke.shop
-::1 www.better-smoke.shop
 ::1 better-than-tinder.com
 ::1 www.better-than-tinder.com
 ::1 betterareaseecountry.biz
@@ -117610,6 +117602,8 @@
 ::1 www.bgschool.bg
 ::1 bgson7.tokyo
 ::1 www.bgson7.tokyo
+::1 bgsportstore.com
+::1 www.bgsportstore.com
 ::1 bgstnz.cyou
 ::1 www.bgstnz.cyou
 ::1 bgswtx.tokyo
@@ -119640,6 +119634,8 @@
 ::1 www.bikeeinnertubede.com
 ::1 bikeep.tk
 ::1 www.bikeep.tk
+::1 bikeersatzteile.com
+::1 www.bikeersatzteile.com
 ::1 bikefactoryplus.shop
 ::1 www.bikefactoryplus.shop
 ::1 bikegadgetde.com
@@ -119718,8 +119714,6 @@
 ::1 www.bikestore.xyz
 ::1 biketaillightsde.com
 ::1 www.biketaillightsde.com
-::1 bikeusstyle.com
-::1 www.bikeusstyle.com
 ::1 bikeworkx.dk
 ::1 www.bikeworkx.dk
 ::1 bikeworld.ee
@@ -120132,8 +120126,6 @@
 ::1 www.billigevent.dk
 ::1 billigfahrrad.com
 ::1 www.billigfahrrad.com
-::1 billigfahrradteile.com
-::1 www.billigfahrradteile.com
 ::1 billigfiskeri.dk
 ::1 www.billigfiskeri.dk
 ::1 billiggarten.com
@@ -120730,6 +120722,8 @@
 ::1 www.bioahz.bar
 ::1 bioalga.com
 ::1 www.bioalga.com
+::1 bioamsee.de
+::1 www.bioamsee.de
 ::1 bioapoteka.store
 ::1 www.bioapoteka.store
 ::1 biobaglanssul.web.app
@@ -120868,8 +120862,6 @@
 ::1 www.bioctotcawitju.ga
 ::1 biocyrafnegapa.tk
 ::1 www.biocyrafnegapa.tk
-::1 biocyte.shop
-::1 www.biocyte.shop
 ::1 biodanddutebearan.cf
 ::1 www.biodanddutebearan.cf
 ::1 biodapicanszil.gq
@@ -121052,8 +121044,6 @@
 ::1 www.biolacerraeridti.tk
 ::1 biolacmimitsroran.cf
 ::1 www.biolacmimitsroran.cf
-::1 biolacqenergies.site
-::1 www.biolacqenergies.site
 ::1 biolamptemptantiomsel.cf
 ::1 www.biolamptemptantiomsel.cf
 ::1 bioland.xyz
@@ -121440,8 +121430,6 @@
 ::1 www.biosteeninol.tk
 ::1 biosterel.fr
 ::1 www.biosterel.fr
-::1 biostime-nosmarques.shop
-::1 www.biostime-nosmarques.shop
 ::1 biostinvendpongumd.ga
 ::1 www.biostinvendpongumd.ga
 ::1 biostoconovwaxfie.tk
@@ -122146,6 +122134,8 @@
 ::1 www.bisfspz.tokyo
 ::1 bisgaard.shop
 ::1 www.bisgaard.shop
+::1 bisgaardshoes.shop
+::1 www.bisgaardshoes.shop
 ::1 bishahtoday.com
 ::1 www.bishahtoday.com
 ::1 bishobeshoy.com
@@ -122302,16 +122292,12 @@
 ::1 www.bitcoin-miner.shop
 ::1 bitcoin-pharmacy.com
 ::1 www.bitcoin-pharmacy.com
-::1 bitcoin-revolution.org
-::1 www.bitcoin-revolution.org
 ::1 bitcoin-shop.ro
 ::1 www.bitcoin-shop.ro
 ::1 bitcoin-up.io
 ::1 www.bitcoin-up.io
 ::1 bitcoin-xact.fr
 ::1 www.bitcoin-xact.fr
-::1 bitcoinarchon.com
-::1 www.bitcoinarchon.com
 ::1 bitcoinblackfriday.com
 ::1 www.bitcoinblackfriday.com
 ::1 bitcoineer.ai
@@ -122332,6 +122318,8 @@
 ::1 www.bitcoinmagazine.com
 ::1 bitcoinmatin.fr
 ::1 www.bitcoinmatin.fr
+::1 bitcoinminetrix.com
+::1 www.bitcoinminetrix.com
 ::1 bitcoinminingsecrets.pw
 ::1 www.bitcoinminingsecrets.pw
 ::1 bitcoinmotion.com
@@ -122342,8 +122330,6 @@
 ::1 www.bitcoinpre.com
 ::1 bitcoinprime.fr
 ::1 www.bitcoinprime.fr
-::1 bitcoinrevolution.org
-::1 www.bitcoinrevolution.org
 ::1 bitcoins-central.com
 ::1 www.bitcoins-central.com
 ::1 bitcoinshop.fr
@@ -123250,6 +123236,8 @@
 ::1 www.bjordecdococ.tk
 ::1 bjorisimtomtami.tk
 ::1 www.bjorisimtomtami.tk
+::1 bjorkcoffee.com
+::1 www.bjorkcoffee.com
 ::1 bjorlo.shop
 ::1 www.bjorlo.shop
 ::1 bjorovtisesjack.tk
@@ -123414,6 +123402,8 @@
 ::1 www.bk-info-733.site
 ::1 bk-info117.site
 ::1 www.bk-info117.site
+::1 bk-tool.com
+::1 www.bk-tool.com
 ::1 bk0jwb.cyou
 ::1 www.bk0jwb.cyou
 ::1 bk0x3oz.tokyo
@@ -124396,8 +124386,6 @@
 ::1 www.blaunexus.inc
 ::1 blaupause-leipzig.shop
 ::1 www.blaupause-leipzig.shop
-::1 blautone.com
-::1 www.blautone.com
 ::1 blayshopart.dk
 ::1 www.blayshopart.dk
 ::1 blazabpleasre.tk
@@ -126100,8 +126088,6 @@
 ::1 www.blowinarleko.tk
 ::1 blowinbsafbuswijack.tk
 ::1 www.blowinbsafbuswijack.tk
-::1 blowingwind.xyz
-::1 www.blowingwind.xyz
 ::1 blowirulivgran.ga
 ::1 www.blowirulivgran.ga
 ::1 blowjobs-porn.com
@@ -126366,6 +126352,8 @@
 ::1 www.bluesundfolk.de
 ::1 bluetoothfinder.buzz
 ::1 www.bluetoothfinder.buzz
+::1 bluetyt.com
+::1 www.bluetyt.com
 ::1 bluewavetechnology.ai
 ::1 www.bluewavetechnology.ai
 ::1 bluewavetelecom.buzz
@@ -127978,6 +127966,8 @@
 ::1 www.bodagedespawarc.cf
 ::1 bodapartcortert.tk
 ::1 www.bodapartcortert.tk
+::1 bodario.com
+::1 www.bodario.com
 ::1 bodcontholsonnficos.tk
 ::1 www.bodcontholsonnficos.tk
 ::1 boddac.fr
@@ -128350,6 +128340,8 @@
 ::1 www.boirivolecon.tk
 ::1 boirseneasgatamtent.tk
 ::1 www.boirseneasgatamtent.tk
+::1 bois-energie-plus.com
+::1 www.bois-energie-plus.com
 ::1 boischauffage.shop
 ::1 www.boischauffage.shop
 ::1 boiscolomb.fr
@@ -128870,8 +128862,6 @@
 ::1 www.bonnieandbloom.com
 ::1 bonniel-dog.eu
 ::1 www.bonniel-dog.eu
-::1 bonnyco.shop
-::1 www.bonnyco.shop
 ::1 bonogliwhunto.tk
 ::1 www.bonogliwhunto.tk
 ::1 bonomasdeporte.es
@@ -129450,8 +129440,6 @@
 ::1 www.bootpanic.com
 ::1 bootrihero.ga
 ::1 www.bootrihero.ga
-::1 bootsausruestungshop.com
-::1 www.bootsausruestungshop.com
 ::1 bootscontgoldforfoci.ml
 ::1 www.bootscontgoldforfoci.ml
 ::1 bootsde.com
@@ -129786,8 +129774,6 @@
 ::1 www.borquebergaopracar.ml
 ::1 borregetamo.ga
 ::1 www.borregetamo.ga
-::1 borrelioseweb.de
-::1 www.borrelioseweb.de
 ::1 borrelliboutique.it
 ::1 www.borrelliboutique.it
 ::1 borrguabenmi.tk
@@ -130650,8 +130636,6 @@
 ::1 www.boutiquedeluxo.com.br
 ::1 boutiquedesirtsmartiaux.com
 ::1 www.boutiquedesirtsmartiaux.com
-::1 boutiqueducordonnier.shop
-::1 www.boutiqueducordonnier.shop
 ::1 boutiquef1.fr
 ::1 www.boutiquef1.fr
 ::1 boutiqueferrari.fr
@@ -132318,8 +132302,6 @@
 ::1 www.brandsmonaco.fr
 ::1 brandsoutlet.at
 ::1 www.brandsoutlet.at
-::1 brandt-belle.de
-::1 www.brandt-belle.de
 ::1 brandup-grade.de
 ::1 www.brandup-grade.de
 ::1 brandvert.com
@@ -133268,6 +133250,8 @@
 ::1 www.brennholz-emil.de
 ::1 brennholz-forstservice-gilbert.de
 ::1 www.brennholz-forstservice-gilbert.de
+::1 brennholz-friedrich.com
+::1 www.brennholz-friedrich.com
 ::1 brennholz-goignerog.at
 ::1 www.brennholz-goignerog.at
 ::1 brennholz-hans.de
@@ -133300,10 +133284,14 @@
 ::1 www.brennholzauswahl.at
 ::1 brennholzauswahl.de
 ::1 www.brennholzauswahl.de
+::1 brennholzbestpreis.com
+::1 www.brennholzbestpreis.com
 ::1 brennholzbredemeier.com
 ::1 www.brennholzbredemeier.com
 ::1 brennholzdirekt.com
 ::1 www.brennholzdirekt.com
+::1 brennholzescher.de
+::1 www.brennholzescher.de
 ::1 brennholzgarten.de
 ::1 www.brennholzgarten.de
 ::1 brennholzgigante.de
@@ -133326,6 +133314,8 @@
 ::1 www.brennholzkraft.com
 ::1 brennholzmarkt.com
 ::1 www.brennholzmarkt.com
+::1 brennholzmeister.de
+::1 www.brennholzmeister.de
 ::1 brennholzmichalhoff.com
 ::1 www.brennholzmichalhoff.com
 ::1 brennholzmuscheid.com
@@ -133340,6 +133330,8 @@
 ::1 www.brennholzschneble.de
 ::1 brennholzschommer.de
 ::1 www.brennholzschommer.de
+::1 brennholzshop24.com
+::1 www.brennholzshop24.com
 ::1 brennholzullrich.com
 ::1 www.brennholzullrich.com
 ::1 brennholzvidos.at
@@ -133700,8 +133692,6 @@
 ::1 www.bricksb.com
 ::1 brickswitnessed.com
 ::1 www.brickswitnessed.com
-::1 bricoandpool.shop
-::1 www.bricoandpool.shop
 ::1 bricodeot.fr
 ::1 www.bricodeot.fr
 ::1 bricodepot-service.fr
@@ -134588,8 +134578,6 @@
 ::1 www.brokercargo-group.fr
 ::1 brokercomparatif.com
 ::1 www.brokercomparatif.com
-::1 brokereins.com
-::1 www.brokereins.com
 ::1 brokerforex.eu
 ::1 www.brokerforex.eu
 ::1 brokerjfm.web.app
@@ -134914,8 +134902,6 @@
 ::1 www.brooksoutletsale.de
 ::1 brooksrunning-france.fr
 ::1 www.brooksrunning-france.fr
-::1 brookss.at
-::1 www.brookss.at
 ::1 brooksschuhe.de
 ::1 www.brooksschuhe.de
 ::1 brooksschuheberlin.de
@@ -135020,8 +135006,6 @@
 ::1 www.brotherhoodsoincome.com
 ::1 brotherhoodtackyelevated.com
 ::1 www.brotherhoodtackyelevated.com
-::1 brotherinlawbarbedspend.com
-::1 www.brotherinlawbarbedspend.com
 ::1 brothermessyportfolio.com
 ::1 www.brothermessyportfolio.com
 ::1 brotherprinter.com
@@ -135522,6 +135506,8 @@
 ::1 www.brush44coleman.com
 ::1 brushedtoleratemagically.com
 ::1 www.brushedtoleratemagically.com
+::1 brushshope.com
+::1 www.brushshope.com
 ::1 bruskness.com
 ::1 www.bruskness.com
 ::1 brusoserkhirdopat.gq
@@ -136512,8 +136498,6 @@
 ::1 www.buchluzip.ga
 ::1 buchmessles.ga
 ::1 www.buchmessles.ga
-::1 buchnergmbh.com
-::1 www.buchnergmbh.com
 ::1 buchsfromepsaipe.cf
 ::1 www.buchsfromepsaipe.cf
 ::1 buchshiresubpubbprod.gq
@@ -136752,6 +136736,8 @@
 ::1 www.budgeted.xyz
 ::1 budgetenoughparts.de
 ::1 www.budgetenoughparts.de
+::1 budgethardware.net
+::1 www.budgethardware.net
 ::1 budgetmagic.eu
 ::1 www.budgetmagic.eu
 ::1 budgetmoneypart.buzz
@@ -145560,8 +145546,6 @@
 ::1 www.campusexcelenciauam.es
 ::1 campusexcessively.com
 ::1 www.campusexcessively.com
-::1 campusfahrradegmbh.de
-::1 www.campusfahrradegmbh.de
 ::1 campuslifeline.buzz
 ::1 www.campuslifeline.buzz
 ::1 campussecurity.com
@@ -146752,6 +146736,8 @@
 ::1 www.capitalpluspltd.com
 ::1 capitalregionusa.fr
 ::1 www.capitalregionusa.fr
+::1 capitalreserveltd.com
+::1 www.capitalreserveltd.com
 ::1 capitalretro.buzz
 ::1 www.capitalretro.buzz
 ::1 capitalsail.com
@@ -147614,6 +147600,8 @@
 ::1 www.carhartt-france.fr
 ::1 carhartt-paris.fr
 ::1 www.carhartt-paris.fr
+::1 carhartt-suomi.com
+::1 www.carhartt-suomi.com
 ::1 carhartt-wipfrance.fr
 ::1 www.carhartt-wipfrance.fr
 ::1 carhartt-wips.fr
@@ -152758,6 +152746,8 @@
 ::1 www.cavekacala.cf
 ::1 cavelfamantempga.tk
 ::1 www.cavelfamantempga.tk
+::1 cavella.store
+::1 www.cavella.store
 ::1 cavenevid.cf
 ::1 www.cavenevid.cf
 ::1 cavenralige.tk
@@ -157712,6 +157702,8 @@
 ::1 www.cfdt-iledefrance.fr
 ::1 cfdt-polymont.fr
 ::1 www.cfdt-polymont.fr
+::1 cfdtc.com
+::1 www.cfdtc.com
 ::1 cfdwat.tokyo
 ::1 www.cfdwat.tokyo
 ::1 cfe-eutax.buzz
@@ -157884,6 +157876,8 @@
 ::1 www.cftcgroupeorange.fr
 ::1 cftgkj.bar
 ::1 www.cftgkj.bar
+::1 cftmarteorvers.com
+::1 www.cftmarteorvers.com
 ::1 cftmjr.tokyo
 ::1 www.cftmjr.tokyo
 ::1 cfu47.tokyo
@@ -159756,8 +159750,6 @@
 ::1 www.chatbotsoftware.buzz
 ::1 chateau-versailles.fr
 ::1 www.chateau-versailles.fr
-::1 chateaurecalled.com
-::1 www.chateaurecalled.com
 ::1 chateauversailes.fr
 ::1 www.chateauversailes.fr
 ::1 chateauversalles.fr
@@ -164384,6 +164376,8 @@
 ::1 www.chrissuipsychsucca.ml
 ::1 chrissuppcarddantcir.tk
 ::1 www.chrissuppcarddantcir.tk
+::1 christ-holzundnatur.de
+::1 www.christ-holzundnatur.de
 ::1 christ-tech.fr
 ::1 www.christ-tech.fr
 ::1 christ.show
@@ -164458,6 +164452,8 @@
 ::1 www.christmasonline.shop
 ::1 christmasportraitideas.com
 ::1 www.christmasportraitideas.com
+::1 christmassurprise.shop
+::1 www.christmassurprise.shop
 ::1 christmaswonderlandroma.it
 ::1 www.christmaswonderlandroma.it
 ::1 christopherus-lebensgemeinschaft.de
@@ -167908,8 +167904,6 @@
 ::1 www.cilenabupor.gq
 ::1 cilenhutinar.ml
 ::1 www.cilenhutinar.ml
-::1 cilera.de
-::1 www.cilera.de
 ::1 ciletertestma.gq
 ::1 www.ciletertestma.gq
 ::1 ciletthease.ml
@@ -170618,8 +170612,6 @@
 ::1 www.clairvoyantentrance.com
 ::1 clairvoyantsoftware.buzz
 ::1 www.clairvoyantsoftware.buzz
-::1 clairyskin.com
-::1 www.clairyskin.com
 ::1 claissficationdespersonnesatteintesdedegeneressence.fr
 ::1 www.claissficationdespersonnesatteintesdedegeneressence.fr
 ::1 clalio.xyz
@@ -170950,8 +170942,6 @@
 ::1 www.claroiso.cc
 ::1 clarophinlire.cf
 ::1 www.clarophinlire.cf
-::1 clarosto.com
-::1 www.clarosto.com
 ::1 claroverusbragit.tk
 ::1 www.claroverusbragit.tk
 ::1 clarovinem.tk
@@ -171282,8 +171272,6 @@
 ::1 www.clayiest.com
 ::1 claymok.xyz
 ::1 www.claymok.xyz
-::1 claypolewear.net
-::1 www.claypolewear.net
 ::1 claywish.de
 ::1 www.claywish.de
 ::1 clbci.fr
@@ -171566,6 +171554,10 @@
 ::1 www.clearsruleheavy.biz
 ::1 clearsstatesomeone.biz
 ::1 www.clearsstatesomeone.biz
+::1 clearstream.fashion
+::1 www.clearstream.fashion
+::1 clearstream.xin
+::1 www.clearstream.xin
 ::1 clearstudyscountry.biz
 ::1 www.clearstudyscountry.biz
 ::1 clearualcabeti.gq
@@ -173004,8 +172996,6 @@
 ::1 www.clodisinam.tk
 ::1 clodkes.club
 ::1 www.clodkes.club
-::1 clodsplit.com
-::1 www.clodsplit.com
 ::1 clodtiochathenase.ga
 ::1 www.clodtiochathenase.ga
 ::1 cloe.bytebeacon.com
@@ -173942,8 +173932,6 @@
 ::1 www.clundoorklowreaddcompbe.tk
 ::1 clungeelchord.com
 ::1 www.clungeelchord.com
-::1 clungfellow.com
-::1 www.clungfellow.com
 ::1 clunhpp.bar
 ::1 www.clunhpp.bar
 ::1 clunsarningcardreco.cf
@@ -175230,8 +175218,6 @@
 ::1 www.coaslurroplipestring.tk
 ::1 coasponchaksighphamus.tk
 ::1 www.coasponchaksighphamus.tk
-::1 coastalbloom.xyz
-::1 www.coastalbloom.xyz
 ::1 coastalresin.store
 ::1 www.coastalresin.store
 ::1 coastweightfastidious.com
@@ -179148,8 +179134,6 @@
 ::1 www.complement-lflbc.fr
 ::1 complementaire-sante-solidaire.fr
 ::1 www.complementaire-sante-solidaire.fr
-::1 complementnickel.com
-::1 www.complementnickel.com
 ::1 complemeny.com
 ::1 www.complemeny.com
 ::1 complenlamencahabs.ga
@@ -183616,8 +183600,6 @@
 ::1 www.contain.my.id
 ::1 containanbicog.cf
 ::1 www.containanbicog.cf
-::1 container-sodex.com
-::1 www.container-sodex.com
 ::1 containerbike.de
 ::1 www.containerbike.de
 ::1 containerbikes.de
@@ -186156,8 +186138,6 @@
 ::1 www.correspond.xyz
 ::1 correspondancesante.fr
 ::1 www.correspondancesante.fr
-::1 correspondimpulsive.com
-::1 www.correspondimpulsive.com
 ::1 correspondine.com
 ::1 www.correspondine.com
 ::1 correspondu.com
@@ -191688,8 +191668,6 @@
 ::1 www.criticair.fr
 ::1 critical-alert.info
 ::1 www.critical-alert.info
-::1 criticalaeroplanepleat.com
-::1 www.criticalaeroplanepleat.com
 ::1 criticalhit.net
 ::1 www.criticalhit.net
 ::1 criticalthinking.pro
@@ -191778,6 +191756,8 @@
 ::1 www.critwigzelemovi.tk
 ::1 critymnviroutar.ml
 ::1 www.critymnviroutar.ml
+::1 crivasa.com
+::1 www.crivasa.com
 ::1 crixalgavolsi.gq
 ::1 www.crixalgavolsi.gq
 ::1 crixnalbwikwordpho.tk
@@ -191792,8 +191772,6 @@
 ::1 www.crjbma.tokyo
 ::1 crjossmans.ga
 ::1 www.crjossmans.ga
-::1 crjugate.com
-::1 www.crjugate.com
 ::1 crkgoy.tokyo
 ::1 www.crkgoy.tokyo
 ::1 crkhvbt.tokyo
@@ -192860,6 +192838,8 @@
 ::1 www.crypto-currency-exchanges.trade
 ::1 crypto-institute.com
 ::1 www.crypto-institute.com
+::1 crypto-invest-ai.de
+::1 www.crypto-invest-ai.de
 ::1 crypto-major.com
 ::1 www.crypto-major.com
 ::1 crypto-mercury.xyz
@@ -192890,8 +192870,6 @@
 ::1 www.cryptobosscasino.fr
 ::1 cryptocase.online
 ::1 www.cryptocase.online
-::1 cryptocash24.com
-::1 www.cryptocash24.com
 ::1 cryptocasino-fr.fr
 ::1 www.cryptocasino-fr.fr
 ::1 cryptocasino1.fr
@@ -193044,8 +193022,6 @@
 ::1 www.crystaldiskinfo.fr
 ::1 crystaldiskmark.fr
 ::1 www.crystaldiskmark.fr
-::1 crystalli.de
-::1 www.crystalli.de
 ::1 crystallinks.com
 ::1 www.crystallinks.com
 ::1 crysterolong.cf
@@ -195194,6 +195170,8 @@
 ::1 www.cupp.xyz
 ::1 cupremonscontla.tk
 ::1 www.cupremonscontla.tk
+::1 cups-stanley-cups.de
+::1 www.cups-stanley-cups.de
 ::1 cups-stanley.fr
 ::1 www.cups-stanley.fr
 ::1 cupseitherwidedeal.biz
@@ -197184,6 +197162,8 @@
 ::1 www.cybavefy.cf
 ::1 cyber-engine-tweaks-cyberpunk-menu.github.io
 ::1 www.cyber-engine-tweaks-cyberpunk-menu.github.io
+::1 cyber-haus.de
+::1 www.cyber-haus.de
 ::1 cyber-psn.fr
 ::1 www.cyber-psn.fr
 ::1 cyber-renseignement.fr
@@ -200034,6 +200014,8 @@
 ::1 www.dacimmo.com
 ::1 dacisearlustkur.tk
 ::1 www.dacisearlustkur.tk
+::1 dackeltraum.com
+::1 www.dackeltraum.com
 ::1 dackelwelpen.at
 ::1 www.dackelwelpen.at
 ::1 dacllads.com
@@ -200604,6 +200586,8 @@
 ::1 www.dailyhost.xyz
 ::1 dailyjual.co
 ::1 www.dailyjual.co
+::1 dailylifeyouth.de
+::1 www.dailylifeyouth.de
 ::1 dailymailnews.tk
 ::1 www.dailymailnews.tk
 ::1 dailymakemoney.xyz
@@ -201470,6 +201454,8 @@
 ::1 www.dannerbootsromania.com
 ::1 dannerchaussures.fr
 ::1 www.dannerchaussures.fr
+::1 dannerdeutschland.de
+::1 www.dannerdeutschland.de
 ::1 dannerosterreich.at
 ::1 www.dannerosterreich.at
 ::1 danners.co.at
@@ -202512,8 +202498,6 @@
 ::1 www.dateablingcritre.tk
 ::1 datecontacts-store.com
 ::1 www.datecontacts-store.com
-::1 datedate.today
-::1 www.datedate.today
 ::1 dateddeduct.com
 ::1 www.dateddeduct.com
 ::1 datedecorate.com
@@ -202690,8 +202674,6 @@
 ::1 www.datingwiithmee.net
 ::1 datingwiithyou.com
 ::1 www.datingwiithyou.com
-::1 datingwithmee.net
-::1 www.datingwithmee.net
 ::1 datingwithmie.com
 ::1 www.datingwithmie.com
 ::1 datingx-pro.space
@@ -204700,6 +204682,10 @@
 ::1 www.de-filter.com
 ::1 de-fizzclean.com
 ::1 www.de-fizzclean.com
+::1 de-flex-job.pro
+::1 www.de-flex-job.pro
+::1 de-lumelia.com
+::1 www.de-lumelia.com
 ::1 de-musicshop.com
 ::1 www.de-musicshop.com
 ::1 de-noroki.com
@@ -204734,8 +204720,8 @@
 ::1 www.de.baerskinhoodie.com
 ::1 de.bauhausshop.com
 ::1 www.de.bauhausshop.com
-::1 de.cardionv.com
-::1 www.de.cardionv.com
+::1 de.curalise.com
+::1 www.de.curalise.com
 ::1 de.emmiol.com
 ::1 www.de.emmiol.com
 ::1 de.epicooleronline.store
@@ -205012,8 +204998,6 @@
 ::1 www.dealtroop.xyz
 ::1 dealunique.news
 ::1 www.dealunique.news
-::1 dealviral.de
-::1 www.dealviral.de
 ::1 dealwb.xyz
 ::1 www.dealwb.xyz
 ::1 dealwiththefeels.org
@@ -205128,6 +205112,8 @@
 ::1 www.deaur.xyz
 ::1 deauterasi.ga
 ::1 www.deauterasi.ga
+::1 deautohentzschel.shop
+::1 www.deautohentzschel.shop
 ::1 deautonomos.com
 ::1 www.deautonomos.com
 ::1 deavgc.rest
@@ -206124,8 +206110,6 @@
 ::1 www.defacycgui.tk
 ::1 defahrrad.com
 ::1 www.defahrrad.com
-::1 defahrradkomponenten.com
-::1 www.defahrradkomponenten.com
 ::1 defahrradzubehor.com
 ::1 www.defahrradzubehor.com
 ::1 defalmughhipti.tk
@@ -209258,8 +209242,6 @@
 ::1 www.dergtigvenestcron.cf
 ::1 dergtisttenta.gq
 ::1 www.dergtisttenta.gq
-::1 derhali.shop
-::1 www.derhali.shop
 ::1 derhanenappfootb.tk
 ::1 www.derhanenappfootb.tk
 ::1 derheasecgere.ml
@@ -211494,6 +211476,8 @@
 ::1 www.devopsy.pl
 ::1 devoramale.ga
 ::1 www.devoramale.ga
+::1 devoria.de
+::1 www.devoria.de
 ::1 devoteonese.com
 ::1 www.devoteonese.com
 ::1 devotioncocktailbetraying.com
@@ -212190,8 +212174,6 @@
 ::1 www.dgccvkj.tokyo
 ::1 dgcdhk.bar
 ::1 www.dgcdhk.bar
-::1 dgcex.net
-::1 www.dgcex.net
 ::1 dgchaussures.fr
 ::1 www.dgchaussures.fr
 ::1 dgcht8.cyou
@@ -218118,16 +218100,12 @@
 ::1 www.discorrapp.com
 ::1 discotopdader.tk
 ::1 www.discotopdader.tk
-::1 discounntde.com
-::1 www.discounntde.com
 ::1 discount-audio-equipment.com
 ::1 www.discount-audio-equipment.com
 ::1 discount-autosport.fr
 ::1 www.discount-autosport.fr
 ::1 discount-baustoff.de
 ::1 www.discount-baustoff.de
-::1 discount-cigarettes-store.net
-::1 www.discount-cigarettes-store.net
 ::1 discount-distributors.buzz
 ::1 www.discount-distributors.buzz
 ::1 discount-kobalt.com
@@ -218174,8 +218152,6 @@
 ::1 www.discountrires.com
 ::1 discountsapphire.com
 ::1 www.discountsapphire.com
-::1 discountski.de
-::1 www.discountski.de
 ::1 discountsrc.com
 ::1 www.discountsrc.com
 ::1 discountsshoe.com
@@ -223098,8 +223074,6 @@
 ::1 www.dolenchingguperp.cf
 ::1 dolerancu.tk
 ::1 www.dolerancu.tk
-::1 doleras.com
-::1 www.doleras.com
 ::1 dolesbowertlotpo.ga
 ::1 www.dolesbowertlotpo.ga
 ::1 doletgambsomse.ml
@@ -223376,6 +223350,8 @@
 ::1 www.dometliro.tk
 ::1 domevorifli.ga
 ::1 www.domevorifli.ga
+::1 domfa-bois.com
+::1 www.domfa-bois.com
 ::1 domfda.tokyo
 ::1 www.domfda.tokyo
 ::1 domhsalobullcon.ga
@@ -223410,8 +223386,6 @@
 ::1 www.dominguesequipamentos.com
 ::1 dominicrschofield.online
 ::1 www.dominicrschofield.online
-::1 dominioneastern.com
-::1 www.dominioneastern.com
 ::1 dominionswordecology.com
 ::1 www.dominionswordecology.com
 ::1 dominiosvision.com
@@ -223654,8 +223628,6 @@
 ::1 www.donitibo.ml
 ::1 donius.xyz
 ::1 www.donius.xyz
-::1 donkeyproducts.shop
-::1 www.donkeyproducts.shop
 ::1 donkorelame.ml
 ::1 www.donkorelame.ml
 ::1 donkucofodop.cf
@@ -224204,8 +224176,6 @@
 ::1 www.dormanshop.com
 ::1 dormgoodies.buzz
 ::1 www.dormgoodies.buzz
-::1 dormideo.shop
-::1 www.dormideo.shop
 ::1 dormireintoscana.biz
 ::1 www.dormireintoscana.biz
 ::1 dormorawin.tk
@@ -226326,6 +226296,8 @@
 ::1 www.dragon1a.fr
 ::1 dragonara.xyz
 ::1 www.dragonara.xyz
+::1 dragonballmerch.de
+::1 www.dragonballmerch.de
 ::1 dragonia-app.fr
 ::1 www.dragonia-app.fr
 ::1 dragonia-bonus.fr
@@ -227258,8 +227230,6 @@
 ::1 www.dress-market.com
 ::1 dress-store.fr
 ::1 www.dress-store.fr
-::1 dressedoutrageousrun.com
-::1 www.dressedoutrageousrun.com
 ::1 dresserstil.xyz
 ::1 www.dresserstil.xyz
 ::1 dressfat.com
@@ -227596,6 +227566,8 @@
 ::1 www.driveeliteparts.com
 ::1 drivegnaw.com
 ::1 www.drivegnaw.com
+::1 driveguess.com
+::1 www.driveguess.com
 ::1 drivehurl.xyz
 ::1 www.drivehurl.xyz
 ::1 driveincinemaschuytgraaf.nl
@@ -227714,6 +227686,8 @@
 ::1 www.drmartens-outlet.fr
 ::1 drmartens-soldes.fr
 ::1 www.drmartens-soldes.fr
+::1 drmartensberlin.de
+::1 www.drmartensberlin.de
 ::1 drmartensboots.co.at
 ::1 www.drmartensboots.co.at
 ::1 drmartenschaussures.fr
@@ -232172,8 +232146,6 @@
 ::1 www.dynqkjq.tokyo
 ::1 dynql1.tokyo
 ::1 www.dynql1.tokyo
-::1 dynsrvwer.com
-::1 www.dynsrvwer.com
 ::1 dyntet.xyz
 ::1 www.dyntet.xyz
 ::1 dyo5t2.tokyo
@@ -234560,6 +234532,8 @@
 ::1 www.eadzcw.bar
 ::1 eadzt.pm
 ::1 www.eadzt.pm
+::1 eae-vertrieb.de
+::1 www.eae-vertrieb.de
 ::1 eae06rn.cyou
 ::1 www.eae06rn.cyou
 ::1 eaecy62.cyou
@@ -235708,8 +235682,6 @@
 ::1 www.ebikezubehorkauf.com
 ::1 ebikpoy.work
 ::1 www.ebikpoy.work
-::1 ebiky24.com
-::1 www.ebiky24.com
 ::1 ebinniroth.tk
 ::1 www.ebinniroth.tk
 ::1 ebiramsiri.cf
@@ -237768,6 +237740,8 @@
 ::1 www.edf9rm.cyou
 ::1 edfacture.fr
 ::1 www.edfacture.fr
+::1 edfarm.it
+::1 www.edfarm.it
 ::1 edfcompensation.fr
 ::1 www.edfcompensation.fr
 ::1 edfcontact.fr
@@ -238196,8 +238170,6 @@
 ::1 www.edphiwaljusu.gq
 ::1 edpillen.at
 ::1 www.edpillen.at
-::1 edpillen24.com
-::1 www.edpillen24.com
 ::1 edpills.de
 ::1 www.edpills.de
 ::1 edpilulanetwork.com
@@ -238502,8 +238474,6 @@
 ::1 www.edzoqj.tokyo
 ::1 edzwalorrap.ml
 ::1 www.edzwalorrap.ml
-::1 ee-fahrrad-handel.de
-::1 www.ee-fahrrad-handel.de
 ::1 ee-m0.re
 ::1 www.ee-m0.re
 ::1 ee-m0re.re
@@ -241634,6 +241604,8 @@
 ::1 www.el78j9.cyou
 ::1 el8ltpz.cyou
 ::1 www.el8ltpz.cyou
+::1 ela-clo.com
+::1 www.ela-clo.com
 ::1 ela-dienstleistung.de
 ::1 www.ela-dienstleistung.de
 ::1 elabet-casino.fr
@@ -242304,6 +242276,8 @@
 ::1 www.elektro-fahrradverleih-eifel.de
 ::1 elektro-friedrich.com
 ::1 www.elektro-friedrich.com
+::1 elektro-hettich.de
+::1 www.elektro-hettich.de
 ::1 elektro-meisner.com
 ::1 www.elektro-meisner.com
 ::1 elektro-oase.de
@@ -242334,6 +242308,8 @@
 ::1 www.elektroexpress24.com
 ::1 elektrofahrrad24deshop.com
 ::1 www.elektrofahrrad24deshop.com
+::1 elektrogaming.com
+::1 www.elektrogaming.com
 ::1 elektrogeraterabatt.com
 ::1 www.elektrogeraterabatt.com
 ::1 elektrohandelplus.de
@@ -242498,8 +242474,6 @@
 ::1 www.eletrodepot.fr
 ::1 eletrospark.de
 ::1 www.eletrospark.de
-::1 eletrostartestufas.com
-::1 www.eletrostartestufas.com
 ::1 eletsercornmacbo.tk
 ::1 www.eletsercornmacbo.tk
 ::1 eletterhead.com
@@ -242804,6 +242778,8 @@
 ::1 www.elion.com
 ::1 eliovence.com
 ::1 www.eliovence.com
+::1 elipinks.com
+::1 www.elipinks.com
 ::1 elipklosbelraisi.tk
 ::1 www.elipklosbelraisi.tk
 ::1 elipolyse.de
@@ -242884,8 +242860,6 @@
 ::1 www.elitereaders.com
 ::1 elitesexlocators3.com
 ::1 www.elitesexlocators3.com
-::1 elitesneakers.store
-::1 www.elitesneakers.store
 ::1 elitespin-casino.fr
 ::1 www.elitespin-casino.fr
 ::1 elitespin1.fr
@@ -247146,8 +247120,6 @@
 ::1 www.enloheteperract.tk
 ::1 enlohumtolito.ml
 ::1 www.enlohumtolito.ml
-::1 enloweb.com
-::1 www.enloweb.com
 ::1 enluamiche.gq
 ::1 www.enluamiche.gq
 ::1 enlucmattsohip.tk
@@ -256768,6 +256740,8 @@
 ::1 www.eu-snapchat.fr
 ::1 eu-stussy.fr
 ::1 www.eu-stussy.fr
+::1 eu-venum.shop
+::1 www.eu-venum.shop
 ::1 eu.2bagsvalley.cn
 ::1 www.eu.2bagsvalley.cn
 ::1 eu.bagsvalley.cn
@@ -256878,8 +256852,6 @@
 ::1 www.euekpl.tokyo
 ::1 eueom-ye.org
 ::1 www.eueom-ye.org
-::1 euergutesbrennholz.com
-::1 www.euergutesbrennholz.com
 ::1 euex5.cyou
 ::1 www.euex5.cyou
 ::1 euf9d6.cyou
@@ -257054,8 +257026,6 @@
 ::1 www.eurekaschool.edu.np
 ::1 eurenerhof.de
 ::1 www.eurenerhof.de
-::1 eurenzo.com
-::1 www.eurenzo.com
 ::1 eurgyk.tokyo
 ::1 www.eurgyk.tokyo
 ::1 euribor-intress.ee
@@ -257202,8 +257172,12 @@
 ::1 www.euronets.com
 ::1 euronew.fr
 ::1 www.euronew.fr
+::1 euronics-europa.de
+::1 www.euronics-europa.de
 ::1 euronics-ps5.de.de
 ::1 www.euronics-ps5.de.de
+::1 euronics-sale.de
+::1 www.euronics-sale.de
 ::1 euronicsdeutschlandshop.de
 ::1 www.euronicsdeutschlandshop.de
 ::1 euronicsserviceamazing.de
@@ -257306,6 +257280,8 @@
 ::1 www.europeansmiling.com
 ::1 europeanventureinstitute.eu
 ::1 www.europeanventureinstitute.eu
+::1 europecapitalmarkets.com
+::1 www.europecapitalmarkets.com
 ::1 europeencasino.fr
 ::1 www.europeencasino.fr
 ::1 europefortune-casinos.fr
@@ -257398,8 +257374,6 @@
 ::1 www.euroteleserv.eu
 ::1 euroverdienen.eu
 ::1 www.euroverdienen.eu
-::1 eurowerte.de
-::1 www.eurowerte.de
 ::1 eurshopping.com
 ::1 www.eurshopping.com
 ::1 eursus.it
@@ -257538,8 +257512,6 @@
 ::1 www.euzrxx.shop
 ::1 euzxlk4.cyou
 ::1 www.euzxlk4.cyou
-::1 ev-farm.com
-::1 www.ev-farm.com
 ::1 ev0frdz.tokyo
 ::1 www.ev0frdz.tokyo
 ::1 ev26dm-societegenerale.fr
@@ -257656,6 +257628,8 @@
 ::1 www.evapjparaf.cf
 ::1 evapzamolbi.tk
 ::1 www.evapzamolbi.tk
+::1 evaran.shop
+::1 www.evaran.shop
 ::1 evaridinflarif.cf
 ::1 www.evaridinflarif.cf
 ::1 evarlycongider.gq
@@ -257814,6 +257788,8 @@
 ::1 www.even0c.tokyo
 ::1 evenatuniv.ga
 ::1 www.evenatuniv.ga
+::1 evendora.de
+::1 www.evendora.de
 ::1 evenement-prime.fr
 ::1 www.evenement-prime.fr
 ::1 evenement.com
@@ -257922,6 +257898,8 @@
 ::1 www.evereasuatemen.cf
 ::1 everest-group.eu
 ::1 www.everest-group.eu
+::1 everestbtc.com
+::1 www.everestbtc.com
 ::1 everestrestores.com
 ::1 www.everestrestores.com
 ::1 everestrust.com
@@ -259510,8 +259488,6 @@
 ::1 www.excrewfoxva.tk
 ::1 excricinforsark.cf
 ::1 www.excricinforsark.cf
-::1 excruciationaccident.com
-::1 www.excruciationaccident.com
 ::1 excyhuamas.cf
 ::1 www.excyhuamas.cf
 ::1 excypballlenvi.cf
@@ -259800,6 +259776,8 @@
 ::1 www.exgagtiehexwitchcell.tk
 ::1 exgambling.xyz
 ::1 www.exgambling.xyz
+::1 exgandant.co.uk
+::1 www.exgandant.co.uk
 ::1 exgbtov.bar
 ::1 www.exgbtov.bar
 ::1 exgedecharkick.ga
@@ -260144,8 +260122,6 @@
 ::1 www.exmaforaja.tk
 ::1 exmagabengast.gq
 ::1 www.exmagabengast.gq
-::1 exmainclcknew.com
-::1 www.exmainclcknew.com
 ::1 exmaipinso.ga
 ::1 www.exmaipinso.ga
 ::1 exmalagift.gq
@@ -260578,8 +260554,6 @@
 ::1 www.explizit.dk
 ::1 explodasclksec.com
 ::1 www.explodasclksec.com
-::1 explorads.com
-::1 www.explorads.com
 ::1 exploreannihilationquicker.com
 ::1 www.exploreannihilationquicker.com
 ::1 explorefreeresults.com
@@ -261354,8 +261328,6 @@
 ::1 www.ey2d2e.cyou
 ::1 ey3yir.xyz
 ::1 www.ey3yir.xyz
-::1 ey43.com
-::1 www.ey43.com
 ::1 ey4uov.cyou
 ::1 www.ey4uov.cyou
 ::1 ey5w3.rest
@@ -264414,6 +264386,8 @@
 ::1 www.fahrrad-zukunft.de
 ::1 fahrradangebotede.com
 ::1 www.fahrradangebotede.com
+::1 fahrradanhaenger-freilauf.de
+::1 www.fahrradanhaenger-freilauf.de
 ::1 fahrradbulls.com
 ::1 www.fahrradbulls.com
 ::1 fahrradco.de
@@ -264486,6 +264460,8 @@
 ::1 www.fahrradradde.com
 ::1 fahrradrottstock.de
 ::1 www.fahrradrottstock.de
+::1 fahrradspab.com
+::1 www.fahrradspab.com
 ::1 fahrradsparpark.de
 ::1 www.fahrradsparpark.de
 ::1 fahrradsparwelt24.de
@@ -264538,8 +264514,6 @@
 ::1 www.fahrzeugpflegeshop.com
 ::1 fahrzeugpflegetreskow.de
 ::1 www.fahrzeugpflegetreskow.de
-::1 fahrzeugscanner24.de
-::1 www.fahrzeugscanner24.de
 ::1 fahrzeugteile-shop.com
 ::1 www.fahrzeugteile-shop.com
 ::1 fahthb.tokyo
@@ -266238,6 +266212,8 @@
 ::1 www.fashionstylez.nl
 ::1 fashiontag.eu
 ::1 www.fashiontag.eu
+::1 fashiontoto.com
+::1 www.fashiontoto.com
 ::1 fashionvila.com
 ::1 www.fashionvila.com
 ::1 fashionwork.shop
@@ -266406,8 +266382,6 @@
 ::1 www.fastdogtmaleafe.tk
 ::1 fastdomain-uoemathhvq.workers.dev
 ::1 www.fastdomain-uoemathhvq.workers.dev
-::1 fasteastbv.com
-::1 www.fasteastbv.com
 ::1 fasted.xyz
 ::1 www.fasted.xyz
 ::1 fastene52biplane.icu
@@ -266462,8 +266436,6 @@
 ::1 www.fasthookup-here1.com
 ::1 fasthoshongwhamdo.tk
 ::1 www.fasthoshongwhamdo.tk
-::1 fastidiousenvoy.com
-::1 www.fastidiousenvoy.com
 ::1 fastigeriptv.live
 ::1 www.fastigeriptv.live
 ::1 fastiosaheck.tk
@@ -267158,8 +267130,6 @@
 ::1 www.fazucongniker.tk
 ::1 fb-foulards.it
 ::1 www.fb-foulards.it
-::1 fb-one.com
-::1 www.fb-one.com
 ::1 fb0000.com
 ::1 www.fb0000.com
 ::1 fb00000.com
@@ -268684,8 +268654,6 @@
 ::1 www.feelfitinbalance.nl
 ::1 feelgeweser.tk
 ::1 www.feelgeweser.tk
-::1 feelgrounds.shop
-::1 www.feelgrounds.shop
 ::1 feelgroundsshoes.fr
 ::1 www.feelgroundsshoes.fr
 ::1 feelingbet-casino.fr
@@ -269058,6 +269026,8 @@
 ::1 www.felgenonkel.de
 ::1 felgenprada.de
 ::1 www.felgenprada.de
+::1 felgenwelt.com
+::1 www.felgenwelt.com
 ::1 felhedogsfreethketcei.ga
 ::1 www.felhedogsfreethketcei.ga
 ::1 felhysubtbanda.tk
@@ -270338,8 +270308,6 @@
 ::1 www.fewo-fiedler.de
 ::1 fewo-kuss.de
 ::1 www.fewo-kuss.de
-::1 fewolio.de
-::1 www.fewolio.de
 ::1 fewpartsseemsscientist.biz
 ::1 www.fewpartsseemsscientist.biz
 ::1 fewpefectlanlo.ml
@@ -273938,6 +273906,8 @@
 ::1 www.firssuthelearnre.cf
 ::1 first-investcapital.com
 ::1 www.first-investcapital.com
+::1 first-matching.com
+::1 www.first-matching.com
 ::1 first-penetration.com
 ::1 www.first-penetration.com
 ::1 first-secret-affair2.com
@@ -278180,6 +278150,8 @@
 ::1 www.fndrwb.rest
 ::1 fndtyql.tokyo
 ::1 www.fndtyql.tokyo
+::1 fndueico.com
+::1 www.fndueico.com
 ::1 fne2cz.shop
 ::1 www.fne2cz.shop
 ::1 fnejeh.tokyo
@@ -278788,8 +278760,6 @@
 ::1 www.folcainepdiebommi.tk
 ::1 folchaekinnaterp.tk
 ::1 www.folchaekinnaterp.tk
-::1 folco.shop
-::1 www.folco.shop
 ::1 foldcase.co
 ::1 www.foldcase.co
 ::1 foldedabstinenceconsole.com
@@ -278948,8 +278918,6 @@
 ::1 www.followingflirtatious.com
 ::1 followingpicklehysterical.com
 ::1 www.followingpicklehysterical.com
-::1 followintg.com
-::1 www.followintg.com
 ::1 follownaturalmoneys.biz
 ::1 www.follownaturalmoneys.biz
 ::1 followquestionparticulars.biz
@@ -279384,6 +279352,8 @@
 ::1 www.foodmtving.ml
 ::1 foodnrecreation.com
 ::1 www.foodnrecreation.com
+::1 foodonline.site
+::1 www.foodonline.site
 ::1 foodpics.my.id
 ::1 www.foodpics.my.id
 ::1 foodsciposrepe.ml
@@ -281100,8 +281070,6 @@
 ::1 www.fortunaiteliastore.com
 ::1 fortunatecy.com
 ::1 www.fortunatecy.com
-::1 fortunatelychastise.com
-::1 www.fortunatelychastise.com
 ::1 fortunatelyruefulscatter.com
 ::1 www.fortunatelyruefulscatter.com
 ::1 fortunatelyt.com
@@ -281728,8 +281696,6 @@
 ::1 www.fourtuneo.fr
 ::1 fourux.xyz
 ::1 www.fourux.xyz
-::1 fourwhenstatistics.com
-::1 www.fourwhenstatistics.com
 ::1 foutoa.xyz
 ::1 www.foutoa.xyz
 ::1 foutuneo.fr
@@ -285370,6 +285336,8 @@
 ::1 www.freesinsurolet.cf
 ::1 freesmaiculpfranonxua.ga
 ::1 www.freesmaiculpfranonxua.ga
+::1 freesmarttools.com
+::1 www.freesmarttools.com
 ::1 freesmawillprac.gq
 ::1 www.freesmawillprac.gq
 ::1 freesocticmo.tk
@@ -287566,8 +287534,6 @@
 ::1 www.ftypno.tokyo
 ::1 ftz237.cyou
 ::1 www.ftz237.cyou
-::1 ftzs.net
-::1 www.ftzs.net
 ::1 ftzs20.cyou
 ::1 www.ftzs20.cyou
 ::1 ftzw70.cyou
@@ -288052,8 +288018,6 @@
 ::1 www.fuhrerschein-kaufenonline.com
 ::1 fuhrmann-hochzeitsfotografie.de
 ::1 www.fuhrmann-hochzeitsfotografie.de
-::1 fuhrmann.store
-::1 www.fuhrmann.store
 ::1 fuhujacmicu.ga
 ::1 www.fuhujacmicu.ga
 ::1 fui3jq.cyou
@@ -288816,8 +288780,6 @@
 ::1 www.funnyoffer.com
 ::1 funnyteens.pm
 ::1 www.funnyteens.pm
-::1 funnyvot.com
-::1 www.funnyvot.com
 ::1 funnywifinames.club
 ::1 www.funnywifinames.club
 ::1 funoct.eu
@@ -293054,8 +293016,6 @@
 ::1 www.gai75q.shop
 ::1 gaiabeautyproducts.com
 ::1 www.gaiabeautyproducts.com
-::1 gaiaboutique.de
-::1 www.gaiaboutique.de
 ::1 gaiaenergia.es
 ::1 www.gaiaenergia.es
 ::1 gaiaherbs.fr
@@ -293342,6 +293302,8 @@
 ::1 www.galaxy-update-check.com
 ::1 galaxyfox.io
 ::1 www.galaxyfox.io
+::1 galaxygroup.io
+::1 www.galaxygroup.io
 ::1 galaxylicht.shop
 ::1 www.galaxylicht.shop
 ::1 galaxys-8.fr
@@ -293400,8 +293362,6 @@
 ::1 www.galerialimes.pl
 ::1 galerie-kaufhaus.de
 ::1 www.galerie-kaufhaus.de
-::1 galerie-modewelt.shop
-::1 www.galerie-modewelt.shop
 ::1 galerie.my.id
 ::1 www.galerie.my.id
 ::1 galeriemodehaus.com
@@ -293758,6 +293718,8 @@
 ::1 www.gamecentershop.de
 ::1 gamechampions.com
 ::1 www.gamechampions.com
+::1 gamechangergift.net
+::1 www.gamechangergift.net
 ::1 gamecityz.com
 ::1 www.gamecityz.com
 ::1 gamecocksfootballjersey.club
@@ -293778,6 +293740,8 @@
 ::1 www.gamefabrique.com
 ::1 gamefabrique.ru
 ::1 www.gamefabrique.ru
+::1 gamefarmgmbh.com
+::1 www.gamefarmgmbh.com
 ::1 gamegramcasino.fr
 ::1 www.gamegramcasino.fr
 ::1 gamejolt.fr
@@ -293794,6 +293758,8 @@
 ::1 www.gamelion.xyz
 ::1 gameloversonline.xyz
 ::1 www.gameloversonline.xyz
+::1 gamemarkt.store
+::1 www.gamemarkt.store
 ::1 gamemaster.pw
 ::1 www.gamemaster.pw
 ::1 gamenationparks.com
@@ -293882,6 +293848,8 @@
 ::1 www.gamespoolsgel.com
 ::1 gamestools.info
 ::1 www.gamestools.info
+::1 gamestopde.com
+::1 www.gamestopde.com
 ::1 gamestopland.com
 ::1 www.gamestopland.com
 ::1 gamestwist.fr
@@ -294230,8 +294198,6 @@
 ::1 www.gannicontiso.tk
 ::1 gannifr.fr
 ::1 www.gannifr.fr
-::1 gannioutlet.de
-::1 www.gannioutlet.de
 ::1 gannioutlet.fr
 ::1 www.gannioutlet.fr
 ::1 ganobcocihyd.ga
@@ -294462,8 +294428,6 @@
 ::1 www.garantie-prime.fr
 ::1 garantiecabaia.fr
 ::1 www.garantiecabaia.fr
-::1 garantiertefinanzierung.com
-::1 www.garantiertefinanzierung.com
 ::1 garantiparamatik.buzz
 ::1 www.garantiparamatik.buzz
 ::1 garantskaffferiet.ga
@@ -294886,6 +294850,8 @@
 ::1 www.gartenbedarf-online.com
 ::1 gartenbiliger.com
 ::1 www.gartenbiliger.com
+::1 gartenbillig.com
+::1 www.gartenbillig.com
 ::1 gartenbnke.com
 ::1 www.gartenbnke.com
 ::1 gartenbotde.com
@@ -294922,10 +294888,10 @@
 ::1 www.gartenfurdu.de
 ::1 gartengenussde.com
 ::1 www.gartengenussde.com
+::1 gartengeraete-shop.de
+::1 www.gartengeraete-shop.de
 ::1 gartengluecklich.de
 ::1 www.gartengluecklich.de
-::1 gartengreifer.de
-::1 www.gartengreifer.de
 ::1 gartenguenter.de
 ::1 www.gartenguenter.de
 ::1 gartenhandel-poltermann.de
@@ -295028,8 +294994,6 @@
 ::1 www.gartentherapeuten-nord.de
 ::1 gartentraktor.com
 ::1 www.gartentraktor.com
-::1 gartentrend.shop
-::1 www.gartentrend.shop
 ::1 gartenundanhaenger.de
 ::1 www.gartenundanhaenger.de
 ::1 gartenundwerkzeug.com
@@ -295244,6 +295208,8 @@
 ::1 www.gastheadispdozice.tk
 ::1 gasthelleftmisbi.gq
 ::1 www.gasthelleftmisbi.gq
+::1 gastigarenergie.com
+::1 www.gastigarenergie.com
 ::1 gastkeroglessrenphai.tk
 ::1 www.gastkeroglessrenphai.tk
 ::1 gastleadmyocricdowndi.cf
@@ -298092,8 +298058,6 @@
 ::1 www.generic4all-global.com
 ::1 generic4allglobal.com
 ::1 www.generic4allglobal.com
-::1 genericdianawitty.com
-::1 www.genericdianawitty.com
 ::1 genericdoctor.com
 ::1 www.genericdoctor.com
 ::1 genericeupills.com
@@ -298838,8 +298802,6 @@
 ::1 www.geotranavmutanhi.tk
 ::1 geotravtilcoo.ga
 ::1 www.geotravtilcoo.ga
-::1 geotrkclknow.com
-::1 www.geotrkclknow.com
 ::1 geotuikrepande.ga
 ::1 www.geotuikrepande.ga
 ::1 geouclothgenpalundbo.cf
@@ -300630,8 +300592,6 @@
 ::1 www.gettitansi.ml
 ::1 gettknobepanstig.gq
 ::1 www.gettknobepanstig.gq
-::1 gettopple.com
-::1 www.gettopple.com
 ::1 gettymages.fr
 ::1 www.gettymages.fr
 ::1 getuvofelne.ml
@@ -301946,6 +301906,8 @@
 ::1 www.ghr-hisam.dk
 ::1 ghrgnv.rest
 ::1 www.ghrgnv.rest
+::1 ghrh.shop
+::1 www.ghrh.shop
 ::1 ghsecc.bar
 ::1 www.ghsecc.bar
 ::1 ghsj1i.cyou
@@ -303780,6 +303742,8 @@
 ::1 www.gisirese.tk
 ::1 gisjatourmitiho.gq
 ::1 www.gisjatourmitiho.gq
+::1 gisler-treuhand.de
+::1 www.gisler-treuhand.de
 ::1 gismaicritalom.gq
 ::1 www.gismaicritalom.gq
 ::1 gismeteo.re
@@ -305142,8 +305106,6 @@
 ::1 www.glassesify.com
 ::1 glassespartssupplyhub.com
 ::1 www.glassespartssupplyhub.com
-::1 glassesstoreshop.com
-::1 www.glassesstoreshop.com
 ::1 glassfencin.xyz
 ::1 www.glassfencin.xyz
 ::1 glassfibre.cn
@@ -305328,8 +305290,6 @@
 ::1 www.glencorturuludes.tk
 ::1 glenethitoutso.tk
 ::1 www.glenethitoutso.tk
-::1 glenfordcap.com
-::1 www.glenfordcap.com
 ::1 glengenterbcreekous.tk
 ::1 www.glengenterbcreekous.tk
 ::1 glenigternepuscont.tk
@@ -306198,8 +306158,6 @@
 ::1 www.glowomporbedsga.tk
 ::1 glowotmopolewa.ga
 ::1 www.glowotmopolewa.ga
-::1 glowpawshop.store
-::1 www.glowpawshop.store
 ::1 glowsmykker.dk
 ::1 www.glowsmykker.dk
 ::1 glowterslacadetec.gq
@@ -307382,8 +307340,6 @@
 ::1 www.go-flix.fr
 ::1 go.dealslandz.com
 ::1 www.go.dealslandz.com
-::1 go.kryptofokus.co
-::1 www.go.kryptofokus.co
 ::1 go0ewk.cyou
 ::1 www.go0ewk.cyou
 ::1 go0ogle.fr
@@ -307404,8 +307360,6 @@
 ::1 www.go2fft.shop
 ::1 go2ifd.cyou
 ::1 www.go2ifd.cyou
-::1 go2linkfast.com
-::1 www.go2linkfast.com
 ::1 go2v7q.shop
 ::1 www.go2v7q.shop
 ::1 go33yb.cyou
@@ -307978,6 +307932,8 @@
 ::1 www.gogame.ir
 ::1 gogeniggfinpaner.tk
 ::1 www.gogeniggfinpaner.tk
+::1 gogetrxonline.com
+::1 www.gogetrxonline.com
 ::1 gogicha.xyz
 ::1 www.gogicha.xyz
 ::1 gogihinolen.gq
@@ -309168,6 +309124,8 @@
 ::1 www.gomell-24.de
 ::1 gomembrerafi.cf
 ::1 www.gomembrerafi.cf
+::1 gometim.com
+::1 www.gometim.com
 ::1 gomez.de
 ::1 www.gomez.de
 ::1 gomgarowaboncoff.tk
@@ -309364,6 +309322,8 @@
 ::1 www.good-vibration-ink.de
 ::1 good-whiskey.com
 ::1 www.good-whiskey.com
+::1 good.freedvds.xyz
+::1 www.good.freedvds.xyz
 ::1 goodapp2u.xyz
 ::1 www.goodapp2u.xyz
 ::1 goodbrushshop.com
@@ -312704,8 +312664,6 @@
 ::1 www.grapgemsglycatprobde.tk
 ::1 graphacarinadsa.cf
 ::1 www.graphacarinadsa.cf
-::1 graphad.xyz
-::1 www.graphad.xyz
 ::1 graphadulis.tk
 ::1 www.graphadulis.tk
 ::1 graphafodcumo.ml
@@ -313170,8 +313128,6 @@
 ::1 www.graviti.com
 ::1 graviti.com
 ::1 www.graviti.com
-::1 gravitonprofit.com
-::1 www.gravitonprofit.com
 ::1 gravity-market.com
 ::1 www.gravity-market.com
 ::1 gravity38.ru
@@ -314326,6 +314282,8 @@
 ::1 www.grillo.xyz
 ::1 grillportsreplacement.shop
 ::1 www.grillportsreplacement.shop
+::1 grillprofishop.com
+::1 www.grillprofishop.com
 ::1 grillsandgreens.com
 ::1 www.grillsandgreens.com
 ::1 grillscloud.com
@@ -314992,6 +314950,8 @@
 ::1 www.group-sodexo.fr
 ::1 group-vinci-construction.fr
 ::1 www.group-vinci-construction.fr
+::1 group.ap-real.com
+::1 www.group.ap-real.com
 ::1 group75.com
 ::1 www.group75.com
 ::1 groupaa.fr
@@ -322176,6 +322136,8 @@
 ::1 www.hafchibelaco.tk
 ::1 hafdzv.shop
 ::1 www.hafdzv.shop
+::1 hafenchor-essen.de
+::1 www.hafenchor-essen.de
 ::1 hafeytech.info
 ::1 www.hafeytech.info
 ::1 hafgatosno.ml
@@ -326406,8 +326368,6 @@
 ::1 www.happenmoneycontains.biz
 ::1 happensmachineme.biz
 ::1 www.happensmachineme.biz
-::1 happesmoke.shop
-::1 www.happesmoke.shop
 ::1 happhosiri.ga
 ::1 www.happhosiri.ga
 ::1 happigame.ru
@@ -327446,6 +327406,8 @@
 ::1 www.hashoj-net.dk
 ::1 hashoohanmening.tk
 ::1 www.hashoohanmening.tk
+::1 hashx-capital.com
+::1 www.hashx-capital.com
 ::1 hasibestsinkhar.tk
 ::1 www.hasibestsinkhar.tk
 ::1 hasichardurea.cf
@@ -327900,14 +327862,14 @@
 ::1 www.hausgerat.com
 ::1 hausgerateshop.com
 ::1 www.hausgerateshop.com
-::1 haushalt-de.com
-::1 www.haushalt-de.com
 ::1 haushalt-jansen.net
 ::1 www.haushalt-jansen.net
 ::1 haushalt-plan.com
 ::1 www.haushalt-plan.com
 ::1 haushalt-store.com
 ::1 www.haushalt-store.com
+::1 haushaltdeluxe.com
+::1 www.haushaltdeluxe.com
 ::1 haushaltgeschirr.com
 ::1 www.haushaltgeschirr.com
 ::1 haushaltland.de
@@ -327926,8 +327888,6 @@
 ::1 www.haushaltsgeratemarkt.com
 ::1 haushaltsheld.com
 ::1 www.haushaltsheld.com
-::1 haushaltskoenig.de
-::1 www.haushaltskoenig.de
 ::1 haushaltsreich.de
 ::1 www.haushaltsreich.de
 ::1 haushaltsreinigo.shop
@@ -328100,8 +328060,6 @@
 ::1 www.haviequipaferramentas.com
 ::1 haviltyoucen.ga
 ::1 www.haviltyoucen.ga
-::1 havingunderwear.com
-::1 www.havingunderwear.com
 ::1 havitusiso.gq
 ::1 www.havitusiso.gq
 ::1 haviwilantcont.ml
@@ -332002,8 +331960,6 @@
 ::1 www.healthusias.com
 ::1 healthvault.xyz
 ::1 www.healthvault.xyz
-::1 healthvot.com
-::1 www.healthvot.com
 ::1 healthway.xyz
 ::1 www.healthway.xyz
 ::1 healthwealthguide.net
@@ -332552,6 +332508,8 @@
 ::1 www.hedensted-betonvarefabrik.dk
 ::1 hedepamdogtprop.tk
 ::1 www.hedepamdogtprop.tk
+::1 hederich-co.de
+::1 www.hederich-co.de
 ::1 hederiform.com
 ::1 www.hederiform.com
 ::1 hederthagyp.tk
@@ -332732,8 +332690,6 @@
 ::1 www.heidertivites.tk
 ::1 heidetirimalcei.tk
 ::1 www.heidetirimalcei.tk
-::1 heidi-mode.de
-::1 www.heidi-mode.de
 ::1 heididur.tk
 ::1 www.heididur.tk
 ::1 heidingskinelecog.ml
@@ -332878,6 +332834,8 @@
 ::1 www.heimprofis.de
 ::1 heimspeichern.com
 ::1 www.heimspeichern.com
+::1 heimvibe.com
+::1 www.heimvibe.com
 ::1 heimvoll.de
 ::1 www.heimvoll.de
 ::1 heimwerkende.de
@@ -332958,8 +332916,6 @@
 ::1 www.heisch.com
 ::1 heisehaus.com
 ::1 www.heisehaus.com
-::1 heisen-handels.de
-::1 www.heisen-handels.de
 ::1 heisenberg24.com
 ::1 www.heisenberg24.com
 ::1 heisenpacydu.ga
@@ -333092,8 +333048,6 @@
 ::1 www.heiziva.de
 ::1 heizix.de
 ::1 www.heizix.de
-::1 heizjet.de
-::1 www.heizjet.de
 ::1 heizkauf.de
 ::1 www.heizkauf.de
 ::1 heizkessel-sale.com
@@ -333126,14 +333080,14 @@
 ::1 www.heizoel-easy.com
 ::1 heizoel-experten.de
 ::1 www.heizoel-experten.de
-::1 heizoel-freunde.de
-::1 www.heizoel-freunde.de
 ::1 heizoel-fuchs24.de
 ::1 www.heizoel-fuchs24.de
 ::1 heizoel-genial.com
 ::1 www.heizoel-genial.com
 ::1 heizoel-held.de
 ::1 www.heizoel-held.de
+::1 heizoel-jetzt.de
+::1 www.heizoel-jetzt.de
 ::1 heizoel-lieferung.com
 ::1 www.heizoel-lieferung.com
 ::1 heizoel-tankstelle.de
@@ -333142,10 +333096,10 @@
 ::1 www.heizoel24-aktuell.com
 ::1 heizoel24-preise.com
 ::1 www.heizoel24-preise.com
-::1 heizoel24h.de
-::1 www.heizoel24h.de
 ::1 heizoelbp.de
 ::1 www.heizoelbp.de
+::1 heizoeldeal.de
+::1 www.heizoeldeal.de
 ::1 heizoelhanse.com
 ::1 www.heizoelhanse.com
 ::1 heizoeljetzt.de
@@ -333200,8 +333154,6 @@
 ::1 www.heizsy.de
 ::1 heiztechnik-kundendienst.at
 ::1 www.heiztechnik-kundendienst.at
-::1 heiztechnik-shop.com
-::1 www.heiztechnik-shop.com
 ::1 heiztop.de
 ::1 www.heiztop.de
 ::1 heizung-am-meer.de
@@ -336820,6 +336772,8 @@
 ::1 www.hildalm.online
 ::1 hildas-waren.de
 ::1 www.hildas-waren.de
+::1 hildathelabel.co.uk
+::1 www.hildathelabel.co.uk
 ::1 hilde-taschen.de
 ::1 www.hilde-taschen.de
 ::1 hildebrandt-bekleidung.de
@@ -339512,8 +339466,6 @@
 ::1 www.hochspegrinudcessdi.tk
 ::1 hochsrerutomangu.tk
 ::1 www.hochsrerutomangu.tk
-::1 hochstift-garten.de
-::1 www.hochstift-garten.de
 ::1 hochsurphillismtact.cf
 ::1 www.hochsurphillismtact.cf
 ::1 hochtief.ie
@@ -340588,6 +340540,8 @@
 ::1 www.homeideaquestion.bar
 ::1 homeinformation.biz
 ::1 www.homeinformation.biz
+::1 homeinlay.com
+::1 www.homeinlay.com
 ::1 homeinturkey.dk
 ::1 www.homeinturkey.dk
 ::1 homeinvasion.de
@@ -340618,8 +340572,6 @@
 ::1 www.homelyist.com
 ::1 homelynyc.com
 ::1 www.homelynyc.com
-::1 homelysale.com
-::1 www.homelysale.com
 ::1 homemachinegirl.biz
 ::1 www.homemachinegirl.biz
 ::1 homemail.xyz
@@ -340718,8 +340670,6 @@
 ::1 www.homeroomsmiledeep.biz
 ::1 homeroomswordlocals.bar
 ::1 www.homeroomswordlocals.bar
-::1 homersport.de
-::1 www.homersport.de
 ::1 homes-condos-nj-real-estate-agent.buzz
 ::1 www.homes-condos-nj-real-estate-agent.buzz
 ::1 homesafetydirect.buzz
@@ -340936,6 +340886,8 @@
 ::1 www.hondrox.com
 ::1 hondrox.fr
 ::1 www.hondrox.fr
+::1 honebach-treuhand.de
+::1 www.honebach-treuhand.de
 ::1 honedolsavi.tk
 ::1 www.honedolsavi.tk
 ::1 honefoseso.tk
@@ -341136,8 +341088,6 @@
 ::1 www.hookupmatchonline.com
 ::1 hookuponline.nyc
 ::1 www.hookuponline.nyc
-::1 hooligapps.com
-::1 www.hooligapps.com
 ::1 hoolighkilisanf.tk
 ::1 www.hoolighkilisanf.tk
 ::1 hoolister.fr
@@ -341296,8 +341246,6 @@
 ::1 www.horabhoman.ga
 ::1 horace.xyz
 ::1 www.horace.xyz
-::1 horacereciprocalvaccination.com
-::1 www.horacereciprocalvaccination.com
 ::1 horanmecheckwest.tk
 ::1 www.horanmecheckwest.tk
 ::1 horbach-legal.de
@@ -341330,8 +341278,6 @@
 ::1 www.horeceviqumub.buzz
 ::1 horefila.tk
 ::1 www.horefila.tk
-::1 horencia.com
-::1 www.horencia.com
 ::1 horeploasu.gq
 ::1 www.horeploasu.gq
 ::1 horerechamking.ga
@@ -341446,8 +341392,6 @@
 ::1 www.hornsurriconaves.ml
 ::1 hornsyldsmede-maskinvaerksted.dk
 ::1 www.hornsyldsmede-maskinvaerksted.dk
-::1 horntools.shop
-::1 www.horntools.shop
 ::1 hornunterricht-bremen.de
 ::1 www.hornunterricht-bremen.de
 ::1 hornwald.de
@@ -342518,8 +342462,6 @@
 ::1 www.hotlink.xyz
 ::1 hotlinklereni.cf
 ::1 www.hotlinklereni.cf
-::1 hotllove.net
-::1 www.hotllove.net
 ::1 hotloot-casino.fr
 ::1 www.hotloot-casino.fr
 ::1 hotlootcasino.fr
@@ -342862,14 +342804,14 @@
 ::1 www.houseof73frazier.press
 ::1 houseofbuys.de
 ::1 www.houseofbuys.de
+::1 houseofcbdeutschland.de
+::1 www.houseofcbdeutschland.de
 ::1 houseofho.com
 ::1 www.houseofho.com
 ::1 houseofjacks.dk
 ::1 www.houseofjacks.dk
 ::1 houseofkids.fr
 ::1 www.houseofkids.fr
-::1 houseofnordberg.com
-::1 www.houseofnordberg.com
 ::1 houseofscotlando.shop
 ::1 www.houseofscotlando.shop
 ::1 houseokguessseeks.de
@@ -345244,8 +345186,6 @@
 ::1 www.huevicamictown.gq
 ::1 huevoprint.it
 ::1 www.huevoprint.it
-::1 huewi.xyz
-::1 www.huewi.xyz
 ::1 huf2a.cyou
 ::1 www.huf2a.cyou
 ::1 hufeisen-werkstatt.de
@@ -350860,8 +350800,6 @@
 ::1 www.icanw.cn
 ::1 icapital.xyz
 ::1 www.icapital.xyz
-::1 icarbuddy.com
-::1 www.icarbuddy.com
 ::1 icarodarmasound.tk
 ::1 www.icarodarmasound.tk
 ::1 icarorstinal.gq
@@ -351232,6 +351170,8 @@
 ::1 www.ichesele.ga
 ::1 icheudulistverma.ga
 ::1 www.icheudulistverma.ga
+::1 ichingliu.com
+::1 www.ichingliu.com
 ::1 ichirin-juku.com
 ::1 www.ichirin-juku.com
 ::1 ichisushi.fr
@@ -351888,8 +351828,6 @@
 ::1 www.id-ameli.fr
 ::1 id-appestore.fr
 ::1 www.id-appestore.fr
-::1 id-austria.at-bmf-gv-uberprufung.com
-::1 www.id-austria.at-bmf-gv-uberprufung.com
 ::1 id-bnpparibas.fr
 ::1 www.id-bnpparibas.fr
 ::1 id-bon-coin.fr
@@ -353314,6 +353252,8 @@
 ::1 www.ifasak.tokyo
 ::1 ifasfj.tokyo
 ::1 www.ifasfj.tokyo
+::1 ifashionwear.com
+::1 www.ifashionwear.com
 ::1 ifatirehacek.tk
 ::1 www.ifatirehacek.tk
 ::1 ifawcheappu.ml
@@ -356120,8 +356060,6 @@
 ::1 www.ilmio.store
 ::1 ilmk9i.cyou
 ::1 www.ilmk9i.cyou
-::1 ilmotor.shop
-::1 www.ilmotor.shop
 ::1 ilmp0057.tokyo
 ::1 www.ilmp0057.tokyo
 ::1 ilmugtentticnacc.tk
@@ -356620,6 +356558,8 @@
 ::1 www.imalaganer.ga
 ::1 imaldultikab.ml
 ::1 www.imaldultikab.ml
+::1 imalent.net
+::1 www.imalent.net
 ::1 imalindasap.gq
 ::1 www.imalindasap.gq
 ::1 imalinlan.ga
@@ -357376,8 +357316,6 @@
 ::1 www.immediate-coraldex.com
 ::1 immediate-dash.de
 ::1 www.immediate-dash.de
-::1 immediate-direct.com
-::1 www.immediate-direct.com
 ::1 immediate-edge.co
 ::1 www.immediate-edge.co
 ::1 immediate-edge2.com
@@ -357426,16 +357364,12 @@
 ::1 www.immediategranimator.com
 ::1 immediategranimator.io
 ::1 www.immediategranimator.io
-::1 immediategranimator.org
-::1 www.immediategranimator.org
 ::1 immediatelybrutal.com
 ::1 www.immediatelybrutal.com
 ::1 immediatelycobwebabominable.com
 ::1 www.immediatelycobwebabominable.com
 ::1 immediatemomentum.de
 ::1 www.immediatemomentum.de
-::1 immediatemomentum.info
-::1 www.immediatemomentum.info
 ::1 immediateneon.com
 ::1 www.immediateneon.com
 ::1 immediateproair.com
@@ -357684,6 +357618,8 @@
 ::1 www.imp3qnf.tokyo
 ::1 impachetatcustil.ro
 ::1 www.impachetatcustil.ro
+::1 impact-am.gestion-espace.com
+::1 www.impact-am.gestion-espace.com
 ::1 impactagency.xyz
 ::1 www.impactagency.xyz
 ::1 impactbeginissue.buzz
@@ -361490,6 +361426,8 @@
 ::1 www.info-vitale.fr
 ::1 info-votre-colis.fr
 ::1 www.info-votre-colis.fr
+::1 info.kompressify.com
+::1 www.info.kompressify.com
 ::1 infoactivation.fr
 ::1 www.infoactivation.fr
 ::1 infoactivations.fr
@@ -363936,6 +363874,8 @@
 ::1 www.innupubudab.tk
 ::1 innutdiri.tk
 ::1 www.innutdiri.tk
+::1 innvester.com
+::1 www.innvester.com
 ::1 innviirtler-oronio.shop
 ::1 www.innviirtler-oronio.shop
 ::1 innxm.com
@@ -366698,6 +366638,8 @@
 ::1 www.investmentfastamount.biz
 ::1 investmentopportunitiesinamerica.buzz
 ::1 www.investmentopportunitiesinamerica.buzz
+::1 investmentpeak1.com
+::1 www.investmentpeak1.com
 ::1 investmentscommercial.biz
 ::1 www.investmentscommercial.biz
 ::1 investmentsfeweye.biz
@@ -368540,8 +368482,6 @@
 ::1 www.ironloof-supply.shop
 ::1 ironmonster.ru
 ::1 www.ironmonster.ru
-::1 ironmoxx.shop
-::1 www.ironmoxx.shop
 ::1 ironnexhohua.cf
 ::1 www.ironnexhohua.cf
 ::1 ironpro-officiel.fr
@@ -368664,8 +368604,6 @@
 ::1 www.irrinberotfi.gq
 ::1 irrispatu.tk
 ::1 www.irrispatu.tk
-::1 irritablecrowd.com
-::1 www.irritablecrowd.com
 ::1 irritatingefficaciousmistress.com
 ::1 www.irritatingefficaciousmistress.com
 ::1 irritqation.cf
@@ -372758,8 +372696,6 @@
 ::1 www.iyfsc.com
 ::1 iyfsdh.com
 ::1 www.iyfsdh.com
-::1 iyfsearch.com
-::1 www.iyfsearch.com
 ::1 iyfsj.com
 ::1 www.iyfsj.com
 ::1 iyfsm.com
@@ -375798,8 +375734,6 @@
 ::1 www.jangcodilesscob.tk
 ::1 jangharalas.ml
 ::1 www.jangharalas.ml
-::1 janglecondemn.com
-::1 www.janglecondemn.com
 ::1 jangtempsagacol.tk
 ::1 www.jangtempsagacol.tk
 ::1 jangtsethoesam.it
@@ -375864,8 +375798,6 @@
 ::1 www.jantgatireaspa.cf
 ::1 jantsoundzeagituttho.tk
 ::1 www.jantsoundzeagituttho.tk
-::1 janusinvestment-ag.com
-::1 www.janusinvestment-ag.com
 ::1 janusz-reichelt.de
 ::1 www.janusz-reichelt.de
 ::1 januszadamczyk.pl
@@ -377222,6 +377154,8 @@
 ::1 www.jdskxud.cn
 ::1 jdsneakers.fr
 ::1 www.jdsneakers.fr
+::1 jdsports-eu.com
+::1 www.jdsports-eu.com
 ::1 jdsportsoutlet.de
 ::1 www.jdsportsoutlet.de
 ::1 jdspuc.tokyo
@@ -377400,8 +377334,6 @@
 ::1 www.jeansrabatt.de
 ::1 jeapmz.shop
 ::1 www.jeapmz.shop
-::1 jeapn.shop
-::1 www.jeapn.shop
 ::1 jeary.xyz
 ::1 www.jeary.xyz
 ::1 jeash.xyz
@@ -378470,6 +378402,8 @@
 ::1 www.jewelrymejuri.com
 ::1 jewelrynovashop.com
 ::1 www.jewelrynovashop.com
+::1 jewelrywarm.com
+::1 www.jewelrywarm.com
 ::1 jewels66inverse.cricket
 ::1 www.jewels66inverse.cricket
 ::1 jewelsneverthelesspound.com
@@ -379716,8 +379650,6 @@
 ::1 www.jinxw.cn
 ::1 jinxyspincasino.fr
 ::1 www.jinxyspincasino.fr
-::1 jinyueshop.com
-::1 www.jinyueshop.com
 ::1 jiocyh.bar
 ::1 www.jiocyh.bar
 ::1 jiokr3.tokyo
@@ -382056,6 +381988,8 @@
 ::1 www.joh-egg.com
 ::1 johandost.xyz
 ::1 www.johandost.xyz
+::1 johann-burgstaller.shop
+::1 www.johann-burgstaller.shop
 ::1 johanna13dismiss.email
 ::1 www.johanna13dismiss.email
 ::1 johannesburgwomen.com
@@ -383200,8 +383134,6 @@
 ::1 www.joytrogpocasurli.tk
 ::1 joytupurpsactya.tk
 ::1 www.joytupurpsactya.tk
-::1 joytutus.shop
-::1 www.joytutus.shop
 ::1 joyu02e.cyou
 ::1 www.joyu02e.cyou
 ::1 joyvasrantguara.tk
@@ -384226,14 +384158,10 @@
 ::1 www.jsmaiyu.com
 ::1 jsmcrjmp.com
 ::1 www.jsmcrjmp.com
-::1 jsmcrptjmp.com
-::1 www.jsmcrptjmp.com
 ::1 jsmeiguigu.com
 ::1 www.jsmeiguigu.com
 ::1 jsmfnmm.cyou
 ::1 www.jsmfnmm.cyou
-::1 jsmptjmp.com
-::1 www.jsmptjmp.com
 ::1 jsn5ft.cyou
 ::1 www.jsn5ft.cyou
 ::1 jsneyu.bar
@@ -384918,6 +384846,8 @@
 ::1 www.jueratopatin.ga
 ::1 juereazyrre.cf
 ::1 www.juereazyrre.cf
+::1 juergen-burghardt-versand.shop
+::1 www.juergen-burghardt-versand.shop
 ::1 juergen-runge.de
 ::1 www.juergen-runge.de
 ::1 juerhythfighlispmapi.cf
@@ -389746,8 +389676,6 @@
 ::1 www.kamagar-pro.online
 ::1 kamago.xyz
 ::1 www.kamago.xyz
-::1 kamagra-4you.cz
-::1 www.kamagra-4you.cz
 ::1 kamagra-4you.online
 ::1 www.kamagra-4you.online
 ::1 kamagra-akce.eu
@@ -389832,6 +389760,8 @@
 ::1 www.kamagra365.cz
 ::1 kamagra4australia.com
 ::1 www.kamagra4australia.com
+::1 kamagrabestellen.eu
+::1 www.kamagrabestellen.eu
 ::1 kamagraboutique.com
 ::1 www.kamagraboutique.com
 ::1 kamagracz.cz
@@ -389860,12 +389790,18 @@
 ::1 www.kamagralove.cz
 ::1 kamagralove.pro
 ::1 www.kamagralove.pro
+::1 kamagralove.store
+::1 www.kamagralove.store
 ::1 kamagralove.trade
 ::1 www.kamagralove.trade
 ::1 kamagraman.cz
 ::1 www.kamagraman.cz
 ::1 kamagranadobirku.com
 ::1 www.kamagranadobirku.com
+::1 kamagraobchod.com
+::1 www.kamagraobchod.com
+::1 kamagraobchod.cz
+::1 www.kamagraobchod.cz
 ::1 kamagraonline.fr
 ::1 www.kamagraonline.fr
 ::1 kamagraonline.sk
@@ -389874,6 +389810,8 @@
 ::1 www.kamagrapreis.de
 ::1 kamagraprodej.com
 ::1 www.kamagraprodej.com
+::1 kamagrashop.online
+::1 www.kamagrashop.online
 ::1 kamagrashop.sk
 ::1 www.kamagrashop.sk
 ::1 kamagrastack.xyz
@@ -389886,8 +389824,6 @@
 ::1 www.kamagratrade.cc
 ::1 kamagratrade.com
 ::1 www.kamagratrade.com
-::1 kamagratrade.shop
-::1 www.kamagratrade.shop
 ::1 kamagry.sk
 ::1 www.kamagry.sk
 ::1 kamalpoolconstruction.com
@@ -389966,6 +389902,8 @@
 ::1 www.kaminholz-erzgebirge.com
 ::1 kaminholz-premium.de
 ::1 www.kaminholz-premium.de
+::1 kaminholzbeumer.de
+::1 www.kaminholzbeumer.de
 ::1 kaminholzkonig.de
 ::1 www.kaminholzkonig.de
 ::1 kaminholzmoppel-de.com
@@ -390262,6 +390200,8 @@
 ::1 www.kanziii.net
 ::1 kanzlei-fahlke.eu
 ::1 www.kanzlei-fahlke.eu
+::1 kanzlei-focken.de
+::1 www.kanzlei-focken.de
 ::1 kanzlei-guehmann.de
 ::1 www.kanzlei-guehmann.de
 ::1 kanzlei-helmut-kuhn.de
@@ -391010,6 +390950,8 @@
 ::1 www.kaufengrillzubehor.com
 ::1 kaufenkamagra.de
 ::1 www.kaufenkamagra.de
+::1 kauffahrradzubehoer.com
+::1 www.kauffahrradzubehoer.com
 ::1 kaufhardware.com
 ::1 www.kaufhardware.com
 ::1 kaufhaus-ackerlo.shop
@@ -391200,6 +391142,8 @@
 ::1 www.kayfruchnavalwigs.cf
 ::1 kayguenafnaistabit.cf
 ::1 www.kayguenafnaistabit.cf
+::1 kayh.tovy.shop
+::1 www.kayh.tovy.shop
 ::1 kayhaslucalog.gq
 ::1 www.kayhaslucalog.gq
 ::1 kayi-handel.de
@@ -392160,8 +392104,6 @@
 ::1 www.kdzulhp.tokyo
 ::1 kdzywg.xyz
 ::1 www.kdzywg.xyz
-::1 ke-99.top
-::1 www.ke-99.top
 ::1 ke00qt.tokyo
 ::1 www.ke00qt.tokyo
 ::1 ke08bi.cyou
@@ -393342,6 +393284,8 @@
 ::1 www.kerniabifalni.tk
 ::1 kernirilesslowspitt.tk
 ::1 www.kernirilesslowspitt.tk
+::1 kernrad.de
+::1 www.kernrad.de
 ::1 kernvogel.com
 ::1 www.kernvogel.com
 ::1 kero4k.cyou
@@ -394334,6 +394278,8 @@
 ::1 www.kfm1qv.xyz
 ::1 kfm9lt.cyou
 ::1 www.kfm9lt.cyou
+::1 kfmdso.com
+::1 www.kfmdso.com
 ::1 kfmhnou.tokyo
 ::1 www.kfmhnou.tokyo
 ::1 kfmjwf.cyou
@@ -395368,6 +395314,8 @@
 ::1 www.kickbosonlemindba.ml
 ::1 kickcrawford.com
 ::1 www.kickcrawford.com
+::1 kickcultureco.com
+::1 www.kickcultureco.com
 ::1 kickdacapecchoi.gq
 ::1 www.kickdacapecchoi.gq
 ::1 kickers-fr.fr
@@ -397068,6 +397016,8 @@
 ::1 www.kitlinkbettolimeh.tk
 ::1 kitnasigde.tk
 ::1 www.kitnasigde.tk
+::1 kitniche.com
+::1 www.kitniche.com
 ::1 kitoata.xyz
 ::1 www.kitoata.xyz
 ::1 kitomagazine.com
@@ -397880,6 +397830,8 @@
 ::1 www.klaria.de
 ::1 klarinettenorchester-dacapo.de
 ::1 www.klarinettenorchester-dacapo.de
+::1 klarjm.heimsvdc.xyz
+::1 www.klarjm.heimsvdc.xyz
 ::1 klarnest.de
 ::1 www.klarnest.de
 ::1 klarsonne.de
@@ -399628,6 +399580,8 @@
 ::1 www.knvrrmn.bar
 ::1 knvsas.bar
 ::1 www.knvsas.bar
+::1 knwex.com
+::1 www.knwex.com
 ::1 knwlhz.tokyo
 ::1 www.knwlhz.tokyo
 ::1 knwpy2.cyou
@@ -399852,6 +399806,8 @@
 ::1 www.koenig-handel.de
 ::1 koenigssee-uhrmanufaktur.de
 ::1 www.koenigssee-uhrmanufaktur.de
+::1 koenigsteiner-treuhand.de
+::1 www.koenigsteiner-treuhand.de
 ::1 koenigsthal.de
 ::1 www.koenigsthal.de
 ::1 koenigzeit.co
@@ -400254,6 +400210,8 @@
 ::1 www.konfcarprotoc.tk
 ::1 konferencetolken.eu
 ::1 www.konferencetolken.eu
+::1 konfettiwolkes.shop
+::1 www.konfettiwolkes.shop
 ::1 konfety-opt.by
 ::1 www.konfety-opt.by
 ::1 konfnagejarhe.gq
@@ -401812,8 +401770,6 @@
 ::1 www.kredit-1kz-k.rest
 ::1 kredit-finanzen.com
 ::1 www.kredit-finanzen.com
-::1 kredit-pro.com
-::1 www.kredit-pro.com
 ::1 kredit-srazy.su
 ::1 www.kredit-srazy.su
 ::1 kreditberatungs.de
@@ -402012,6 +401968,8 @@
 ::1 www.krissajetymet.tk
 ::1 krissiecratasoophex.ga
 ::1 www.krissiecratasoophex.ga
+::1 kristall-klares.de
+::1 www.kristall-klares.de
 ::1 kristenjewelry.com
 ::1 www.kristenjewelry.com
 ::1 kristidobmeier.xyz
@@ -402596,8 +402554,6 @@
 ::1 www.ksv1pus.shop
 ::1 ksvh4l.cyou
 ::1 www.ksvh4l.cyou
-::1 kswfcrwc.shop
-::1 www.kswfcrwc.shop
 ::1 kswissparis.fr
 ::1 www.kswissparis.fr
 ::1 kswjcy.bar
@@ -408842,8 +408798,6 @@
 ::1 www.lampsalnuchati.gq
 ::1 lampshadefinance.com
 ::1 www.lampshadefinance.com
-::1 lampshadescreen.com
-::1 www.lampshadescreen.com
 ::1 lampslightsshop.com
 ::1 www.lampslightsshop.com
 ::1 lamptekornickjahr.ga
@@ -409706,10 +409660,6 @@
 ::1 www.lanteporbolsmither.cf
 ::1 lantern33interco.stream
 ::1 www.lantern33interco.stream
-::1 lanternfestivalsuisse.com
-::1 www.lanternfestivalsuisse.com
-::1 lanternfestosterreich.com
-::1 www.lanternfestosterreich.com
 ::1 lanthcarconkcido.tk
 ::1 www.lanthcarconkcido.tk
 ::1 lantheofolrasett.tk
@@ -410124,8 +410074,6 @@
 ::1 www.laptopclosinghill.com
 ::1 laptopcomputer.xyz
 ::1 www.laptopcomputer.xyz
-::1 laptopdiscount.net
-::1 www.laptopdiscount.net
 ::1 laptopspirit.fr
 ::1 www.laptopspirit.fr
 ::1 laptoptech.org
@@ -410794,6 +410742,8 @@
 ::1 www.lasportivaoutlet.de
 ::1 lasportivaoutlet.fr
 ::1 www.lasportivaoutlet.fr
+::1 lasportivas.de
+::1 www.lasportivas.de
 ::1 lasportivaschuhe.at
 ::1 www.lasportivaschuhe.at
 ::1 lasportivashop.myshoplaza.com
@@ -411624,6 +411574,8 @@
 ::1 www.lavenderpchinchilla.ga
 ::1 lavendersshop.com
 ::1 www.lavendersshop.com
+::1 lavenie.co.uk
+::1 www.lavenie.co.uk
 ::1 laventpitscigguewei.tk
 ::1 www.laventpitscigguewei.tk
 ::1 lavera-zurich.com
@@ -411872,6 +411824,8 @@
 ::1 www.laxifoot.fr
 ::1 laxlez.rest
 ::1 www.laxlez.rest
+::1 laxnds.com
+::1 www.laxnds.com
 ::1 laxpalsy.com
 ::1 www.laxpalsy.com
 ::1 laxstudio.com
@@ -413506,8 +413460,6 @@
 ::1 www.le-boncoin.fr
 ::1 le-boncoin.pm
 ::1 www.le-boncoin.pm
-::1 le-cartier.com
-::1 www.le-cartier.com
 ::1 le-champdespossibles.fr
 ::1 www.le-champdespossibles.fr
 ::1 le-chineur.fr
@@ -413838,6 +413790,8 @@
 ::1 www.learn-codes.net
 ::1 learn.atdaslelabor.com
 ::1 www.learn.atdaslelabor.com
+::1 learn.kompressify.com
+::1 www.learn.kompressify.com
 ::1 learn.physio
 ::1 www.learn.physio
 ::1 learnbabbleroyalty.com
@@ -416624,6 +416578,8 @@
 ::1 www.lena-boutique.de
 ::1 lenadinbeca.tk
 ::1 www.lenadinbeca.tk
+::1 lenahockson.com
+::1 www.lenahockson.com
 ::1 lenahorholi.tk
 ::1 www.lenahorholi.tk
 ::1 lenanestchrisacreaf.gq
@@ -417070,6 +417026,8 @@
 ::1 www.leocilpithank.ml
 ::1 leoclevhydtiome.ga
 ::1 www.leoclevhydtiome.ga
+::1 leoclothing.shop
+::1 www.leoclothing.shop
 ::1 leoconkama.ga
 ::1 www.leoconkama.ga
 ::1 leocoram.cf
@@ -417344,8 +417302,6 @@
 ::1 www.leowaldanandbawe.cf
 ::1 leowunt.tokyo
 ::1 www.leowunt.tokyo
-::1 leoyard.com
-::1 www.leoyard.com
 ::1 leozli.shop
 ::1 www.leozli.shop
 ::1 leozodesctorbhamsurf.tk
@@ -418712,8 +418668,6 @@
 ::1 www.letibfactnarbo.tk
 ::1 letidehandhar.tk
 ::1 www.letidehandhar.tk
-::1 letifly.shop
-::1 www.letifly.shop
 ::1 letilactejuga.ml
 ::1 www.letilactejuga.ml
 ::1 letirifootp.tk
@@ -418808,6 +418762,8 @@
 ::1 www.letsenhance.io
 ::1 letsgetfit-senka.de
 ::1 www.letsgetfit-senka.de
+::1 letsgo-store.com
+::1 www.letsgo-store.com
 ::1 letsgoshop.de
 ::1 www.letsgoshop.de
 ::1 letsidelentege.tk
@@ -419872,6 +419828,8 @@
 ::1 www.lgboiv.tokyo
 ::1 lgbr2r.xyz
 ::1 www.lgbr2r.xyz
+::1 lgc-wine.com
+::1 www.lgc-wine.com
 ::1 lgcberlin.de
 ::1 www.lgcberlin.de
 ::1 lgchtx.bar
@@ -421770,6 +421728,8 @@
 ::1 www.lidistfewelltangndex.gq
 ::1 liditcohost.ga
 ::1 www.liditcohost.ga
+::1 lidl-de-de.vip
+::1 www.lidl-de-de.vip
 ::1 lidl-groupe.fr
 ::1 www.lidl-groupe.fr
 ::1 lidl-international.fr
@@ -423170,8 +423130,6 @@
 ::1 www.ligninofusgens.tk
 ::1 lignlamosrickpari.tk
 ::1 www.lignlamosrickpari.tk
-::1 lignocolor.shop
-::1 www.lignocolor.shop
 ::1 lignrangmullutu.tk
 ::1 www.lignrangmullutu.tk
 ::1 lignriselfmil.tk
@@ -423908,6 +423866,8 @@
 ::1 www.limlanddime.ga
 ::1 limlinorotin.gq
 ::1 www.limlinorotin.gq
+::1 limmstore.com
+::1 www.limmstore.com
 ::1 limmudfsu.eu
 ::1 www.limmudfsu.eu
 ::1 limningnosixdere.gq
@@ -424020,6 +423980,8 @@
 ::1 www.linapefensucount.ml
 ::1 linashop.de
 ::1 www.linashop.de
+::1 linavellegoods.com
+::1 www.linavellegoods.com
 ::1 linawesmark.ga
 ::1 www.linawesmark.ga
 ::1 linbaisofmacen.ml
@@ -428146,6 +428108,8 @@
 ::1 www.lkzqsi.tokyo
 ::1 lkzytvz.bar
 ::1 www.lkzytvz.bar
+::1 ll-sheins.com
+::1 www.ll-sheins.com
 ::1 ll09e.bar
 ::1 www.ll09e.bar
 ::1 ll0b5t.cyou
@@ -429610,6 +429574,8 @@
 ::1 www.lobpcb.bar
 ::1 lobpyo.shop
 ::1 www.lobpyo.shop
+::1 lobrecht.net
+::1 www.lobrecht.net
 ::1 lobsbeatsajafa.tk
 ::1 www.lobsbeatsajafa.tk
 ::1 lobscarcogo.tk
@@ -430706,8 +430672,6 @@
 ::1 www.logsendmmsfro.fr
 ::1 logshissdisinterested.com
 ::1 www.logshissdisinterested.com
-::1 logsoutfittick.com
-::1 www.logsoutfittick.com
 ::1 logto-secupal.fr
 ::1 www.logto-secupal.fr
 ::1 loguardtzimapacan.tk
@@ -431400,8 +431364,6 @@
 ::1 www.longchampfranceshop.fr
 ::1 longchampinfrance.fr
 ::1 www.longchampinfrance.fr
-::1 longchamposterreich.at
-::1 www.longchamposterreich.at
 ::1 longchamposterrelch.com
 ::1 www.longchamposterrelch.com
 ::1 longchampoutletenligne.com
@@ -431842,8 +431804,6 @@
 ::1 www.looseice.com
 ::1 looterbegal.tk
 ::1 www.looterbegal.tk
-::1 looth.net
-::1 www.looth.net
 ::1 lootidizhinegga.cf
 ::1 www.lootidizhinegga.cf
 ::1 lootmon.com
@@ -431854,8 +431814,6 @@
 ::1 www.lootscasino.fr
 ::1 loouvre.fr
 ::1 www.loouvre.fr
-::1 loovincy.com
-::1 www.loovincy.com
 ::1 loovo.fr
 ::1 www.loovo.fr
 ::1 loovostxancasynclowg.ga
@@ -433118,8 +433076,6 @@
 ::1 www.lovehub.life
 ::1 loveideaet.click
 ::1 www.loveideaet.click
-::1 loveintension.com
-::1 www.loveintension.com
 ::1 loveisfreedomstore.com
 ::1 www.loveisfreedomstore.com
 ::1 lovekitchen.org
@@ -433302,8 +433258,6 @@
 ::1 www.lowafrancestore.fr
 ::1 lowangesamhca.cf
 ::1 www.lowangesamhca.cf
-::1 lowaosterreich.at
-::1 www.lowaosterreich.at
 ::1 lowaoutletdeutschland.de
 ::1 www.lowaoutletdeutschland.de
 ::1 lowaoutletsdeutschland.de
@@ -435402,6 +435356,8 @@
 ::1 www.lucidcharts.xyz
 ::1 lucidlykidney.com
 ::1 www.lucidlykidney.com
+::1 lucifertech.com
+::1 www.lucifertech.com
 ::1 lucimen.com
 ::1 www.lucimen.com
 ::1 lucioping.it
@@ -437544,8 +437500,6 @@
 ::1 www.luxvfy.tokyo
 ::1 luxvzc.shop
 ::1 www.luxvzc.shop
-::1 luxwatch.store
-::1 www.luxwatch.store
 ::1 luxxory.com
 ::1 www.luxxory.com
 ::1 luxydiamonds.com
@@ -437564,8 +437518,6 @@
 ::1 www.luz6bbs.cyou
 ::1 luzavatalou.tk
 ::1 www.luzavatalou.tk
-::1 luzcollections.shop
-::1 www.luzcollections.shop
 ::1 luzebz.tokyo
 ::1 www.luzebz.tokyo
 ::1 luzfppo.tokyo
@@ -438144,8 +438096,6 @@
 ::1 www.lxcakai.bar
 ::1 lxcnzn.shop
 ::1 www.lxcnzn.shop
-::1 lxcvt.shop
-::1 www.lxcvt.shop
 ::1 lxczff.tokyo
 ::1 www.lxczff.tokyo
 ::1 lxcznqu.bar
@@ -439554,6 +439504,8 @@
 ::1 www.m.kaufjoy.de
 ::1 m.vbridal.com
 ::1 www.m.vbridal.com
+::1 m.xtop.cc
+::1 www.m.xtop.cc
 ::1 m00d3ib.shop
 ::1 www.m00d3ib.shop
 ::1 m00khc.tokyo
@@ -442414,6 +442366,8 @@
 ::1 www.mafiaenligne.fr
 ::1 mafias-play.fr
 ::1 www.mafias-play.fr
+::1 mafiatekno.com
+::1 www.mafiatekno.com
 ::1 mafibomerkile.tk
 ::1 www.mafibomerkile.tk
 ::1 maficaltamud.ml
@@ -442944,8 +442898,6 @@
 ::1 www.magikdepotfrance.fr
 ::1 magiluxe-store.com
 ::1 www.magiluxe-store.com
-::1 maginp.com
-::1 www.maginp.com
 ::1 magirachaploa.ml
 ::1 www.magirachaploa.ml
 ::1 magisamziped.tk
@@ -443170,6 +443122,8 @@
 ::1 www.magtagimama.tk
 ::1 magtasonoco.ga
 ::1 www.magtasonoco.ga
+::1 magtechnik.de
+::1 www.magtechnik.de
 ::1 magtempcriberulam.tk
 ::1 www.magtempcriberulam.tk
 ::1 magtennsousibrei.cf
@@ -443890,8 +443844,6 @@
 ::1 www.mainalotersru.cf
 ::1 mainanchamopon.gq
 ::1 www.mainanchamopon.gq
-::1 mainandtaylorshoes.shop
-::1 www.mainandtaylorshoes.shop
 ::1 mainaraxyle.tk
 ::1 www.mainaraxyle.tk
 ::1 mainbest-prizezone.life
@@ -444860,8 +444812,6 @@
 ::1 www.malkatours.ru
 ::1 malkuptlongcutola.gq
 ::1 www.malkuptlongcutola.gq
-::1 mall.corleigh.com
-::1 www.mall.corleigh.com
 ::1 mall.gresholm.com
 ::1 www.mall.gresholm.com
 ::1 mall0530.com
@@ -447288,8 +447238,6 @@
 ::1 www.market.galeririva.com
 ::1 market.livaxxen.org
 ::1 www.market.livaxxen.org
-::1 market.yestonby.com
-::1 www.market.yestonby.com
 ::1 market24prime.shop
 ::1 www.market24prime.shop
 ::1 market2trade.com
@@ -447378,6 +447326,8 @@
 ::1 www.marketxarproducts.shop
 ::1 markevichieperl.tk
 ::1 www.markevichieperl.tk
+::1 markezia.com
+::1 www.markezia.com
 ::1 markfraptijackjacom.tk
 ::1 www.markfraptijackjacom.tk
 ::1 markgryoups.gq
@@ -447436,8 +447386,6 @@
 ::1 www.markspigroasting.com
 ::1 marksurdilookse.ga
 ::1 www.marksurdilookse.ga
-::1 markswaitingrouge.com
-::1 www.markswaitingrouge.com
 ::1 markswoman.best
 ::1 www.markswoman.best
 ::1 markt-apo-uelsen.de
@@ -447646,8 +447594,6 @@
 ::1 www.marpowsfitholsa.cf
 ::1 marpsaltgrunkitfie.tk
 ::1 www.marpsaltgrunkitfie.tk
-::1 marpure.shop
-::1 www.marpure.shop
 ::1 marpverstingforca.gq
 ::1 www.marpverstingforca.gq
 ::1 marqfp.tokyo
@@ -447908,8 +447854,6 @@
 ::1 www.martonvasar.eu
 ::1 martsensulzpoba.tk
 ::1 www.martsensulzpoba.tk
-::1 martted.com
-::1 www.martted.com
 ::1 marttobaponticar.cf
 ::1 www.marttobaponticar.cf
 ::1 martugaverti.tk
@@ -448076,6 +448020,8 @@
 ::1 www.maschephotanwhaphe.ml
 ::1 maschinenbau-marketingtranslations.com
 ::1 www.maschinenbau-marketingtranslations.com
+::1 maschinenbau-stripegmbh.de
+::1 www.maschinenbau-stripegmbh.de
 ::1 maschinenfuergarten.de
 ::1 www.maschinenfuergarten.de
 ::1 maschinenpreiswert.com
@@ -448104,6 +448050,8 @@
 ::1 www.mascotsmall.com
 ::1 mascovarotade.ga
 ::1 www.mascovarotade.ga
+::1 mascpi.fr
+::1 www.mascpi.fr
 ::1 mascribosunmi.ml
 ::1 www.mascribosunmi.ml
 ::1 mascuicauspirer.ml
@@ -448322,6 +448270,8 @@
 ::1 www.masonlaref.tk
 ::1 masonletzdabal.gq
 ::1 www.masonletzdabal.gq
+::1 masonlinda.com
+::1 www.masonlinda.com
 ::1 masonsmorning.be
 ::1 www.masonsmorning.be
 ::1 masoregalidti.tk
@@ -450014,8 +449964,6 @@
 ::1 www.mb1yxq.cyou
 ::1 mb1zrgq.tokyo
 ::1 www.mb1zrgq.tokyo
-::1 mb223.com
-::1 www.mb223.com
 ::1 mb2gz2mk.tokyo
 ::1 www.mb2gz2mk.tokyo
 ::1 mb3r2b.cyou
@@ -450288,8 +450236,6 @@
 ::1 www.mbskuy.tokyo
 ::1 mbsnkb.tokyo
 ::1 www.mbsnkb.tokyo
-::1 mbsrv2.com
-::1 www.mbsrv2.com
 ::1 mbsryf.tokyo
 ::1 www.mbsryf.tokyo
 ::1 mbt-outlet.fr
@@ -451044,6 +450990,8 @@
 ::1 www.mdrzyt.tokyo
 ::1 mds6j3.cyou
 ::1 www.mds6j3.cyou
+::1 mdseller.com
+::1 www.mdseller.com
 ::1 mdshkltd.com
 ::1 www.mdshkltd.com
 ::1 mdsisustus.ee
@@ -451696,6 +451644,8 @@
 ::1 www.mediamaxi.online
 ::1 mediamend.net
 ::1 www.mediamend.net
+::1 mediamigo.net
+::1 www.mediamigo.net
 ::1 mediamoneysprogram.biz
 ::1 www.mediamoneysprogram.biz
 ::1 mediaplus-france.fr
@@ -451740,6 +451690,8 @@
 ::1 www.mediatrknow.xyz
 ::1 mediawiki.feverous.co.uk
 ::1 www.mediawiki.feverous.co.uk
+::1 mediaxim.com
+::1 www.mediaxim.com
 ::1 medica-esthetic.eu
 ::1 www.medica-esthetic.eu
 ::1 medica-pharma.fr
@@ -452512,8 +452464,6 @@
 ::1 www.meheml.tokyo
 ::1 mehemvadac.tk
 ::1 www.mehemvadac.tk
-::1 meherdewogoud.com
-::1 www.meherdewogoud.com
 ::1 mehfebvhandcreatvest.ml
 ::1 www.mehfebvhandcreatvest.ml
 ::1 mehfvf.tokyo
@@ -452810,6 +452760,8 @@
 ::1 www.meinetiermarken.at
 ::1 meineukaltheofrutbom.gq
 ::1 www.meineukaltheofrutbom.gq
+::1 meinfahrradstore.com
+::1 www.meinfahrradstore.com
 ::1 meinfischor.shop
 ::1 www.meinfischor.shop
 ::1 meinforasnonistkrit.gq
@@ -453132,8 +453084,6 @@
 ::1 www.meldtebetiturvoi.tk
 ::1 melebcheusuphi.cf
 ::1 www.melebcheusuphi.cf
-::1 melek.store
-::1 www.melek.store
 ::1 melelobohowe.ga
 ::1 www.melelobohowe.ga
 ::1 melenfolkter.ga
@@ -453226,6 +453176,8 @@
 ::1 www.melkkolywechneerust.gq
 ::1 mellatmobile.com
 ::1 www.mellatmobile.com
+::1 mellbaby.de
+::1 www.mellbaby.de
 ::1 mellerbrind.com
 ::1 www.mellerbrind.com
 ::1 mellori.xyz
@@ -456178,8 +456130,6 @@
 ::1 www.metpimanarpai.tk
 ::1 metraco.dk
 ::1 www.metraco.dk
-::1 metrapsa.com
-::1 www.metrapsa.com
 ::1 metrethylgcriser.ga
 ::1 www.metrethylgcriser.ga
 ::1 metretravelled.com
@@ -456494,6 +456444,8 @@
 ::1 www.meyeo.fr
 ::1 meyer-bausanierung.de
 ::1 www.meyer-bausanierung.de
+::1 meyer-handel.de
+::1 www.meyer-handel.de
 ::1 meyerpoolwelt.com
 ::1 www.meyerpoolwelt.com
 ::1 meyeucon.xyz
@@ -458454,6 +458406,8 @@
 ::1 www.midnighti.com
 ::1 midnolesidulti.cf
 ::1 www.midnolesidulti.cf
+::1 midoga.com
+::1 www.midoga.com
 ::1 midoguritet.tk
 ::1 www.midoguritet.tk
 ::1 midontumarvingsleep.ga
@@ -460254,8 +460208,6 @@
 ::1 www.minglandsecagaf.ga
 ::1 minglasdetibtoecan.cf
 ::1 www.minglasdetibtoecan.cf
-::1 mingleassertiveregard.com
-::1 www.mingleassertiveregard.com
 ::1 minglesscabonfa.tk
 ::1 www.minglesscabonfa.tk
 ::1 minglilinkvalerjack.ml
@@ -461710,6 +461662,8 @@
 ::1 www.misterlamp.de
 ::1 misterpwahessi.cf
 ::1 www.misterpwahessi.cf
+::1 misterwatches.com
+::1 www.misterwatches.com
 ::1 misterwatches.store
 ::1 www.misterwatches.store
 ::1 misterzeng.com
@@ -462192,8 +462146,6 @@
 ::1 www.mivoxa.de
 ::1 mivoyvl.tokyo
 ::1 www.mivoyvl.tokyo
-::1 mivoza.de
-::1 www.mivoza.de
 ::1 mivrex.com
 ::1 www.mivrex.com
 ::1 mivtgy.cyou
@@ -462542,6 +462494,8 @@
 ::1 www.mjlwbe.tokyo
 ::1 mjmacrocom.xyz
 ::1 www.mjmacrocom.xyz
+::1 mjmconseil.fr
+::1 www.mjmconseil.fr
 ::1 mjmhbut.tokyo
 ::1 www.mjmhbut.tokyo
 ::1 mjmlzt.tokyo
@@ -462694,8 +462648,6 @@
 ::1 www.mkb1dt.xyz
 ::1 mkba06p.tokyo
 ::1 www.mkba06p.tokyo
-::1 mkbaudesign.de
-::1 www.mkbaudesign.de
 ::1 mkbdwt.tokyo
 ::1 www.mkbdwt.tokyo
 ::1 mkbyrn.cyou
@@ -464092,8 +464044,6 @@
 ::1 www.mobile2card.eu
 ::1 mobileadv.com
 ::1 www.mobileadv.com
-::1 mobileappkamapro.xyz
-::1 www.mobileappkamapro.xyz
 ::1 mobileappmarket.info
 ::1 www.mobileappmarket.info
 ::1 mobileautumn-point.xyz
@@ -464618,6 +464568,8 @@
 ::1 www.mode-shop-1.de
 ::1 mode-wunder.de
 ::1 www.mode-wunder.de
+::1 modea.ch
+::1 www.modea.ch
 ::1 modeackermann.de
 ::1 www.modeackermann.de
 ::1 modeanaveacheca.cf
@@ -464636,8 +464588,6 @@
 ::1 www.modedeu.com
 ::1 modedisne.de
 ::1 www.modedisne.de
-::1 modefest.de
-::1 www.modefest.de
 ::1 modegocifa.ga
 ::1 www.modegocifa.ga
 ::1 modegonessrcaf.ga
@@ -464648,8 +464598,8 @@
 ::1 www.modehaus-dusseldorf.de
 ::1 modehaus-kaiser.de
 ::1 www.modehaus-kaiser.de
-::1 modehaus-meyer.de
-::1 www.modehaus-meyer.de
+::1 modehaus-muenchen.de
+::1 www.modehaus-muenchen.de
 ::1 modehaus-schroers.com
 ::1 www.modehaus-schroers.com
 ::1 modehausbrandt.com
@@ -464744,8 +464694,6 @@
 ::1 www.modena-findloveonline.space
 ::1 modenaklubben.dk
 ::1 www.modenaklubben.dk
-::1 modenmann.de
-::1 www.modenmann.de
 ::1 modeoutfit.com
 ::1 www.modeoutfit.com
 ::1 modepascher.fr
@@ -464822,8 +464770,6 @@
 ::1 www.modetraum.com
 ::1 modetrendhaus.de
 ::1 www.modetrendhaus.de
-::1 modetrends-munchen.com
-::1 www.modetrends-munchen.com
 ::1 modevansnamta.gq
 ::1 www.modevansnamta.gq
 ::1 modevissa.com
@@ -467102,8 +467048,6 @@
 ::1 www.mondaybrews.pl
 ::1 mondayperpetratenice.com
 ::1 www.mondayperpetratenice.com
-::1 mondayrecalled.com
-::1 www.mondayrecalled.com
 ::1 mondayupsideteams.com
 ::1 www.mondayupsideteams.com
 ::1 mondbankdrearlydingmes.gq
@@ -467964,6 +467908,8 @@
 ::1 www.moneymotherlotspeak.de
 ::1 moneynightpickrepublican.mom
 ::1 www.moneynightpickrepublican.mom
+::1 moneyo.io
+::1 www.moneyo.io
 ::1 moneyopenfivepeople.biz
 ::1 www.moneyopenfivepeople.biz
 ::1 moneyotherareas.biz
@@ -469488,6 +469434,8 @@
 ::1 www.moqwhl.cyou
 ::1 mor3i90.shop
 ::1 www.mor3i90.shop
+::1 mora-gartenbau.de
+::1 www.mora-gartenbau.de
 ::1 mora-shop.fr
 ::1 www.mora-shop.fr
 ::1 moraalridders.xyz
@@ -469672,8 +469620,6 @@
 ::1 www.moriaccessoires.com
 ::1 moricosti.ga
 ::1 www.moricosti.ga
-::1 morii.nl
-::1 www.morii.nl
 ::1 moriifit.myshopify.com
 ::1 www.moriifit.myshopify.com
 ::1 morilarsoupot.ml
@@ -469726,8 +469672,6 @@
 ::1 www.mornalilryodagi.ga
 ::1 mornamoranqui.tk
 ::1 www.mornamoranqui.tk
-::1 mornatipaglia.shop
-::1 www.mornatipaglia.shop
 ::1 morning-croissant.fr
 ::1 www.morning-croissant.fr
 ::1 morningmart.com
@@ -478096,8 +478040,6 @@
 ::1 www.myqrat.cyou
 ::1 myquiz.fr
 ::1 www.myquiz.fr
-::1 myquoteswiss.com
-::1 www.myquoteswiss.com
 ::1 myr5th.cyou
 ::1 www.myr5th.cyou
 ::1 myrabigkeeje.tk
@@ -478200,8 +478142,6 @@
 ::1 www.mysgcw.com
 ::1 myshakehearpressure.rest
 ::1 www.myshakehearpressure.rest
-::1 myshania.de
-::1 www.myshania.de
 ::1 myshopify.fr
 ::1 www.myshopify.fr
 ::1 myshotecnacowi.tk
@@ -481326,6 +481266,8 @@
 ::1 www.nainustelarola.tk
 ::1 nainvenosle.gq
 ::1 www.nainvenosle.gq
+::1 naiora.de
+::1 www.naiora.de
 ::1 naipamomounla.ml
 ::1 www.naipamomounla.ml
 ::1 naipemolsoare.cf
@@ -481688,6 +481630,8 @@
 ::1 www.nalolodis.tk
 ::1 nalounochasde.tk
 ::1 www.nalounochasde.tk
+::1 nalova.de
+::1 www.nalova.de
 ::1 nalpaholigoo.cf
 ::1 www.nalpaholigoo.cf
 ::1 nalpateardmisp.cf
@@ -483160,6 +483104,8 @@
 ::1 www.natt.xyz
 ::1 nattbegthumbmihu.tk
 ::1 www.nattbegthumbmihu.tk
+::1 nattelle.com
+::1 www.nattelle.com
 ::1 nattergalens.dk
 ::1 www.nattergalens.dk
 ::1 nattgobobedear.ml
@@ -483498,8 +483444,6 @@
 ::1 www.nauticalpartsstore.com
 ::1 nauticalpenitenceshudder.com
 ::1 www.nauticalpenitenceshudder.com
-::1 nauticalpingelephant.com
-::1 www.nauticalpingelephant.com
 ::1 nauticasdeutschland.de
 ::1 www.nauticasdeutschland.de
 ::1 nauticaukwebsite.com
@@ -487402,8 +487346,6 @@
 ::1 www.netcomman.dk
 ::1 netcomms.dk
 ::1 www.netcomms.dk
-::1 netcpms.com
-::1 www.netcpms.com
 ::1 netcrawler.it
 ::1 www.netcrawler.it
 ::1 netcsuppprocseolgat.tk
@@ -494482,6 +494424,8 @@
 ::1 www.nimaherlijo.gq
 ::1 nimanem.xyz
 ::1 www.nimanem.xyz
+::1 nimango.com
+::1 www.nimango.com
 ::1 nimanthollomen.tk
 ::1 www.nimanthollomen.tk
 ::1 nimapidalgyou.tk
@@ -495132,6 +495076,8 @@
 ::1 www.nintedo.fr
 ::1 nintendoswitch-france.fr
 ::1 www.nintendoswitch-france.fr
+::1 ninthcit.de
+::1 www.ninthcit.de
 ::1 ninthforthcoming.com
 ::1 www.ninthforthcoming.com
 ::1 nintopaccabu.tk
@@ -495156,8 +495102,6 @@
 ::1 www.nioconwamacon.cf
 ::1 nioculabceca.ml
 ::1 www.nioculabceca.ml
-::1 nioekure.com
-::1 www.nioekure.com
 ::1 niofediresro.tk
 ::1 www.niofediresro.tk
 ::1 niofreepinlodati.tk
@@ -495842,6 +495786,8 @@
 ::1 www.niveforoma.tk
 ::1 nivegoldila.tk
 ::1 www.nivegoldila.tk
+::1 nivela.de
+::1 www.nivela.de
 ::1 nivelseguinte.xyz
 ::1 www.nivelseguinte.xyz
 ::1 nivelzumerpiera.tk
@@ -496152,8 +496098,6 @@
 ::1 www.njoccdj.bar
 ::1 njogx4r.shop
 ::1 www.njogx4r.shop
-::1 njordoutdoors.com
-::1 www.njordoutdoors.com
 ::1 njoyfai.bar
 ::1 www.njoyfai.bar
 ::1 njp8.cn
@@ -499152,6 +499096,8 @@
 ::1 www.noradibacontsubs.ml
 ::1 noragorele.gq
 ::1 www.noragorele.gq
+::1 noral.xyz
+::1 www.noral.xyz
 ::1 noraninuni.cf
 ::1 www.noraninuni.cf
 ::1 noraralibga.cf
@@ -499438,6 +499384,8 @@
 ::1 www.norlogetippfo.ml
 ::1 norlurolathe.gq
 ::1 www.norlurolathe.gq
+::1 norma-media.com
+::1 www.norma-media.com
 ::1 normacknescame.tk
 ::1 www.normacknescame.tk
 ::1 normadistributionfrancesas.fr
@@ -500432,8 +500380,6 @@
 ::1 www.noupehilftosmi.ml
 ::1 noureleman.family
 ::1 www.noureleman.family
-::1 nourishingworld.shop
-::1 www.nourishingworld.shop
 ::1 nourix-avis-forum.fr
 ::1 www.nourix-avis-forum.fr
 ::1 nourix-avis.fr
@@ -500630,6 +500576,8 @@
 ::1 www.novamoda.de
 ::1 novando.de
 ::1 www.novando.de
+::1 novant.fr
+::1 www.novant.fr
 ::1 novanw.net
 ::1 www.novanw.net
 ::1 novaoutletshopcheckout.online
@@ -500768,8 +500716,6 @@
 ::1 www.novintraa.myshopify.com
 ::1 novipimeno.tk
 ::1 www.novipimeno.tk
-::1 novira-berlin.com
-::1 www.novira-berlin.com
 ::1 novirastore.com
 ::1 www.novirastore.com
 ::1 novirunox.com
@@ -502100,6 +502046,8 @@
 ::1 www.nspmcmn.bar
 ::1 nspmvva.bar
 ::1 www.nspmvva.bar
+::1 nspsl.sk
+::1 www.nspsl.sk
 ::1 nspxlnnw.tokyo
 ::1 www.nspxlnnw.tokyo
 ::1 nsqec4j.cyou
@@ -502316,8 +502264,6 @@
 ::1 www.ntb-news.shop
 ::1 ntbbdt.bar
 ::1 www.ntbbdt.bar
-::1 ntbdiffusion.com
-::1 www.ntbdiffusion.com
 ::1 ntbdjsu.bar
 ::1 www.ntbdjsu.bar
 ::1 ntbdvalve.com
@@ -511500,8 +511446,6 @@
 ::1 www.oiktzca.bar
 ::1 oil-direkt.de
 ::1 www.oil-direkt.de
-::1 oil-profits.com
-::1 www.oil-profits.com
 ::1 oilav.xyz
 ::1 www.oilav.xyz
 ::1 oilchangeasheville.com
@@ -512870,6 +512814,8 @@
 ::1 www.oliofolio.com
 ::1 olisetujuped.ml
 ::1 www.olisetujuped.ml
+::1 olivegardenhouses.de
+::1 www.olivegardenhouses.de
 ::1 oliver-schwarzer-shop.de
 ::1 www.oliver-schwarzer-shop.de
 ::1 olivercabellparis.fr
@@ -512892,6 +512838,8 @@
 ::1 www.olivia.tokyo
 ::1 oliviacharms.xyz
 ::1 www.oliviacharms.xyz
+::1 oliviachic.com
+::1 www.oliviachic.com
 ::1 oliviamoreau.de
 ::1 www.oliviamoreau.de
 ::1 oliviaresto.ee
@@ -512936,6 +512884,8 @@
 ::1 www.ollcty.bar
 ::1 olleamontmalmmont.tk
 ::1 www.olleamontmalmmont.tk
+::1 olley.ch
+::1 www.olley.ch
 ::1 ollibukasi.ga
 ::1 www.ollibukasi.ga
 ::1 ollijy.tokyo
@@ -513678,6 +513628,8 @@
 ::1 www.omenstylpivide.cf
 ::1 omenuscravex.tk
 ::1 www.omenuscravex.tk
+::1 omenyxgroup.com
+::1 www.omenyxgroup.com
 ::1 omepunpromobpar.gq
 ::1 www.omepunpromobpar.gq
 ::1 omeraril.gq
@@ -514216,8 +514168,6 @@
 ::1 www.on-runningschweiz.com
 ::1 on-view.eu
 ::1 www.on-view.eu
-::1 on.hotsellingseries.com
-::1 www.on.hotsellingseries.com
 ::1 on09d.tokyo
 ::1 www.on09d.tokyo
 ::1 on1gp92.shop
@@ -515834,6 +515784,8 @@
 ::1 www.onosabem.tk
 ::1 onosdisciomocsea.tk
 ::1 www.onosdisciomocsea.tk
+::1 onosterreich.at
+::1 www.onosterreich.at
 ::1 onounlimited.xyz
 ::1 www.onounlimited.xyz
 ::1 onout.my.id
@@ -515948,6 +515900,8 @@
 ::1 www.onreurd.tokyo
 ::1 onrevejohnma.ml
 ::1 www.onrevejohnma.ml
+::1 onrhein-vhs.de
+::1 www.onrhein-vhs.de
 ::1 onridan.asia
 ::1 www.onridan.asia
 ::1 onrissegasneo.tk
@@ -516042,6 +515996,8 @@
 ::1 www.onseysladerprolor.ml
 ::1 onsftq.cyou
 ::1 www.onsftq.cyou
+::1 onshoes-eu.com
+::1 www.onshoes-eu.com
 ::1 onshoesfrance.fr
 ::1 www.onshoesfrance.fr
 ::1 onsight-frog.de
@@ -516138,8 +516094,6 @@
 ::1 www.ontiemamvimil.ml
 ::1 ontiguwoods.ml
 ::1 www.ontiguwoods.ml
-::1 ontimelive.com
-::1 www.ontimelive.com
 ::1 ontiodiaderzasound.tk
 ::1 www.ontiodiaderzasound.tk
 ::1 ontirassmito.tk
@@ -517882,8 +517836,6 @@
 ::1 www.optvhda.bar
 ::1 optvn.com
 ::1 www.optvn.com
-::1 optvz.com
-::1 www.optvz.com
 ::1 opudunekir.ml
 ::1 www.opudunekir.ml
 ::1 opukitdu.tk
@@ -518312,8 +518264,6 @@
 ::1 www.orachropti.tk
 ::1 oraclecloud.fr
 ::1 www.oraclecloud.fr
-::1 oraclelights.shop
-::1 www.oraclelights.shop
 ::1 oraclewebhostkxr7mc2t.biz
 ::1 www.oraclewebhostkxr7mc2t.biz
 ::1 oraclewebhostwrbh2st3.biz
@@ -520750,6 +520700,8 @@
 ::1 www.osprey-france.fr
 ::1 osprey-suomi.com
 ::1 www.osprey-suomi.com
+::1 ospreyfinland.com
+::1 www.ospreyfinland.com
 ::1 ospreyparis.fr
 ::1 www.ospreyparis.fr
 ::1 ospreys.com.de
@@ -521006,6 +520958,8 @@
 ::1 www.osychcaphautunco.gq
 ::1 osykog.tokyo
 ::1 www.osykog.tokyo
+::1 osynca.com
+::1 www.osynca.com
 ::1 osz4mu.cyou
 ::1 www.osz4mu.cyou
 ::1 oszewheltamac.gq
@@ -521654,6 +521608,8 @@
 ::1 www.ottoty.xyz
 ::1 ottoulblabanquepostale.fr
 ::1 www.ottoulblabanquepostale.fr
+::1 ottowhale.com
+::1 www.ottowhale.com
 ::1 ottpremium-officiel.fr
 ::1 www.ottpremium-officiel.fr
 ::1 otturriochur.gq
@@ -521780,8 +521736,6 @@
 ::1 www.ouces.heuristicreview.company
 ::1 ouctdch.cyou
 ::1 www.ouctdch.cyou
-::1 oud.sint-janscollege.be
-::1 www.oud.sint-janscollege.be
 ::1 oud0yo9.cyou
 ::1 www.oud0yo9.cyou
 ::1 oud7ot.cyou
@@ -522330,6 +522284,8 @@
 ::1 www.outdoorcampzone.com
 ::1 outdoorerfahrung.com
 ::1 www.outdoorerfahrung.com
+::1 outdooressentialsshop.com
+::1 www.outdooressentialsshop.com
 ::1 outdoorheld.at
 ::1 www.outdoorheld.at
 ::1 outdoorhosensalestore.com
@@ -522578,6 +522534,8 @@
 ::1 www.outletasisc.fr
 ::1 outletasiscs.fr
 ::1 www.outletasiscs.fr
+::1 outletathletics.com
+::1 www.outletathletics.com
 ::1 outletautoparts.com
 ::1 www.outletautoparts.com
 ::1 outletavenue.fr
@@ -522668,8 +522626,6 @@
 ::1 www.outletrl.fr
 ::1 outletsadv.com
 ::1 www.outletsadv.com
-::1 outletsalomon.com
-::1 www.outletsalomon.com
 ::1 outletsephora.fr
 ::1 www.outletsephora.fr
 ::1 outletshopping.fr
@@ -524366,8 +524322,6 @@
 ::1 www.owrfwc.rest
 ::1 owrikobusvili.gq
 ::1 www.owrikobusvili.gq
-::1 owrock.com
-::1 www.owrock.com
 ::1 ows.com.sa
 ::1 www.ows.com.sa
 ::1 ows8qz.tokyo
@@ -527366,6 +527320,8 @@
 ::1 www.p69xzd.cyou
 ::1 p6abjv.cyou
 ::1 www.p6abjv.cyou
+::1 p6cj.snarkcactus.life
+::1 www.p6cj.snarkcactus.life
 ::1 p6db0y.cyou
 ::1 www.p6db0y.cyou
 ::1 p6dsng.cyou
@@ -529340,8 +529296,6 @@
 ::1 www.pairovilese.tk
 ::1 pairssavedlay.com
 ::1 www.pairssavedlay.com
-::1 pairturnnumerous.com
-::1 www.pairturnnumerous.com
 ::1 paisalebibque.cf
 ::1 www.paisalebibque.cf
 ::1 paiscowisacel.tk
@@ -529786,6 +529740,8 @@
 ::1 www.palorion.com
 ::1 palpahamiworl.ml
 ::1 www.palpahamiworl.ml
+::1 palpaws.store
+::1 www.palpaws.store
 ::1 palpayverif.fr
 ::1 www.palpayverif.fr
 ::1 palperosourtheo.ml
@@ -530158,8 +530114,6 @@
 ::1 www.pandorabracelets.pw
 ::1 pandoracharms.uk.com
 ::1 www.pandoracharms.uk.com
-::1 pandorade.de
-::1 www.pandorade.de
 ::1 pandorafr.fr
 ::1 www.pandorafr.fr
 ::1 pandorafrance.fr
@@ -532968,6 +532922,8 @@
 ::1 www.patagoniasparis.fr
 ::1 patagsfulteno.tk
 ::1 www.patagsfulteno.tk
+::1 patakhay.com
+::1 www.patakhay.com
 ::1 patalcatanu.ga
 ::1 www.patalcatanu.ga
 ::1 patantayrige.gq
@@ -536538,6 +536494,8 @@
 ::1 www.pellcomlofapa.gq
 ::1 pellegtrinos.ga
 ::1 www.pellegtrinos.ga
+::1 pellertrading.online
+::1 www.pellertrading.online
 ::1 pellet-bio.company.site
 ::1 www.pellet-bio.company.site
 ::1 pellet-cena.pl
@@ -539514,6 +539472,8 @@
 ::1 www.peterkenkelgruppe.de
 ::1 peterkurtz.xyz
 ::1 www.peterkurtz.xyz
+::1 peterlindenberg.de
+::1 www.peterlindenberg.de
 ::1 petermaybury.xyz
 ::1 www.petermaybury.xyz
 ::1 peternakmilenial.my.id
@@ -540482,8 +540442,6 @@
 ::1 www.pgmkix.bar
 ::1 pgmkix.rest
 ::1 www.pgmkix.rest
-::1 pgmus.net
-::1 www.pgmus.net
 ::1 pgmvip.com
 ::1 www.pgmvip.com
 ::1 pgn.xyz
@@ -541346,8 +541304,12 @@
 ::1 www.pharmaciewallet.fr
 ::1 pharmacy-europe.com
 ::1 www.pharmacy-europe.com
+::1 pharmacy-true.com
+::1 www.pharmacy-true.com
 ::1 pharmacy-xl.org
 ::1 www.pharmacy-xl.org
+::1 pharmacyeurope24.com
+::1 www.pharmacyeurope24.com
 ::1 pharmacyinventory.org
 ::1 www.pharmacyinventory.org
 ::1 pharmacymarketonline.com
@@ -541606,6 +541568,8 @@
 ::1 www.pherimosvibacto.tk
 ::1 pheripodungna.tk
 ::1 www.pheripodungna.tk
+::1 pheronaemporium.com
+::1 www.pheronaemporium.com
 ::1 phesec.xyz
 ::1 www.phesec.xyz
 ::1 phesumanonifi.ml
@@ -543056,8 +543020,6 @@
 ::1 www.pickkilsepop.tk
 ::1 picklawniti.tk
 ::1 www.picklawniti.tk
-::1 pickleballoffer.com
-::1 www.pickleballoffer.com
 ::1 pickledbrothers.pl
 ::1 www.pickledbrothers.pl
 ::1 pickligoogthetho.ml
@@ -546862,8 +546824,6 @@
 ::1 www.platform-ai-trade.com
 ::1 platform-binary-best-try-options.pw
 ::1 www.platform-binary-best-try-options.pw
-::1 platform.ap-capital-lim.com
-::1 www.platform.ap-capital-lim.com
 ::1 platform.softwarecrownex.com
 ::1 www.platform.softwarecrownex.com
 ::1 platformpuinhoop.nl
@@ -550630,6 +550590,8 @@
 ::1 www.polenepascher.fr
 ::1 polenesfrance.fr
 ::1 www.polenesfrance.fr
+::1 polenetasche.de
+::1 www.polenetasche.de
 ::1 polenevente.fr
 ::1 www.polenevente.fr
 ::1 polep-to.eu
@@ -550794,8 +550756,6 @@
 ::1 www.politicsbitreal.biz
 ::1 politicscleft.com
 ::1 www.politicscleft.com
-::1 politicsgrowinghollow.com
-::1 www.politicsgrowinghollow.com
 ::1 politicssstopsfact.biz
 ::1 www.politicssstopsfact.biz
 ::1 politicssystemway.biz
@@ -551284,6 +551244,8 @@
 ::1 www.pontlemarrila.ga
 ::1 pontocavacerc.tk
 ::1 www.pontocavacerc.tk
+::1 pontonexo.com.br
+::1 www.pontonexo.com.br
 ::1 pontpitemreiduperg.cf
 ::1 www.pontpitemreiduperg.cf
 ::1 pontporcacaredkwin.tk
@@ -551382,6 +551344,8 @@
 ::1 www.poolsaar.ee
 ::1 poolsaunasupply.com
 ::1 www.poolsaunasupply.com
+::1 poolsteine-online.de
+::1 www.poolsteine-online.de
 ::1 poolvaariskivi.ee
 ::1 www.poolvaariskivi.ee
 ::1 poolzubehors.com
@@ -555288,8 +555252,6 @@
 ::1 www.praxis-fuer-neues-sein.de
 ::1 praxis-katscher-knauer.de
 ::1 www.praxis-katscher-knauer.de
-::1 praxis-natuerlichgesund.de
-::1 www.praxis-natuerlichgesund.de
 ::1 praxispsychology.ru
 ::1 www.praxispsychology.ru
 ::1 praxxotetee.ga
@@ -560010,8 +559972,6 @@
 ::1 www.pro-ants.fr
 ::1 pro-ben.de
 ::1 www.pro-ben.de
-::1 pro-binary.com
-::1 www.pro-binary.com
 ::1 pro-containers.de
 ::1 www.pro-containers.de
 ::1 pro-dgfip.fr
@@ -560044,6 +560004,8 @@
 ::1 www.pro-populus.eu
 ::1 pro-prime.fr
 ::1 www.pro-prime.fr
+::1 pro-radler.de
+::1 www.pro-radler.de
 ::1 pro-sivinterieurgouv.fr
 ::1 www.pro-sivinterieurgouv.fr
 ::1 pro-sncf.fr
@@ -562610,6 +562572,8 @@
 ::1 www.promonumworks.fr
 ::1 promopaid.info
 ::1 www.promopaid.info
+::1 promoprism.com
+::1 www.promoprism.com
 ::1 promorin.com
 ::1 www.promorin.com
 ::1 promorresbeyco.tk
@@ -563618,6 +563582,8 @@
 ::1 www.prosokezaddis.tk
 ::1 prosol.xyz
 ::1 www.prosol.xyz
+::1 prosolargen-strip.de
+::1 www.prosolargen-strip.de
 ::1 prosolcuansubf.ml
 ::1 www.prosolcuansubf.ml
 ::1 prosolutionn.xyz
@@ -566598,6 +566564,8 @@
 ::1 www.pullanswer.com
 ::1 pullbear-france.fr
 ::1 www.pullbear-france.fr
+::1 pullcamin.com
+::1 www.pullcamin.com
 ::1 pullcinkyoutheva.ga
 ::1 www.pullcinkyoutheva.ga
 ::1 pullcuciwan.tk
@@ -567450,8 +567418,6 @@
 ::1 www.pushssaystateok.biz
 ::1 pushstorypopular.bar
 ::1 www.pushstorypopular.bar
-::1 pushub.net
-::1 www.pushub.net
 ::1 pushup.at
 ::1 www.pushup.at
 ::1 pushydialoguenoisy.com
@@ -574904,8 +574870,6 @@
 ::1 www.qq12sl5.tokyo
 ::1 qq26qn.tokyo
 ::1 www.qq26qn.tokyo
-::1 qq339.com
-::1 www.qq339.com
 ::1 qq3c3py.tokyo
 ::1 www.qq3c3py.tokyo
 ::1 qq3sypy.cyou
@@ -581914,8 +581878,6 @@
 ::1 www.rabattlos.de
 ::1 rabattoneill.de
 ::1 www.rabattoneill.de
-::1 rabattpalm.de
-::1 www.rabattpalm.de
 ::1 rabattseafolly.de
 ::1 www.rabattseafolly.de
 ::1 rabattski.com
@@ -581928,6 +581890,8 @@
 ::1 www.rabattstoves.de
 ::1 rabattswix.de
 ::1 www.rabattswix.de
+::1 rabattwerkzeuge.com
+::1 www.rabattwerkzeuge.com
 ::1 rabattzelte.com
 ::1 www.rabattzelte.com
 ::1 rabbailupufdoma.tk
@@ -587228,6 +587192,8 @@
 ::1 www.rcbtisn.xyz
 ::1 rcbudhanilkantha.org.np
 ::1 www.rcbudhanilkantha.org.np
+::1 rccartrucks.com
+::1 www.rccartrucks.com
 ::1 rccczc.xyz
 ::1 www.rccczc.xyz
 ::1 rcctol.tokyo
@@ -587652,8 +587618,6 @@
 ::1 www.rdnkvqp.tokyo
 ::1 rdoctolib.fr
 ::1 www.rdoctolib.fr
-::1 rdoering.de
-::1 www.rdoering.de
 ::1 rdolqm.tokyo
 ::1 www.rdolqm.tokyo
 ::1 rdpas38.tokyo
@@ -588578,6 +588542,8 @@
 ::1 www.realestate-unique.com
 ::1 realestate.ai
 ::1 www.realestate.ai
+::1 realestate.immobilien
+::1 www.realestate.immobilien
 ::1 realestateaffiliates.com
 ::1 www.realestateaffiliates.com
 ::1 realestateagent.ro
@@ -589548,8 +589514,6 @@
 ::1 www.recipella.si
 ::1 recipesfordinner.club
 ::1 www.recipesfordinner.club
-::1 recipientpopulationregret.com
-::1 www.recipientpopulationregret.com
 ::1 recirrisi.tk
 ::1 www.recirrisi.tk
 ::1 recitatives.com
@@ -591386,6 +591350,8 @@
 ::1 www.reginald-kelly-ln9670.web.app
 ::1 reginanoptii.ro
 ::1 www.reginanoptii.ro
+::1 regio-treuhand.de
+::1 www.regio-treuhand.de
 ::1 region-idf.fr
 ::1 www.region-idf.fr
 ::1 region-ile-de-france.fr
@@ -592472,6 +592438,8 @@
 ::1 www.reinholdmetall.ee
 ::1 reinholdrasenmaher.com
 ::1 www.reinholdrasenmaher.com
+::1 reinholzexpress.com
+::1 www.reinholzexpress.com
 ::1 reinigungszubehor.com
 ::1 www.reinigungszubehor.com
 ::1 reiniskanngala.tk
@@ -594192,8 +594160,6 @@
 ::1 www.renlaiglaroverven.cf
 ::1 renlapoordilinta.tk
 ::1 www.renlapoordilinta.tk
-::1 renleigh.schlafhalt.com
-::1 www.renleigh.schlafhalt.com
 ::1 renlipachar.tk
 ::1 www.renlipachar.tk
 ::1 renlirinbu.tk
@@ -595036,8 +595002,6 @@
 ::1 www.renthingbunumaser.ml
 ::1 renthq.ca
 ::1 www.renthq.ca
-::1 rentin.store
-::1 www.rentin.store
 ::1 renting.pro
 ::1 www.renting.pro
 ::1 rentingcomfatho.tk
@@ -595512,6 +595476,8 @@
 ::1 www.replesscaburdurf.tk
 ::1 replica-uhren.cc
 ::1 www.replica-uhren.cc
+::1 replica.is
+::1 www.replica.is
 ::1 replicable.art
 ::1 www.replicable.art
 ::1 replicable.art
@@ -596966,8 +596932,6 @@
 ::1 www.restoplan.ru
 ::1 restoposok.tk
 ::1 www.restoposok.tk
-::1 restorationbowelsunflower.com
-::1 www.restorationbowelsunflower.com
 ::1 restorationmaliceall.com
 ::1 www.restorationmaliceall.com
 ::1 restoredfutureglobal.org
@@ -598074,6 +598038,8 @@
 ::1 www.reviewpunt.nl
 ::1 reviews.kamagraoriginal.to
 ::1 www.reviews.kamagraoriginal.to
+::1 reviews.shopelectro.shop
+::1 www.reviews.shopelectro.shop
 ::1 reviewtrustedonline.com
 ::1 www.reviewtrustedonline.com
 ::1 revifessiotrol.tk
@@ -598446,6 +598412,8 @@
 ::1 www.rezwwo.bar
 ::1 rf-2020-pod.online
 ::1 www.rf-2020-pod.online
+::1 rf-kg.de
+::1 www.rf-kg.de
 ::1 rf05ptl.cyou
 ::1 www.rf05ptl.cyou
 ::1 rf1c6p.tokyo
@@ -599290,8 +599258,6 @@
 ::1 www.rho7ip.tokyo
 ::1 rhodalatdfathryu.ml
 ::1 www.rhodalatdfathryu.ml
-::1 rhode.co.at
-::1 www.rhode.co.at
 ::1 rhodenlukasur.tk
 ::1 www.rhodenlukasur.tk
 ::1 rhodicavramrionen.tk
@@ -606512,6 +606478,8 @@
 ::1 www.rockportfrance.fr
 ::1 rockportjapan.com
 ::1 www.rockportjapan.com
+::1 rockportontario.com
+::1 www.rockportontario.com
 ::1 rockportoutletortugal.com
 ::1 www.rockportoutletortugal.com
 ::1 rockportschoenen.com
@@ -606936,6 +606904,8 @@
 ::1 www.roemalebichina.tk
 ::1 roematchsaco.tk
 ::1 www.roematchsaco.tk
+::1 roemerweg-seefeld.com
+::1 www.roemerweg-seefeld.com
 ::1 roemi.cn
 ::1 www.roemi.cn
 ::1 roemindticounpho.cf
@@ -608064,6 +608034,8 @@
 ::1 www.ronado.de
 ::1 ronain.com
 ::1 www.ronain.com
+::1 ronakhome.com
+::1 www.ronakhome.com
 ::1 ronald-schminke.de
 ::1 www.ronald-schminke.de
 ::1 ronaldbock.online
@@ -608352,6 +608324,8 @@
 ::1 www.roomagesstructures.xyz
 ::1 roomagreementbits.bar
 ::1 www.roomagreementbits.bar
+::1 roomard.xyz
+::1 www.roomard.xyz
 ::1 roomareasocialreal.pw
 ::1 www.roomareasocialreal.pw
 ::1 roomareaweekborns.bar
@@ -609598,8 +609572,6 @@
 ::1 www.rouscodinutlo.tk
 ::1 rousdoctcomtecar.cf
 ::1 www.rousdoctcomtecar.cf
-::1 rousedobjectsfunds.com
-::1 www.rousedobjectsfunds.com
 ::1 rousguisigroki.tk
 ::1 www.rousguisigroki.tk
 ::1 rouskb.rest
@@ -609714,8 +609686,6 @@
 ::1 www.rovinjadvisor.it
 ::1 rovirofladin.ml
 ::1 www.rovirofladin.ml
-::1 rovno.xyz
-::1 www.rovno.xyz
 ::1 rovobopuni.ml
 ::1 www.rovobopuni.ml
 ::1 rovojohnca.tk
@@ -611938,6 +611908,8 @@
 ::1 www.rucipinagi.tk
 ::1 rucircbeencdeaddown.tk
 ::1 www.rucircbeencdeaddown.tk
+::1 ruckgabe.heidi-mode.de
+::1 www.ruckgabe.heidi-mode.de
 ::1 ruckgadoukohor.tk
 ::1 www.ruckgadoukohor.tk
 ::1 rucklighgeforsemb.gq
@@ -612714,6 +612686,8 @@
 ::1 www.ruphp.com
 ::1 ruphysetipe.tk
 ::1 www.ruphysetipe.tk
+::1 rupills.com
+::1 www.rupills.com
 ::1 rupinx.xyz
 ::1 www.rupinx.xyz
 ::1 rupisegacile.tk
@@ -613042,6 +613016,8 @@
 ::1 www.ruthecikoplo.tk
 ::1 ruthemencentma.cf
 ::1 www.ruthemencentma.cf
+::1 rutherford.life
+::1 www.rutherford.life
 ::1 ruthinlogutanenb.tk
 ::1 www.ruthinlogutanenb.tk
 ::1 ruthpitudi.cf
@@ -613698,6 +613674,8 @@
 ::1 www.rwzvlx.cyou
 ::1 rwzwzf.tokyo
 ::1 www.rwzwzf.tokyo
+::1 rx-10.com
+::1 www.rx-10.com
 ::1 rx-budapest.com
 ::1 www.rx-budapest.com
 ::1 rx-discount.com
@@ -616854,6 +616832,8 @@
 ::1 www.sac--longchamps.fr
 ::1 sac--louisvuitton.fr
 ::1 www.sac--louisvuitton.fr
+::1 sac-chat.com
+::1 www.sac-chat.com
 ::1 sac-jacquemus.fr
 ::1 www.sac-jacquemus.fr
 ::1 sac-longchamp-pas-cher.fr
@@ -620038,8 +620018,6 @@
 ::1 www.santolocode.de
 ::1 santony.nl
 ::1 www.santony.nl
-::1 santorinicasa.com
-::1 www.santorinicasa.com
 ::1 santoscurrency.com
 ::1 www.santoscurrency.com
 ::1 santosillusiveasset.com
@@ -620098,8 +620076,6 @@
 ::1 www.sanxaebridit.tk
 ::1 sanxingduii.com
 ::1 www.sanxingduii.com
-::1 sanynouncem.org
-::1 www.sanynouncem.org
 ::1 sanyokagu.com
 ::1 www.sanyokagu.com
 ::1 sanyres.es
@@ -620798,6 +620774,8 @@
 ::1 www.satona.de
 ::1 satorbevillargsnow.cf
 ::1 www.satorbevillargsnow.cf
+::1 satorisandeutschland.com
+::1 www.satorisandeutschland.com
 ::1 satorisanfrance.fr
 ::1 www.satorisanfrance.fr
 ::1 sators.de
@@ -620862,6 +620840,8 @@
 ::1 www.saubatigh.gq
 ::1 saubereautoteile.com
 ::1 www.saubereautoteile.com
+::1 saubereszuhause.shop
+::1 www.saubereszuhause.shop
 ::1 sauberrein.com
 ::1 www.sauberrein.com
 ::1 saubledlisacranar.tk
@@ -624570,8 +624550,6 @@
 ::1 www.scratchy.best
 ::1 screalian.site
 ::1 www.screalian.site
-::1 screechdeprivescatter.com
-::1 www.screechdeprivescatter.com
 ::1 screenacy.co
 ::1 www.screenacy.co
 ::1 screencast-o-matic.fr
@@ -627622,6 +627600,8 @@
 ::1 www.seenmo.re
 ::1 seenwage.com
 ::1 www.seenwage.com
+::1 seepalm.de
+::1 www.seepalm.de
 ::1 seepegerusshard.ga
 ::1 www.seepegerusshard.ga
 ::1 seepolelibari.cf
@@ -628162,8 +628142,6 @@
 ::1 www.sekdki.cyou
 ::1 sekentanendo.ml
 ::1 www.sekentanendo.ml
-::1 sekeymall.shop
-::1 www.sekeymall.shop
 ::1 sekgur.rest
 ::1 www.sekgur.rest
 ::1 sekiburlanksent.ml
@@ -629550,8 +629528,6 @@
 ::1 www.seodwidvesscornrug.tk
 ::1 seodworerassymcent.tk
 ::1 www.seodworerassymcent.tk
-::1 seoeeo.com
-::1 www.seoeeo.com
 ::1 seoeh.com
 ::1 www.seoeh.com
 ::1 seoeol.com
@@ -630038,6 +630014,8 @@
 ::1 www.serenitybot.com
 ::1 serenitycompute.com
 ::1 www.serenitycompute.com
+::1 serenorstock.com
+::1 www.serenorstock.com
 ::1 serentia-shop.com
 ::1 www.serentia-shop.com
 ::1 sereog.xyz
@@ -630120,8 +630098,12 @@
 ::1 www.seriesmoneysfact.buzz
 ::1 seriesmotherlaugh.buzz
 ::1 www.seriesmotherlaugh.buzz
+::1 seriesplus.org
+::1 www.seriesplus.org
 ::1 seriespointknowledge.biz
 ::1 www.seriespointknowledge.biz
+::1 seriessales.com
+::1 www.seriessales.com
 ::1 seriessanything.biz
 ::1 www.seriessanything.biz
 ::1 seriessgivethings.rest
@@ -634070,6 +634052,8 @@
 ::1 www.sfyt1o.cyou
 ::1 sfyyma.xyz
 ::1 www.sfyyma.xyz
+::1 sfzev.de
+::1 www.sfzev.de
 ::1 sg-acces-particulier.fr
 ::1 www.sg-acces-particulier.fr
 ::1 sg-acces-particuliers.fr
@@ -635038,6 +635022,8 @@
 ::1 www.sheafripe.com
 ::1 sheamo.xyz
 ::1 www.sheamo.xyz
+::1 shebaike.com
+::1 www.shebaike.com
 ::1 shedevrum.ai
 ::1 www.shedevrum.ai
 ::1 shedevrum.ai
@@ -635524,6 +635510,8 @@
 ::1 www.shoesmarques.fr
 ::1 shoesonlineus.com
 ::1 www.shoesonlineus.com
+::1 shoesoutlet.shop
+::1 www.shoesoutlet.shop
 ::1 shoesprada.de
 ::1 www.shoesprada.de
 ::1 shoessdepot.com
@@ -636024,8 +636012,6 @@
 ::1 www.shopwa.net
 ::1 shopware-commerce.de
 ::1 www.shopware-commerce.de
-::1 shopwecro.shop
-::1 www.shopwecro.shop
 ::1 shopwineoutlet.com
 ::1 www.shopwineoutlet.com
 ::1 shopwithme.biz
@@ -636090,6 +636076,8 @@
 ::1 www.shotsourcesetprovide.biz
 ::1 shotstatesprogram.rest
 ::1 www.shotstatesprogram.rest
+::1 shouaa.com
+::1 www.shouaa.com
 ::1 shoubar.cn
 ::1 www.shoubar.cn
 ::1 shoucangzx.com
@@ -637994,8 +637982,6 @@
 ::1 www.silberkrift.com
 ::1 silberschmuckpro.com
 ::1 www.silberschmuckpro.com
-::1 silberthil.com
-::1 www.silberthil.com
 ::1 silbetupearfund.tk
 ::1 www.silbetupearfund.tk
 ::1 silbobsni.tk
@@ -638200,8 +638186,6 @@
 ::1 www.silvermjawintua.cf
 ::1 silverplaycasino.fr
 ::1 www.silverplaycasino.fr
-::1 silverwhitebirds.co
-::1 www.silverwhitebirds.co
 ::1 silvialovetere.it
 ::1 www.silvialovetere.it
 ::1 silviamarra.es
@@ -641694,6 +641678,8 @@
 ::1 www.skechers-south-africa.co.za
 ::1 skechersaustria.at
 ::1 www.skechersaustria.at
+::1 skechersdeutschland.de
+::1 www.skechersdeutschland.de
 ::1 skechersfemme.fr
 ::1 www.skechersfemme.fr
 ::1 skechersfr.fr
@@ -641934,6 +641920,8 @@
 ::1 www.skiingdiscount-onlineshop.com
 ::1 skiingessential.com
 ::1 www.skiingessential.com
+::1 skijakke.com
+::1 www.skijakke.com
 ::1 skijsz.tokyo
 ::1 www.skijsz.tokyo
 ::1 skik2.de
@@ -643350,8 +643338,6 @@
 ::1 www.slidimtercilonress.tk
 ::1 slidinozlehealthho.ml
 ::1 www.slidinozlehealthho.ml
-::1 slidockscorporation.com
-::1 www.slidockscorporation.com
 ::1 slidringtetsgo.cf
 ::1 www.slidringtetsgo.cf
 ::1 slidsyrugchereso.ga
@@ -645160,8 +645146,6 @@
 ::1 www.smarttj.xyz
 ::1 smarttq.cn
 ::1 www.smarttq.cn
-::1 smartundgeizig.de
-::1 www.smartundgeizig.de
 ::1 smartwaerme.com
 ::1 www.smartwaerme.com
 ::1 smartwatch-officiel.fr
@@ -646302,6 +646286,8 @@
 ::1 www.snacidlitilu.gq
 ::1 snacisanniperve.cf
 ::1 www.snacisanniperve.cf
+::1 snackit.at
+::1 www.snackit.at
 ::1 snackpreferredspecies.com
 ::1 www.snackpreferredspecies.com
 ::1 snackshopo.shop
@@ -647020,8 +647006,6 @@
 ::1 www.snkrsprime.fr
 ::1 snkrsreps.fr
 ::1 www.snkrsreps.fr
-::1 snksinc.de
-::1 www.snksinc.de
 ::1 snkug2.shop
 ::1 www.snkug2.shop
 ::1 snkzurich.com
@@ -648468,8 +648452,6 @@
 ::1 www.sofarsofa.cf
 ::1 sofastream.fr
 ::1 www.sofastream.fr
-::1 sofasundsessel.com
-::1 www.sofasundsessel.com
 ::1 sofbaidingkerbpo.tk
 ::1 www.sofbaidingkerbpo.tk
 ::1 sofbesaddrebi.cf
@@ -652404,8 +652386,6 @@
 ::1 www.special-occasions.eu
 ::1 special-offers.club
 ::1 www.special-offers.club
-::1 special-trending-news.com
-::1 www.special-trending-news.com
 ::1 special.express
 ::1 www.special.express
 ::1 specialbageriet.dk
@@ -652986,6 +652966,8 @@
 ::1 www.sperry-france.fr
 ::1 sperry.com
 ::1 www.sperry.com
+::1 sperrybootsschuhe.de
+::1 www.sperrybootsschuhe.de
 ::1 sperrychaussures.fr
 ::1 www.sperrychaussures.fr
 ::1 sperryfrances.fr
@@ -655354,10 +655336,10 @@
 ::1 www.sportsupstate.tv
 ::1 sportsvital.de
 ::1 www.sportsvital.de
-::1 sportsvot.com
-::1 www.sportsvot.com
 ::1 sportswearpaired.com
 ::1 www.sportswearpaired.com
+::1 sportszea.com
+::1 www.sportszea.com
 ::1 sporttime.xyz
 ::1 www.sporttime.xyz
 ::1 sporttritt.com
@@ -659594,6 +659576,8 @@
 ::1 www.statz-haushaltprodukte.de
 ::1 staubsaugerrabatt.de
 ::1 www.staubsaugerrabatt.de
+::1 staud-deutschland.com
+::1 www.staud-deutschland.com
 ::1 staud.co.at
 ::1 www.staud.co.at
 ::1 staui.xyz
@@ -660182,6 +660166,8 @@
 ::1 www.stellarium.fr
 ::1 stellartech.us
 ::1 www.stellartech.us
+::1 stellenkompass.com
+::1 www.stellenkompass.com
 ::1 stellennavigator.com
 ::1 www.stellennavigator.com
 ::1 stellio.limited
@@ -662092,8 +662078,6 @@
 ::1 www.stootwillen.be
 ::1 stootwillenshop.be
 ::1 www.stootwillenshop.be
-::1 stoov.shop
-::1 www.stoov.shop
 ::1 stop-amende.fr
 ::1 www.stop-amende.fr
 ::1 stop-oder-go.de
@@ -663006,6 +662990,8 @@
 ::1 www.stratoweb.ch
 ::1 strauss-vip.shop
 ::1 www.strauss-vip.shop
+::1 straussde.shop
+::1 www.straussde.shop
 ::1 strav.fr
 ::1 www.strav.fr
 ::1 strawberrycheescake.bar
@@ -663102,6 +663088,8 @@
 ::1 www.strefawolnosci.eu
 ::1 streichduft.de
 ::1 www.streichduft.de
+::1 strengtheng.com
+::1 www.strengtheng.com
 ::1 strengthlog.com
 ::1 www.strengthlog.com
 ::1 strengthxa.web.app
@@ -664288,8 +664276,6 @@
 ::1 www.sturuterocmacvi.ga
 ::1 sturwatsentnaten.ga
 ::1 www.sturwatsentnaten.ga
-::1 stussy-berlin.de
-::1 www.stussy-berlin.de
 ::1 stussy-fr.fr
 ::1 www.stussy-fr.fr
 ::1 stussy-france.fr
@@ -664508,6 +664494,8 @@
 ::1 www.stylebewusst.com
 ::1 stylecgibhacercie.tk
 ::1 www.stylecgibhacercie.tk
+::1 styleettendances.com
+::1 www.styleettendances.com
 ::1 stylefatface.com
 ::1 www.stylefatface.com
 ::1 styleknowledges.rest
@@ -670256,6 +670244,8 @@
 ::1 www.svetleaculviorybe.cf
 ::1 svetnesthalblogee.tk
 ::1 www.svetnesthalblogee.tk
+::1 svetozar.org
+::1 www.svetozar.org
 ::1 svetsebgelandma.tk
 ::1 www.svetsebgelandma.tk
 ::1 svetu-sveze.cam
@@ -672558,6 +672548,8 @@
 ::1 www.syngeta.fr
 ::1 synincz.tokyo
 ::1 www.synincz.tokyo
+::1 synizesis.com
+::1 www.synizesis.com
 ::1 synkaworltumett.gq
 ::1 www.synkaworltumett.gq
 ::1 synkerbsnotan.ga
@@ -672878,6 +672870,8 @@
 ::1 www.systemglasssproduce.bar
 ::1 systemgoalsfamilys.biz
 ::1 www.systemgoalsfamilys.biz
+::1 systemgram.com
+::1 www.systemgram.com
 ::1 systemgroupforget.buzz
 ::1 www.systemgroupforget.buzz
 ::1 systemhomebusiness.biz
@@ -675948,8 +675942,6 @@
 ::1 www.taffr.com
 ::1 taffsmatvertileftta.ga
 ::1 www.taffsmatvertileftta.ga
-::1 taffstyle.shop
-::1 www.taffstyle.shop
 ::1 tafibpibedftersong.cf
 ::1 www.tafibpibedftersong.cf
 ::1 taficarfihar.gq
@@ -678144,6 +678136,8 @@
 ::1 www.tamarhongdurchgrav.gq
 ::1 tamarischaussures.fr
 ::1 www.tamarischaussures.fr
+::1 tamarisdanmark.com
+::1 www.tamarisdanmark.com
 ::1 tamarisfr.fr
 ::1 www.tamarisfr.fr
 ::1 tamarisfrance.fr
@@ -680888,6 +680882,8 @@
 ::1 www.tbswc8.cyou
 ::1 tbtb.org.uk
 ::1 www.tbtb.org.uk
+::1 tbtconcept.com
+::1 www.tbtconcept.com
 ::1 tbtqal.rest
 ::1 www.tbtqal.rest
 ::1 tbu47j.cyou
@@ -681844,6 +681840,8 @@
 ::1 www.teamhallsilliocor.ml
 ::1 teamhelle.dk
 ::1 www.teamhelle.dk
+::1 teamlevelsix.com
+::1 www.teamlevelsix.com
 ::1 teammotionsfeltet.dk
 ::1 www.teammotionsfeltet.dk
 ::1 teamnahelpchungsoumu.tk
@@ -682366,6 +682364,8 @@
 ::1 www.techulator.com
 ::1 techvabagsi.cf
 ::1 www.techvabagsi.cf
+::1 techviy.com
+::1 www.techviy.com
 ::1 techwamihabpo.tk
 ::1 www.techwamihabpo.tk
 ::1 techwestposcimoo.tk
@@ -682874,6 +682874,8 @@
 ::1 www.tegmgk.tokyo
 ::1 tegmomi.gq
 ::1 www.tegmomi.gq
+::1 tegmoveis.com.br
+::1 www.tegmoveis.com.br
 ::1 tegnasesatisu.tk
 ::1 www.tegnasesatisu.tk
 ::1 tegogcompjetre.gq
@@ -690608,6 +690610,8 @@
 ::1 www.thedawnwellnesscentre.com
 ::1 thedbestsymtlebpe.tk
 ::1 www.thedbestsymtlebpe.tk
+::1 thedcshoes.com
+::1 www.thedcshoes.com
 ::1 thedealscloset.com
 ::1 www.thedealscloset.com
 ::1 thedecisucheart.cf
@@ -690800,6 +690804,8 @@
 ::1 www.thegossipmaster.com
 ::1 thegraduateexchange.com
 ::1 www.thegraduateexchange.com
+::1 thegrand-outlet.com
+::1 www.thegrand-outlet.com
 ::1 thegriforrapa.ml
 ::1 www.thegriforrapa.ml
 ::1 thegrimembgireffei.cf
@@ -692226,6 +692232,8 @@
 ::1 www.theuchhoosnighbergmyfxsom.cf
 ::1 theugoriboterp.ga
 ::1 www.theugoriboterp.ga
+::1 theumbro.com
+::1 www.theumbro.com
 ::1 theumulmasypm.tk
 ::1 www.theumulmasypm.tk
 ::1 theuniquebargains.com
@@ -693202,6 +693210,8 @@
 ::1 www.thompson-sydney.com
 ::1 thoneelsgantio.tk
 ::1 www.thoneelsgantio.tk
+::1 thongish.store
+::1 www.thongish.store
 ::1 thongmorrasa.gq
 ::1 www.thongmorrasa.gq
 ::1 thongsacapehyrd.tk
@@ -697328,6 +697338,8 @@
 ::1 www.timk.shop
 ::1 timlandbranritdown.tk
 ::1 www.timlandbranritdown.tk
+::1 timmanteau.xyz
+::1 www.timmanteau.xyz
 ::1 timmcineloutrela.cf
 ::1 www.timmcineloutrela.cf
 ::1 timmdilopenli.cf
@@ -697402,8 +697414,6 @@
 ::1 www.timschrisintisul.ga
 ::1 timsmuttanole.ml
 ::1 www.timsmuttanole.ml
-::1 timsneakers.com
-::1 www.timsneakers.com
 ::1 timsrichagolfnet.cf
 ::1 www.timsrichagolfnet.cf
 ::1 timssmothin.ml
@@ -704676,8 +704686,6 @@
 ::1 www.tonickportatabsynch.ga
 ::1 tonies-de.com
 ::1 www.tonies-de.com
-::1 tonies-geschaft.com
-::1 www.tonies-geschaft.com
 ::1 tonies-rabattpreis.com
 ::1 www.tonies-rabattpreis.com
 ::1 tonies-sonderangebot.com
@@ -704882,8 +704890,6 @@
 ::1 www.tool-advisor.fr
 ::1 tool-deals.com
 ::1 www.tool-deals.com
-::1 tool-discount.com
-::1 www.tool-discount.com
 ::1 tool-for-squad.github.io
 ::1 www.tool-for-squad.github.io
 ::1 toolai.io
@@ -705366,8 +705372,6 @@
 ::1 www.topcyclebike.com
 ::1 topdcemamicitop.gq
 ::1 www.topdcemamicitop.gq
-::1 topdealad.com
-::1 www.topdealad.com
 ::1 topdeals-shop.online
 ::1 www.topdeals-shop.online
 ::1 topdepatesupne.gq
@@ -705712,6 +705716,8 @@
 ::1 www.topssurfpadysu.tk
 ::1 topstore1game.com
 ::1 www.topstore1game.com
+::1 topstoreoffer.com
+::1 www.topstoreoffer.com
 ::1 topstories.com.ng
 ::1 www.topstories.com.ng
 ::1 topsulonamkeytron.gq
@@ -707008,6 +707014,8 @@
 ::1 www.tovebazte.ml
 ::1 tovecooferro.cf
 ::1 www.tovecooferro.cf
+::1 tovedaph.cc
+::1 www.tovedaph.cc
 ::1 tovelibenmay.ga
 ::1 www.tovelibenmay.ga
 ::1 tovenecviera.tk
@@ -708634,6 +708642,8 @@
 ::1 www.tradeboa.com
 ::1 tradebreaksfamily.biz
 ::1 www.tradebreaksfamily.biz
+::1 tradecapexapp.com
+::1 www.tradecapexapp.com
 ::1 tradecapital.net
 ::1 www.tradecapital.net
 ::1 tradecapital24.com
@@ -708994,8 +709004,6 @@
 ::1 www.trafeslennacashind.tk
 ::1 trafexinin.tk
 ::1 www.trafexinin.tk
-::1 traffic-c.com
-::1 www.traffic-c.com
 ::1 traffic-gold.com
 ::1 www.traffic-gold.com
 ::1 traffic-links.com
@@ -709140,6 +709148,8 @@
 ::1 www.trahmikuresgo.ml
 ::1 trahpassswapopak.cf
 ::1 www.trahpassswapopak.cf
+::1 trailblazeshop.com
+::1 www.trailblazeshop.com
 ::1 trailblazingfive.xyz
 ::1 www.trailblazingfive.xyz
 ::1 traildellerocche.it
@@ -709902,8 +709912,6 @@
 ::1 www.tranpouldasur.tk
 ::1 tranputryleccons.cf
 ::1 www.tranputryleccons.cf
-::1 tranquildwell.com
-::1 www.tranquildwell.com
 ::1 tranquilm.com
 ::1 www.tranquilm.com
 ::1 tranquiltrove.com
@@ -710078,8 +710086,6 @@
 ::1 www.transleboncoin.fr
 ::1 translucenttb.fr
 ::1 www.translucenttb.fr
-::1 transmarketconssrl.com
-::1 www.transmarketconssrl.com
 ::1 transmissionparts.ee
 ::1 www.transmissionparts.ee
 ::1 transmittedcontagiousbench.com
@@ -711644,8 +711650,6 @@
 ::1 www.trendy-video-app.com
 ::1 trendychaussures.fr
 ::1 www.trendychaussures.fr
-::1 trendyclearance.com
-::1 www.trendyclearance.com
 ::1 trendygh.com
 ::1 www.trendygh.com
 ::1 trendyhoster02k52eqrfs.biz
@@ -711962,6 +711966,8 @@
 ::1 www.treu8b.shop
 ::1 treudata-service.de
 ::1 www.treudata-service.de
+::1 treuhand-cologne.de
+::1 www.treuhand-cologne.de
 ::1 treuhand-consulta.de
 ::1 www.treuhand-consulta.de
 ::1 treuhand-gmbh.com
@@ -713156,8 +713162,6 @@
 ::1 www.trivfulforthquawimblect.tk
 ::1 trivgo.co.uk
 ::1 www.trivgo.co.uk
-::1 trivio-handel.de
-::1 www.trivio-handel.de
 ::1 trivnetelewan.tk
 ::1 www.trivnetelewan.tk
 ::1 trivona.de
@@ -713218,8 +713222,6 @@
 ::1 www.trkkfy.bar
 ::1 trkkk.com
 ::1 www.trkkk.com
-::1 trkpostback.com
-::1 www.trkpostback.com
 ::1 trksp1.com
 ::1 www.trksp1.com
 ::1 trksp2.com
@@ -714692,8 +714694,8 @@
 ::1 www.trustednorx.com
 ::1 trustedparents.com
 ::1 www.trustedparents.com
-::1 trustedshops.store
-::1 www.trustedshops.store
+::1 trustedrxsolutions.com
+::1 www.trustedrxsolutions.com
 ::1 trustedtablets.online
 ::1 www.trustedtablets.online
 ::1 trusteformsapepho.tk
@@ -714734,8 +714736,6 @@
 ::1 www.trustup.online
 ::1 trustus-eu.uk
 ::1 www.trustus-eu.uk
-::1 trustuu.com
-::1 www.trustuu.com
 ::1 trustworthyexisting.com
 ::1 www.trustworthyexisting.com
 ::1 trusty-faultless.nl
@@ -714794,8 +714794,6 @@
 ::1 www.truthstorymatters.de
 ::1 truthsworksunderstands.biz
 ::1 www.truthsworksunderstands.biz
-::1 truthtraff.com
-::1 www.truthtraff.com
 ::1 truthvacoldmentmcomoc.tk
 ::1 www.truthvacoldmentmcomoc.tk
 ::1 truthviolencepoint.biz
@@ -715400,8 +715398,6 @@
 ::1 www.tsryxh.cyou
 ::1 tsskte.bar
 ::1 www.tsskte.bar
-::1 tsssm.com
-::1 www.tsssm.com
 ::1 tstaws.rest
 ::1 www.tstaws.rest
 ::1 tstdxr.bar
@@ -717160,8 +717156,6 @@
 ::1 www.turbolidlcraft.com
 ::1 turbooffer.net
 ::1 www.turbooffer.net
-::1 turboplanter.at
-::1 www.turboplanter.at
 ::1 turborrjudhorshucverb.cf
 ::1 www.turborrjudhorshucverb.cf
 ::1 turbotrends.store
@@ -721760,6 +721754,8 @@
 ::1 www.ubacbeteri.tk
 ::1 ubadadan.tk
 ::1 www.ubadadan.tk
+::1 ubadindies.top
+::1 www.ubadindies.top
 ::1 ubajjm.tokyo
 ::1 www.ubajjm.tokyo
 ::1 ubao.dk
@@ -724008,8 +724004,6 @@
 ::1 www.uhqodv.work
 ::1 uhqp42.cyou
 ::1 www.uhqp42.cyou
-::1 uhqxisqi.shop
-::1 www.uhqxisqi.shop
 ::1 uhr1r.cyou
 ::1 www.uhr1r.cyou
 ::1 uhren-walter.com
@@ -728348,8 +728342,6 @@
 ::1 www.unisoft.xyz
 ::1 unisol.xyz
 ::1 www.unisol.xyz
-::1 unisonmen.de
-::1 www.unisonmen.de
 ::1 unisprinunsidar.ga
 ::1 www.unisprinunsidar.ga
 ::1 unisrarilasberg.tk
@@ -728374,6 +728366,8 @@
 ::1 www.unitechnica.com
 ::1 united-meds.com
 ::1 www.united-meds.com
+::1 uniteddeliveryagency.com
+::1 www.uniteddeliveryagency.com
 ::1 unitednudesale.com
 ::1 www.unitednudesale.com
 ::1 unitedweswing.com
@@ -731094,6 +731088,8 @@
 ::1 www.upocbatwalldven.tk
 ::1 upodgherunisex.gq
 ::1 www.upodgherunisex.gq
+::1 upodontologia.com
+::1 www.upodontologia.com
 ::1 upogtwinvasetz.ga
 ::1 www.upogtwinvasetz.ga
 ::1 upojewym.tk
@@ -731332,8 +731328,6 @@
 ::1 www.upupes.bar
 ::1 upupes.rest
 ::1 www.upupes.rest
-::1 upuplets.com
-::1 www.upuplets.com
 ::1 upuplets.net
 ::1 www.upuplets.net
 ::1 upuppeh.net
@@ -731572,8 +731566,6 @@
 ::1 www.uqrmkdt.work
 ::1 uqrmpr.rest
 ::1 www.uqrmpr.rest
-::1 uqsjmnnr.shop
-::1 www.uqsjmnnr.shop
 ::1 uqsrtn.bar
 ::1 www.uqsrtn.bar
 ::1 uqt08m.cyou
@@ -731820,8 +731812,6 @@
 ::1 www.urbanoutletstores.com
 ::1 urbansneaker.fr
 ::1 www.urbansneaker.fr
-::1 urbanstepzone.cfd
-::1 www.urbanstepzone.cfd
 ::1 urbanthree.eu
 ::1 www.urbanthree.eu
 ::1 urbanvibesretreat.com
@@ -732398,8 +732388,6 @@
 ::1 www.urtrf7.cyou
 ::1 urtseseshuva.tk
 ::1 www.urtseseshuva.tk
-::1 urtyert.com
-::1 www.urtyert.com
 ::1 urtzix.cyou
 ::1 www.urtzix.cyou
 ::1 urtzrsb.tokyo
@@ -732486,8 +732474,6 @@
 ::1 www.urzl.fr
 ::1 urzonaru.xyz
 ::1 www.urzonaru.xyz
-::1 us-billini.shop
-::1 www.us-billini.shop
 ::1 us-darntoughonline.top
 ::1 www.us-darntoughonline.top
 ::1 us-shop.online
@@ -732868,8 +732854,6 @@
 ::1 www.ushaucomgi.cf
 ::1 ushealthonline.online
 ::1 www.ushealthonline.online
-::1 usheebainaut.com
-::1 www.usheebainaut.com
 ::1 usherfetid.com
 ::1 www.usherfetid.com
 ::1 ushermd.work
@@ -733546,6 +733530,8 @@
 ::1 www.utilisateurs-prime.fr
 ::1 utilisation-prime.fr
 ::1 www.utilisation-prime.fr
+::1 utilitech-anhaenger.com
+::1 www.utilitech-anhaenger.com
 ::1 utility-guru-app.com
 ::1 www.utility-guru-app.com
 ::1 utility-tools-lab.github.io
@@ -736884,8 +736870,6 @@
 ::1 www.vacuum-freeze.buzz
 ::1 vacuumed.de
 ::1 www.vacuumed.de
-::1 vacuumintendedinhale.com
-::1 www.vacuumintendedinhale.com
 ::1 vacuumsealerzone.com
 ::1 www.vacuumsealerzone.com
 ::1 vacvoi.tokyo
@@ -737222,8 +737206,6 @@
 ::1 www.valentinocanada.com
 ::1 valentinoslivemusic.nl
 ::1 www.valentinoslivemusic.nl
-::1 valerixo.org
-::1 www.valerixo.org
 ::1 valetoverdue.com
 ::1 www.valetoverdue.com
 ::1 valexorliq.com
@@ -737462,6 +737444,8 @@
 ::1 www.valuing.xyz
 ::1 valurabeauty.com
 ::1 www.valurabeauty.com
+::1 valurabeauty.de
+::1 www.valurabeauty.de
 ::1 valusoho.tk
 ::1 www.valusoho.tk
 ::1 valuuttakauppa.eu
@@ -737748,8 +737732,6 @@
 ::1 www.vanriceemo.tk
 ::1 vanrinfretermoi.cf
 ::1 www.vanrinfretermoi.cf
-::1 vans-osterreich.at
-::1 www.vans-osterreich.at
 ::1 vans-pas-cher.fr
 ::1 www.vans-pas-cher.fr
 ::1 vans-shoes-france.fr
@@ -738212,8 +738194,6 @@
 ::1 www.vatalcessme.ga
 ::1 vatalmeyvo.tk
 ::1 www.vatalmeyvo.tk
-::1 vataminversand24.com
-::1 www.vataminversand24.com
 ::1 vatan.at
 ::1 www.vatan.at
 ::1 vatatingsise.tk
@@ -738470,8 +738450,6 @@
 ::1 www.vay0n7.cyou
 ::1 vaycasino-com.fr
 ::1 www.vaycasino-com.fr
-::1 vayco.de
-::1 www.vayco.de
 ::1 vaydwi.rest
 ::1 www.vaydwi.rest
 ::1 vayela.com
@@ -740762,6 +740740,8 @@
 ::1 www.vbaihx.rest
 ::1 vbajgot.rest
 ::1 www.vbajgot.rest
+::1 vbarefootkaufen.de
+::1 www.vbarefootkaufen.de
 ::1 vbasm.tokyo
 ::1 www.vbasm.tokyo
 ::1 vbatv6n.cyou
@@ -741718,6 +741698,8 @@
 ::1 www.vedhacurteitiocrip.ml
 ::1 vedhvu.rest
 ::1 www.vedhvu.rest
+::1 vediy.fun
+::1 www.vediy.fun
 ::1 vedkco.tokyo
 ::1 www.vedkco.tokyo
 ::1 vedobreatingsin.cf
@@ -742468,6 +742450,8 @@
 ::1 www.velolobby.eu
 ::1 velomandryvo.xyz
 ::1 www.velomandryvo.xyz
+::1 velonawarehouse.com
+::1 www.velonawarehouse.com
 ::1 velora-officiel.fr
 ::1 www.velora-officiel.fr
 ::1 veloracasino.fr
@@ -742674,8 +742658,6 @@
 ::1 www.vendingsavouryalive.com
 ::1 vendis-solutions.de
 ::1 www.vendis-solutions.de
-::1 vendis-solutions.net
-::1 www.vendis-solutions.net
 ::1 vendit24.de
 ::1 www.vendit24.de
 ::1 venditabicidacorsa.it
@@ -742698,8 +742680,6 @@
 ::1 www.vendome-logistique.com
 ::1 vendomesaro.tk
 ::1 www.vendomesaro.tk
-::1 vendorhub.store
-::1 www.vendorhub.store
 ::1 vendormt2.pl
 ::1 www.vendormt2.pl
 ::1 vendosnaclo.shop
@@ -744002,8 +743982,6 @@
 ::1 www.verkaufen-pruf.de
 ::1 verkaufmode.de
 ::1 www.verkaufmode.de
-::1 verkaufpflanzen.com
-::1 www.verkaufpflanzen.com
 ::1 verkawarife.ga
 ::1 www.verkawarife.ga
 ::1 verkehrsbande.com
@@ -744616,6 +744594,8 @@
 ::1 www.versulorea.tk
 ::1 versunernusb.web.app
 ::1 www.versunernusb.web.app
+::1 versuswolf.shop
+::1 www.versuswolf.shop
 ::1 versuvablaybi.tk
 ::1 www.versuvablaybi.tk
 ::1 versvaceapetarma.tk
@@ -746742,8 +746722,6 @@
 ::1 www.vidamanseitab.cf
 ::1 vidaq.de
 ::1 www.vidaq.de
-::1 vidaserenahogar.com
-::1 www.vidaserenahogar.com
 ::1 vidax.fr
 ::1 www.vidax.fr
 ::1 vidcq.de
@@ -747042,8 +747020,6 @@
 ::1 www.videossa.com
 ::1 videossexohdtv.com
 ::1 www.videossexohdtv.com
-::1 videotapewagon.com
-::1 www.videotapewagon.com
 ::1 videotherapy.com
 ::1 www.videotherapy.com
 ::1 videotrashtube.mobi
@@ -747968,6 +747944,8 @@
 ::1 www.vignettegouv.fr
 ::1 vignetten.gettookun.com
 ::1 www.vignetten.gettookun.com
+::1 vignetten.holidayfreebie.com
+::1 www.vignetten.holidayfreebie.com
 ::1 vignettesairgouv.fr
 ::1 www.vignettesairgouv.fr
 ::1 vignobles-terroirs.com
@@ -754480,8 +754458,6 @@
 ::1 www.vinylcasino-officiel.fr
 ::1 vinylcasinoenligne.fr
 ::1 www.vinylcasinoenligne.fr
-::1 vinylcollectordepop.shop
-::1 www.vinylcollectordepop.shop
 ::1 vioary.com
 ::1 www.vioary.com
 ::1 viobravwiepromem.ml
@@ -754802,8 +754778,6 @@
 ::1 www.vip-xxxx-top.xyz
 ::1 vip.af
 ::1 www.vip.af
-::1 vip.frontiermarket.icu
-::1 www.vip.frontiermarket.icu
 ::1 vip.ru.com
 ::1 www.vip.ru.com
 ::1 vip1327sexcams.xyz
@@ -754904,8 +754878,6 @@
 ::1 www.vipafutorlosa.ga
 ::1 vipaid.cn
 ::1 www.vipaid.cn
-::1 vipaksideu.com
-::1 www.vipaksideu.com
 ::1 vipalbeito.cf
 ::1 www.vipalbeito.cf
 ::1 viparsouthbci.gq
@@ -755240,6 +755212,8 @@
 ::1 www.virodomenseu.tk
 ::1 vironiquenocquet.com
 ::1 www.vironiquenocquet.com
+::1 viroset.store
+::1 www.viroset.store
 ::1 virphjx.cyou
 ::1 www.virphjx.cyou
 ::1 virrcoorddowncobulre.ga
@@ -755454,6 +755428,8 @@
 ::1 www.visio-nte.fr
 ::1 visioconference-videoconference.com
 ::1 www.visioconference-videoconference.com
+::1 vision-fs.com
+::1 www.vision-fs.com
 ::1 vision-tech.org
 ::1 www.vision-tech.org
 ::1 vision8.dk
@@ -756216,8 +756192,6 @@
 ::1 www.vivobarefootsaleoutlet.de
 ::1 vivobarefootshoesparis.fr
 ::1 www.vivobarefootshoesparis.fr
-::1 vivobarefootshopberlin.de
-::1 www.vivobarefootshopberlin.de
 ::1 vivobarefootwien.at
 ::1 www.vivobarefootwien.at
 ::1 vivomadstisur.tk
@@ -756860,8 +756834,6 @@
 ::1 www.vlcx5rh.tokyo
 ::1 vld5bh.tokyo
 ::1 www.vld5bh.tokyo
-::1 vldep.lat
-::1 www.vldep.lat
 ::1 vldgcn.tokyo
 ::1 www.vldgcn.tokyo
 ::1 vldhble.bar
@@ -757826,8 +757798,6 @@
 ::1 www.vogueegs.com
 ::1 voguefancy.com
 ::1 www.voguefancy.com
-::1 vogueretailus.com
-::1 www.vogueretailus.com
 ::1 voguewelt.de
 ::1 www.voguewelt.de
 ::1 voguezeitberlin.store
@@ -758190,6 +758160,8 @@
 ::1 www.volerenotur.tk
 ::1 volerio.de
 ::1 www.volerio.de
+::1 volex.io
+::1 www.volex.io
 ::1 volfelogretur.gq
 ::1 www.volfelogretur.gq
 ::1 volgbuslijumso.ml
@@ -758224,8 +758196,6 @@
 ::1 www.volkconocudesk.cf
 ::1 volkdeccomopmann.tk
 ::1 www.volkdeccomopmann.tk
-::1 volkeep.de
-::1 www.volkeep.de
 ::1 volker-kirchgeorg.de
 ::1 www.volker-kirchgeorg.de
 ::1 volkersfit.nl
@@ -758636,8 +758606,6 @@
 ::1 www.vornasushols.tk
 ::1 vorneothersepc.tk
 ::1 www.vorneothersepc.tk
-::1 vornethpro.at
-::1 www.vornethpro.at
 ::1 voroda.de
 ::1 www.voroda.de
 ::1 vorodscamessurol.tk
@@ -760266,8 +760234,6 @@
 ::1 www.vsryox.rest
 ::1 vss3gov.tokyo
 ::1 www.vss3gov.tokyo
-::1 vssaleonline-us.shop
-::1 www.vssaleonline-us.shop
 ::1 vssfkyn.bar
 ::1 www.vssfkyn.bar
 ::1 vsshv58.tokyo
@@ -760926,8 +760892,6 @@
 ::1 www.vut42q8.tokyo
 ::1 vutepifidolo.gq
 ::1 www.vutepifidolo.gq
-::1 vutereck.com
-::1 www.vutereck.com
 ::1 vutgmrk.bar
 ::1 www.vutgmrk.bar
 ::1 vutgmrk.rest
@@ -763682,8 +763646,6 @@
 ::1 www.wacabulnasongend.tk
 ::1 wacacintsi.ga
 ::1 www.wacacintsi.ga
-::1 wacaco.co.at
-::1 www.wacaco.co.at
 ::1 wacalrilema.tk
 ::1 www.wacalrilema.tk
 ::1 wacashighcorpoca.cf
@@ -765290,8 +765252,6 @@
 ::1 www.warenkurator.com
 ::1 warenmarkt24.com
 ::1 www.warenmarkt24.com
-::1 warenmax.com
-::1 www.warenmax.com
 ::1 warenreharlaudres.cf
 ::1 www.warenreharlaudres.cf
 ::1 warenweltpro.com
@@ -765362,10 +765322,10 @@
 ::1 www.warmblesadwraspig.tk
 ::1 warmdisraymar.tk
 ::1 www.warmdisraymar.tk
-::1 warme-quelle.com
-::1 www.warme-quelle.com
 ::1 warmeholze.de
 ::1 www.warmeholze.de
+::1 warmeholzhaus.com
+::1 www.warmeholzhaus.com
 ::1 warmeluxe.com
 ::1 www.warmeluxe.com
 ::1 warmer.ai
@@ -765408,8 +765368,6 @@
 ::1 www.warmthelapse.com
 ::1 warmthless.best
 ::1 www.warmthless.best
-::1 warmthota.com
-::1 www.warmthota.com
 ::1 warmthsta.com
 ::1 www.warmthsta.com
 ::1 warmthvo.com
@@ -765418,6 +765376,8 @@
 ::1 www.warmtistpharnidula.cf
 ::1 warmtofeadowsfitwa.cf
 ::1 www.warmtofeadowsfitwa.cf
+::1 warmundholz.com
+::1 www.warmundholz.com
 ::1 warmuzzparnada.gq
 ::1 www.warmuzzparnada.gq
 ::1 warmvp.tokyo
@@ -766306,8 +766266,6 @@
 ::1 www.watchchrono.fr
 ::1 watchcod-ca.shop
 ::1 www.watchcod-ca.shop
-::1 watchcod-en.shop
-::1 www.watchcod-en.shop
 ::1 watchcod-hr.shop
 ::1 www.watchcod-hr.shop
 ::1 watchcod-nz.shop
@@ -766882,6 +766840,8 @@
 ::1 www.waxr.fr
 ::1 waxwmt.tokyo
 ::1 www.waxwmt.tokyo
+::1 way-re.com
+::1 www.way-re.com
 ::1 way.center
 ::1 www.way.center
 ::1 way2host38egmwb2.biz
@@ -767864,6 +767824,8 @@
 ::1 www.wczxwt.tokyo
 ::1 wczzyl.bar
 ::1 www.wczzyl.bar
+::1 wd-agentur.de
+::1 www.wd-agentur.de
 ::1 wd0as3.rest
 ::1 www.wd0as3.rest
 ::1 wd1ikp0.tokyo
@@ -768350,8 +768312,6 @@
 ::1 www.wearecitizens.nl
 ::1 wearegiftsonline.buzz
 ::1 www.wearegiftsonline.buzz
-::1 weareholy.shop
-::1 www.weareholy.shop
 ::1 wearekarta.tk
 ::1 www.wearekarta.tk
 ::1 wearekinglife.com
@@ -768418,8 +768378,6 @@
 ::1 www.weaticontflatinlai.ga
 ::1 weavelurkwiden.com
 ::1 www.weavelurkwiden.com
-::1 weaversprinkle.com
-::1 www.weaversprinkle.com
 ::1 weavintory.com
 ::1 www.weavintory.com
 ::1 web-account.fr
@@ -768892,8 +768850,6 @@
 ::1 www.weberstyle.de
 ::1 weberundalbrecht.de
 ::1 www.weberundalbrecht.de
-::1 weberwien.at
-::1 www.weberwien.at
 ::1 webespace-securpass-sg-assurances.fr
 ::1 www.webespace-securpass-sg-assurances.fr
 ::1 webespaceclient.fr
@@ -769334,8 +769290,6 @@
 ::1 www.webtrader.nuxeros.app
 ::1 webtrader.quantiumax.net
 ::1 www.webtrader.quantiumax.net
-::1 webtrader.unfaileryx-worlmeix.com
-::1 www.webtrader.unfaileryx-worlmeix.com
 ::1 webtransportes.com.br
 ::1 www.webtransportes.com.br
 ::1 webtronite.net
@@ -770122,6 +770076,8 @@
 ::1 www.weinarpegibo.ml
 ::1 weinbau-wiltschkor.shop
 ::1 www.weinbau-wiltschkor.shop
+::1 weinbergmunchen.de
+::1 www.weinbergmunchen.de
 ::1 weinblattfamily.buzz
 ::1 www.weinblattfamily.buzz
 ::1 weincombo.com
@@ -770656,6 +770612,8 @@
 ::1 www.welshcorgicardigan.eu
 ::1 welt-der-drohnen-und-hubschrauber.de
 ::1 www.welt-der-drohnen-und-hubschrauber.de
+::1 welta.pro
+::1 www.welta.pro
 ::1 weltanonpersri.tk
 ::1 www.weltanonpersri.tk
 ::1 weltapotheko.shop
@@ -771122,8 +771080,6 @@
 ::1 www.wertovia.com
 ::1 wertponneocrouchal.tk
 ::1 www.wertponneocrouchal.tk
-::1 wertpuls.de
-::1 www.wertpuls.de
 ::1 wertroranohosp.tk
 ::1 www.wertroranohosp.tk
 ::1 werturealtist.tk
@@ -772872,8 +772828,6 @@
 ::1 www.whitditicalli.tk
 ::1 white-pussy.top
 ::1 www.white-pussy.top
-::1 whiteacehealthcare.uk
-::1 www.whiteacehealthcare.uk
 ::1 whitebearstore.pl
 ::1 www.whitebearstore.pl
 ::1 whiteclick.biz
@@ -773002,6 +772956,8 @@
 ::1 www.whlia.rest
 ::1 whlpq.rest
 ::1 www.whlpq.rest
+::1 whlshop.com
+::1 www.whlshop.com
 ::1 whltqpn.bar
 ::1 www.whltqpn.bar
 ::1 whlxuo.tokyo
@@ -774004,6 +773960,8 @@
 ::1 www.wilchnespiacouback.tk
 ::1 wilcobbsucyl.gq
 ::1 www.wilcobbsucyl.gq
+::1 wilcombree.com
+::1 www.wilcombree.com
 ::1 wild-casino.fr
 ::1 www.wild-casino.fr
 ::1 wild-casinos.fr
@@ -774126,8 +774084,6 @@
 ::1 www.wildelicom.tk
 ::1 wildemesser.de
 ::1 www.wildemesser.de
-::1 wildflowercasesphilippines.com
-::1 www.wildflowercasesphilippines.com
 ::1 wildfortune-casino.fr
 ::1 www.wildfortune-casino.fr
 ::1 wildfortune.fr
@@ -774518,8 +774474,6 @@
 ::1 www.willmansprogram.biz
 ::1 willms-forsttechnik.de
 ::1 www.willms-forsttechnik.de
-::1 willmsshop.com
-::1 www.willmsshop.com
 ::1 willoilsareaespecially.buzz
 ::1 www.willoilsareaespecially.buzz
 ::1 willpalavelpperit.tk
@@ -779100,8 +779054,12 @@
 ::1 www.wohjmb.cyou
 ::1 wohlfuehl-toys.de
 ::1 www.wohlfuehl-toys.de
+::1 wohlina.de
+::1 www.wohlina.de
 ::1 wohliversulu.ml
 ::1 www.wohliversulu.ml
+::1 wohlivia.de
+::1 www.wohlivia.de
 ::1 wohlrab-handel.de
 ::1 www.wohlrab-handel.de
 ::1 wohlseinmarkt.de
@@ -779116,16 +779074,12 @@
 ::1 www.wohnelektro.com
 ::1 wohnen-diy.com
 ::1 www.wohnen-diy.com
-::1 wohnenrabatt.com
-::1 www.wohnenrabatt.com
 ::1 wohnfinden.com
 ::1 www.wohnfinden.com
 ::1 wohngartenshop.de
 ::1 www.wohngartenshop.de
 ::1 wohnish.de
 ::1 www.wohnish.de
-::1 wohnlichkeiterschaffen.com
-::1 www.wohnlichkeiterschaffen.com
 ::1 wohnlichtshop.com
 ::1 www.wohnlichtshop.com
 ::1 wohnliebe-berlin.de
@@ -779286,6 +779240,8 @@
 ::1 www.wolfmentsaturpe.ga
 ::1 wolfminehegel.cf
 ::1 www.wolfminehegel.cf
+::1 wolfmode.de
+::1 www.wolfmode.de
 ::1 wolfmusaloutgu.tk
 ::1 www.wolfmusaloutgu.tk
 ::1 wolfnungrable.cf
@@ -779310,6 +779266,8 @@
 ::1 www.wolfscasino.fr
 ::1 wolfsporwerbker.gq
 ::1 www.wolfsporwerbker.gq
+::1 wolftoothbike.com
+::1 www.wolftoothbike.com
 ::1 wolftowscgiserdar.cf
 ::1 www.wolftowscgiserdar.cf
 ::1 wolfwestvercadamo.tk
@@ -780640,8 +780598,6 @@
 ::1 www.workdatesheitrab.cf
 ::1 workdaysdayexperts.de
 ::1 www.workdaysdayexperts.de
-::1 workdeadlinededicate.com
-::1 www.workdeadlinededicate.com
 ::1 workdecharrubin.tk
 ::1 www.workdecharrubin.tk
 ::1 workdemire.gq
@@ -784670,8 +784626,6 @@
 ::1 www.wwnfgc.bar
 ::1 wwngsz.rest
 ::1 www.wwngsz.rest
-::1 wwnholzhandel-de.com
-::1 www.wwnholzhandel-de.com
 ::1 wwnj61.cyou
 ::1 www.wwnj61.cyou
 ::1 wwnqhp.tokyo
@@ -789080,8 +789034,6 @@
 ::1 www.xcqzh.rest
 ::1 xcrb1o6.cyou
 ::1 www.xcrb1o6.cyou
-::1 xcren.shop
-::1 www.xcren.shop
 ::1 xcroi7.cyou
 ::1 www.xcroi7.cyou
 ::1 xcryptotrading.com
@@ -791998,8 +791950,6 @@
 ::1 www.xlolorg.xyz
 ::1 xloowjt.rest
 ::1 www.xloowjt.rest
-::1 xlorventa.shop
-::1 www.xlorventa.shop
 ::1 xlotcoxd.tokyo
 ::1 www.xlotcoxd.tokyo
 ::1 xlp6su.cyou
@@ -792794,6 +792744,8 @@
 ::1 www.xn--axa-mutuelle-sant-rtb.fr
 ::1 xn--axa-scurisation-fnb.fr
 ::1 www.xn--axa-scurisation-fnb.fr
+::1 xn--axelarigatokbenhavn-67b.com
+::1 www.xn--axelarigatokbenhavn-67b.com
 ::1 xn--b1aaamig2an5a7g.xn--p1ai
 ::1 www.xn--b1aaamig2an5a7g.xn--p1ai
 ::1 xn--b1aeba0cci.kz
@@ -794300,8 +794252,6 @@
 ::1 www.xnup6.tokyo
 ::1 xnup7zj.tokyo
 ::1 www.xnup7zj.tokyo
-::1 xnvest.com
-::1 www.xnvest.com
 ::1 xnw3v1.cyou
 ::1 www.xnw3v1.cyou
 ::1 xnw90v.tokyo
@@ -796122,8 +796072,6 @@
 ::1 www.xtascw.cn
 ::1 xtayiml.tokyo
 ::1 www.xtayiml.tokyo
-::1 xtb-partner.com
-::1 www.xtb-partner.com
 ::1 xtb3iwc.work
 ::1 www.xtb3iwc.work
 ::1 xtb77o.cyou
@@ -802302,8 +802250,6 @@
 ::1 www.yeejaa.xyz
 ::1 yeelight.si
 ::1 www.yeelight.si
-::1 yeesshh.com
-::1 www.yeesshh.com
 ::1 yeetcasino.fr
 ::1 www.yeetcasino.fr
 ::1 yeewei.xyz
@@ -805780,8 +805726,6 @@
 ::1 www.yiqianzhao.com
 ::1 yiqimai.info
 ::1 www.yiqimai.info
-::1 yiqixiuba.com
-::1 www.yiqixiuba.com
 ::1 yiqobh.tokyo
 ::1 www.yiqobh.tokyo
 ::1 yiqqcd.tokyo
@@ -806066,8 +806010,6 @@
 ::1 www.yjrlwn.tokyo
 ::1 yjrmbs.tokyo
 ::1 www.yjrmbs.tokyo
-::1 yjrrkocn.shop
-::1 www.yjrrkocn.shop
 ::1 yjrrul.shop
 ::1 www.yjrrul.shop
 ::1 yjrucn.cyou
@@ -807832,6 +807774,8 @@
 ::1 www.yorkbootsshop.de
 ::1 yorkshireman.best
 ::1 www.yorkshireman.best
+::1 yorky.site
+::1 www.yorky.site
 ::1 yorpth.tokyo
 ::1 www.yorpth.tokyo
 ::1 yorrp.yt
@@ -811708,8 +811652,6 @@
 ::1 www.yuanlida.com
 ::1 yuanmacha.com
 ::1 www.yuanmacha.com
-::1 yuanpaygroup.org
-::1 www.yuanpaygroup.org
 ::1 yuanshiyu0820.xn--6qq986b3xl
 ::1 www.yuanshiyu0820.xn--6qq986b3xl
 ::1 yuantaoyun.com
@@ -817362,8 +817304,6 @@
 ::1 www.zalannecen.tk
 ::1 zalanodo.fr
 ::1 www.zalanodo.fr
-::1 zalazowear.nl
-::1 www.zalazowear.nl
 ::1 zalerida.tk
 ::1 www.zalerida.tk
 ::1 zalewadev.pl
@@ -817680,6 +817620,8 @@
 ::1 www.zaritliozintono.tk
 ::1 zarnaceswelscost.ml
 ::1 www.zarnaceswelscost.ml
+::1 zarofia.de
+::1 www.zarofia.de
 ::1 zarofunpotisac.tk
 ::1 www.zarofunpotisac.tk
 ::1 zaroin.xyz
@@ -817806,8 +817748,6 @@
 ::1 www.zavabgutina.ga
 ::1 zavadewabloby.tk
 ::1 www.zavadewabloby.tk
-::1 zavando.de
-::1 www.zavando.de
 ::1 zavant.ai
 ::1 www.zavant.ai
 ::1 zavant.ai
@@ -818990,6 +818930,8 @@
 ::1 www.zeispervernocompprim.tk
 ::1 zeit-modehaus.com
 ::1 www.zeit-modehaus.com
+::1 zeitgeschenen.de
+::1 www.zeitgeschenen.de
 ::1 zeitgunst.com
 ::1 www.zeitgunst.com
 ::1 zeitlosliebe.de
@@ -819360,8 +819302,6 @@
 ::1 www.zeroplay.de
 ::1 zeropoint.cz
 ::1 www.zeropoint.cz
-::1 zeroredirect1.com
-::1 www.zeroredirect1.com
 ::1 zerova.de
 ::1 www.zerova.de
 ::1 zerowastboise.xyz
@@ -819542,8 +819482,6 @@
 ::1 www.zevmhv.rest
 ::1 zevrrd.bar
 ::1 www.zevrrd.bar
-::1 zevs-light.shop
-::1 www.zevs-light.shop
 ::1 zevteqj.cn
 ::1 www.zevteqj.cn
 ::1 zevubaluza.tk
@@ -820744,8 +820682,6 @@
 ::1 www.zibicalithora.gq
 ::1 zibistoukets.be
 ::1 www.zibistoukets.be
-::1 zibitcoin.net
-::1 www.zibitcoin.net
 ::1 zibjcd.bar
 ::1 www.zibjcd.bar
 ::1 zibjvv1.cyou
@@ -821116,6 +821052,8 @@
 ::1 www.zing.studio
 ::1 zingbelloyncosat.cf
 ::1 www.zingbelloyncosat.cf
+::1 zingde.shop
+::1 www.zingde.shop
 ::1 zingdisfullnetrere.tk
 ::1 www.zingdisfullnetrere.tk
 ::1 zingritegird.ga
@@ -822162,8 +822100,6 @@
 ::1 www.zlink0.com
 ::1 zlink3.com
 ::1 www.zlink3.com
-::1 zlink9.com
-::1 www.zlink9.com
 ::1 zlinkl.com
 ::1 www.zlinkl.com
 ::1 zlinvm.bar
@@ -823214,8 +823150,6 @@
 ::1 www.zone6turf.fr
 ::1 zoneautopro.com
 ::1 www.zoneautopro.com
-::1 zonedummy.com
-::1 www.zonedummy.com
 ::1 zonefilm.ru
 ::1 www.zonefilm.ru
 ::1 zonepro.net
@@ -823282,8 +823216,6 @@
 ::1 www.zoofortmicisuc.tk
 ::1 zoogeritidi.ml
 ::1 www.zoogeritidi.ml
-::1 zoogwshu.shop
-::1 www.zoogwshu.shop
 ::1 zoohaus-langenhorst.de
 ::1 www.zoohaus-langenhorst.de
 ::1 zoohcpj.cn
@@ -825376,8 +825308,6 @@
 ::1 www.zurbrueggende.com
 ::1 zurecomptenfect.tk
 ::1 www.zurecomptenfect.tk
-::1 zureonglobal.com
-::1 www.zureonglobal.com
 ::1 zureservava.ml
 ::1 www.zureservava.ml
 ::1 zurich.xyz
