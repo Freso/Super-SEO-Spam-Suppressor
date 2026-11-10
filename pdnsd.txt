@@ -32182,6 +32182,7 @@ neg {name=acheracdisanmeapp.tk; types=domain;}
 neg {name=acheref.fr; types=domain;}
 neg {name=achergasbipuzzra.ml; types=domain;}
 neg {name=achete-followers.fr; types=domain;}
+neg {name=acheter-compte-fb.fr; types=domain;}
 neg {name=acheter-compte-snap.fr; types=domain;}
 neg {name=acheter-esim.fr; types=domain;}
 neg {name=acheter-lasix.fr; types=domain;}
@@ -37563,6 +37564,7 @@ neg {name=aliansconsulting.eu; types=domain;}
 neg {name=aliaryan.com; types=domain;}
 neg {name=alias-investissement-ehpad.fr; types=domain;}
 neg {name=aliatokazii.ro; types=domain;}
+neg {name=alibaba24.fr; types=domain;}
 neg {name=alibabacloud.fr; types=domain;}
 neg {name=alibabafrance.fr; types=domain;}
 neg {name=alibabashop.fr; types=domain;}
@@ -39609,6 +39611,7 @@ neg {name=ameli-moncompte-a-jour.fr; types=domain;}
 neg {name=ameli-moncompte-info.fr; types=domain;}
 neg {name=ameli-moncompte.fr; types=domain;}
 neg {name=ameli-mondossier.fr; types=domain;}
+neg {name=ameli-monespace.fr; types=domain;}
 neg {name=ameli-monespacecartevitale.fr; types=domain;}
 neg {name=ameli-monespaceclient.fr; types=domain;}
 neg {name=ameli-monespacepersonnel.fr; types=domain;}
@@ -41671,6 +41674,7 @@ neg {name=angerfondnessspecified.com; types=domain;}
 neg {name=angermaierwiesn.de; types=domain;}
 neg {name=angerrecantpretty.com; types=domain;}
 neg {name=angers-radioloagie.fr; types=domain;}
+neg {name=angershockey.fr; types=domain;}
 neg {name=angersmetropole.fr; types=domain;}
 neg {name=angielski-w-it.pl; types=domain;}
 neg {name=angielskipopolsku.pl; types=domain;}
@@ -69084,6 +69088,7 @@ neg {name=burtluctoolshoupaci.gq; types=domain;}
 neg {name=burtnalindu.tk; types=domain;}
 neg {name=burtocantalawn.ml; types=domain;}
 neg {name=burton-fr.fr; types=domain;}
+neg {name=burton-france.fr; types=domain;}
 neg {name=burton-soldes.fr; types=domain;}
 neg {name=burton.co.at; types=domain;}
 neg {name=burtonde.de; types=domain;}
@@ -74695,6 +74700,7 @@ neg {name=casino-bello.fr; types=domain;}
 neg {name=casino-betify-avis.fr; types=domain;}
 neg {name=casino-betify.fr; types=domain;}
 neg {name=casino-betifyfr.fr; types=domain;}
+neg {name=casino-betnjet.fr; types=domain;}
 neg {name=casino-betonred.fr; types=domain;}
 neg {name=casino-betriot.fr; types=domain;}
 neg {name=casino-betriviera.fr; types=domain;}
@@ -88171,6 +88177,7 @@ neg {name=colanderfinishedimminent.com; types=domain;}
 neg {name=colandermeasured.com; types=domain;}
 neg {name=colas-digital-solutions.fr; types=domain;}
 neg {name=colas-france-construction.fr; types=domain;}
+neg {name=colas-france-constrution.fr; types=domain;}
 neg {name=colas-france-construtions.fr; types=domain;}
 neg {name=colas-group.fr; types=domain;}
 neg {name=colasgroup.fr; types=domain;}
@@ -134407,6 +134414,7 @@ neg {name=fenmelamavenla.ga; types=domain;}
 neg {name=fenmordmimire.ml; types=domain;}
 neg {name=fenmotesun.gq; types=domain;}
 neg {name=fenna-muller.de; types=domain;}
+neg {name=fennecshop.fr; types=domain;}
 neg {name=fennesepegolf.tk; types=domain;}
 neg {name=fennilixil.cf; types=domain;}
 neg {name=fennumptemutting.tk; types=domain;}
@@ -160820,6 +160828,7 @@ neg {name=hah7.life; types=domain;}
 neg {name=hah8.cn; types=domain;}
 neg {name=hah8.life; types=domain;}
 neg {name=hah9.life; types=domain;}
+neg {name=haha-spin.fr; types=domain;}
 neg {name=hahahahahahahaha-mo.re; types=domain;}
 neg {name=hahaiamandy.com; types=domain;}
 neg {name=hahakonakaki.tk; types=domain;}
@@ -165863,6 +165872,7 @@ neg {name=heavilybeef.com; types=domain;}
 neg {name=heavilymosslilac.com; types=domain;}
 neg {name=heavmis.asia; types=domain;}
 neg {name=heavout.my.id; types=domain;}
+neg {name=heavy-bet.fr; types=domain;}
 neg {name=heavybetcasino.fr; types=domain;}
 neg {name=heavyconsciousnesspanties.com; types=domain;}
 neg {name=heavyfullsheplace.rest; types=domain;}
@@ -167150,6 +167160,7 @@ neg {name=heugraneher.tk; types=domain;}
 neg {name=heuklebliviwil.tk; types=domain;}
 neg {name=heulabnibecore.gq; types=domain;}
 neg {name=heuletisenla.cf; types=domain;}
+neg {name=heuliez.fr; types=domain;}
 neg {name=heumaniqus.ml; types=domain;}
 neg {name=heunarawohlver.tk; types=domain;}
 neg {name=heunecomlou.tk; types=domain;}
@@ -246373,6 +246384,7 @@ neg {name=nighsewisym.ga; types=domain;}
 neg {name=nighskimolexafti.cf; types=domain;}
 neg {name=nighsolilickser.ga; types=domain;}
 neg {name=nighsorpblazerskuzom.tk; types=domain;}
+neg {name=night-luck.fr; types=domain;}
 neg {name=nightaddresssmonth.de; types=domain;}
 neg {name=nightaholdderswea.gq; types=domain;}
 neg {name=nightbilldrawpoint.biz; types=domain;}
@@ -321344,6 +321356,7 @@ neg {name=slotsangelscasino.fr; types=domain;}
 neg {name=slotscity.fr; types=domain;}
 neg {name=slotsdjj.fr; types=domain;}
 neg {name=slotseatercasino.fr; types=domain;}
+neg {name=slotsfr.fr; types=domain;}
 neg {name=slotsgarden-casino.fr; types=domain;}
 neg {name=slotsgemcasino.fr; types=domain;}
 neg {name=slotshark.fr; types=domain;}
