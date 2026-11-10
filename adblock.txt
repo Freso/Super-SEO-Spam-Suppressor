@@ -96522,6 +96522,7 @@
 ||crystaldiskinfo.com^$document
 ||crystaldiskinfo.fr^$document
 ||crystaldiskmark.fr^$document
+||crystalli.de^$document
 ||crystallinks.com^$document
 ||crysterolong.cf^$document
 ||crystesovimimi.tk^$document
@@ -109064,6 +109065,7 @@
 ||discount-audio-equipment.com^$document
 ||discount-autosport.fr^$document
 ||discount-baustoff.de^$document
+||discount-cigarettes-store.net^$document
 ||discount-distributors.buzz^$document
 ||discount-kobalt.com^$document
 ||discount-lightingshop.com^$document
@@ -128769,6 +128771,7 @@
 ||euzpded.tokyo^$document
 ||euzrxx.shop^$document
 ||euzxlk4.cyou^$document
+||ev-farm.com^$document
 ||ev0frdz.tokyo^$document
 ||ev26dm-societegenerale.fr^$document
 ||ev2to4n.work^$document
@@ -147458,7 +147461,6 @@
 ||gartenfuhrer.de^$document
 ||gartenfurdu.de^$document
 ||gartengenussde.com^$document
-||gartengeraete-shop.de^$document
 ||gartengluecklich.de^$document
 ||gartenguenter.de^$document
 ||gartenhandel-poltermann.de^$document
@@ -166360,6 +166362,7 @@
 ||heidelbergfrancesas.fr^$document
 ||heidertivites.tk^$document
 ||heidetirimalcei.tk^$document
+||heidi-mode.de^$document
 ||heididur.tk^$document
 ||heidingskinelecog.ml^$document
 ||heidrogincoti.tk^$document
@@ -231089,6 +231092,7 @@
 ||mivossgvps.xyz^$document
 ||mivoxa.de^$document
 ||mivoyvl.tokyo^$document
+||mivoza.de^$document
 ||mivrex.com^$document
 ||mivtgy.cyou^$document
 ||mivutuqejese.tk^$document
@@ -232310,6 +232314,7 @@
 ||modeboutiqueweber.de^$document
 ||modedeu.com^$document
 ||modedisne.de^$document
+||modefest.de^$document
 ||modegocifa.ga^$document
 ||modegonessrcaf.ga^$document
 ||modehaus-dresden.com^$document
@@ -293826,6 +293831,7 @@
 ||rdnffh.cyou^$document
 ||rdnkvqp.tokyo^$document
 ||rdoctolib.fr^$document
+||rdoering.de^$document
 ||rdolqm.tokyo^$document
 ||rdpas38.tokyo^$document
 ||rdpc4u3.tokyo^$document
@@ -305971,7 +305977,6 @@
 ||ruchilnimattgun.tk^$document
 ||rucipinagi.tk^$document
 ||rucircbeencdeaddown.tk^$document
-||ruckgabe.heidi-mode.de^$document
 ||ruckgadoukohor.tk^$document
 ||rucklighgeforsemb.gq^$document
 ||rucknithelirocro.tk^$document
@@ -403881,6 +403886,7 @@
 ||yonzdy.rest^$document
 ||yoo4c3.cyou^$document
 ||yoocaa.com^$document
+||yoohal.com^$document
 ||yoohoo.cards^$document
 ||yoohoo.cards^$document
 ||yoolle.com^$document
@@ -408895,6 +408901,7 @@
 ||zauxisesourli.tk^$document
 ||zavabgutina.ga^$document
 ||zavadewabloby.tk^$document
+||zavando.de^$document
 ||zavant.ai^$document
 ||zavant.ai^$document
 ||zaveae.tokyo^$document
