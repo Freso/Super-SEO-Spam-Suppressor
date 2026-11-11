@@ -45489,6 +45489,7 @@
 ||aritntinchang.ml^$document
 ||aritziafr.fr^$document
 ||aritziafrance.fr^$document
+||aritziaoutlet.fr^$document
 ||arivalunti.ml^$document
 ||arivlofeford.tk^$document
 ||ariwicwatme.ml^$document
@@ -74710,6 +74711,7 @@
 ||cashedcasinos.fr^$document
 ||cashedd.fr^$document
 ||cashedenligne.fr^$document
+||cashedfr.fr^$document
 ||cashedfrance.fr^$document
 ||casheds.fr^$document
 ||cashexpres.fr^$document
@@ -75583,6 +75585,7 @@
 ||casinostonevegas.fr^$document
 ||casinosupremefrancais.fr^$document
 ||casinosvegasplus.fr^$document
+||casinosvirtuels.fr^$document
 ||casinotalismania.fr^$document
 ||casinotemple.fr^$document
 ||casinotikitakaenligne.fr^$document
@@ -95393,10 +95396,15 @@
 ||cresus-enligne-fr.fr^$document
 ||cresus-enligne-france.fr^$document
 ||cresus-enligne.fr^$document
+||cresus-fr-online.fr^$document
 ||cresus-fr.fr^$document
 ||cresus-game.fr^$document
+||cresus-login.fr^$document
 ||cresus-mobile.fr^$document
 ||cresus-officiel.fr^$document
+||cresus-online-fr.fr^$document
+||cresus-online.fr^$document
+||cresus-play-fr.fr^$document
 ||cresus-promo.fr^$document
 ||cresus-vip-france.fr^$document
 ||cresus2.fr^$document
@@ -106148,6 +106156,7 @@
 ||dgfip-lyon.fr^$document
 ||dgfip-portail.fr^$document
 ||dgfip-service.fr^$document
+||dgfip-tva.fr^$document
 ||dgfip-var.fr^$document
 ||dgfip94.fr^$document
 ||dgfipay.fr^$document
@@ -128121,7 +128130,6 @@
 ||etic-managers.eu^$document
 ||eticketshop.fr^$document
 ||eticketswap.fr^$document
-||eticketsy.com^$document
 ||eticticheckplan.ga^$document
 ||etictitireb.ga^$document
 ||etidev.bar^$document
@@ -154861,6 +154869,7 @@
 ||googleesercontent.com^$document
 ||googlef.fr^$document
 ||googlefish.com^$document
+||googlefrance.fr^$document
 ||googlegoogle.fr^$document
 ||googleia.fr^$document
 ||googleidle.de^$document
@@ -163712,6 +163721,7 @@
 ||hasalzpytnamahle.ml^$document
 ||hasaprivatemessage.com^$document
 ||hasatervela.tk^$document
+||hasbrofrance.fr^$document
 ||hasbtantnessnehlu.gq^$document
 ||hasco.fr^$document
 ||hasdogihd.me^$document
@@ -169019,7 +169029,6 @@
 ||hjykmy.shop^$document
 ||hjyops.bar^$document
 ||hjyr.com.cn^$document
-||hjz-handel.de^$document
 ||hjzamz.rest^$document
 ||hjzgmwl.cyou^$document
 ||hjzino.rest^$document
@@ -189096,6 +189105,7 @@
 ||jetnat.tokyo^$document
 ||jetnolinomis.tk^$document
 ||jetnxubrl.xyz^$document
+||jeton-fortnite.fr^$document
 ||jeton-rouge-casino.fr^$document
 ||jeton-rouge-fr.fr^$document
 ||jeton-rouge-france.fr^$document
@@ -212070,6 +212080,7 @@
 ||lindramrigipa.cf^$document
 ||lindresfiereregot.tk^$document
 ||lindteccamoletca.tk^$document
+||lindtfrance.fr^$document
 ||lindtihighcomcantca.tk^$document
 ||lindtowntoolole.tk^$document
 ||lindvedknallertcenter.dk^$document
@@ -231874,7 +231885,6 @@
 ||mnrxznt.bar^$document
 ||mnserver1.com^$document
 ||mnsf.net^$document
-||mnsnyavp.shop^$document
 ||mnsx7t.tokyo^$document
 ||mntadf.rest^$document
 ||mntasest.lol^$document
@@ -238562,6 +238572,7 @@
 ||myesiggumul.tk^$document
 ||myesim.fr^$document
 ||myespitinlade.tk^$document
+||myespressolab.com^$document
 ||myestate.xyz^$document
 ||myetemptu.gq^$document
 ||myetigmilane.tk^$document
@@ -253889,7 +253900,6 @@
 ||obockecudddi.gq^$document
 ||oboczcr.tokyo^$document
 ||oboena-selection.de^$document
-||obolapvw.shop^$document
 ||obolbiokanterchyd.ga^$document
 ||obominmon.tk^$document
 ||obomtabdesensou.tk^$document
@@ -295936,6 +295946,7 @@
 ||regularisation-amende-antai.fr^$document
 ||regularisation-amende.fr^$document
 ||regularisation-amendes.fr^$document
+||regularisation-amiens.fr^$document
 ||regularisation-antai.fr^$document
 ||regularisation-antail.fr^$document
 ||regularisation-banquefrance.fr^$document
@@ -323527,7 +323538,6 @@
 ||snizox.cyou^$document
 ||snj5fi.xyz^$document
 ||snjaii.tokyo^$document
-||snjdueu.shop^$document
 ||snjhzazu.tokyo^$document
 ||snjiaoyu.com^$document
 ||snjmxws.rest^$document
@@ -326676,6 +326686,7 @@
 ||spiinbara.fr^$document
 ||spiinboss.fr^$document
 ||spiingranny.fr^$document
+||spiinogambino.fr^$document
 ||spikalezlabosi.gq^$document
 ||spikanderane.ml^$document
 ||spikanknescasbirth.ml^$document
@@ -326746,6 +326757,7 @@
 ||spin-mama-casinoapp.fr^$document
 ||spin-mama-casinoenligne.fr^$document
 ||spin-mama-fr.fr^$document
+||spin-mama-france.fr^$document
 ||spin-mama-login.fr^$document
 ||spin-mamabet.fr^$document
 ||spin-mamabonus-app.fr^$document
@@ -327063,7 +327075,9 @@
 ||spinmamalogin.fr^$document
 ||spinmamaofficial.fr^$document
 ||spinmamaonline.fr^$document
+||spinmamas-fr.fr^$document
 ||spinmamascasino.fr^$document
+||spinmamasfr.fr^$document
 ||spinmania-casino.fr^$document
 ||spinmaniacasino.fr^$document
 ||spinmayacasino.fr^$document
@@ -328906,6 +328920,7 @@
 ||stake7casinologin.fr^$document
 ||stake7online.fr^$document
 ||stakebetvip.com^$document
+||stakebonus.fr^$document
 ||stakeca.com^$document
 ||stakecas1no.fr^$document
 ||stakecasino-app.fr^$document
@@ -328919,10 +328934,12 @@
 ||stakecasinonl.fr^$document
 ||stakecasinoo.fr^$document
 ||stakecasinosocial.fr^$document
+||stakecode.fr^$document
 ||stakecode.site^$document
 ||staked-casino.fr^$document
 ||staked.fr^$document
 ||stakedcasino.fr^$document
+||stakederetour.fr^$document
 ||stakefr.fr^$document
 ||stakefrance.fr^$document
 ||stakegratuit.fr^$document
@@ -331193,7 +331210,6 @@
 ||store.app-valley.vip^$document
 ||store.elmleigha.com^$document
 ||store.kestrelby.com^$document
-||store.kingslora.com^$document
 ||store.pavridora.com^$document
 ||store.promomesh.com^$document
 ||store.useum.org^$document
@@ -337170,7 +337186,6 @@
 ||t4s0so.cyou^$document
 ||t4sfac.tokyo^$document
 ||t4szis.cyou^$document
-||t4trade.com^$document
 ||t4ul10.shop^$document
 ||t4xocmc.shop^$document
 ||t4xss7.cyou^$document
@@ -353709,6 +353724,7 @@
 ||toyspenchardogschond.ga^$document
 ||toysrus-fr.fr^$document
 ||toysrus-france.fr^$document
+||toysrusfr.fr^$document
 ||toysrutumbrella.com^$document
 ||toysstorojapan.shop^$document
 ||toystars.pl^$document
@@ -380119,7 +380135,6 @@
 ||vsftjm.tokyo^$document
 ||vsftpp.tokyo^$document
 ||vsftuot.tokyo^$document
-||vsgdew.shop^$document
 ||vsgdly.tokyo^$document
 ||vsgood.com^$document
 ||vsgse.bar^$document
@@ -380818,7 +380833,6 @@
 ||vxirtq.bar^$document
 ||vxjctw.tokyo^$document
 ||vxjifx.bar^$document
-||vxjskiy.shop^$document
 ||vxjzgr.tokyo^$document
 ||vxk03ti.cyou^$document
 ||vxk2kse.cyou^$document
@@ -395790,7 +395804,6 @@
 ||xjxyxh.cyou^$document
 ||xjy41fr.tokyo^$document
 ||xjyaxing.ru^$document
-||xjyehli.shop^$document
 ||xjyirmn.bar^$document
 ||xjyjiy.rest^$document
 ||xjyjzq.com^$document

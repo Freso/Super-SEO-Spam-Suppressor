@@ -90974,6 +90974,8 @@
 ::1 www.aritziafr.fr
 ::1 aritziafrance.fr
 ::1 www.aritziafrance.fr
+::1 aritziaoutlet.fr
+::1 www.aritziaoutlet.fr
 ::1 arivalunti.ml
 ::1 www.arivalunti.ml
 ::1 arivlofeford.tk
@@ -149416,6 +149418,8 @@
 ::1 www.cashedd.fr
 ::1 cashedenligne.fr
 ::1 www.cashedenligne.fr
+::1 cashedfr.fr
+::1 www.cashedfr.fr
 ::1 cashedfrance.fr
 ::1 www.cashedfrance.fr
 ::1 casheds.fr
@@ -151162,6 +151166,8 @@
 ::1 www.casinosupremefrancais.fr
 ::1 casinosvegasplus.fr
 ::1 www.casinosvegasplus.fr
+::1 casinosvirtuels.fr
+::1 www.casinosvirtuels.fr
 ::1 casinotalismania.fr
 ::1 www.casinotalismania.fr
 ::1 casinotemple.fr
@@ -190782,14 +190788,24 @@
 ::1 www.cresus-enligne-france.fr
 ::1 cresus-enligne.fr
 ::1 www.cresus-enligne.fr
+::1 cresus-fr-online.fr
+::1 www.cresus-fr-online.fr
 ::1 cresus-fr.fr
 ::1 www.cresus-fr.fr
 ::1 cresus-game.fr
 ::1 www.cresus-game.fr
+::1 cresus-login.fr
+::1 www.cresus-login.fr
 ::1 cresus-mobile.fr
 ::1 www.cresus-mobile.fr
 ::1 cresus-officiel.fr
 ::1 www.cresus-officiel.fr
+::1 cresus-online-fr.fr
+::1 www.cresus-online-fr.fr
+::1 cresus-online.fr
+::1 www.cresus-online.fr
+::1 cresus-play-fr.fr
+::1 www.cresus-play-fr.fr
 ::1 cresus-promo.fr
 ::1 www.cresus-promo.fr
 ::1 cresus-vip-france.fr
@@ -212292,6 +212308,8 @@
 ::1 www.dgfip-portail.fr
 ::1 dgfip-service.fr
 ::1 www.dgfip-service.fr
+::1 dgfip-tva.fr
+::1 www.dgfip-tva.fr
 ::1 dgfip-var.fr
 ::1 www.dgfip-var.fr
 ::1 dgfip94.fr
@@ -256238,8 +256256,6 @@
 ::1 www.eticketshop.fr
 ::1 eticketswap.fr
 ::1 www.eticketswap.fr
-::1 eticketsy.com
-::1 www.eticketsy.com
 ::1 eticticheckplan.ga
 ::1 www.eticticheckplan.ga
 ::1 etictitireb.ga
@@ -309718,6 +309734,8 @@
 ::1 www.googlef.fr
 ::1 googlefish.com
 ::1 www.googlefish.com
+::1 googlefrance.fr
+::1 www.googlefrance.fr
 ::1 googlegoogle.fr
 ::1 www.googlegoogle.fr
 ::1 googleia.fr
@@ -327420,6 +327438,8 @@
 ::1 www.hasaprivatemessage.com
 ::1 hasatervela.tk
 ::1 www.hasatervela.tk
+::1 hasbrofrance.fr
+::1 www.hasbrofrance.fr
 ::1 hasbtantnessnehlu.gq
 ::1 www.hasbtantnessnehlu.gq
 ::1 hasco.fr
@@ -338034,8 +338054,6 @@
 ::1 www.hjyops.bar
 ::1 hjyr.com.cn
 ::1 www.hjyr.com.cn
-::1 hjz-handel.de
-::1 www.hjz-handel.de
 ::1 hjzamz.rest
 ::1 www.hjzamz.rest
 ::1 hjzgmwl.cyou
@@ -378188,6 +378206,8 @@
 ::1 www.jetnolinomis.tk
 ::1 jetnxubrl.xyz
 ::1 www.jetnxubrl.xyz
+::1 jeton-fortnite.fr
+::1 www.jeton-fortnite.fr
 ::1 jeton-rouge-casino.fr
 ::1 www.jeton-rouge-casino.fr
 ::1 jeton-rouge-fr.fr
@@ -424136,6 +424156,8 @@
 ::1 www.lindresfiereregot.tk
 ::1 lindteccamoletca.tk
 ::1 www.lindteccamoletca.tk
+::1 lindtfrance.fr
+::1 www.lindtfrance.fr
 ::1 lindtihighcomcantca.tk
 ::1 www.lindtihighcomcantca.tk
 ::1 lindtowntoolole.tk
@@ -463744,8 +463766,6 @@
 ::1 www.mnserver1.com
 ::1 mnsf.net
 ::1 www.mnsf.net
-::1 mnsnyavp.shop
-::1 www.mnsnyavp.shop
 ::1 mnsx7t.tokyo
 ::1 www.mnsx7t.tokyo
 ::1 mntadf.rest
@@ -477120,6 +477140,8 @@
 ::1 www.myesim.fr
 ::1 myespitinlade.tk
 ::1 www.myespitinlade.tk
+::1 myespressolab.com
+::1 www.myespressolab.com
 ::1 myestate.xyz
 ::1 www.myestate.xyz
 ::1 myetemptu.gq
@@ -507774,8 +507796,6 @@
 ::1 www.oboczcr.tokyo
 ::1 oboena-selection.de
 ::1 www.oboena-selection.de
-::1 obolapvw.shop
-::1 www.obolapvw.shop
 ::1 obolbiokanterchyd.ga
 ::1 www.obolbiokanterchyd.ga
 ::1 obominmon.tk
@@ -591868,6 +591888,8 @@
 ::1 www.regularisation-amende.fr
 ::1 regularisation-amendes.fr
 ::1 www.regularisation-amendes.fr
+::1 regularisation-amiens.fr
+::1 www.regularisation-amiens.fr
 ::1 regularisation-antai.fr
 ::1 www.regularisation-antai.fr
 ::1 regularisation-antail.fr
@@ -647050,8 +647072,6 @@
 ::1 www.snj5fi.xyz
 ::1 snjaii.tokyo
 ::1 www.snjaii.tokyo
-::1 snjdueu.shop
-::1 www.snjdueu.shop
 ::1 snjhzazu.tokyo
 ::1 www.snjhzazu.tokyo
 ::1 snjiaoyu.com
@@ -653348,6 +653368,8 @@
 ::1 www.spiinboss.fr
 ::1 spiingranny.fr
 ::1 www.spiingranny.fr
+::1 spiinogambino.fr
+::1 www.spiinogambino.fr
 ::1 spikalezlabosi.gq
 ::1 www.spikalezlabosi.gq
 ::1 spikanderane.ml
@@ -653488,6 +653510,8 @@
 ::1 www.spin-mama-casinoenligne.fr
 ::1 spin-mama-fr.fr
 ::1 www.spin-mama-fr.fr
+::1 spin-mama-france.fr
+::1 www.spin-mama-france.fr
 ::1 spin-mama-login.fr
 ::1 www.spin-mama-login.fr
 ::1 spin-mamabet.fr
@@ -654122,8 +654146,12 @@
 ::1 www.spinmamaofficial.fr
 ::1 spinmamaonline.fr
 ::1 www.spinmamaonline.fr
+::1 spinmamas-fr.fr
+::1 www.spinmamas-fr.fr
 ::1 spinmamascasino.fr
 ::1 www.spinmamascasino.fr
+::1 spinmamasfr.fr
+::1 www.spinmamasfr.fr
 ::1 spinmania-casino.fr
 ::1 www.spinmania-casino.fr
 ::1 spinmaniacasino.fr
@@ -657808,6 +657836,8 @@
 ::1 www.stake7online.fr
 ::1 stakebetvip.com
 ::1 www.stakebetvip.com
+::1 stakebonus.fr
+::1 www.stakebonus.fr
 ::1 stakeca.com
 ::1 www.stakeca.com
 ::1 stakecas1no.fr
@@ -657834,6 +657864,8 @@
 ::1 www.stakecasinoo.fr
 ::1 stakecasinosocial.fr
 ::1 www.stakecasinosocial.fr
+::1 stakecode.fr
+::1 www.stakecode.fr
 ::1 stakecode.site
 ::1 www.stakecode.site
 ::1 staked-casino.fr
@@ -657842,6 +657874,8 @@
 ::1 www.staked.fr
 ::1 stakedcasino.fr
 ::1 www.stakedcasino.fr
+::1 stakederetour.fr
+::1 www.stakederetour.fr
 ::1 stakefr.fr
 ::1 www.stakefr.fr
 ::1 stakefrance.fr
@@ -662382,8 +662416,6 @@
 ::1 www.store.elmleigha.com
 ::1 store.kestrelby.com
 ::1 www.store.kestrelby.com
-::1 store.kingslora.com
-::1 www.store.kingslora.com
 ::1 store.pavridora.com
 ::1 www.store.pavridora.com
 ::1 store.promomesh.com
@@ -674336,8 +674368,6 @@
 ::1 www.t4sfac.tokyo
 ::1 t4szis.cyou
 ::1 www.t4szis.cyou
-::1 t4trade.com
-::1 www.t4trade.com
 ::1 t4ul10.shop
 ::1 www.t4ul10.shop
 ::1 t4xocmc.shop
@@ -707414,6 +707444,8 @@
 ::1 www.toysrus-fr.fr
 ::1 toysrus-france.fr
 ::1 www.toysrus-france.fr
+::1 toysrusfr.fr
+::1 www.toysrusfr.fr
 ::1 toysrutumbrella.com
 ::1 www.toysrutumbrella.com
 ::1 toysstorojapan.shop
@@ -760234,8 +760266,6 @@
 ::1 www.vsftpp.tokyo
 ::1 vsftuot.tokyo
 ::1 www.vsftuot.tokyo
-::1 vsgdew.shop
-::1 www.vsgdew.shop
 ::1 vsgdly.tokyo
 ::1 www.vsgdly.tokyo
 ::1 vsgood.com
@@ -761632,8 +761662,6 @@
 ::1 www.vxjctw.tokyo
 ::1 vxjifx.bar
 ::1 www.vxjifx.bar
-::1 vxjskiy.shop
-::1 www.vxjskiy.shop
 ::1 vxjzgr.tokyo
 ::1 www.vxjzgr.tokyo
 ::1 vxk03ti.cyou
@@ -791576,8 +791604,6 @@
 ::1 www.xjy41fr.tokyo
 ::1 xjyaxing.ru
 ::1 www.xjyaxing.ru
-::1 xjyehli.shop
-::1 www.xjyehli.shop
 ::1 xjyirmn.bar
 ::1 www.xjyirmn.bar
 ::1 xjyjiy.rest
