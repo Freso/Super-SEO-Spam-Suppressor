@@ -12050,6 +12050,7 @@ local-zone: "3dpapso.shop" always_refuse
 local-zone: "3dpaysecurefacturation.fr" always_refuse
 local-zone: "3dpolska.pl" always_refuse
 local-zone: "3dprintbrothers.xyz" always_refuse
+local-zone: "3dprlnt.fr" always_refuse
 local-zone: "3dptb63h.tokyo" always_refuse
 local-zone: "3dpu05.shop" always_refuse
 local-zone: "3dqqhk.cyou" always_refuse
@@ -64355,6 +64356,7 @@ local-zone: "bonus-point7.life" always_refuse
 local-zone: "bonus-point8.life" always_refuse
 local-zone: "bonus-point9.life" always_refuse
 local-zone: "bonus-stake.fr" always_refuse
+local-zone: "bonus4casino.fr" always_refuse
 local-zone: "bonusbetcasinoapp.fr" always_refuse
 local-zone: "bonusbetcasinobonus.fr" always_refuse
 local-zone: "bonusbetcasinobonus777.fr" always_refuse
@@ -88057,6 +88059,7 @@ local-zone: "coinbase.re" always_refuse
 local-zone: "coinbasen.vip" always_refuse
 local-zone: "coinbasepro.fr" always_refuse
 local-zone: "coinbases.org" always_refuse
+local-zone: "coinbasesupport.fr" always_refuse
 local-zone: "coinbit.xyz" always_refuse
 local-zone: "coinboxtradeoption.com" always_refuse
 local-zone: "coincarre.fr" always_refuse
@@ -105947,6 +105950,7 @@ local-zone: "dgfipfrance.fr" always_refuse
 local-zone: "dgfipgouvfinances.fr" always_refuse
 local-zone: "dgfipgroupe.fr" always_refuse
 local-zone: "dgfipimpot.fr" always_refuse
+local-zone: "dgfipvisio.fr" always_refuse
 local-zone: "dgfkj.tokyo" always_refuse
 local-zone: "dgflip-finance.fr" always_refuse
 local-zone: "dgfoqt.tokyo" always_refuse
@@ -126736,6 +126740,7 @@ local-zone: "espace-acquittement.fr" always_refuse
 local-zone: "espace-activations.fr" always_refuse
 local-zone: "espace-actualisation-assure-enligne.fr" always_refuse
 local-zone: "espace-actualisation.fr" always_refuse
+local-zone: "espace-adherent-ffst.fr" always_refuse
 local-zone: "espace-agricol.fr" always_refuse
 local-zone: "espace-aidesante.fr" always_refuse
 local-zone: "espace-amande.fr" always_refuse
@@ -219099,6 +219104,7 @@ local-zone: "lyqbit.tokyo" always_refuse
 local-zone: "lyqm6k0.cyou" always_refuse
 local-zone: "lyqus.info" always_refuse
 local-zone: "lyr4sz.cyou" always_refuse
+local-zone: "lyra-france.fr" always_refuse
 local-zone: "lyrabetcasino.fr" always_refuse
 local-zone: "lyracasino.fr" always_refuse
 local-zone: "lyravsp.tokyo" always_refuse
@@ -224443,6 +224449,7 @@ local-zone: "mayang.xyz" always_refuse
 local-zone: "maybank2u.mom" always_refuse
 local-zone: "maybank2u.web.id" always_refuse
 local-zone: "maybeadmejuxe.gq" always_refuse
+local-zone: "maybelee-n.fr" always_refuse
 local-zone: "maybelessrichsknowledge.biz" always_refuse
 local-zone: "maybellinefrance.fr" always_refuse
 local-zone: "maybemotherwoman.biz" always_refuse
@@ -227041,7 +227048,9 @@ local-zone: "merknalarecsi.cf" always_refuse
 local-zone: "merksoncha.tk" always_refuse
 local-zone: "merktertioxi.web.app" always_refuse
 local-zone: "merkur-casino.fr" always_refuse
+local-zone: "merkur-casinos.fr" always_refuse
 local-zone: "merkurcasino.fr" always_refuse
+local-zone: "merkurcasinos.fr" always_refuse
 local-zone: "merkwelltoddbepo.ml" always_refuse
 local-zone: "merlaigrapurvedli.ml" always_refuse
 local-zone: "merlamifomu.ml" always_refuse
@@ -249930,6 +249939,7 @@ local-zone: "noveraxcapital.com" always_refuse
 local-zone: "novermessen.de" always_refuse
 local-zone: "noverramatech.tk" always_refuse
 local-zone: "noverrectca.cf" always_refuse
+local-zone: "novesta-fr.fr" always_refuse
 local-zone: "novestas.de" always_refuse
 local-zone: "noveteadram.com" always_refuse
 local-zone: "novexa.sbs" always_refuse
@@ -363872,6 +363882,7 @@ local-zone: "unlumfedi.cf" always_refuse
 local-zone: "unlun.ru" always_refuse
 local-zone: "unlutliaferogvi.ml" always_refuse
 local-zone: "unluvarrea.tk" always_refuse
+local-zone: "unlv-lyon2.fr" always_refuse
 local-zone: "unlying.site" always_refuse
 local-zone: "unma2k.cyou" always_refuse
 local-zone: "unmacfirad.ga" always_refuse
@@ -396149,6 +396160,7 @@ local-zone: "xn--rservation-g7taxi-btb.fr" always_refuse
 local-zone: "xn--rsiliation-esim-sfr-bzb.fr" always_refuse
 local-zone: "xn--rsiliation-prlvement-b2bmb.fr" always_refuse
 local-zone: "xn--rsultat-dpistage-bqbi.fr" always_refuse
+local-zone: "xn--s-mo-5oaa.re" always_refuse
 local-zone: "xn--s-mo-lpaa.re" always_refuse
 local-zone: "xn--sant-ameli-e7a.fr" always_refuse
 local-zone: "xn--sant-amli-e4ad.fr" always_refuse

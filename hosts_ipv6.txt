@@ -24102,6 +24102,8 @@
 ::1 www.3dpolska.pl
 ::1 3dprintbrothers.xyz
 ::1 www.3dprintbrothers.xyz
+::1 3dprlnt.fr
+::1 www.3dprlnt.fr
 ::1 3dptb63h.tokyo
 ::1 www.3dptb63h.tokyo
 ::1 3dpu05.shop
@@ -128974,6 +128976,8 @@
 ::1 www.bonus-point9.life
 ::1 bonus-stake.fr
 ::1 www.bonus-stake.fr
+::1 bonus4casino.fr
+::1 www.bonus4casino.fr
 ::1 bonusbetcasinoapp.fr
 ::1 www.bonusbetcasinoapp.fr
 ::1 bonusbetcasinobonus.fr
@@ -176444,6 +176448,8 @@
 ::1 www.coinbasepro.fr
 ::1 coinbases.org
 ::1 www.coinbases.org
+::1 coinbasesupport.fr
+::1 www.coinbasesupport.fr
 ::1 coinbit.xyz
 ::1 www.coinbit.xyz
 ::1 coinboxtradeoption.com
@@ -212338,6 +212344,8 @@
 ::1 www.dgfipgroupe.fr
 ::1 dgfipimpot.fr
 ::1 www.dgfipimpot.fr
+::1 dgfipvisio.fr
+::1 www.dgfipvisio.fr
 ::1 dgfkj.tokyo
 ::1 www.dgfkj.tokyo
 ::1 dgflip-finance.fr
@@ -254004,6 +254012,8 @@
 ::1 www.espace-actualisation-assure-enligne.fr
 ::1 espace-actualisation.fr
 ::1 www.espace-actualisation.fr
+::1 espace-adherent-ffst.fr
+::1 www.espace-adherent-ffst.fr
 ::1 espace-agricol.fr
 ::1 www.espace-agricol.fr
 ::1 espace-aidesante.fr
@@ -439012,6 +439022,8 @@
 ::1 www.lyqus.info
 ::1 lyr4sz.cyou
 ::1 www.lyr4sz.cyou
+::1 lyra-france.fr
+::1 www.lyra-france.fr
 ::1 lyrabetcasino.fr
 ::1 www.lyrabetcasino.fr
 ::1 lyracasino.fr
@@ -449724,6 +449736,8 @@
 ::1 www.maybank2u.web.id
 ::1 maybeadmejuxe.gq
 ::1 www.maybeadmejuxe.gq
+::1 maybelee-n.fr
+::1 www.maybelee-n.fr
 ::1 maybelessrichsknowledge.biz
 ::1 www.maybelessrichsknowledge.biz
 ::1 maybellinefrance.fr
@@ -454928,8 +454942,12 @@
 ::1 www.merktertioxi.web.app
 ::1 merkur-casino.fr
 ::1 www.merkur-casino.fr
+::1 merkur-casinos.fr
+::1 www.merkur-casinos.fr
 ::1 merkurcasino.fr
 ::1 www.merkurcasino.fr
+::1 merkurcasinos.fr
+::1 www.merkurcasinos.fr
 ::1 merkwelltoddbepo.ml
 ::1 www.merkwelltoddbepo.ml
 ::1 merlaigrapurvedli.ml
@@ -500778,6 +500796,8 @@
 ::1 www.noverramatech.tk
 ::1 noverrectca.cf
 ::1 www.noverrectca.cf
+::1 novesta-fr.fr
+::1 www.novesta-fr.fr
 ::1 novestas.de
 ::1 www.novestas.de
 ::1 noveteadram.com
@@ -729166,6 +729186,8 @@
 ::1 www.unlutliaferogvi.ml
 ::1 unluvarrea.tk
 ::1 www.unluvarrea.tk
+::1 unlv-lyon2.fr
+::1 www.unlv-lyon2.fr
 ::1 unlying.site
 ::1 www.unlying.site
 ::1 unma2k.cyou
@@ -793794,6 +793816,8 @@
 ::1 www.xn--rsiliation-prlvement-b2bmb.fr
 ::1 xn--rsultat-dpistage-bqbi.fr
 ::1 www.xn--rsultat-dpistage-bqbi.fr
+::1 xn--s-mo-5oaa.re
+::1 www.xn--s-mo-5oaa.re
 ::1 xn--s-mo-lpaa.re
 ::1 www.xn--s-mo-lpaa.re
 ::1 xn--sant-ameli-e7a.fr

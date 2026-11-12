@@ -12053,6 +12053,7 @@
 ||3dpaysecurefacturation.fr^$document
 ||3dpolska.pl^$document
 ||3dprintbrothers.xyz^$document
+||3dprlnt.fr^$document
 ||3dptb63h.tokyo^$document
 ||3dpu05.shop^$document
 ||3dqqhk.cyou^$document
@@ -64489,6 +64490,7 @@
 ||bonus-point8.life^$document
 ||bonus-point9.life^$document
 ||bonus-stake.fr^$document
+||bonus4casino.fr^$document
 ||bonusbetcasinoapp.fr^$document
 ||bonusbetcasinobonus.fr^$document
 ||bonusbetcasinobonus777.fr^$document
@@ -88224,6 +88226,7 @@
 ||coinbasen.vip^$document
 ||coinbasepro.fr^$document
 ||coinbases.org^$document
+||coinbasesupport.fr^$document
 ||coinbit.xyz^$document
 ||coinboxtradeoption.com^$document
 ||coincarre.fr^$document
@@ -106171,6 +106174,7 @@
 ||dgfipgouvfinances.fr^$document
 ||dgfipgroupe.fr^$document
 ||dgfipimpot.fr^$document
+||dgfipvisio.fr^$document
 ||dgfkj.tokyo^$document
 ||dgflip-finance.fr^$document
 ||dgfoqt.tokyo^$document
@@ -127004,6 +127008,7 @@
 ||espace-activations.fr^$document
 ||espace-actualisation-assure-enligne.fr^$document
 ||espace-actualisation.fr^$document
+||espace-adherent-ffst.fr^$document
 ||espace-agricol.fr^$document
 ||espace-aidesante.fr^$document
 ||espace-amande.fr^$document
@@ -219508,6 +219513,7 @@
 ||lyqm6k0.cyou^$document
 ||lyqus.info^$document
 ||lyr4sz.cyou^$document
+||lyra-france.fr^$document
 ||lyrabetcasino.fr^$document
 ||lyracasino.fr^$document
 ||lyravsp.tokyo^$document
@@ -224864,6 +224870,7 @@
 ||maybank2u.mom^$document
 ||maybank2u.web.id^$document
 ||maybeadmejuxe.gq^$document
+||maybelee-n.fr^$document
 ||maybelessrichsknowledge.biz^$document
 ||maybellinefrance.fr^$document
 ||maybemotherwoman.biz^$document
@@ -227466,7 +227473,9 @@
 ||merksoncha.tk^$document
 ||merktertioxi.web.app^$document
 ||merkur-casino.fr^$document
+||merkur-casinos.fr^$document
 ||merkurcasino.fr^$document
+||merkurcasinos.fr^$document
 ||merkwelltoddbepo.ml^$document
 ||merlaigrapurvedli.ml^$document
 ||merlamifomu.ml^$document
@@ -250391,6 +250400,7 @@
 ||novermessen.de^$document
 ||noverramatech.tk^$document
 ||noverrectca.cf^$document
+||novesta-fr.fr^$document
 ||novestas.de^$document
 ||noveteadram.com^$document
 ||novexa.sbs^$document
@@ -364585,6 +364595,7 @@
 ||unlun.ru^$document
 ||unlutliaferogvi.ml^$document
 ||unluvarrea.tk^$document
+||unlv-lyon2.fr^$document
 ||unlying.site^$document
 ||unma2k.cyou^$document
 ||unmacfirad.ga^$document
@@ -396899,6 +396910,7 @@
 ||xn--rsiliation-esim-sfr-bzb.fr^$document
 ||xn--rsiliation-prlvement-b2bmb.fr^$document
 ||xn--rsultat-dpistage-bqbi.fr^$document
+||xn--s-mo-5oaa.re^$document
 ||xn--s-mo-lpaa.re^$document
 ||xn--sant-ameli-e7a.fr^$document
 ||xn--sant-amli-e4ad.fr^$document
