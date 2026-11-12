@@ -56630,7 +56630,6 @@
 ||berliner-gartenservice.de^$document
 ||berliner-laden.de^$document
 ||berliner-menschen-helfen.de^$document
-||berlinermode.shop^$document
 ||berlinfog.com^$document
 ||berlinget.com^$document
 ||berlinglamour.de^$document
@@ -59861,6 +59860,7 @@
 ||bikesales.xyz^$document
 ||bikescompetitive.com^$document
 ||bikesdividedbargaining.com^$document
+||bikesexpert-de.com^$document
 ||bikesexpert.shop^$document
 ||bikeshockabsorberde.com^$document
 ||bikeskraft.de^$document
@@ -83888,7 +83888,6 @@
 ||cigakunonsma.ga^$document
 ||cigaphoti.tk^$document
 ||cigarettes-enligne.fr^$document
-||cigarettescigs.com^$document
 ||cigarettestattoo.com^$document
 ||cigarlos.com^$document
 ||cigasuscompwil.tk^$document
@@ -87031,6 +87030,7 @@
 ||clutricuslo.tk^$document
 ||clutucinoren.tk^$document
 ||cluub-internet.fr^$document
+||cluud7.com^$document
 ||cluvm1.tokyo^$document
 ||cluy42.cyou^$document
 ||cluzz4.shop^$document
@@ -147525,6 +147525,7 @@
 ||gartentherapeuten-nord.de^$document
 ||gartentraktor.com^$document
 ||gartenundanhaenger.de^$document
+||gartenundhausmeisterservice.de^$document
 ||gartenundwerkzeug.com^$document
 ||gartenvision2.de^$document
 ||gartenwerkzeugeprofi.com^$document
@@ -153235,6 +153236,7 @@
 ||glutacscapomhou.ml^$document
 ||glutadrops.com^$document
 ||glutaretteraffsnic.tk^$document
+||glutbar.de^$document
 ||glutdisquiroo.tk^$document
 ||glutecusarga.ml^$document
 ||gluteenivabatoit.ee^$document
@@ -154210,6 +154212,7 @@
 ||golden-vegas-fr.fr^$document
 ||golden-vegass.fr^$document
 ||goldenaddict.fr^$document
+||goldenage-trading.com^$document
 ||goldenbayboutiques.com^$document
 ||goldenbet-casino.fr^$document
 ||goldenbet-fr.fr^$document
@@ -182709,6 +182712,7 @@
 ||instructure.re^$document
 ||instrum45lurch.racing^$document
 ||instrumentak.com^$document
+||instrumentenvinyl.com^$document
 ||insturasri.ga^$document
 ||instverifmaj.fr^$document
 ||instverifmaje.fr^$document
@@ -223746,6 +223750,7 @@
 ||marktraverso.com^$document
 ||marktsmart.de^$document
 ||marktzauberbox.com^$document
+||markvexo-ai.com^$document
 ||markvexo.at^$document
 ||markvexoki.at^$document
 ||markw4.cyou^$document
@@ -275491,6 +275496,7 @@
 ||polspusaswihazli.ml^$document
 ||polster-franz.at^$document
 ||polster-franz.de^$document
+||polstersofa.com^$document
 ||polsuvertai.tk^$document
 ||poltava.info^$document
 ||poltekkesjkt2.ac.id^$document
@@ -278134,6 +278140,7 @@
 ||preisrausch24.de^$document
 ||preistech.de^$document
 ||preiswertoutdoor.com^$document
+||preiswohnen.com^$document
 ||prejenimimudas.cf^$document
 ||prejintotidul.tk^$document
 ||prejinwalmova.tk^$document
@@ -291431,6 +291438,7 @@
 ||radizsehaneres.tk^$document
 ||radlajoviraca.tk^$document
 ||radlavitaten.tk^$document
+||radlerfrau.com^$document
 ||radliebeshop.de^$document
 ||radmarkt-schaeler.de^$document
 ||radndakks.gq^$document
@@ -322566,6 +322574,7 @@
 ||smartpointplay.xyz^$document
 ||smartprizestar.xyz^$document
 ||smartpulsamsterdam.nl^$document
+||smartregler.com^$document
 ||smartrewardcenter.xyz^$document
 ||smartrewardequator.xyz^$document
 ||smartrewardglobal.xyz^$document
@@ -324738,6 +324747,7 @@
 ||soleosolemios.com^$document
 ||solepamataro.cf^$document
 ||solern.top^$document
+||solgarag.com^$document
 ||solgdv.rest^$document
 ||solguespasbartarog.cf^$document
 ||solhuvh.bar^$document
@@ -357419,7 +357429,6 @@
 ||trustonlinepharmacy.com^$document
 ||trustpharm.to^$document
 ||trustpharm7pills.com^$document
-||trustpharmsonline.com^$document
 ||trustpilot-fr.fr^$document
 ||trustss.com^$document
 ||trustup.online^$document
@@ -365465,6 +365474,7 @@
 ||updebatde.ml^$document
 ||updesignm.tk^$document
 ||updetigingpo.ml^$document
+||updez.com^$document
 ||updgvmsi.cyou^$document
 ||updhzf.tokyo^$document
 ||updiastorinin.ga^$document
@@ -397935,6 +397945,7 @@
 ||xsbrqnl.tokyo^$document
 ||xscnqv.bar^$document
 ||xscwnt.cyou^$document
+||xsdcmnet.com^$document
 ||xse0bm.cyou^$document
 ||xsec1e.cyou^$document
 ||xseqdp.shop^$document
@@ -403920,6 +403931,7 @@
 ||yonzdy.rest^$document
 ||yoo4c3.cyou^$document
 ||yoocaa.com^$document
+||yoohal.com^$document
 ||yoohoo.cards^$document
 ||yoohoo.cards^$document
 ||yoolle.com^$document

@@ -56631,7 +56631,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.berliner-gartenservice.de/*
 *://*.berliner-laden.de/*
 *://*.berliner-menschen-helfen.de/*
-*://*.berlinermode.shop/*
 *://*.berlinfog.com/*
 *://*.berlinget.com/*
 *://*.berlinglamour.de/*
@@ -59862,6 +59861,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.bikesales.xyz/*
 *://*.bikescompetitive.com/*
 *://*.bikesdividedbargaining.com/*
+*://*.bikesexpert-de.com/*
 *://*.bikesexpert.shop/*
 *://*.bikeshockabsorberde.com/*
 *://*.bikeskraft.de/*
@@ -83889,7 +83889,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.cigakunonsma.ga/*
 *://*.cigaphoti.tk/*
 *://*.cigarettes-enligne.fr/*
-*://*.cigarettescigs.com/*
 *://*.cigarettestattoo.com/*
 *://*.cigarlos.com/*
 *://*.cigasuscompwil.tk/*
@@ -87032,6 +87031,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.clutricuslo.tk/*
 *://*.clutucinoren.tk/*
 *://*.cluub-internet.fr/*
+*://*.cluud7.com/*
 *://*.cluvm1.tokyo/*
 *://*.cluy42.cyou/*
 *://*.cluzz4.shop/*
@@ -147526,6 +147526,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.gartentherapeuten-nord.de/*
 *://*.gartentraktor.com/*
 *://*.gartenundanhaenger.de/*
+*://*.gartenundhausmeisterservice.de/*
 *://*.gartenundwerkzeug.com/*
 *://*.gartenvision2.de/*
 *://*.gartenwerkzeugeprofi.com/*
@@ -153236,6 +153237,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.glutacscapomhou.ml/*
 *://*.glutadrops.com/*
 *://*.glutaretteraffsnic.tk/*
+*://*.glutbar.de/*
 *://*.glutdisquiroo.tk/*
 *://*.glutecusarga.ml/*
 *://*.gluteenivabatoit.ee/*
@@ -154211,6 +154213,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.golden-vegas-fr.fr/*
 *://*.golden-vegass.fr/*
 *://*.goldenaddict.fr/*
+*://*.goldenage-trading.com/*
 *://*.goldenbayboutiques.com/*
 *://*.goldenbet-casino.fr/*
 *://*.goldenbet-fr.fr/*
@@ -182710,6 +182713,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.instructure.re/*
 *://*.instrum45lurch.racing/*
 *://*.instrumentak.com/*
+*://*.instrumentenvinyl.com/*
 *://*.insturasri.ga/*
 *://*.instverifmaj.fr/*
 *://*.instverifmaje.fr/*
@@ -223747,6 +223751,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.marktraverso.com/*
 *://*.marktsmart.de/*
 *://*.marktzauberbox.com/*
+*://*.markvexo-ai.com/*
 *://*.markvexo.at/*
 *://*.markvexoki.at/*
 *://*.markw4.cyou/*
@@ -275492,6 +275497,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.polspusaswihazli.ml/*
 *://*.polster-franz.at/*
 *://*.polster-franz.de/*
+*://*.polstersofa.com/*
 *://*.polsuvertai.tk/*
 *://*.poltava.info/*
 *://*.poltekkesjkt2.ac.id/*
@@ -278135,6 +278141,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.preisrausch24.de/*
 *://*.preistech.de/*
 *://*.preiswertoutdoor.com/*
+*://*.preiswohnen.com/*
 *://*.prejenimimudas.cf/*
 *://*.prejintotidul.tk/*
 *://*.prejinwalmova.tk/*
@@ -291432,6 +291439,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.radizsehaneres.tk/*
 *://*.radlajoviraca.tk/*
 *://*.radlavitaten.tk/*
+*://*.radlerfrau.com/*
 *://*.radliebeshop.de/*
 *://*.radmarkt-schaeler.de/*
 *://*.radndakks.gq/*
@@ -322567,6 +322575,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.smartpointplay.xyz/*
 *://*.smartprizestar.xyz/*
 *://*.smartpulsamsterdam.nl/*
+*://*.smartregler.com/*
 *://*.smartrewardcenter.xyz/*
 *://*.smartrewardequator.xyz/*
 *://*.smartrewardglobal.xyz/*
@@ -324739,6 +324748,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.soleosolemios.com/*
 *://*.solepamataro.cf/*
 *://*.solern.top/*
+*://*.solgarag.com/*
 *://*.solgdv.rest/*
 *://*.solguespasbartarog.cf/*
 *://*.solhuvh.bar/*
@@ -357420,7 +357430,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.trustonlinepharmacy.com/*
 *://*.trustpharm.to/*
 *://*.trustpharm7pills.com/*
-*://*.trustpharmsonline.com/*
 *://*.trustpilot-fr.fr/*
 *://*.trustss.com/*
 *://*.trustup.online/*
@@ -365466,6 +365475,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.updebatde.ml/*
 *://*.updesignm.tk/*
 *://*.updetigingpo.ml/*
+*://*.updez.com/*
 *://*.updgvmsi.cyou/*
 *://*.updhzf.tokyo/*
 *://*.updiastorinin.ga/*
@@ -397936,6 +397946,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.xsbrqnl.tokyo/*
 *://*.xscnqv.bar/*
 *://*.xscwnt.cyou/*
+*://*.xsdcmnet.com/*
 *://*.xse0bm.cyou/*
 *://*.xsec1e.cyou/*
 *://*.xseqdp.shop/*
@@ -403921,6 +403932,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.yonzdy.rest/*
 *://*.yoo4c3.cyou/*
 *://*.yoocaa.com/*
+*://*.yoohal.com/*
 *://*.yoohoo.cards/*
 *://*.yoohoo.cards/*
 *://*.yoolle.com/*
