@@ -63770,6 +63770,8 @@
 ::1 www.accountvalidations.fr
 ::1 accountverify.fr
 ::1 www.accountverify.fr
+::1 accountviva.fr
+::1 www.accountviva.fr
 ::1 accpoint-ww.com
 ::1 www.accpoint-ww.com
 ::1 accreditedonlinecolleges.buzz
@@ -81916,6 +81918,10 @@
 ::1 www.amunbetcasino.fr
 ::1 amunbetfrance.fr
 ::1 www.amunbetfrance.fr
+::1 amunbetonline.fr
+::1 www.amunbetonline.fr
+::1 amunbetplay.fr
+::1 www.amunbetplay.fr
 ::1 amunbomtio.cf
 ::1 www.amunbomtio.cf
 ::1 amuncenerefthorn.gq
@@ -87352,12 +87358,18 @@
 ::1 www.aphprp.fr
 ::1 aphpzp.tokyo
 ::1 www.aphpzp.tokyo
+::1 aphrodite-casino24.fr
+::1 www.aphrodite-casino24.fr
 ::1 aphrodite-casinos.fr
 ::1 www.aphrodite-casinos.fr
 ::1 aphroditecards.com
 ::1 www.aphroditecards.com
+::1 aphroditecasino24.fr
+::1 www.aphroditecasino24.fr
 ::1 aphroditecasinoo.fr
 ::1 www.aphroditecasinoo.fr
+::1 aphroditecasinos.fr
+::1 www.aphroditecasinos.fr
 ::1 aphrodites.xyz
 ::1 www.aphrodites.xyz
 ::1 aphroditescasino.fr
@@ -99764,6 +99776,10 @@
 ::1 www.avekdodenet.ml
 ::1 aveleriltio.ga
 ::1 www.aveleriltio.ga
+::1 avelia-paris.fr
+::1 www.avelia-paris.fr
+::1 aveliaparis.fr
+::1 www.aveliaparis.fr
 ::1 avelu.de
 ::1 www.avelu.de
 ::1 avemarbounehaz.ga
@@ -99988,6 +100004,8 @@
 ::1 www.avis-bourso-app.fr
 ::1 avis-contravention.fr
 ::1 www.avis-contravention.fr
+::1 avis-pagejaune.fr
+::1 www.avis-pagejaune.fr
 ::1 avis-penal.fr
 ::1 www.avis-penal.fr
 ::1 avis-penalite.fr
@@ -105708,6 +105726,8 @@
 ::1 www.balrimulsivintang.tk
 ::1 balrotibmumidisf.cf
 ::1 www.balrotibmumidisf.cf
+::1 balsamhill-fr.fr
+::1 www.balsamhill-fr.fr
 ::1 balsamick.fr
 ::1 www.balsamick.fr
 ::1 balschicrapi.tk
@@ -115518,6 +115538,8 @@
 ::1 www.bet3if.cyou
 ::1 bet45.fr
 ::1 www.bet45.fr
+::1 bet4fun.fr
+::1 www.bet4fun.fr
 ::1 bet4star.fr
 ::1 www.bet4star.fr
 ::1 bet4win.fr
@@ -116610,6 +116632,8 @@
 ::1 www.betsbelorgangbi.ga
 ::1 betsbunny.fr
 ::1 www.betsbunny.fr
+::1 betscarabcasino.fr
+::1 www.betscarabcasino.fr
 ::1 betsclic.fr
 ::1 www.betsclic.fr
 ::1 betscore-fr.fr
@@ -150298,6 +150322,8 @@
 ::1 www.casinobuck.fr
 ::1 casinoburan.fr
 ::1 www.casinoburan.fr
+::1 casinobyzance.fr
+::1 www.casinobyzance.fr
 ::1 casinocandyspinz.fr
 ::1 www.casinocandyspinz.fr
 ::1 casinocannes.fr
@@ -150482,6 +150508,8 @@
 ::1 www.casinofrance55.fr
 ::1 casinofrancebest.fr
 ::1 www.casinofrancebest.fr
+::1 casinofranceenligne.fr
+::1 www.casinofranceenligne.fr
 ::1 casinofreshbet.fr
 ::1 www.casinofreshbet.fr
 ::1 casinofrumzi.fr
@@ -183312,6 +183340,8 @@
 ::1 www.constru34kaitlyn.pro
 ::1 constructionabyss.com
 ::1 www.constructionabyss.com
+::1 constructionelec-group.fr
+::1 www.constructionelec-group.fr
 ::1 constructiontimber.buzz
 ::1 www.constructiontimber.buzz
 ::1 construtecmx.xyz
@@ -277262,6 +277292,8 @@
 ::1 www.floutfimifivost.tk
 ::1 flouxsarl.fr
 ::1 www.flouxsarl.fr
+::1 flouz-casino.fr
+::1 www.flouz-casino.fr
 ::1 flouz-fr.fr
 ::1 www.flouz-fr.fr
 ::1 flouz-online.fr
@@ -427556,6 +427588,8 @@
 ::1 www.lizaro-casino-fr.fr
 ::1 lizaro-casino-online.fr
 ::1 www.lizaro-casino-online.fr
+::1 lizaro-casino24.fr
+::1 www.lizaro-casino24.fr
 ::1 lizaro-casinos.fr
 ::1 www.lizaro-casinos.fr
 ::1 lizaro-french.fr
@@ -429392,6 +429426,10 @@
 ::1 www.loadancatuagetpe.cf
 ::1 loadbike.com
 ::1 www.loadbike.com
+::1 loaded-casino.fr
+::1 www.loaded-casino.fr
+::1 loadedcasino.fr
+::1 www.loadedcasino.fr
 ::1 loadergaforsi.gq
 ::1 www.loadergaforsi.gq
 ::1 loading-chronopostlivraison.fr
@@ -432506,6 +432544,8 @@
 ::1 www.lotercatifo.cf
 ::1 loteriasokoliki.pl
 ::1 www.loteriasokoliki.pl
+::1 loterie-nationale.fr
+::1 www.loterie-nationale.fr
 ::1 loterlapoku.tk
 ::1 www.loterlapoku.tk
 ::1 loterpeamenasimp.tk
@@ -442400,6 +442440,8 @@
 ::1 www.mafia-casino-online.fr
 ::1 mafia-casino1.fr
 ::1 www.mafia-casino1.fr
+::1 mafia-casino24.fr
+::1 www.mafia-casino24.fr
 ::1 mafia-casinoofficiel.fr
 ::1 www.mafia-casinoofficiel.fr
 ::1 mafia-casinos.fr
@@ -442434,6 +442476,8 @@
 ::1 www.mafiacasino-fr.fr
 ::1 mafiacasino-france.fr
 ::1 www.mafiacasino-france.fr
+::1 mafiacasino-online.fr
+::1 www.mafiacasino-online.fr
 ::1 mafiacasino.fr
 ::1 www.mafiacasino.fr
 ::1 mafiacasinoapp.fr
@@ -442452,6 +442496,8 @@
 ::1 www.mafiacasinologin777.fr
 ::1 mafiacasinoo.fr
 ::1 www.mafiacasinoo.fr
+::1 mafiacasinos-fr.fr
+::1 www.mafiacasinos-fr.fr
 ::1 mafiaenligne.fr
 ::1 www.mafiaenligne.fr
 ::1 mafias-play.fr
@@ -443678,6 +443724,8 @@
 ::1 www.mailiwynequa.ml
 ::1 mailiznavsreven.ga
 ::1 www.mailiznavsreven.ga
+::1 mailjet-e-mail.fr
+::1 www.mailjet-e-mail.fr
 ::1 mailjet-update.fr
 ::1 www.mailjet-update.fr
 ::1 maillauto-industrie.com
@@ -494766,6 +494814,8 @@
 ::1 www.ninecasino0.fr
 ::1 ninecasino2.fr
 ::1 www.ninecasino2.fr
+::1 ninecasino24.fr
+::1 www.ninecasino24.fr
 ::1 ninecasino4.fr
 ::1 www.ninecasino4.fr
 ::1 ninecasino7.fr
@@ -522596,6 +522646,8 @@
 ::1 www.outlet-lacoste.fr
 ::1 outlet-luxe.fr
 ::1 www.outlet-luxe.fr
+::1 outlet-luxury.fr
+::1 www.outlet-luxury.fr
 ::1 outlet-mixed.news
 ::1 www.outlet-mixed.news
 ::1 outlet-moncler.fr
@@ -522634,6 +522686,8 @@
 ::1 www.outlet-stock.fr
 ::1 outlet-stoneisland.fr
 ::1 www.outlet-stoneisland.fr
+::1 outlet-store.fr
+::1 www.outlet-store.fr
 ::1 outlet-ugg.fr
 ::1 www.outlet-ugg.fr
 ::1 outlet-uggs.fr
@@ -540658,6 +540712,8 @@
 ::1 www.pgzmcp.tokyo
 ::1 pgztqy.tokyo
 ::1 www.pgztqy.tokyo
+::1 ph-ants.fr
+::1 www.ph-ants.fr
 ::1 ph-gartenmaschinen.de
 ::1 www.ph-gartenmaschinen.de
 ::1 ph-herning.dk
@@ -609192,6 +609248,8 @@
 ::1 www.rossmann.tf
 ::1 rossnd.tokyo
 ::1 www.rossnd.tokyo
+::1 rossowincasino.fr
+::1 www.rossowincasino.fr
 ::1 rossstocalolores.gq
 ::1 www.rossstocalolores.gq
 ::1 rosstoduteszepea.tk
@@ -644950,6 +645008,8 @@
 ::1 www.smart-research.net
 ::1 smart-sexologist.cloud
 ::1 www.smart-sexologist.cloud
+::1 smart-ticket.fr
+::1 www.smart-ticket.fr
 ::1 smart-tools.ai
 ::1 www.smart-tools.ai
 ::1 smart-tools.ai
@@ -653540,6 +653600,8 @@
 ::1 www.spin-fever.fr
 ::1 spin-fin-casino.fr
 ::1 www.spin-fin-casino.fr
+::1 spin-formula.fr
+::1 www.spin-formula.fr
 ::1 spin-hub.fr
 ::1 www.spin-hub.fr
 ::1 spin-hubcasino.fr
@@ -653962,6 +654024,8 @@
 ::1 www.spinemcopondstuc.tk
 ::1 spinenevarnor.ga
 ::1 www.spinenevarnor.ga
+::1 spinergy.fr
+::1 www.spinergy.fr
 ::1 spinerino.fr
 ::1 www.spinerino.fr
 ::1 spinerparubrighgo.gq
@@ -654572,6 +654636,8 @@
 ::1 www.spinwincasino.fr
 ::1 spinwinera-fr.fr
 ::1 www.spinwinera-fr.fr
+::1 spinwintercasino.fr
+::1 www.spinwintercasino.fr
 ::1 spinxtremecasino.fr
 ::1 www.spinxtremecasino.fr
 ::1 spinybet.fr
@@ -658914,6 +658980,8 @@
 ::1 www.starlighteventi.it
 ::1 starlikarveval.cf
 ::1 www.starlikarveval.cf
+::1 starlink-abonnement.fr
+::1 www.starlink-abonnement.fr
 ::1 starlink-fr.fr
 ::1 www.starlink-fr.fr
 ::1 starlink-france.fr
@@ -704510,6 +704578,8 @@
 ::1 www.tombcheapvadeathria.ga
 ::1 tomblockroundtata.tk
 ::1 www.tomblockroundtata.tk
+::1 tombluckcasino.fr
+::1 www.tombluckcasino.fr
 ::1 tombperjakun.cf
 ::1 www.tombperjakun.cf
 ::1 tombradystore.com
