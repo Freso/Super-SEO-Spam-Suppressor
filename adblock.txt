@@ -138659,7 +138659,6 @@
 ||flowenlayspeakturnnes.tk^$document
 ||floweqtruscongky.gq^$document
 ||flowerasunder.com^$document
-||floweraup.com^$document
 ||flowerbedpalpable.com^$document
 ||flowerbooms.com^$document
 ||flowercomedy.com^$document
@@ -149861,6 +149860,7 @@
 ||gestion-colis-notification.fr^$document
 ||gestion-colis.fr^$document
 ||gestion-de-patrimoine-asnieres.fr^$document
+||gestion-deblock.com^$document
 ||gestion-dgfip.fr^$document
 ||gestion-dossier-regule.fr^$document
 ||gestion-espace-sante.fr^$document
@@ -149880,6 +149880,7 @@
 ||gestion-vitale-sante.fr^$document
 ||gestion-vitale.fr^$document
 ||gestion-vitals-gov.fr^$document
+||gestion.finance^$document
 ||gestionadhesion.fr^$document
 ||gestionantai.fr^$document
 ||gestionassurancemaladie.fr^$document
@@ -179011,6 +179012,7 @@
 ||improvesimprove.eu^$document
 ||improveyv.web.app^$document
 ||improviseleaden.com^$document
+||impruneta.de^$document
 ||impuden11deaths.xyz^$document
 ||impulsa.shop^$document
 ||impulse99.xyz^$document
@@ -218234,6 +218236,7 @@
 ||lukzio.tokyo^$document
 ||lulabcase.tk^$document
 ||luladiffusion.com^$document
+||luladress.com^$document
 ||lulakichbie.tk^$document
 ||lulamdalidibedt.cf^$document
 ||lulaslena.web.app^$document
@@ -304752,6 +304755,7 @@
 ||rougbaycore.cf^$document
 ||rougecasino.fr^$document
 ||rougegorge-paris.fr^$document
+||rougeriefinance.com^$document
 ||roughbestnliminan.tk^$document
 ||roughconhullhyd.tk^$document
 ||roughfagawnumilni.tk^$document
@@ -354053,6 +354057,7 @@
 ||tqz6zw.cyou^$document
 ||tqzcb2.rest^$document
 ||tqzvxl.tokyo^$document
+||tr-brokers.com^$document
 ||tr-handschuho.shop^$document
 ||tr000i.cyou^$document
 ||tr06qo.cyou^$document

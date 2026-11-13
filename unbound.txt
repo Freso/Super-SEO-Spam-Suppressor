@@ -138380,7 +138380,6 @@ local-zone: "flowekteder.tk" always_refuse
 local-zone: "flowenlayspeakturnnes.tk" always_refuse
 local-zone: "floweqtruscongky.gq" always_refuse
 local-zone: "flowerasunder.com" always_refuse
-local-zone: "floweraup.com" always_refuse
 local-zone: "flowerbedpalpable.com" always_refuse
 local-zone: "flowerbooms.com" always_refuse
 local-zone: "flowercomedy.com" always_refuse
@@ -149561,6 +149560,7 @@ local-zone: "gestion-client-bnpparibas.fr" always_refuse
 local-zone: "gestion-colis-notification.fr" always_refuse
 local-zone: "gestion-colis.fr" always_refuse
 local-zone: "gestion-de-patrimoine-asnieres.fr" always_refuse
+local-zone: "gestion-deblock.com" always_refuse
 local-zone: "gestion-dgfip.fr" always_refuse
 local-zone: "gestion-dossier-regule.fr" always_refuse
 local-zone: "gestion-espace-sante.fr" always_refuse
@@ -149580,6 +149580,7 @@ local-zone: "gestion-vitale-actualiser.fr" always_refuse
 local-zone: "gestion-vitale-sante.fr" always_refuse
 local-zone: "gestion-vitale.fr" always_refuse
 local-zone: "gestion-vitals-gov.fr" always_refuse
+local-zone: "gestion.finance" always_refuse
 local-zone: "gestionadhesion.fr" always_refuse
 local-zone: "gestionantai.fr" always_refuse
 local-zone: "gestionassurancemaladie.fr" always_refuse
@@ -178661,6 +178662,7 @@ local-zone: "improvementscaptivatevenus.com" always_refuse
 local-zone: "improvesimprove.eu" always_refuse
 local-zone: "improveyv.web.app" always_refuse
 local-zone: "improviseleaden.com" always_refuse
+local-zone: "impruneta.de" always_refuse
 local-zone: "impuden11deaths.xyz" always_refuse
 local-zone: "impulsa.shop" always_refuse
 local-zone: "impulse99.xyz" always_refuse
@@ -217828,6 +217830,7 @@ local-zone: "lukybx.rest" always_refuse
 local-zone: "lukzio.tokyo" always_refuse
 local-zone: "lulabcase.tk" always_refuse
 local-zone: "luladiffusion.com" always_refuse
+local-zone: "luladress.com" always_refuse
 local-zone: "lulakichbie.tk" always_refuse
 local-zone: "lulamdalidibedt.cf" always_refuse
 local-zone: "lulaslena.web.app" always_refuse
@@ -304155,6 +304158,7 @@ local-zone: "roufenliagecahigh.gq" always_refuse
 local-zone: "rougbaycore.cf" always_refuse
 local-zone: "rougecasino.fr" always_refuse
 local-zone: "rougegorge-paris.fr" always_refuse
+local-zone: "rougeriefinance.com" always_refuse
 local-zone: "roughbestnliminan.tk" always_refuse
 local-zone: "roughconhullhyd.tk" always_refuse
 local-zone: "roughfagawnumilni.tk" always_refuse
@@ -353358,6 +353362,7 @@ local-zone: "tqyayr.tokyo" always_refuse
 local-zone: "tqz6zw.cyou" always_refuse
 local-zone: "tqzcb2.rest" always_refuse
 local-zone: "tqzvxl.tokyo" always_refuse
+local-zone: "tr-brokers.com" always_refuse
 local-zone: "tr-handschuho.shop" always_refuse
 local-zone: "tr000i.cyou" always_refuse
 local-zone: "tr06qo.cyou" always_refuse
