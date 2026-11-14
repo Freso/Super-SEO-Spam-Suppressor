@@ -39249,6 +39249,7 @@
 ||amazonppc.fr^$document
 ||amazonprime-abonnement.fr^$document
 ||amazonprime-connexion.fr^$document
+||amazonprime-network.fr^$document
 ||amazonprime-video.fr^$document
 ||amazonprimesec.fr^$document
 ||amazonrenouvellement.fr^$document
@@ -58096,6 +58097,7 @@
 ||betifyonline.fr^$document
 ||betifyparis.fr^$document
 ||betifyreview.fr^$document
+||betifys-casino.fr^$document
 ||betifys-french.fr^$document
 ||betifysh.fr^$document
 ||betigma-casino.fr^$document
@@ -118941,6 +118943,7 @@
 ||edfisitpo.ml^$document
 ||edfmaconso.fr^$document
 ||edfmoncompte.fr^$document
+||edfmoncontrat.fr^$document
 ||edfnumero.fr^$document
 ||edfobura.gq^$document
 ||edfoporeka.tk^$document
@@ -200123,6 +200126,7 @@
 ||komarpearo.tk^$document
 ||komatsu-france.fr^$document
 ||kombinezonyochronnedostepne.pl^$document
+||kombini.fr^$document
 ||kombqy.bar^$document
 ||kombucha-shop.dk^$document
 ||kombuchabrewingkot.shop^$document
@@ -214901,6 +214905,7 @@
 ||locahost^$document
 ||locaiisation.fr^$document
 ||locaiiser-app.fr^$document
+||locaiiser-map.fr^$document
 ||locajardin.com^$document
 ||locajet.fr^$document
 ||local-chick-here.com^$document
@@ -303392,9 +303397,11 @@
 ||rockstar-casino-777.fr^$document
 ||rockstar-casino-888.fr^$document
 ||rockstar-casino-99.fr^$document
+||rockstar-casinos.fr^$document
 ||rockstar-france.fr^$document
 ||rockstarcasino-france.fr^$document
 ||rockstarcasino-officiel.fr^$document
+||rockstarcasino.fr^$document
 ||rockstargsmes.com^$document
 ||rockstarscasino.fr^$document
 ||rockstinemreni.tk^$document
@@ -311323,6 +311330,7 @@
 ||scanvalnerus.tk^$document
 ||scanvh.tokyo^$document
 ||scanwardkitfimel.ml^$document
+||scaouest-france.fr^$document
 ||scapadtradanprov.tk^$document
 ||scapalnadomas.ml^$document
 ||scapamarbusle.tk^$document
@@ -327169,6 +327177,7 @@
 ||spinmamasfr.fr^$document
 ||spinmania-casino.fr^$document
 ||spinmaniacasino.fr^$document
+||spinmas.fr^$document
 ||spinmayacasino.fr^$document
 ||spinmillion-casino.fr^$document
 ||spinmillion-com.fr^$document
@@ -327245,6 +327254,7 @@
 ||spins-aura.fr^$document
 ||spins-casino.fr^$document
 ||spins-heaven.fr^$document
+||spins-mama.fr^$document
 ||spins-of-glory-casino.fr^$document
 ||spins-of-glorycasino.fr^$document
 ||spinsahara-casino.fr^$document
@@ -335837,6 +335847,7 @@
 ||swissmain.com^$document
 ||swissnovapharmaceuticals.com^$document
 ||swisspartners-ag.com^$document
+||swisspay.fr^$document
 ||swisspost-suivi.fr^$document
 ||swisspost-tck.fr^$document
 ||swissstand.com^$document
@@ -364418,6 +364429,7 @@
 ||univ-picardie.fr^$document
 ||univ-polesup.fr^$document
 ||univ-psaclay.fr^$document
+||univ-pucvl.fr^$document
 ||univ-renne.fr^$document
 ||univ-rennes-2.fr^$document
 ||univ-sciencespo-grenoble-alpes.fr^$document
@@ -364487,6 +364499,7 @@
 ||universite-cotedazur.fr^$document
 ||universite-evry.fr^$document
 ||universite-jfc-rodez.fr^$document
+||universite-lemans.fr^$document
 ||universite-lyon1.fr^$document
 ||universite-lyon3.fr^$document
 ||universite-mlp.fr^$document
@@ -392606,6 +392619,7 @@
 ||wwwaste.fr^$document
 ||wwwauchan.fr^$document
 ||wwwautoscout24.fr^$document
+||wwwaveniq.fr^$document
 ||wwwavis.fr^$document
 ||wwwazcardinals.buzz^$document
 ||wwwbackinjob.de^$document

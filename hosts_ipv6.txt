@@ -78494,6 +78494,8 @@
 ::1 www.amazonprime-abonnement.fr
 ::1 amazonprime-connexion.fr
 ::1 www.amazonprime-connexion.fr
+::1 amazonprime-network.fr
+::1 www.amazonprime-network.fr
 ::1 amazonprime-video.fr
 ::1 www.amazonprime-video.fr
 ::1 amazonprimesec.fr
@@ -116188,6 +116190,8 @@
 ::1 www.betifyparis.fr
 ::1 betifyreview.fr
 ::1 www.betifyreview.fr
+::1 betifys-casino.fr
+::1 www.betifys-casino.fr
 ::1 betifys-french.fr
 ::1 www.betifys-french.fr
 ::1 betifysh.fr
@@ -237878,6 +237882,8 @@
 ::1 www.edfmaconso.fr
 ::1 edfmoncompte.fr
 ::1 www.edfmoncompte.fr
+::1 edfmoncontrat.fr
+::1 www.edfmoncontrat.fr
 ::1 edfnumero.fr
 ::1 www.edfnumero.fr
 ::1 edfobura.gq
@@ -400242,6 +400248,8 @@
 ::1 www.komatsu-france.fr
 ::1 kombinezonyochronnedostepne.pl
 ::1 www.kombinezonyochronnedostepne.pl
+::1 kombini.fr
+::1 www.kombini.fr
 ::1 kombqy.bar
 ::1 www.kombqy.bar
 ::1 kombucha-shop.dk
@@ -429798,6 +429806,8 @@
 ::1 www.locaiisation.fr
 ::1 locaiiser-app.fr
 ::1 www.locaiiser-app.fr
+::1 locaiiser-map.fr
+::1 www.locaiiser-map.fr
 ::1 locajardin.com
 ::1 www.locajardin.com
 ::1 locajet.fr
@@ -606780,12 +606790,16 @@
 ::1 www.rockstar-casino-888.fr
 ::1 rockstar-casino-99.fr
 ::1 www.rockstar-casino-99.fr
+::1 rockstar-casinos.fr
+::1 www.rockstar-casinos.fr
 ::1 rockstar-france.fr
 ::1 www.rockstar-france.fr
 ::1 rockstarcasino-france.fr
 ::1 www.rockstarcasino-france.fr
 ::1 rockstarcasino-officiel.fr
 ::1 www.rockstarcasino-officiel.fr
+::1 rockstarcasino.fr
+::1 www.rockstarcasino.fr
 ::1 rockstargsmes.com
 ::1 www.rockstargsmes.com
 ::1 rockstarscasino.fr
@@ -622642,6 +622656,8 @@
 ::1 www.scanvh.tokyo
 ::1 scanwardkitfimel.ml
 ::1 www.scanwardkitfimel.ml
+::1 scaouest-france.fr
+::1 www.scaouest-france.fr
 ::1 scapadtradanprov.tk
 ::1 www.scapadtradanprov.tk
 ::1 scapalnadomas.ml
@@ -654334,6 +654350,8 @@
 ::1 www.spinmania-casino.fr
 ::1 spinmaniacasino.fr
 ::1 www.spinmaniacasino.fr
+::1 spinmas.fr
+::1 www.spinmas.fr
 ::1 spinmayacasino.fr
 ::1 www.spinmayacasino.fr
 ::1 spinmillion-casino.fr
@@ -654486,6 +654504,8 @@
 ::1 www.spins-casino.fr
 ::1 spins-heaven.fr
 ::1 www.spins-heaven.fr
+::1 spins-mama.fr
+::1 www.spins-mama.fr
 ::1 spins-of-glory-casino.fr
 ::1 www.spins-of-glory-casino.fr
 ::1 spins-of-glorycasino.fr
@@ -671670,6 +671690,8 @@
 ::1 www.swissnovapharmaceuticals.com
 ::1 swisspartners-ag.com
 ::1 www.swisspartners-ag.com
+::1 swisspay.fr
+::1 www.swisspay.fr
 ::1 swisspost-suivi.fr
 ::1 www.swisspost-suivi.fr
 ::1 swisspost-tck.fr
@@ -728832,6 +728854,8 @@
 ::1 www.univ-polesup.fr
 ::1 univ-psaclay.fr
 ::1 www.univ-psaclay.fr
+::1 univ-pucvl.fr
+::1 www.univ-pucvl.fr
 ::1 univ-renne.fr
 ::1 www.univ-renne.fr
 ::1 univ-rennes-2.fr
@@ -728970,6 +728994,8 @@
 ::1 www.universite-evry.fr
 ::1 universite-jfc-rodez.fr
 ::1 www.universite-jfc-rodez.fr
+::1 universite-lemans.fr
+::1 www.universite-lemans.fr
 ::1 universite-lyon1.fr
 ::1 www.universite-lyon1.fr
 ::1 universite-lyon3.fr
@@ -785208,6 +785234,8 @@
 ::1 www.wwwauchan.fr
 ::1 wwwautoscout24.fr
 ::1 www.wwwautoscout24.fr
+::1 wwwaveniq.fr
+::1 www.wwwaveniq.fr
 ::1 wwwavis.fr
 ::1 www.wwwavis.fr
 ::1 wwwazcardinals.buzz
