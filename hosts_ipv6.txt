@@ -72452,8 +72452,6 @@
 ::1 www.air-franceklm.fr
 ::1 air-gov.fr
 ::1 www.air-gov.fr
-::1 air-jordan4.com
-::1 www.air-jordan4.com
 ::1 air-jordanpascher.fr
 ::1 www.air-jordanpascher.fr
 ::1 air-max-shop.fr
@@ -779472,8 +779470,6 @@
 ::1 www.wolfscasino.fr
 ::1 wolfsporwerbker.gq
 ::1 www.wolfsporwerbker.gq
-::1 wolftoothbike.com
-::1 www.wolftoothbike.com
 ::1 wolftowscgiserdar.cf
 ::1 www.wolftowscgiserdar.cf
 ::1 wolfwestvercadamo.tk

@@ -36228,7 +36228,6 @@
 ||air-certificate.fr^$document
 ||air-franceklm.fr^$document
 ||air-gov.fr^$document
-||air-jordan4.com^$document
 ||air-jordanpascher.fr^$document
 ||air-max-shop.fr^$document
 ||air-max-vans.info^$document
@@ -389738,7 +389737,6 @@
 ||wolfrunners.buzz^$document
 ||wolfscasino.fr^$document
 ||wolfsporwerbker.gq^$document
-||wolftoothbike.com^$document
 ||wolftowscgiserdar.cf^$document
 ||wolfwestvercadamo.tk^$document
 ||wolfy-casino.fr^$document
