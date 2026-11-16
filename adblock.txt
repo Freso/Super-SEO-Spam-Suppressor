@@ -36320,6 +36320,7 @@
 ||airhelp-plus.fr^$document
 ||airhelpplus.fr^$document
 ||airi.media^$document
+||airindia.fr^$document
 ||airinno.xyz^$document
 ||airjgw.tokyo^$document
 ||airjordan.at^$document
@@ -80695,6 +80696,7 @@
 ||checkout-leboncoin.fr^$document
 ||checkout-prime.fr^$document
 ||checkout-secure3ds.fr^$document
+||checkout-store.fr^$document
 ||checkout.ekommmedia.com^$document
 ||checkout.leonboutique.co^$document
 ||checkout.rezeptedesgeschmacks.com^$document
@@ -111312,6 +111314,7 @@
 ||docttousjesttechstors.ga^$document
 ||doctuafehorfire.tk^$document
 ||doctvikingmis.tk^$document
+||docu-france.fr^$document
 ||docu-sign.fr^$document
 ||docu-signs.fr^$document
 ||doculpsideles.ml^$document
@@ -118876,6 +118879,7 @@
 ||edf-electricite.info^$document
 ||edf-en.fr^$document
 ||edf-enedis-edf.fr^$document
+||edf-energiesnouvelles.fr^$document
 ||edf-energy.fr^$document
 ||edf-espaceinfo.fr^$document
 ||edf-espacesecurise.fr^$document
@@ -175702,6 +175706,7 @@
 ||icloud-lost.fr^$document
 ||icloud-photos.fr^$document
 ||icloud-support.fr^$document
+||icloud-web.fr^$document
 ||icloud.pm^$document
 ||icloud.tf^$document
 ||icloud.wf^$document
@@ -195368,6 +195373,8 @@
 ||kasfspercensaitikcont.tk^$document
 ||kasgobaravern.ml^$document
 ||kash-leone.fr^$document
+||kashee-payment.fr^$document
+||kasheepayment.fr^$document
 ||kashefcog.com^$document
 ||kashkeman-handel.de^$document
 ||kashmiri.org^$document
@@ -203149,6 +203156,7 @@
 ||l8bz1y.tokyo^$document
 ||l8c0bpf.work^$document
 ||l8c9g5.cyou^$document
+||l8casino.fr^$document
 ||l8cryg.cyou^$document
 ||l8ec1r.cyou^$document
 ||l8ee0po.work^$document
@@ -279428,6 +279436,7 @@
 ||primestore.fr^$document
 ||primestreaming.fr^$document
 ||primesupply.shop^$document
+||primesync.fr^$document
 ||primetechcasino.fr^$document
 ||primetechmarket.co^$document
 ||primeticket.fr^$document
@@ -319125,6 +319134,7 @@
 ||silkgesamutme.gq^$document
 ||silknewsvevil.web.app^$document
 ||silkninscivicatu.tk^$document
+||silkorafrance.fr^$document
 ||silkpotakirupti.tk^$document
 ||silkramenena.ga^$document
 ||silkrardchondthewin.tk^$document
@@ -323320,6 +323330,7 @@
 ||snapochtrodoxexin.cf^$document
 ||snappass.fr^$document
 ||snappasse.fr^$document
+||snappchat.fr^$document
 ||snappeasinspanish.cf^$document
 ||snapposh.com^$document
 ||snappro.fr^$document
@@ -329482,6 +329493,7 @@
 ||starlink-abonnement.fr^$document
 ||starlink-fr.fr^$document
 ||starlink-france.fr^$document
+||starlink-wallis.wf^$document
 ||starlitcasino.fr^$document
 ||starlodgipadoub.tk^$document
 ||starlubpirane.gq^$document

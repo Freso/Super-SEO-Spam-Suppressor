@@ -72636,6 +72636,8 @@
 ::1 www.airhelpplus.fr
 ::1 airi.media
 ::1 www.airi.media
+::1 airindia.fr
+::1 www.airindia.fr
 ::1 airinno.xyz
 ::1 www.airinno.xyz
 ::1 airjgw.tokyo
@@ -161386,6 +161388,8 @@
 ::1 www.checkout-prime.fr
 ::1 checkout-secure3ds.fr
 ::1 www.checkout-secure3ds.fr
+::1 checkout-store.fr
+::1 www.checkout-store.fr
 ::1 checkout.ekommmedia.com
 ::1 www.checkout.ekommmedia.com
 ::1 checkout.leonboutique.co
@@ -222620,6 +222624,8 @@
 ::1 www.doctuafehorfire.tk
 ::1 doctvikingmis.tk
 ::1 www.doctvikingmis.tk
+::1 docu-france.fr
+::1 www.docu-france.fr
 ::1 docu-sign.fr
 ::1 www.docu-sign.fr
 ::1 docu-signs.fr
@@ -237748,6 +237754,8 @@
 ::1 www.edf-en.fr
 ::1 edf-enedis-edf.fr
 ::1 www.edf-enedis-edf.fr
+::1 edf-energiesnouvelles.fr
+::1 www.edf-energiesnouvelles.fr
 ::1 edf-energy.fr
 ::1 www.edf-energy.fr
 ::1 edf-espaceinfo.fr
@@ -351400,6 +351408,8 @@
 ::1 www.icloud-photos.fr
 ::1 icloud-support.fr
 ::1 www.icloud-support.fr
+::1 icloud-web.fr
+::1 www.icloud-web.fr
 ::1 icloud.pm
 ::1 www.icloud.pm
 ::1 icloud.tf
@@ -390732,6 +390742,10 @@
 ::1 www.kasgobaravern.ml
 ::1 kash-leone.fr
 ::1 www.kash-leone.fr
+::1 kashee-payment.fr
+::1 www.kashee-payment.fr
+::1 kasheepayment.fr
+::1 www.kasheepayment.fr
 ::1 kashefcog.com
 ::1 www.kashefcog.com
 ::1 kashkeman-handel.de
@@ -406294,6 +406308,8 @@
 ::1 www.l8c0bpf.work
 ::1 l8c9g5.cyou
 ::1 www.l8c9g5.cyou
+::1 l8casino.fr
+::1 www.l8casino.fr
 ::1 l8cryg.cyou
 ::1 www.l8cryg.cyou
 ::1 l8ec1r.cyou
@@ -558852,6 +558868,8 @@
 ::1 www.primestreaming.fr
 ::1 primesupply.shop
 ::1 www.primesupply.shop
+::1 primesync.fr
+::1 www.primesync.fr
 ::1 primetechcasino.fr
 ::1 www.primetechcasino.fr
 ::1 primetechmarket.co
@@ -638246,6 +638264,8 @@
 ::1 www.silknewsvevil.web.app
 ::1 silkninscivicatu.tk
 ::1 www.silkninscivicatu.tk
+::1 silkorafrance.fr
+::1 www.silkorafrance.fr
 ::1 silkpotakirupti.tk
 ::1 www.silkpotakirupti.tk
 ::1 silkramenena.ga
@@ -646636,6 +646656,8 @@
 ::1 www.snappass.fr
 ::1 snappasse.fr
 ::1 www.snappasse.fr
+::1 snappchat.fr
+::1 www.snappchat.fr
 ::1 snappeasinspanish.cf
 ::1 www.snappeasinspanish.cf
 ::1 snapposh.com
@@ -658960,6 +658982,8 @@
 ::1 www.starlink-fr.fr
 ::1 starlink-france.fr
 ::1 www.starlink-france.fr
+::1 starlink-wallis.wf
+::1 www.starlink-wallis.wf
 ::1 starlitcasino.fr
 ::1 www.starlitcasino.fr
 ::1 starlodgipadoub.tk
