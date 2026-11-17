@@ -32377,6 +32377,7 @@
 ||aclpurattoge.tk^$document
 ||aclrnx.bar^$document
 ||aclsdzsf.cyou^$document
+||aclyon.fr^$document
 ||acm-conseils.com^$document
 ||acm3cr.cyou^$document
 ||acmadleoletill.gq^$document
@@ -37400,6 +37401,8 @@
 ||alerphragtisa.tk^$document
 ||alerreher.ml^$document
 ||alert-activation-prime.fr^$document
+||alert-fmi-com.fr^$document
+||alert-fmi-us.fr^$document
 ||alerta-asistencia.com^$document
 ||alertanalysis.org^$document
 ||alerte-ameli.fr^$document
@@ -57800,6 +57803,10 @@
 ||betaph.work^$document
 ||betaphipodive.tk^$document
 ||betappcasino.fr^$document
+||betarctica-casino.fr^$document
+||betarctica.fr^$document
+||betarcticacasino.fr^$document
+||betartica.fr^$document
 ||betashop-gmbh.com^$document
 ||betaspirit.fr^$document
 ||betativapu.tk^$document
@@ -74939,6 +74946,7 @@
 ||casino-igobet.fr^$document
 ||casino-ilede.fr^$document
 ||casino-incognito.fr^$document
+||casino-infernos.fr^$document
 ||casino-infinite.fr^$document
 ||casino-infinity-com.fr^$document
 ||casino-infinity-france.fr^$document
@@ -75152,6 +75160,7 @@
 ||casinobit.fr^$document
 ||casinobit1.fr^$document
 ||casinoblitzfrance.fr^$document
+||casinoblueprint.fr^$document
 ||casinobonus365.fr^$document
 ||casinobonuszone.fr^$document
 ||casinoboomerang.fr^$document
@@ -77934,6 +77943,7 @@
 ||centrale-g7-numero.fr^$document
 ||centrale-g7-officiel.fr^$document
 ||centrale-g7-reservations-france.fr^$document
+||centrale-toulouse.fr^$document
 ||centralepneu.fr^$document
 ||centrallawgroup827pge82.biz^$document
 ||centrallawgroupxgx9xs2j.biz^$document
@@ -92367,6 +92377,7 @@
 ||convecarneociapark.ml^$document
 ||conveniencehotel.com^$document
 ||conveniencesapesbrilliance.com^$document
+||convention-ants.fr^$document
 ||convention-democrate.fr^$document
 ||convention-partenaires-particuliers.fr^$document
 ||conventionalkiller.com^$document
@@ -118462,6 +118473,7 @@
 ||ecohubfast.com^$document
 ||ecokcar.com^$document
 ||ecolamnefink.cf^$document
+||ecole-centrale-toulouse.fr^$document
 ||ecole-gouvernement.fr^$document
 ||ecoleagnesvarda.be^$document
 ||ecolestracha.gq^$document
@@ -127452,6 +127464,7 @@
 ||espacecontraventions.fr^$document
 ||espacecourriel.fr^$document
 ||espacecourrier.fr^$document
+||espacecpam65.fr^$document
 ||espacecredit-agricole.fr^$document
 ||espacecreditagricole.fr^$document
 ||espacecreditmutuel.fr^$document
@@ -154351,6 +154364,7 @@
 ||goldenplaycasino.fr^$document
 ||goldenplaycasinofr.fr^$document
 ||goldenplayonline.fr^$document
+||goldenplays.fr^$document
 ||goldenr.fr^$document
 ||goldenretrievervompfarrgarten.de^$document
 ||goldensgoose.fr^$document
@@ -158200,6 +158214,7 @@
 ||gta4.it^$document
 ||gta5mobi.fun^$document
 ||gta5recovery.xyz^$document
+||gta6-officiel.fr^$document
 ||gtafb.rest^$document
 ||gtah.fr^$document
 ||gtamoding.fr^$document
@@ -180438,6 +180453,7 @@
 ||infernos-casino.fr^$document
 ||infernos-official.fr^$document
 ||infernos-officiel.fr^$document
+||infernoscasino-fr.fr^$document
 ||infernoscasino.fr^$document
 ||inferright.com^$document
 ||infersardine.com^$document
@@ -183860,6 +183876,7 @@
 ||iptq7n.cyou^$document
 ||iptv-irontvpro.fr^$document
 ||iptv-kaufen-germany.shop^$document
+||iptv-supreme.fr^$document
 ||iptvanbieter.at^$document
 ||iptvdazn.fr^$document
 ||iptvdefrance.fr^$document
@@ -183874,6 +183891,7 @@
 ||iptvpro-france.fr^$document
 ||iptvrevendeurs.fr^$document
 ||iptvservice.fr^$document
+||iptvsmarte8k.fr^$document
 ||iptvsubscription.fr^$document
 ||iptvzone.fr^$document
 ||ipty5v.tokyo^$document
@@ -198250,6 +198268,7 @@
 ||kingsandnonargopin.tk^$document
 ||kingscasino.fr^$document
 ||kingschance-casino.fr^$document
+||kingschance-fr.fr^$document
 ||kingschance-france.fr^$document
 ||kingschance-online.fr^$document
 ||kingschance1.fr^$document
@@ -223620,6 +223639,7 @@
 ||marikkwigmans.xyz^$document
 ||marikoff.ru^$document
 ||marilomen.tk^$document
+||marimekko-france.fr^$document
 ||marimekko.xyz^$document
 ||marinabalz.de^$document
 ||marinakorpan.ru^$document
@@ -248795,6 +248815,7 @@
 ||no-bull-deutschland.de^$document
 ||no-bull.fr^$document
 ||no-bullfrance.fr^$document
+||no-limit-accorarena-freestyle.fr^$document
 ||no-oppdatere.com^$document
 ||no-oppdatert.com^$document
 ||no-reply-chrono-delivery-france.fr^$document
@@ -278038,11 +278059,19 @@
 ||prefebreagamimi.tk^$document
 ||prefecture-ants.fr^$document
 ||prefecture-bobigny.fr^$document
+||prefecture-cergy.fr^$document
+||prefecture-creteil.fr^$document
+||prefecture-evry.fr^$document
 ||prefecture-gov.fr^$document
 ||prefecture-laon.fr^$document
+||prefecture-marseille.fr^$document
 ||prefecture-melun.fr^$document
+||prefecture-montpellier.fr^$document
+||prefecture-nanterre.fr^$document
 ||prefecture-nimes.fr^$document
 ||prefecture-sarcelles.fr^$document
+||prefecture-toulouse.fr^$document
+||prefecture-versailles.fr^$document
 ||prefecture-vitale.fr^$document
 ||prefectureants.fr^$document
 ||prefecturedepolicegouv.fr^$document
@@ -296927,6 +296956,7 @@
 ||remilomedorf.cf^$document
 ||remimitsepiri.tk^$document
 ||remimosaget.ga^$document
+||remington-france.fr^$document
 ||remingtons.co.at^$document
 ||reminolbutars.cf^$document
 ||reminora.com^$document
@@ -322571,6 +322601,7 @@
 ||smartelampen.com^$document
 ||smartelektroshop.com^$document
 ||smartempgaconcte.ga^$document
+||smarterstv8k.fr^$document
 ||smartesteckdosen.de^$document
 ||smartestore.it^$document
 ||smartfallplace.xyz^$document
@@ -325698,9 +325729,16 @@
 ||sourvalaszami.tk^$document
 ||sous-amende.fr^$document
 ||sous-bor.shop^$document
+||sous-prefecture-antony.fr^$document
 ||sous-prefecture-argenteuil.fr^$document
+||sous-prefecture-boulogne-billancourt.fr^$document
+||sous-prefecture-l-hay-les-roses.fr^$document
 ||sous-prefecture-le-raincy.fr^$document
 ||sous-prefecture-meaux.fr^$document
+||sous-prefecture-nogent-sur-marne.fr^$document
+||sous-prefecture-palaiseau.fr^$document
+||sous-prefecture-saint-denis.fr^$document
+||sous-prefecture-saint-germain-en-laye.fr^$document
 ||sous-prefecture-sarcelles.fr^$document
 ||sous-prefecture-torcy.fr^$document
 ||sousachkawarbfoll.ml^$document
@@ -347821,6 +347859,7 @@
 ||ticketmastermarketplace.fr^$document
 ||ticketmastet.fr^$document
 ||ticketmastewr.com^$document
+||ticketmastrer.fr^$document
 ||ticketmastter.fr^$document
 ||ticketmastwr.fr^$document
 ||ticketmater.fr^$document
@@ -372069,6 +372108,7 @@
 ||verifications-prime.fr^$document
 ||verifications-securite.fr^$document
 ||verificationsclients.fr^$document
+||verificationtickets.fr^$document
 ||verificationtransaction.fr^$document
 ||verificator-ticket.fr^$document
 ||verificlbc.fr^$document
@@ -372677,6 +372717,7 @@
 ||vet8sg.cyou^$document
 ||vetains.shop^$document
 ||vetalballbearta.ml^$document
+||vetalfort.fr^$document
 ||vetamalubphy.gq^$document
 ||vetantmikinperfberc.tk^$document
 ||vetapotheke-shop.de^$document
@@ -388225,6 +388266,7 @@
 ||winhero-casino.fr^$document
 ||winherocasino.fr^$document
 ||winhypolacounle.tk^$document
+||winica-casino.fr^$document
 ||winicoin.com^$document
 ||winitcasino.fr^$document
 ||winiwin.fr^$document
@@ -388373,6 +388415,7 @@
 ||winocasino-fr.fr^$document
 ||winocasino-france.fr^$document
 ||winocasino.fr^$document
+||winolot-fr.fr^$document
 ||winolot.fr^$document
 ||winolympia-casino.fr^$document
 ||winolympia.fr^$document
@@ -388643,6 +388686,7 @@
 ||wipfyatolstusa.cf^$document
 ||wipikedia.fr^$document
 ||wipiqxc.tokyo^$document
+||wiplay-officiel.fr^$document
 ||wiplfeo.bar^$document
 ||wipofiqyhupy.gq^$document
 ||wipot.eu^$document
