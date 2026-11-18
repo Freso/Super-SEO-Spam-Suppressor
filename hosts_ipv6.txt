@@ -72602,6 +72602,8 @@
 ::1 www.airforceonepaschersolde.fr
 ::1 airfrance-relationce.fr
 ::1 www.airfrance-relationce.fr
+::1 airfrance-rh.fr
+::1 www.airfrance-rh.fr
 ::1 airfrance-surbooking.fr
 ::1 www.airfrance-surbooking.fr
 ::1 airfrance-tickets.fr
@@ -101800,6 +101802,8 @@
 ::1 www.azilopun.cf
 ::1 azimefdyren.tk
 ::1 www.azimefdyren.tk
+::1 azimishop.fr
+::1 www.azimishop.fr
 ::1 azimnv.tokyo
 ::1 www.azimnv.tokyo
 ::1 azimtiximamark.tk
@@ -105452,6 +105456,8 @@
 ::1 www.balhullsysesy.cf
 ::1 balibanahi.cf
 ::1 www.balibanahi.cf
+::1 balibaris-outlet.fr
+::1 www.balibaris-outlet.fr
 ::1 balibetu.tk
 ::1 www.balibetu.tk
 ::1 balibtiuheartre.cf
@@ -116106,6 +116112,8 @@
 ::1 www.betifyapplication-connexion.fr
 ::1 betifyapplication.fr
 ::1 www.betifyapplication.fr
+::1 betifyavis11.fr
+::1 www.betifyavis11.fr
 ::1 betifybonus.fr
 ::1 www.betifybonus.fr
 ::1 betifycasina.fr
@@ -116138,6 +116146,8 @@
 ::1 www.betifycasino-officiel.fr
 ::1 betifycasino-online.fr
 ::1 www.betifycasino-online.fr
+::1 betifycasino11.fr
+::1 www.betifycasino11.fr
 ::1 betifycasino3.fr
 ::1 www.betifycasino3.fr
 ::1 betifycasino4.fr
@@ -116164,6 +116174,8 @@
 ::1 www.betifycasinos.fr
 ::1 betifycasinos1.fr
 ::1 www.betifycasinos1.fr
+::1 betifyconnexion11.fr
+::1 www.betifyconnexion11.fr
 ::1 betifyfiable.fr
 ::1 www.betifyfiable.fr
 ::1 betifyfr.fr
@@ -116266,6 +116278,8 @@
 ::1 www.betlive-france.fr
 ::1 betlive-official.fr
 ::1 www.betlive-official.fr
+::1 betlive11.fr
+::1 www.betlive11.fr
 ::1 betlivecasino.fr
 ::1 www.betlivecasino.fr
 ::1 betlivecasinofr.fr
@@ -116542,6 +116556,8 @@
 ::1 www.betportal.fr
 ::1 betportalcasino.fr
 ::1 www.betportalcasino.fr
+::1 betpote.fr
+::1 www.betpote.fr
 ::1 betprimeiro.fr
 ::1 www.betprimeiro.fr
 ::1 betprimeirocasino.fr
@@ -116918,6 +116934,10 @@
 ::1 www.betzino-site.fr
 ::1 betzino1-france.fr
 ::1 www.betzino1-france.fr
+::1 betzino11.fr
+::1 www.betzino11.fr
+::1 betzinoavis11.fr
+::1 www.betzinoavis11.fr
 ::1 betzinocasino-fr.fr
 ::1 www.betzinocasino-fr.fr
 ::1 betzinocasino-online.fr
@@ -116934,6 +116954,8 @@
 ::1 www.betzinofr.fr
 ::1 betzinofrance.fr
 ::1 www.betzinofrance.fr
+::1 betzinofrcasino11.fr
+::1 www.betzinofrcasino11.fr
 ::1 betzinoscasino.fr
 ::1 www.betzinoscasino.fr
 ::1 betzio-casino.fr
@@ -126618,6 +126640,8 @@
 ::1 www.blutwert.info
 ::1 blutzingmomazin.gq
 ::1 www.blutzingmomazin.gq
+::1 bluvegas1.fr
+::1 www.bluvegas1.fr
 ::1 blv4wso.cyou
 ::1 www.blv4wso.cyou
 ::1 blven.xyz
@@ -140024,6 +140048,8 @@
 ::1 www.bwincasinofrance.fr
 ::1 bwincodepromo.fr
 ::1 www.bwincodepromo.fr
+::1 bwinconnexion11.fr
+::1 www.bwinconnexion11.fr
 ::1 bwinel.com
 ::1 www.bwinel.com
 ::1 bwinn.fr
@@ -149574,6 +149600,8 @@
 ::1 www.casiersjudiciaires.fr
 ::1 casignlingprec.tk
 ::1 www.casignlingprec.tk
+::1 casigo1.fr
+::1 www.casigo1.fr
 ::1 casiino-france.fr
 ::1 www.casiino-france.fr
 ::1 casiinozer.fr
@@ -149768,6 +149796,8 @@
 ::1 www.casino-cresus-enligne.fr
 ::1 casino-crownplay.fr
 ::1 www.casino-crownplay.fr
+::1 casino-daytonaspin.fr
+::1 www.casino-daytonaspin.fr
 ::1 casino-deloro.fr
 ::1 www.casino-deloro.fr
 ::1 casino-deposit-promocode.site
@@ -150438,6 +150468,8 @@
 ::1 www.casinoelyseesclub.fr
 ::1 casinoenargentreel.fr
 ::1 www.casinoenargentreel.fr
+::1 casinoenclair.fr
+::1 www.casinoenclair.fr
 ::1 casinoenligneargentreel.fr
 ::1 www.casinoenligneargentreel.fr
 ::1 casinoenlignefiable.fr
@@ -150490,6 +150522,8 @@
 ::1 www.casinoextra4.fr
 ::1 casinoextrafrance.fr
 ::1 www.casinoextrafrance.fr
+::1 casinoextrafrance11.fr
+::1 www.casinoextrafrance11.fr
 ::1 casinoextraofficiel.fr
 ::1 www.casinoextraofficiel.fr
 ::1 casinoextraonline.fr
@@ -150880,6 +150914,8 @@
 ::1 www.casinonight-france.fr
 ::1 casinonight1.fr
 ::1 www.casinonight1.fr
+::1 casinonight11.fr
+::1 www.casinonight11.fr
 ::1 casinonightenligne.fr
 ::1 www.casinonightenligne.fr
 ::1 casinonightfrance.fr
@@ -151258,6 +151294,8 @@
 ::1 www.casinotwin-fr.fr
 ::1 casinotwin.fr
 ::1 www.casinotwin.fr
+::1 casinounique-11.fr
+::1 www.casinounique-11.fr
 ::1 casinounique.fr
 ::1 www.casinounique.fr
 ::1 casinounique1.fr
@@ -153062,6 +153100,8 @@
 ::1 www.cazimbos.fr
 ::1 cazin0.com
 ::1 www.cazin0.com
+::1 cazinostars1.fr
+::1 www.cazinostars1.fr
 ::1 cazinoz.net
 ::1 www.cazinoz.net
 ::1 cazinozer-casino-fr.fr
@@ -190826,6 +190866,8 @@
 ::1 www.cresus-casino-official.fr
 ::1 cresus-casino-vip.fr
 ::1 www.cresus-casino-vip.fr
+::1 cresus-casino11.fr
+::1 www.cresus-casino11.fr
 ::1 cresus-casinofr.fr
 ::1 www.cresus-casinofr.fr
 ::1 cresus-casinos-fr.fr
@@ -190870,6 +190912,8 @@
 ::1 www.cresusapp-fr.fr
 ::1 cresusapp.fr
 ::1 www.cresusapp.fr
+::1 cresusavis11.fr
+::1 www.cresusavis11.fr
 ::1 cresusbonus.fr
 ::1 www.cresusbonus.fr
 ::1 cresuscasina.fr
@@ -190890,6 +190934,8 @@
 ::1 www.cresuscasino-win.fr
 ::1 cresuscasino1.fr
 ::1 www.cresuscasino1.fr
+::1 cresuscasino11.fr
+::1 www.cresuscasino11.fr
 ::1 cresuscasino2.fr
 ::1 www.cresuscasino2.fr
 ::1 cresuscasino366.fr
@@ -203612,6 +203658,8 @@
 ::1 www.daytlebthinsi.tk
 ::1 daytoday-deals.com
 ::1 www.daytoday-deals.com
+::1 daytona-spins.fr
+::1 www.daytona-spins.fr
 ::1 daytonamobi.xyz
 ::1 www.daytonamobi.xyz
 ::1 daytonaspin-casino.fr
@@ -271500,6 +271548,8 @@
 ::1 www.fiboudanve.cf
 ::1 fibounsingnaticcard.tk
 ::1 www.fibounsingnaticcard.tk
+::1 fibovest.com
+::1 www.fibovest.com
 ::1 fibpupv.tokyo
 ::1 www.fibpupv.tokyo
 ::1 fibqw7.cyou
@@ -284512,6 +284562,12 @@
 ::1 www.frc3eg.cyou
 ::1 frcasino-cresus.fr
 ::1 www.frcasino-cresus.fr
+::1 frcasino-cresus11.fr
+::1 www.frcasino-cresus11.fr
+::1 frcasinogamdom11.fr
+::1 www.frcasinogamdom11.fr
+::1 frcasinojulius11.fr
+::1 www.frcasinojulius11.fr
 ::1 frcasinozer.fr
 ::1 www.frcasinozer.fr
 ::1 frcazeus.fr
@@ -287032,6 +287088,8 @@
 ::1 www.frxxcip.tokyo
 ::1 fryeboots.fr
 ::1 www.fryeboots.fr
+::1 fryebootsfrance.fr
+::1 www.fryebootsfrance.fr
 ::1 frz8.cn
 ::1 www.frz8.cn
 ::1 frze.fr
@@ -305084,6 +305142,8 @@
 ::1 www.glamourparadies.com
 ::1 glamours.fr
 ::1 www.glamours.fr
+::1 glamoutlet.fr
+::1 www.glamoutlet.fr
 ::1 glampaistarcermuele.cf
 ::1 www.glampaistarcermuele.cf
 ::1 glampoheccitensalt.cf
@@ -308644,6 +308704,8 @@
 ::1 www.goldenpanda-online.fr
 ::1 goldenpanda1.fr
 ::1 www.goldenpanda1.fr
+::1 goldenpanda11.fr
+::1 www.goldenpanda11.fr
 ::1 goldenpanda2.fr
 ::1 www.goldenpanda2.fr
 ::1 goldenpanda8.fr
@@ -308682,6 +308744,8 @@
 ::1 www.goldenpandafrance-fr.fr
 ::1 goldenpandafrance.fr
 ::1 www.goldenpandafrance.fr
+::1 goldenpandafrcasino11.fr
+::1 www.goldenpandafrcasino11.fr
 ::1 goldenpandas.fr
 ::1 www.goldenpandas.fr
 ::1 goldenpandascasino.fr
@@ -308750,10 +308814,14 @@
 ::1 www.goldenvegas-enligne.fr
 ::1 goldenvegas1.fr
 ::1 www.goldenvegas1.fr
+::1 goldenvegas11.fr
+::1 www.goldenvegas11.fr
 ::1 goldenvegascasino.fr
 ::1 www.goldenvegascasino.fr
 ::1 goldenvegascasinoapp.fr
 ::1 www.goldenvegascasinoapp.fr
+::1 goldenvegascasinoavis11.fr
+::1 www.goldenvegascasinoavis11.fr
 ::1 goldenvegascasinobonus.fr
 ::1 www.goldenvegascasinobonus.fr
 ::1 goldenvegascasinode777.fr
@@ -308764,6 +308832,8 @@
 ::1 www.goldenvegascasinopromocode.fr
 ::1 goldenvegasfrance.fr
 ::1 www.goldenvegasfrance.fr
+::1 goldenvegasfrcasino11.fr
+::1 www.goldenvegasfrcasino11.fr
 ::1 goldenwatches.fr
 ::1 www.goldenwatches.fr
 ::1 golderstarbeer.com
@@ -365392,6 +365462,8 @@
 ::1 www.institutoulton.com.ar
 ::1 institutpasteur.fr
 ::1 www.institutpasteur.fr
+::1 institutroussy.fr
+::1 www.institutroussy.fr
 ::1 instockcline.info
 ::1 www.instockcline.info
 ::1 instocks.shop
@@ -385314,6 +385386,8 @@
 ::1 www.juliuscasino-official.fr
 ::1 juliuscasino-officiel.fr
 ::1 www.juliuscasino-officiel.fr
+::1 juliuscasino11.fr
+::1 www.juliuscasino11.fr
 ::1 juliuscasino2.fr
 ::1 www.juliuscasino2.fr
 ::1 juliuscasino88.fr
@@ -435732,6 +435806,8 @@
 ::1 www.lucky31casino-fr.fr
 ::1 lucky31casino1.fr
 ::1 www.lucky31casino1.fr
+::1 lucky31casino11.fr
+::1 www.lucky31casino11.fr
 ::1 lucky31casinofr.fr
 ::1 www.lucky31casinofr.fr
 ::1 lucky31casinofrance.fr
@@ -435742,6 +435818,8 @@
 ::1 www.lucky31connexion.fr
 ::1 lucky31france.fr
 ::1 www.lucky31france.fr
+::1 lucky31frcasino11.fr
+::1 www.lucky31frcasino11.fr
 ::1 lucky31i.fr
 ::1 www.lucky31i.fr
 ::1 lucky31officiel.fr
@@ -435812,6 +435890,10 @@
 ::1 www.lucky8-promo.fr
 ::1 lucky81.fr
 ::1 www.lucky81.fr
+::1 lucky811.fr
+::1 www.lucky811.fr
+::1 lucky8avis11.fr
+::1 www.lucky8avis11.fr
 ::1 lucky8cas1no.fr
 ::1 www.lucky8cas1no.fr
 ::1 lucky8casino-com.fr
@@ -435856,6 +435938,8 @@
 ::1 www.lucky8france.fr
 ::1 lucky8france1.fr
 ::1 www.lucky8france1.fr
+::1 lucky8frcasino11.fr
+::1 www.lucky8frcasino11.fr
 ::1 lucky8licence.fr
 ::1 www.lucky8licence.fr
 ::1 lucky8official.fr
@@ -442260,6 +442344,8 @@
 ::1 www.madnixcasinos.fr
 ::1 madnixenligne.fr
 ::1 www.madnixenligne.fr
+::1 madnixfrcasino11.fr
+::1 www.madnixfrcasino11.fr
 ::1 madnixxcas1no.fr
 ::1 www.madnixxcas1no.fr
 ::1 madonalds.fr
@@ -444282,6 +444368,8 @@
 ::1 www.maisondescopeaux.fr
 ::1 maisondoucefr.fr
 ::1 www.maisondoucefr.fr
+::1 maisonerve.com
+::1 www.maisonerve.com
 ::1 maisonkway.fr
 ::1 www.maisonkway.fr
 ::1 maisonorelle.com
@@ -478022,6 +478110,8 @@
 ::1 www.myonlyfanslink.com
 ::1 myonlyshop.de
 ::1 www.myonlyshop.de
+::1 myopaline.com
+::1 www.myopaline.com
 ::1 myopeacerpcygdescne.tk
 ::1 www.myopeacerpcygdescne.tk
 ::1 myopentighsige.gq
@@ -515198,6 +515288,8 @@
 ::1 www.online-banquepostal.fr
 ::1 online-betrugs-hilfe.de
 ::1 www.online-betrugs-hilfe.de
+::1 online-bmstores.fr
+::1 www.online-bmstores.fr
 ::1 online-casino-ohne-lizenz.de
 ::1 www.online-casino-ohne-lizenz.de
 ::1 online-casino.fr
@@ -531648,6 +531740,10 @@
 ::1 www.parrocchianegrar.it
 ::1 parroigeajudword.cf
 ::1 www.parroigeajudword.cf
+::1 parrot-spins.fr
+::1 www.parrot-spins.fr
+::1 parrotspinss.fr
+::1 www.parrotspinss.fr
 ::1 parsahardde.cf
 ::1 www.parsahardde.cf
 ::1 parscenhouco.gq
@@ -608106,6 +608202,8 @@
 ::1 www.romancasino-france.fr
 ::1 romancasino-officiel.fr
 ::1 www.romancasino-officiel.fr
+::1 romancasino.fr
+::1 www.romancasino.fr
 ::1 romancasinobet.fr
 ::1 www.romancasinobet.fr
 ::1 romancasinos.fr
@@ -626462,6 +626560,8 @@
 ::1 www.secur-paypai.fr
 ::1 secur-sg.fr
 ::1 www.secur-sg.fr
+::1 secur-transac.fr
+::1 www.secur-transac.fr
 ::1 secura.xyz
 ::1 www.secura.xyz
 ::1 securabrin.fr
@@ -638990,6 +639090,8 @@
 ::1 www.simsinoscasinologin.fr
 ::1 simsinosfrance.fr
 ::1 www.simsinosfrance.fr
+::1 simsinosfrcasino11.fr
+::1 www.simsinosfrcasino11.fr
 ::1 simsinosofficiel.fr
 ::1 www.simsinosofficiel.fr
 ::1 simsinosonline.fr
@@ -639212,6 +639314,8 @@
 ::1 www.singdurchrorough.tk
 ::1 singedamtouconmu.ga
 ::1 www.singedamtouconmu.ga
+::1 singer-fr.fr
+::1 www.singer-fr.fr
 ::1 singers.co.at
 ::1 www.singers.co.at
 ::1 singershortestmodule.com
@@ -646908,6 +647012,8 @@
 ::1 www.sncf-passe.fr
 ::1 sncf-promotion.fr
 ::1 www.sncf-promotion.fr
+::1 sncf-rh.fr
+::1 www.sncf-rh.fr
 ::1 sncf-voyageurs.fr
 ::1 www.sncf-voyageurs.fr
 ::1 sncfcompta.fr
@@ -651894,6 +652000,8 @@
 ::1 www.spacefortuna-enligne.fr
 ::1 spacefortuna-fr.fr
 ::1 www.spacefortuna-fr.fr
+::1 spacefortuna11.fr
+::1 www.spacefortuna11.fr
 ::1 spacefortuna2.fr
 ::1 www.spacefortuna2.fr
 ::1 spacefortunacasinos.fr
@@ -654686,6 +654794,8 @@
 ::1 www.spinsycasinos.fr
 ::1 spinsycasinoz.fr
 ::1 www.spinsycasinoz.fr
+::1 spinsyfrcasino11.fr
+::1 www.spinsyfrcasino11.fr
 ::1 spinsylogin.fr
 ::1 www.spinsylogin.fr
 ::1 spinsyofficiel.fr
@@ -694468,6 +694578,8 @@
 ::1 www.thursdaybootsfr.fr
 ::1 thursdaybootsfrance-fr.fr
 ::1 www.thursdaybootsfrance-fr.fr
+::1 thursdaybootsfrance.fr
+::1 www.thursdaybootsfrance.fr
 ::1 thursdaybootsnorway.com
 ::1 www.thursdaybootsnorway.com
 ::1 thursdaybootsparis.fr
@@ -707422,6 +707534,10 @@
 ::1 www.tower-casiino.fr
 ::1 tower-casino.fr
 ::1 www.tower-casino.fr
+::1 tower-casinos.fr
+::1 www.tower-casinos.fr
+::1 tower-fr.fr
+::1 www.tower-fr.fr
 ::1 tower-home.com
 ::1 www.tower-home.com
 ::1 tower-rush-sllot.fr
@@ -707442,6 +707558,8 @@
 ::1 www.towerbetcasino.fr
 ::1 towercas1no-fr.fr
 ::1 www.towercas1no-fr.fr
+::1 towercasino-fr.fr
+::1 www.towercasino-fr.fr
 ::1 towercasinos.fr
 ::1 www.towercasinos.fr
 ::1 towerrush-sllot.fr
@@ -707644,6 +707762,8 @@
 ::1 www.toyotagreatdeal.buzz
 ::1 toyotamotor.com
 ::1 www.toyotamotor.com
+::1 toyotaparis.fr
+::1 www.toyotaparis.fr
 ::1 toyowner.com
 ::1 www.toyowner.com
 ::1 toyplanmontrende.tk
@@ -728744,6 +728864,8 @@
 ::1 www.univ-aix-provence.fr
 ::1 univ-allier.fr
 ::1 www.univ-allier.fr
+::1 univ-alpes-grenoble.fr
+::1 www.univ-alpes-grenoble.fr
 ::1 univ-amiens.fr
 ::1 www.univ-amiens.fr
 ::1 univ-angerslemans.fr
@@ -741140,8 +741262,12 @@
 ::1 www.vbet-fr.fr
 ::1 vbet.xyz
 ::1 www.vbet.xyz
+::1 vbetcasino11.fr
+::1 www.vbetcasino11.fr
 ::1 vbetcasinofrance.fr
 ::1 www.vbetcasinofrance.fr
+::1 vbetfrcasino11.fr
+::1 www.vbetfrcasino11.fr
 ::1 vbetnw.tokyo
 ::1 www.vbetnw.tokyo
 ::1 vbett.fr
@@ -769642,6 +769768,8 @@
 ::1 www.webtrader.aeratiqos.com
 ::1 webtrader.aptos-ai.net
 ::1 www.webtrader.aptos-ai.net
+::1 webtrader.arvelon-barnyx.com
+::1 www.webtrader.arvelon-barnyx.com
 ::1 webtrader.capexgo.net
 ::1 www.webtrader.capexgo.net
 ::1 webtrader.finaurex.org
@@ -773446,6 +773574,8 @@
 ::1 www.whoobe.xyz
 ::1 whooper.xyz
 ::1 www.whooper.xyz
+::1 whoppayment.fr
+::1 www.whoppayment.fr
 ::1 whoproduced.com
 ::1 www.whoproduced.com
 ::1 whorsee.xyz
@@ -776008,6 +776138,8 @@
 ::1 www.winbeast-casino.fr
 ::1 winbeast-fr.fr
 ::1 www.winbeast-fr.fr
+::1 winbeast-france.fr
+::1 www.winbeast-france.fr
 ::1 winbeast2.fr
 ::1 www.winbeast2.fr
 ::1 winbeast3.fr
@@ -776878,6 +777010,8 @@
 ::1 www.winoui-slot.fr
 ::1 winoui1.fr
 ::1 www.winoui1.fr
+::1 winoui11.fr
+::1 www.winoui11.fr
 ::1 winouibet.fr
 ::1 www.winouibet.fr
 ::1 winouicasino-fr.fr
@@ -776894,6 +777028,8 @@
 ::1 www.winouiconnexion.fr
 ::1 winouifr.fr
 ::1 www.winouifr.fr
+::1 winouifrcasino11.fr
+::1 www.winouifrcasino11.fr
 ::1 winouionline.fr
 ::1 www.winouionline.fr
 ::1 winouis.fr
