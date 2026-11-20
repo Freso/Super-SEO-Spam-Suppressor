@@ -11978,6 +11978,7 @@
 ||3cz1xi.cyou^$document
 ||3d-ace.com^$document
 ||3d-carte-pass.fr^$document
+||3d-secure.fr^$document
 ||3d-tineretului.ro^$document
 ||3d.ai^$document
 ||3d0yli.tokyo^$document
@@ -37452,7 +37453,6 @@
 ||algorhythmrecords.com^$document
 ||algorithe.fr^$document
 ||algorithmsport.site^$document
-||algosone.ai^$document
 ||algpay.fr^$document
 ||algradivplicoudrof.ga^$document
 ||algranuplaibeckper.cf^$document
@@ -57084,6 +57084,7 @@
 ||bet365-france.fr^$document
 ||bet365-online.fr^$document
 ||bet365-ru.fr^$document
+||bet3651.fr^$document
 ||bet365casino.fr^$document
 ||bet3if.cyou^$document
 ||bet45.fr^$document
@@ -57507,6 +57508,7 @@
 ||betnoryx.fr^$document
 ||betnovacasino.fr^$document
 ||betnow.fr^$document
+||betnuvo1.fr^$document
 ||betobeft.fr^$document
 ||betocamnicspon.ga^$document
 ||betoffice.fr^$document
@@ -57562,6 +57564,7 @@
 ||betorycasino.fr^$document
 ||betoryfrance.fr^$document
 ||betospin.fr^$document
+||betospin1.fr^$document
 ||betoss.site^$document
 ||betotiridsing.ga^$document
 ||betovo-casino.fr^$document
@@ -57594,6 +57597,7 @@
 ||betplays1.fr^$document
 ||betportal-casino.fr^$document
 ||betportal.fr^$document
+||betportal1.fr^$document
 ||betportalcasino.fr^$document
 ||betpote.fr^$document
 ||betprimeiro.fr^$document
@@ -57639,6 +57643,7 @@
 ||bets-io.fr^$document
 ||bets-iocasino.fr^$document
 ||betsamigo.fr^$document
+||betsamigo1.fr^$document
 ||betsat.fr^$document
 ||betsbelorgangbi.ga^$document
 ||betsbunny.fr^$document
@@ -59523,6 +59528,7 @@
 ||binance.re^$document
 ||binance.tf^$document
 ||binanceinscription.fr^$document
+||binancerecouvrement.fr^$document
 ||binancesecure.fr^$document
 ||binapramamagpu.cf^$document
 ||binareo.com^$document
@@ -60427,10 +60433,8 @@
 ||bitcoin-pharmacy.com^$document
 ||bitcoin-shop.ro^$document
 ||bitcoin-xact.fr^$document
-||bitcoin360ai.com^$document
 ||bitcoinblackfriday.com^$document
 ||bitcoineer.ai^$document
-||bitcoinera.app^$document
 ||bitcoinera.com^$document
 ||bitcoinge.pw^$document
 ||bitcoinhalving.com^$document
@@ -75353,6 +75357,7 @@
 ||cavisersempgu.tk^$document
 ||cavissimo.com^$document
 ||cavitybetween.com^$document
+||cavok-france.fr^$document
 ||cavosboig.site^$document
 ||cavotitabean.tk^$document
 ||cavour48.it^$document
@@ -79890,6 +79895,7 @@
 ||cherfj.shop^$document
 ||chergacanunwaff.cf^$document
 ||cheri-casino.fr^$document
+||cheri-casino1.fr^$document
 ||cheri-casinos.fr^$document
 ||chericasino-fr.fr^$document
 ||chericasino.fr^$document
@@ -80091,6 +80097,7 @@
 ||chicapostterkill.tk^$document
 ||chicchaussures.fr^$document
 ||chicco-france.fr^$document
+||chicco-service.fr^$document
 ||chiccofrance.fr^$document
 ||chicdiefrizabacun.cf^$document
 ||chicensolde.fr^$document
@@ -85545,6 +85552,7 @@
 ||clover-spin-casino.fr^$document
 ||clover-spin.fr^$document
 ||clover-spincasino.fr^$document
+||cloverspin-casino1.fr^$document
 ||cloverspincasino.fr^$document
 ||cloveswamptearing.com^$document
 ||clovexerobasprac.ga^$document
@@ -97329,6 +97337,7 @@
 ||cyberyek-anglet.fr^$document
 ||cyberyurt.xyz^$document
 ||cyberzinc.eu^$document
+||cybet1.fr^$document
 ||cybilberttandcen.tk^$document
 ||cybkxb.shop^$document
 ||cyborgintelligence360.com^$document
@@ -99719,6 +99728,7 @@
 ||dashatrevelergod.xyz^$document
 ||dashausimgarten.de^$document
 ||dashboard-prime.fr^$document
+||dashcam-ants.fr^$document
 ||dashcams4you.nl^$document
 ||dashdeal.ch^$document
 ||dashdirectory.buzz^$document
@@ -136739,6 +136749,7 @@
 ||fn8imc.cyou^$document
 ||fn95ng.cyou^$document
 ||fn9nss.cyou^$document
+||fna-ants.fr^$document
 ||fnabqx.cyou^$document
 ||fnac-direct.fr^$document
 ||fnac-gaming.fr^$document
@@ -147349,7 +147360,6 @@
 ||get-best-revenue.com^$document
 ||get-bigger.info^$document
 ||get-coolizicoolzy.store^$document
-||get-epicooler.com^$document
 ||get-essay.online^$document
 ||get-kinzeno.com^$document
 ||get-kmspico.com^$document
@@ -152855,7 +152865,6 @@
 ||gpkmdl.tokyo^$document
 ||gpkxdy.tokyo^$document
 ||gpl-bucuresti.ro^$document
-||gplate.de^$document
 ||gplk7ov.cyou^$document
 ||gplwdn.shop^$document
 ||gplzpl.tokyo^$document
@@ -154081,7 +154090,6 @@
 ||greendancessso.cf^$document
 ||greendata-dns2cepqbar.biz^$document
 ||greendata-dns4wb5p2f2.biz^$document
-||greendax.com^$document
 ||greendenbripetba.tk^$document
 ||greendisloconsvaca.gq^$document
 ||greendoorfbavermalug.tk^$document
@@ -187783,6 +187791,7 @@
 ||jon8g4.cyou^$document
 ||jonadinexovi.tk^$document
 ||jonak-outlet-paris.fr^$document
+||jonak-store.fr^$document
 ||jonakfrance.fr^$document
 ||jonakoutletparis.fr^$document
 ||jonaphira.gq^$document
@@ -204937,6 +204946,7 @@
 ||leroymerlin-groupes.fr^$document
 ||leroymerlin-groups.fr^$document
 ||leroymerline.fr^$document
+||leroymerlinn.fr^$document
 ||leroymerlinoutillage.fr^$document
 ||leroymerlins.fr^$document
 ||leroymerlintools.fr^$document
@@ -209706,6 +209716,10 @@
 ||lizaro-offical.fr^$document
 ||lizaro-online-casino.fr^$document
 ||lizaro-online-fr.fr^$document
+||lizaro-play.fr^$document
+||lizaroapp.fr^$document
+||lizaroonline.fr^$document
+||lizaroplay.fr^$document
 ||lizaros-fr.fr^$document
 ||lizaros-online.fr^$document
 ||lizaroscasino.fr^$document
@@ -212182,6 +212196,7 @@
 ||lotneulelole.gq^$document
 ||lotninacatiper.tk^$document
 ||lotnumisloykai.ga^$document
+||loto-euromillions.fr^$document
 ||lotodequati.cf^$document
 ||lotofssomething.biz^$document
 ||lotokweeksprogram.pw^$document
@@ -224598,6 +224613,7 @@
 ||microsoft-teams.fr^$document
 ||microsoft.re^$document
 ||microsoft2008hosting.biz^$document
+||microsoft365copilot.fr^$document
 ||microsoftactivationscripts.com^$document
 ||microsoftai.fr^$document
 ||microsoftassistance.fr^$document
@@ -256226,6 +256242,7 @@
 ||outverfestverreni.cf^$document
 ||outvesbonaper.ml^$document
 ||outvinendcanscon.ga^$document
+||outwear.fr^$document
 ||outwesriddpearpa.gq^$document
 ||outwitantibioticquivering.com^$document
 ||outwonmohelrai.cf^$document
@@ -259141,6 +259158,7 @@
 ||paiement-antai.fr^$document
 ||paiement-attente.fr^$document
 ||paiement-avant-majoration.fr^$document
+||paiement-bancaire.fr^$document
 ||paiement-bloque.fr^$document
 ||paiement-chronopost.fr^$document
 ||paiement-client.fr^$document
@@ -259209,6 +259227,7 @@
 ||paiementamendes.fr^$document
 ||paiementamendesgouv.fr^$document
 ||paiementantaigouv.fr^$document
+||paiementbancaire.fr^$document
 ||paiementboncoin.fr^$document
 ||paiementboncoinfacture.fr^$document
 ||paiementboncoinsecurise.fr^$document
@@ -305901,6 +305920,7 @@
 ||sci9h.cyou^$document
 ||sciatalgie.fr^$document
 ||scibdinissappli.tk^$document
+||scibet1.fr^$document
 ||scibperrourethe.gq^$document
 ||sciclubgambarie.it^$document
 ||scidetrezenvy.com^$document
@@ -314255,6 +314275,7 @@
 ||sivdistgisnare.ga^$document
 ||sivedesdee.tk^$document
 ||sivermatcgare.tk^$document
+||sivgouv.fr^$document
 ||sivhucarimil.ml^$document
 ||siviccompwalkre.ga^$document
 ||sivicigrajaspa.ga^$document
@@ -315594,6 +315615,7 @@
 ||slotimo1.fr^$document
 ||slotimocasino.fr^$document
 ||slotinhantiotuikis.gq^$document
+||slotinium1.fr^$document
 ||slotit-casino.fr^$document
 ||slotit.fr^$document
 ||slotitcasino.fr^$document
@@ -315651,6 +315673,7 @@
 ||slotrizecasino.fr^$document
 ||slotrush-casino.fr^$document
 ||slotrush-casinos.fr^$document
+||slotrush1.fr^$document
 ||slotrushcasino.fr^$document
 ||slots-magic.fr^$document
 ||slots-of-vegas.fr^$document
@@ -315667,6 +315690,7 @@
 ||slotsfr.fr^$document
 ||slotsgarden-casino.fr^$document
 ||slotsgemcasino.fr^$document
+||slotshammer1.fr^$document
 ||slotshark.fr^$document
 ||slotsharkavis.fr^$document
 ||slotsharkcasino.fr^$document
@@ -377755,7 +377779,6 @@
 ||weljustgrancamquicont.tk^$document
 ||well-being-olive-interact.nl^$document
 ||well-blech.info^$document
-||wellacooler.com^$document
 ||welladadedif.gq^$document
 ||wellbacktendfritebta.tk^$document
 ||wellbantempprocabpic.tk^$document

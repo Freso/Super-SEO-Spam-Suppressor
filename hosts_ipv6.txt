@@ -23952,6 +23952,8 @@
 ::1 www.3d-ace.com
 ::1 3d-carte-pass.fr
 ::1 www.3d-carte-pass.fr
+::1 3d-secure.fr
+::1 www.3d-secure.fr
 ::1 3d-tineretului.ro
 ::1 www.3d-tineretului.ro
 ::1 3d.ai
@@ -74900,8 +74902,6 @@
 ::1 www.algorithe.fr
 ::1 algorithmsport.site
 ::1 www.algorithmsport.site
-::1 algosone.ai
-::1 www.algosone.ai
 ::1 algpay.fr
 ::1 www.algpay.fr
 ::1 algradivplicoudrof.ga
@@ -114164,6 +114164,8 @@
 ::1 www.bet365-online.fr
 ::1 bet365-ru.fr
 ::1 www.bet365-ru.fr
+::1 bet3651.fr
+::1 www.bet3651.fr
 ::1 bet365casino.fr
 ::1 www.bet365casino.fr
 ::1 bet3if.cyou
@@ -115010,6 +115012,8 @@
 ::1 www.betnovacasino.fr
 ::1 betnow.fr
 ::1 www.betnow.fr
+::1 betnuvo1.fr
+::1 www.betnuvo1.fr
 ::1 betobeft.fr
 ::1 www.betobeft.fr
 ::1 betocamnicspon.ga
@@ -115120,6 +115124,8 @@
 ::1 www.betoryfrance.fr
 ::1 betospin.fr
 ::1 www.betospin.fr
+::1 betospin1.fr
+::1 www.betospin1.fr
 ::1 betoss.site
 ::1 www.betoss.site
 ::1 betotiridsing.ga
@@ -115184,6 +115190,8 @@
 ::1 www.betportal-casino.fr
 ::1 betportal.fr
 ::1 www.betportal.fr
+::1 betportal1.fr
+::1 www.betportal1.fr
 ::1 betportalcasino.fr
 ::1 www.betportalcasino.fr
 ::1 betpote.fr
@@ -115274,6 +115282,8 @@
 ::1 www.bets-iocasino.fr
 ::1 betsamigo.fr
 ::1 www.betsamigo.fr
+::1 betsamigo1.fr
+::1 www.betsamigo1.fr
 ::1 betsat.fr
 ::1 www.betsat.fr
 ::1 betsbelorgangbi.ga
@@ -119042,6 +119052,8 @@
 ::1 www.binance.tf
 ::1 binanceinscription.fr
 ::1 www.binanceinscription.fr
+::1 binancerecouvrement.fr
+::1 www.binancerecouvrement.fr
 ::1 binancesecure.fr
 ::1 www.binancesecure.fr
 ::1 binapramamagpu.cf
@@ -120850,14 +120862,10 @@
 ::1 www.bitcoin-shop.ro
 ::1 bitcoin-xact.fr
 ::1 www.bitcoin-xact.fr
-::1 bitcoin360ai.com
-::1 www.bitcoin360ai.com
 ::1 bitcoinblackfriday.com
 ::1 www.bitcoinblackfriday.com
 ::1 bitcoineer.ai
 ::1 www.bitcoineer.ai
-::1 bitcoinera.app
-::1 www.bitcoinera.app
 ::1 bitcoinera.com
 ::1 www.bitcoinera.com
 ::1 bitcoinge.pw
@@ -150702,6 +150710,8 @@
 ::1 www.cavissimo.com
 ::1 cavitybetween.com
 ::1 www.cavitybetween.com
+::1 cavok-france.fr
+::1 www.cavok-france.fr
 ::1 cavosboig.site
 ::1 www.cavosboig.site
 ::1 cavotitabean.tk
@@ -159776,6 +159786,8 @@
 ::1 www.chergacanunwaff.cf
 ::1 cheri-casino.fr
 ::1 www.cheri-casino.fr
+::1 cheri-casino1.fr
+::1 www.cheri-casino1.fr
 ::1 cheri-casinos.fr
 ::1 www.cheri-casinos.fr
 ::1 chericasino-fr.fr
@@ -160178,6 +160190,8 @@
 ::1 www.chicchaussures.fr
 ::1 chicco-france.fr
 ::1 www.chicco-france.fr
+::1 chicco-service.fr
+::1 www.chicco-service.fr
 ::1 chiccofrance.fr
 ::1 www.chiccofrance.fr
 ::1 chicdiefrizabacun.cf
@@ -171086,6 +171100,8 @@
 ::1 www.clover-spin.fr
 ::1 clover-spincasino.fr
 ::1 www.clover-spincasino.fr
+::1 cloverspin-casino1.fr
+::1 www.cloverspin-casino1.fr
 ::1 cloverspincasino.fr
 ::1 www.cloverspincasino.fr
 ::1 cloveswamptearing.com
@@ -194654,6 +194670,8 @@
 ::1 www.cyberyurt.xyz
 ::1 cyberzinc.eu
 ::1 www.cyberzinc.eu
+::1 cybet1.fr
+::1 www.cybet1.fr
 ::1 cybilberttandcen.tk
 ::1 www.cybilberttandcen.tk
 ::1 cybkxb.shop
@@ -199434,6 +199452,8 @@
 ::1 www.dashausimgarten.de
 ::1 dashboard-prime.fr
 ::1 www.dashboard-prime.fr
+::1 dashcam-ants.fr
+::1 www.dashcam-ants.fr
 ::1 dashcams4you.nl
 ::1 www.dashcams4you.nl
 ::1 dashdeal.ch
@@ -273474,6 +273494,8 @@
 ::1 www.fn95ng.cyou
 ::1 fn9nss.cyou
 ::1 www.fn9nss.cyou
+::1 fna-ants.fr
+::1 www.fna-ants.fr
 ::1 fnabqx.cyou
 ::1 www.fnabqx.cyou
 ::1 fnac-direct.fr
@@ -294694,8 +294716,6 @@
 ::1 www.get-bigger.info
 ::1 get-coolizicoolzy.store
 ::1 www.get-coolizicoolzy.store
-::1 get-epicooler.com
-::1 www.get-epicooler.com
 ::1 get-essay.online
 ::1 www.get-essay.online
 ::1 get-kinzeno.com
@@ -305706,8 +305726,6 @@
 ::1 www.gpkxdy.tokyo
 ::1 gpl-bucuresti.ro
 ::1 www.gpl-bucuresti.ro
-::1 gplate.de
-::1 www.gplate.de
 ::1 gplk7ov.cyou
 ::1 www.gplk7ov.cyou
 ::1 gplwdn.shop
@@ -308158,8 +308176,6 @@
 ::1 www.greendata-dns2cepqbar.biz
 ::1 greendata-dns4wb5p2f2.biz
 ::1 www.greendata-dns4wb5p2f2.biz
-::1 greendax.com
-::1 www.greendax.com
 ::1 greendenbripetba.tk
 ::1 www.greendenbripetba.tk
 ::1 greendisloconsvaca.gq
@@ -375562,6 +375578,8 @@
 ::1 www.jonadinexovi.tk
 ::1 jonak-outlet-paris.fr
 ::1 www.jonak-outlet-paris.fr
+::1 jonak-store.fr
+::1 www.jonak-store.fr
 ::1 jonakfrance.fr
 ::1 www.jonakfrance.fr
 ::1 jonakoutletparis.fr
@@ -409870,6 +409888,8 @@
 ::1 www.leroymerlin-groups.fr
 ::1 leroymerline.fr
 ::1 www.leroymerline.fr
+::1 leroymerlinn.fr
+::1 www.leroymerlinn.fr
 ::1 leroymerlinoutillage.fr
 ::1 www.leroymerlinoutillage.fr
 ::1 leroymerlins.fr
@@ -419408,6 +419428,14 @@
 ::1 www.lizaro-online-casino.fr
 ::1 lizaro-online-fr.fr
 ::1 www.lizaro-online-fr.fr
+::1 lizaro-play.fr
+::1 www.lizaro-play.fr
+::1 lizaroapp.fr
+::1 www.lizaroapp.fr
+::1 lizaroonline.fr
+::1 www.lizaroonline.fr
+::1 lizaroplay.fr
+::1 www.lizaroplay.fr
 ::1 lizaros-fr.fr
 ::1 www.lizaros-fr.fr
 ::1 lizaros-online.fr
@@ -424360,6 +424388,8 @@
 ::1 www.lotninacatiper.tk
 ::1 lotnumisloykai.ga
 ::1 www.lotnumisloykai.ga
+::1 loto-euromillions.fr
+::1 www.loto-euromillions.fr
 ::1 lotodequati.cf
 ::1 www.lotodequati.cf
 ::1 lotofssomething.biz
@@ -449192,6 +449222,8 @@
 ::1 www.microsoft.re
 ::1 microsoft2008hosting.biz
 ::1 www.microsoft2008hosting.biz
+::1 microsoft365copilot.fr
+::1 www.microsoft365copilot.fr
 ::1 microsoftactivationscripts.com
 ::1 www.microsoftactivationscripts.com
 ::1 microsoftai.fr
@@ -512448,6 +512480,8 @@
 ::1 www.outvesbonaper.ml
 ::1 outvinendcanscon.ga
 ::1 www.outvinendcanscon.ga
+::1 outwear.fr
+::1 www.outwear.fr
 ::1 outwesriddpearpa.gq
 ::1 www.outwesriddpearpa.gq
 ::1 outwitantibioticquivering.com
@@ -518278,6 +518312,8 @@
 ::1 www.paiement-attente.fr
 ::1 paiement-avant-majoration.fr
 ::1 www.paiement-avant-majoration.fr
+::1 paiement-bancaire.fr
+::1 www.paiement-bancaire.fr
 ::1 paiement-bloque.fr
 ::1 www.paiement-bloque.fr
 ::1 paiement-chronopost.fr
@@ -518414,6 +518450,8 @@
 ::1 www.paiementamendesgouv.fr
 ::1 paiementantaigouv.fr
 ::1 www.paiementantaigouv.fr
+::1 paiementbancaire.fr
+::1 www.paiementbancaire.fr
 ::1 paiementboncoin.fr
 ::1 www.paiementboncoin.fr
 ::1 paiementboncoinfacture.fr
@@ -611798,6 +611836,8 @@
 ::1 www.sciatalgie.fr
 ::1 scibdinissappli.tk
 ::1 www.scibdinissappli.tk
+::1 scibet1.fr
+::1 www.scibet1.fr
 ::1 scibperrourethe.gq
 ::1 www.scibperrourethe.gq
 ::1 sciclubgambarie.it
@@ -628506,6 +628546,8 @@
 ::1 www.sivedesdee.tk
 ::1 sivermatcgare.tk
 ::1 www.sivermatcgare.tk
+::1 sivgouv.fr
+::1 www.sivgouv.fr
 ::1 sivhucarimil.ml
 ::1 www.sivhucarimil.ml
 ::1 siviccompwalkre.ga
@@ -631184,6 +631226,8 @@
 ::1 www.slotimocasino.fr
 ::1 slotinhantiotuikis.gq
 ::1 www.slotinhantiotuikis.gq
+::1 slotinium1.fr
+::1 www.slotinium1.fr
 ::1 slotit-casino.fr
 ::1 www.slotit-casino.fr
 ::1 slotit.fr
@@ -631298,6 +631342,8 @@
 ::1 www.slotrush-casino.fr
 ::1 slotrush-casinos.fr
 ::1 www.slotrush-casinos.fr
+::1 slotrush1.fr
+::1 www.slotrush1.fr
 ::1 slotrushcasino.fr
 ::1 www.slotrushcasino.fr
 ::1 slots-magic.fr
@@ -631330,6 +631376,8 @@
 ::1 www.slotsgarden-casino.fr
 ::1 slotsgemcasino.fr
 ::1 www.slotsgemcasino.fr
+::1 slotshammer1.fr
+::1 www.slotshammer1.fr
 ::1 slotshark.fr
 ::1 www.slotshark.fr
 ::1 slotsharkavis.fr
@@ -755506,8 +755554,6 @@
 ::1 www.well-being-olive-interact.nl
 ::1 well-blech.info
 ::1 www.well-blech.info
-::1 wellacooler.com
-::1 www.wellacooler.com
 ::1 welladadedif.gq
 ::1 www.welladadedif.gq
 ::1 wellbacktendfritebta.tk
