@@ -126366,7 +126366,6 @@
 ||etvda.yt^$document
 ||etvext.tokyo^$document
 ||etvgf.yt^$document
-||etvgozkl.shop^$document
 ||etviccawell.tk^$document
 ||etwadagode.ml^$document
 ||etwalinklilah.ml^$document
@@ -144604,6 +144603,7 @@
 ||ganni-soldes.fr^$document
 ||gannicontiso.tk^$document
 ||gannifr.fr^$document
+||gannioutlet.de^$document
 ||gannioutlet.fr^$document
 ||ganobcocihyd.ga^$document
 ||ganocephalan.best^$document
@@ -212287,6 +212287,7 @@
 ||lottoportugal.net^$document
 ||lottoslovakia.sk^$document
 ||lottosoldes.fr^$document
+||lottosouthafrica.net^$document
 ||lottosportfrance.fr^$document
 ||lottowardsbeats.bar^$document
 ||lottumedazztron.gq^$document
@@ -232941,6 +232942,7 @@
 ||muutaitradicun.tk^$document
 ||muv3ob.tokyo^$document
 ||muvaconscelllonon.tk^$document
+||muvastore.com^$document
 ||muvecorlaca.gq^$document
 ||muvetorrobipo.tk^$document
 ||muvkas.tokyo^$document
@@ -259983,6 +259985,7 @@
 ||pap-verif.fr^$document
 ||papa-mojo.dk^$document
 ||papa78.com^$document
+||papabau.com^$document
 ||papacomsenzto.tk^$document
 ||papacphenili.ml^$document
 ||papacpuarosu.tk^$document
@@ -349659,6 +349662,7 @@
 ||trivellicelli.cf^$document
 ||trivfulforthquawimblect.tk^$document
 ||trivgo.co.uk^$document
+||trivio-handel.de^$document
 ||trivnetelewan.tk^$document
 ||trivona.de^$document
 ||trivpakerpprecun.cf^$document

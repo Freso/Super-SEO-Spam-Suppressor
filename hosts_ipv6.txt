@@ -252728,8 +252728,6 @@
 ::1 www.etvext.tokyo
 ::1 etvgf.yt
 ::1 www.etvgf.yt
-::1 etvgozkl.shop
-::1 www.etvgozkl.shop
 ::1 etviccawell.tk
 ::1 www.etviccawell.tk
 ::1 etwadagode.ml
@@ -289204,6 +289202,8 @@
 ::1 www.gannicontiso.tk
 ::1 gannifr.fr
 ::1 www.gannifr.fr
+::1 gannioutlet.de
+::1 www.gannioutlet.de
 ::1 gannioutlet.fr
 ::1 www.gannioutlet.fr
 ::1 ganobcocihyd.ga
@@ -424570,6 +424570,8 @@
 ::1 www.lottoslovakia.sk
 ::1 lottosoldes.fr
 ::1 www.lottosoldes.fr
+::1 lottosouthafrica.net
+::1 www.lottosouthafrica.net
 ::1 lottosportfrance.fr
 ::1 www.lottosportfrance.fr
 ::1 lottowardsbeats.bar
@@ -465878,6 +465880,8 @@
 ::1 www.muv3ob.tokyo
 ::1 muvaconscelllonon.tk
 ::1 www.muvaconscelllonon.tk
+::1 muvastore.com
+::1 www.muvastore.com
 ::1 muvecorlaca.gq
 ::1 www.muvecorlaca.gq
 ::1 muvetorrobipo.tk
@@ -519962,6 +519966,8 @@
 ::1 www.papa-mojo.dk
 ::1 papa78.com
 ::1 www.papa78.com
+::1 papabau.com
+::1 www.papabau.com
 ::1 papacomsenzto.tk
 ::1 www.papacomsenzto.tk
 ::1 papacphenili.ml
@@ -699314,6 +699320,8 @@
 ::1 www.trivfulforthquawimblect.tk
 ::1 trivgo.co.uk
 ::1 www.trivgo.co.uk
+::1 trivio-handel.de
+::1 www.trivio-handel.de
 ::1 trivnetelewan.tk
 ::1 www.trivnetelewan.tk
 ::1 trivona.de
