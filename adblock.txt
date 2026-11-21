@@ -52774,6 +52774,7 @@
 ||banpleculop.cf^$document
 ||banpodan.ml^$document
 ||banptihiribrusp.cf^$document
+||banq2france.fr^$document
 ||banqepopulaire.fr^$document
 ||banqne-france.fr^$document
 ||banquan3.com^$document
@@ -54978,6 +54979,7 @@
 ||beeswinged.best^$document
 ||beetblast-fr.fr^$document
 ||beeteam.net^$document
+||beetify.fr^$document
 ||beetinworkbibosly.gq^$document
 ||beetlechairmanran.com^$document
 ||beetospin-fr.fr^$document
@@ -75656,6 +75658,8 @@
 ||cbzni.tokyo^$document
 ||cbzzdi.tokyo^$document
 ||cc-alberes-cote-vermeille.fr^$document
+||cc-montauban-de-bretagne.fr^$document
+||cc-paysbilurien.fr^$document
 ||cc1jn29.cyou^$document
 ||cc2ag.rest^$document
 ||cc2z78c.cyou^$document
@@ -90240,6 +90244,7 @@
 ||consnorthtoodroaphy.gq^$document
 ||consodipsemb.cf^$document
 ||consoglobe.com^$document
+||consogouv.fr^$document
 ||consoipailobsmanti.ml^$document
 ||consolab.fr^$document
 ||consolador.eu^$document
@@ -91635,6 +91640,7 @@
 ||corisbourses.fr^$document
 ||coristeles.it^$document
 ||coritesmarepcie.gq^$document
+||corivitus-fr.fr^$document
 ||corjimoopaperc.tk^$document
 ||corjoa.tokyo^$document
 ||corjumpfike.ml^$document
@@ -138957,6 +138963,7 @@
 ||fr-cora.fr^$document
 ||fr-corafrance.fr^$document
 ||fr-corgibet.fr^$document
+||fr-corivitus.fr^$document
 ||fr-crcindustriesfrancesas.fr^$document
 ||fr-credindust.fr^$document
 ||fr-cresus.fr^$document
@@ -155375,6 +155382,7 @@
 ||gta5mobi.fun^$document
 ||gta5recovery.xyz^$document
 ||gta6-officiel.fr^$document
+||gta6-shop.fr^$document
 ||gtafb.rest^$document
 ||gtah.fr^$document
 ||gtamoding.fr^$document
@@ -216389,6 +216397,7 @@
 ||maafinsurance.fr^$document
 ||maafsante.fr^$document
 ||maagiakv.ee^$document
+||maagicalspin.fr^$document
 ||maaguetulifi.tk^$document
 ||maahharinclarad.ga^$document
 ||maakescandcheckle.gq^$document
@@ -228537,6 +228546,7 @@
 ||mon-espace-client-prime.fr^$document
 ||mon-espace-client-sfr.fr^$document
 ||mon-espace-client-sofinco.fr^$document
+||mon-espace-clients.fr^$document
 ||mon-espace-colis.fr^$document
 ||mon-espace-colissimo.fr^$document
 ||mon-espace-commercial.fr^$document
@@ -236249,7 +236259,6 @@
 ||nana-vypredaj.sk^$document
 ||nanabernewstu.ml^$document
 ||nanabmukesa.tk^$document
-||nanacalistar.com^$document
 ||nanagolote.ga^$document
 ||nanalballrenhi.tk^$document
 ||nananatherol.ga^$document
@@ -309606,6 +309615,7 @@
 ||servicechronopost2024.fr^$document
 ||servicechronoposte.fr^$document
 ||serviceclient-amazonfrance.fr^$document
+||serviceclient-assurance-retraite.fr^$document
 ||serviceclient-auth.fr^$document
 ||serviceclient-banquedefrance.fr^$document
 ||serviceclient-bitpanda.fr^$document
@@ -310170,6 +310180,8 @@
 ||sevenmoto.ca^$document
 ||sevennet-blog.tumblr.com^$document
 ||sevennineteenth.com^$document
+||sevenplay-fr.fr^$document
+||sevenplay1.fr^$document
 ||sevensistersescorts4u.eu^$document
 ||seventyherbarduous.com^$document
 ||seventymillimeter.com^$document
@@ -320394,6 +320406,7 @@
 ||spin-polo.fr^$document
 ||spin-rollz-casino.fr^$document
 ||spin-rollzcasino.fr^$document
+||spin-shake.fr^$document
 ||spin-shark.fr^$document
 ||spin-spirit-casino.fr^$document
 ||spin-star.fr^$document
@@ -320799,6 +320812,7 @@
 ||spinscasinos.fr^$document
 ||spinsdeluxe-casino.fr^$document
 ||spinshadowpro.fr^$document
+||spinshake6.fr^$document
 ||spinshark.fr^$document
 ||spinshousecasino.fr^$document
 ||spinsingtokilu.cf^$document
@@ -320873,6 +320887,8 @@
 ||spintowin.fr^$document
 ||spintrainer.fr^$document
 ||spintroll.fr^$document
+||spintropolis-fr.fr^$document
+||spintropolis8.fr^$document
 ||spintropolisonline.fr^$document
 ||spintunonsthomte.tk^$document
 ||spinuninsoche.ml^$document
@@ -340956,6 +340972,7 @@
 ||ticketsjul.fr^$document
 ||ticketslive.fr^$document
 ||ticketslouvre.fr^$document
+||ticketsmaster-fr.fr^$document
 ||ticketsmaster-jul.fr^$document
 ||ticketsmaster.fr^$document
 ||ticketsmasters.fr^$document
@@ -348110,6 +348127,7 @@
 ||transactions-prime.fr^$document
 ||transactionsleboncoin.fr^$document
 ||transactionsleboncoins.fr^$document
+||transaviasupport.fr^$document
 ||transcach.fr^$document
 ||transcash-activation.fr^$document
 ||transcash-monespacepersonnel.fr^$document
@@ -354835,6 +354853,7 @@
 ||uggs.co.at^$document
 ||uggsfrance.fr^$document
 ||uggshoes.fr^$document
+||uggshop.fr^$document
 ||uggsoldes.fr^$document
 ||uggsparis.fr^$document
 ||uggsshop.fr^$document

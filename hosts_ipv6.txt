@@ -105544,6 +105544,8 @@
 ::1 www.banpodan.ml
 ::1 banptihiribrusp.cf
 ::1 www.banptihiribrusp.cf
+::1 banq2france.fr
+::1 www.banq2france.fr
 ::1 banqepopulaire.fr
 ::1 www.banqepopulaire.fr
 ::1 banqne-france.fr
@@ -109952,6 +109954,8 @@
 ::1 www.beetblast-fr.fr
 ::1 beeteam.net
 ::1 www.beeteam.net
+::1 beetify.fr
+::1 www.beetify.fr
 ::1 beetinworkbibosly.gq
 ::1 www.beetinworkbibosly.gq
 ::1 beetlechairmanran.com
@@ -151308,6 +151312,10 @@
 ::1 www.cbzzdi.tokyo
 ::1 cc-alberes-cote-vermeille.fr
 ::1 www.cc-alberes-cote-vermeille.fr
+::1 cc-montauban-de-bretagne.fr
+::1 www.cc-montauban-de-bretagne.fr
+::1 cc-paysbilurien.fr
+::1 www.cc-paysbilurien.fr
 ::1 cc1jn29.cyou
 ::1 www.cc1jn29.cyou
 ::1 cc2ag.rest
@@ -180476,6 +180484,8 @@
 ::1 www.consodipsemb.cf
 ::1 consoglobe.com
 ::1 www.consoglobe.com
+::1 consogouv.fr
+::1 www.consogouv.fr
 ::1 consoipailobsmanti.ml
 ::1 www.consoipailobsmanti.ml
 ::1 consolab.fr
@@ -183266,6 +183276,8 @@
 ::1 www.coristeles.it
 ::1 coritesmarepcie.gq
 ::1 www.coritesmarepcie.gq
+::1 corivitus-fr.fr
+::1 www.corivitus-fr.fr
 ::1 corjimoopaperc.tk
 ::1 www.corjimoopaperc.tk
 ::1 corjoa.tokyo
@@ -277910,6 +277922,8 @@
 ::1 www.fr-corafrance.fr
 ::1 fr-corgibet.fr
 ::1 www.fr-corgibet.fr
+::1 fr-corivitus.fr
+::1 www.fr-corivitus.fr
 ::1 fr-crcindustriesfrancesas.fr
 ::1 www.fr-crcindustriesfrancesas.fr
 ::1 fr-credindust.fr
@@ -310746,6 +310760,8 @@
 ::1 www.gta5recovery.xyz
 ::1 gta6-officiel.fr
 ::1 www.gta6-officiel.fr
+::1 gta6-shop.fr
+::1 www.gta6-shop.fr
 ::1 gtafb.rest
 ::1 www.gtafb.rest
 ::1 gtah.fr
@@ -432774,6 +432790,8 @@
 ::1 www.maafsante.fr
 ::1 maagiakv.ee
 ::1 www.maagiakv.ee
+::1 maagicalspin.fr
+::1 www.maagicalspin.fr
 ::1 maaguetulifi.tk
 ::1 www.maaguetulifi.tk
 ::1 maahharinclarad.ga
@@ -457070,6 +457088,8 @@
 ::1 www.mon-espace-client-sfr.fr
 ::1 mon-espace-client-sofinco.fr
 ::1 www.mon-espace-client-sofinco.fr
+::1 mon-espace-clients.fr
+::1 www.mon-espace-clients.fr
 ::1 mon-espace-colis.fr
 ::1 www.mon-espace-colis.fr
 ::1 mon-espace-colissimo.fr
@@ -472494,8 +472514,6 @@
 ::1 www.nanabernewstu.ml
 ::1 nanabmukesa.tk
 ::1 www.nanabmukesa.tk
-::1 nanacalistar.com
-::1 www.nanacalistar.com
 ::1 nanagolote.ga
 ::1 www.nanagolote.ga
 ::1 nanalballrenhi.tk
@@ -619208,6 +619226,8 @@
 ::1 www.servicechronoposte.fr
 ::1 serviceclient-amazonfrance.fr
 ::1 www.serviceclient-amazonfrance.fr
+::1 serviceclient-assurance-retraite.fr
+::1 www.serviceclient-assurance-retraite.fr
 ::1 serviceclient-auth.fr
 ::1 www.serviceclient-auth.fr
 ::1 serviceclient-banquedefrance.fr
@@ -620336,6 +620356,10 @@
 ::1 www.sevennet-blog.tumblr.com
 ::1 sevennineteenth.com
 ::1 www.sevennineteenth.com
+::1 sevenplay-fr.fr
+::1 www.sevenplay-fr.fr
+::1 sevenplay1.fr
+::1 www.sevenplay1.fr
 ::1 sevensistersescorts4u.eu
 ::1 www.sevensistersescorts4u.eu
 ::1 seventyherbarduous.com
@@ -640784,6 +640808,8 @@
 ::1 www.spin-rollz-casino.fr
 ::1 spin-rollzcasino.fr
 ::1 www.spin-rollzcasino.fr
+::1 spin-shake.fr
+::1 www.spin-shake.fr
 ::1 spin-shark.fr
 ::1 www.spin-shark.fr
 ::1 spin-spirit-casino.fr
@@ -641594,6 +641620,8 @@
 ::1 www.spinsdeluxe-casino.fr
 ::1 spinshadowpro.fr
 ::1 www.spinshadowpro.fr
+::1 spinshake6.fr
+::1 www.spinshake6.fr
 ::1 spinshark.fr
 ::1 www.spinshark.fr
 ::1 spinshousecasino.fr
@@ -641742,6 +641770,10 @@
 ::1 www.spintrainer.fr
 ::1 spintroll.fr
 ::1 www.spintroll.fr
+::1 spintropolis-fr.fr
+::1 www.spintropolis-fr.fr
+::1 spintropolis8.fr
+::1 www.spintropolis8.fr
 ::1 spintropolisonline.fr
 ::1 www.spintropolisonline.fr
 ::1 spintunonsthomte.tk
@@ -681908,6 +681940,8 @@
 ::1 www.ticketslive.fr
 ::1 ticketslouvre.fr
 ::1 www.ticketslouvre.fr
+::1 ticketsmaster-fr.fr
+::1 www.ticketsmaster-fr.fr
 ::1 ticketsmaster-jul.fr
 ::1 www.ticketsmaster-jul.fr
 ::1 ticketsmaster.fr
@@ -696216,6 +696250,8 @@
 ::1 www.transactionsleboncoin.fr
 ::1 transactionsleboncoins.fr
 ::1 www.transactionsleboncoins.fr
+::1 transaviasupport.fr
+::1 www.transaviasupport.fr
 ::1 transcach.fr
 ::1 www.transcach.fr
 ::1 transcash-activation.fr
@@ -709666,6 +709702,8 @@
 ::1 www.uggsfrance.fr
 ::1 uggshoes.fr
 ::1 www.uggshoes.fr
+::1 uggshop.fr
+::1 www.uggshop.fr
 ::1 uggsoldes.fr
 ::1 www.uggsoldes.fr
 ::1 uggsparis.fr
