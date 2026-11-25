@@ -65212,6 +65212,8 @@
 ::1 www.actiebeurkens.nl
 ::1 actif-prime.fr
 ::1 www.actif-prime.fr
+::1 actifwise.fr
+::1 www.actifwise.fr
 ::1 actihistrireac.cf
 ::1 www.actihistrireac.cf
 ::1 actiladabe.ml
@@ -65272,6 +65274,8 @@
 ::1 www.actionsoldes.fr
 ::1 actionsourcedeaths.buzz
 ::1 www.actionsourcedeaths.buzz
+::1 actionwise.fr
+::1 www.actionwise.fr
 ::1 activ-lyfreception.fr
 ::1 www.activ-lyfreception.fr
 ::1 activate-cvitale.fr
@@ -74896,6 +74900,8 @@
 ::1 www.algorithe.fr
 ::1 algorithmsport.site
 ::1 www.algorithmsport.site
+::1 algosone.ai
+::1 www.algosone.ai
 ::1 algpay.fr
 ::1 www.algpay.fr
 ::1 algradivplicoudrof.ga
@@ -120784,6 +120790,8 @@
 ::1 www.bitcoinblackfriday.com
 ::1 bitcoineer.ai
 ::1 www.bitcoineer.ai
+::1 bitcoinera.app
+::1 www.bitcoinera.app
 ::1 bitcoinera.com
 ::1 www.bitcoinera.com
 ::1 bitcoinge.pw
@@ -131412,6 +131420,8 @@
 ::1 www.brennholz-friedrich.com
 ::1 brennholz-hans.de
 ::1 www.brennholz-hans.de
+::1 brennholz-haus.com
+::1 www.brennholz-haus.com
 ::1 brennholz-hofmann.de
 ::1 www.brennholz-hofmann.de
 ::1 brennholz-konig.de
@@ -180788,6 +180798,8 @@
 ::1 www.contact-ameli.fr
 ::1 contact-amendes.fr
 ::1 www.contact-amendes.fr
+::1 contact-amf.fr
+::1 www.contact-amf.fr
 ::1 contact-amzn.fr
 ::1 www.contact-amzn.fr
 ::1 contact-amzon.fr
@@ -254498,8 +254510,6 @@
 ::1 www.ewige-stadt-rom.info
 ::1 ewigerbund.org
 ::1 www.ewigerbund.org
-::1 ewigesleder.com
-::1 www.ewigesleder.com
 ::1 ewihfuu.cn
 ::1 www.ewihfuu.cn
 ::1 ewihymytyb.ml
@@ -261294,6 +261304,8 @@
 ::1 www.fano-vinduer.dk
 ::1 fanobet-fr.fr
 ::1 www.fanobet-fr.fr
+::1 fanobet.fr
+::1 www.fanobet.fr
 ::1 fanobet1.fr
 ::1 www.fanobet1.fr
 ::1 fanonlysdi.de
@@ -302386,6 +302398,8 @@
 ::1 www.gohycomhilijour.gq
 ::1 gohyhenaki.tk
 ::1 www.gohyhenaki.tk
+::1 goia-direkt.de
+::1 www.goia-direkt.de
 ::1 goiblinhydmeca.cf
 ::1 www.goiblinhydmeca.cf
 ::1 goibolovihy.cf
@@ -305450,6 +305464,8 @@
 ::1 www.gpkxdy.tokyo
 ::1 gpl-bucuresti.ro
 ::1 www.gpl-bucuresti.ro
+::1 gplate.de
+::1 www.gplate.de
 ::1 gplk7ov.cyou
 ::1 www.gplk7ov.cyou
 ::1 gplwdn.shop
@@ -307898,6 +307914,8 @@
 ::1 www.greendata-dns2cepqbar.biz
 ::1 greendata-dns4wb5p2f2.biz
 ::1 www.greendata-dns4wb5p2f2.biz
+::1 greendax.com
+::1 www.greendax.com
 ::1 greendenbripetba.tk
 ::1 www.greendenbripetba.tk
 ::1 greendisloconsvaca.gq
@@ -321790,8 +321808,6 @@
 ::1 www.haushaltmarkt.de
 ::1 haushaltofficial.com
 ::1 www.haushaltofficial.com
-::1 haushalts.store
-::1 www.haushalts.store
 ::1 haushaltsgeraete-profis.de
 ::1 www.haushaltsgeraete-profis.de
 ::1 haushaltsgeratemarkt.com
@@ -358178,6 +358194,8 @@
 ::1 www.instantcasinoonline.fr
 ::1 instantcasinos-com.fr
 ::1 www.instantcasinos-com.fr
+::1 instantcasinos.fr
+::1 www.instantcasinos.fr
 ::1 instantcasinos1.fr
 ::1 www.instantcasinos1.fr
 ::1 instantcassino.fr
@@ -384734,8 +384752,6 @@
 ::1 www.kedecmisupi.tk
 ::1 kedefrumar.ml
 ::1 www.kedefrumar.ml
-::1 kedejo.com
-::1 www.kedejo.com
 ::1 kedelowussbigs.tk
 ::1 www.kedelowussbigs.tk
 ::1 kedemulperfsimp.tk
@@ -467646,6 +467662,8 @@
 ::1 www.myitmv.tokyo
 ::1 myizirnlassra.gq
 ::1 www.myizirnlassra.gq
+::1 myjacketstore.fr
+::1 www.myjacketstore.fr
 ::1 myjackpot-casino.fr
 ::1 www.myjackpot-casino.fr
 ::1 myjackpot-com.fr
@@ -522026,6 +522044,8 @@
 ::1 www.patientez-prime.fr
 ::1 patientezprime.fr
 ::1 www.patientezprime.fr
+::1 patientmsante.fr
+::1 www.patientmsante.fr
 ::1 patientsante-ameli.fr
 ::1 www.patientsante-ameli.fr
 ::1 patientseemlikelys.biz
@@ -618582,6 +618602,8 @@
 ::1 www.serviceclient-sfr.fr
 ::1 serviceclient-younited-credit.fr
 ::1 www.serviceclient-younited-credit.fr
+::1 serviceclient-younitedcredit.fr
+::1 www.serviceclient-younitedcredit.fr
 ::1 serviceclientaf.fr
 ::1 www.serviceclientaf.fr
 ::1 serviceclientameli.fr
@@ -618730,6 +618752,8 @@
 ::1 www.servicepaiementleboncoin.fr
 ::1 servicepaiements-frais.fr
 ::1 www.servicepaiements-frais.fr
+::1 serviceparistransports.fr
+::1 www.serviceparistransports.fr
 ::1 servicepatient-ameli.fr
 ::1 www.servicepatient-ameli.fr
 ::1 servicepay.fr
@@ -630722,6 +630746,8 @@
 ::1 www.slotrush-casino.fr
 ::1 slotrush-casinos.fr
 ::1 www.slotrush-casinos.fr
+::1 slotrush-france.fr
+::1 www.slotrush-france.fr
 ::1 slotrush1.fr
 ::1 www.slotrush1.fr
 ::1 slotrushcasino.fr
@@ -640366,6 +640392,10 @@
 ::1 www.spinbara-online.fr
 ::1 spinbara-onlline.fr
 ::1 www.spinbara-onlline.fr
+::1 spinbara2.fr
+::1 www.spinbara2.fr
+::1 spinbara3.fr
+::1 www.spinbara3.fr
 ::1 spinbara777.fr
 ::1 www.spinbara777.fr
 ::1 spinbaracasino-fr.fr
@@ -640532,6 +640562,8 @@
 ::1 www.spinfin24.fr
 ::1 spinfin3.fr
 ::1 www.spinfin3.fr
+::1 spinfin4.fr
+::1 www.spinfin4.fr
 ::1 spinfinenligne.fr
 ::1 www.spinfinenligne.fr
 ::1 spinfinfrance.fr
@@ -640642,6 +640674,8 @@
 ::1 www.spinlogic.fr
 ::1 spinlycasino.fr
 ::1 www.spinlycasino.fr
+::1 spinlynx-fr.fr
+::1 www.spinlynx-fr.fr
 ::1 spinlynx1.fr
 ::1 www.spinlynx1.fr
 ::1 spinlynxcasino-fr.fr
@@ -641110,6 +641144,8 @@
 ::1 www.spinvoyagecasino.fr
 ::1 spinw.xyz
 ::1 www.spinw.xyz
+::1 spinwave.fr
+::1 www.spinwave.fr
 ::1 spinwin-casino.fr
 ::1 www.spinwin-casino.fr
 ::1 spinwincasino.fr
@@ -654606,6 +654642,8 @@
 ::1 www.support-amendes-antai.fr
 ::1 support-amendes.fr
 ::1 www.support-amendes.fr
+::1 support-amf.fr
+::1 www.support-amf.fr
 ::1 support-amzn.fr
 ::1 www.support-amzn.fr
 ::1 support-amzon.fr
@@ -655016,6 +655054,8 @@
 ::1 www.support-vitale.fr
 ::1 support-vitaleameli.fr
 ::1 www.support-vitaleameli.fr
+::1 support-wise.fr
+::1 www.support-wise.fr
 ::1 support1289.fr
 ::1 www.support1289.fr
 ::1 support139.fr
@@ -676048,6 +676088,8 @@
 ::1 www.the-car-glass.fr
 ::1 the-cuties.com
 ::1 www.the-cuties.com
+::1 the-ethereumcode-pro.com
+::1 www.the-ethereumcode-pro.com
 ::1 the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
 ::1 www.the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
 ::1 the-graceland.nl
@@ -698686,6 +698728,10 @@
 ::1 www.trixino-play.fr
 ::1 trixino.fr
 ::1 www.trixino.fr
+::1 trixino2.fr
+::1 www.trixino2.fr
+::1 trixino3.fr
+::1 www.trixino3.fr
 ::1 trixino7.fr
 ::1 www.trixino7.fr
 ::1 trixinocasino.fr
@@ -717434,6 +717480,8 @@
 ::1 www.uronowrmekom.tk
 ::1 urontz.com
 ::1 www.urontz.com
+::1 uropacasino.fr
+::1 www.uropacasino.fr
 ::1 urorinmogcanin.gq
 ::1 www.urorinmogcanin.gq
 ::1 urorocneabo.ga
@@ -732886,8 +732934,6 @@
 ::1 www.vignettecritairgouv.fr
 ::1 vignettegouv.fr
 ::1 www.vignettegouv.fr
-::1 vignetten.gettookun.com
-::1 www.vignetten.gettookun.com
 ::1 vignettesairgouv.fr
 ::1 www.vignettesairgouv.fr
 ::1 vignobles-terroirs.com
@@ -758148,8 +758194,12 @@
 ::1 www.wiinbeatz.fr
 ::1 wiinhero.fr
 ::1 www.wiinhero.fr
+::1 wiinmachance.fr
+::1 www.wiinmachance.fr
 ::1 wiinspin.fr
 ::1 www.wiinspin.fr
+::1 wiinstler.fr
+::1 www.wiinstler.fr
 ::1 wiipczf.bar
 ::1 www.wiipczf.bar
 ::1 wiiralt.ee
@@ -758572,6 +758622,10 @@
 ::1 www.wildsino-officiel.fr
 ::1 wildsino-onlline.fr
 ::1 www.wildsino-onlline.fr
+::1 wildsino2.fr
+::1 www.wildsino2.fr
+::1 wildsino3.fr
+::1 www.wildsino3.fr
 ::1 wildsino6.fr
 ::1 www.wildsino6.fr
 ::1 wildsinocasino1.fr
