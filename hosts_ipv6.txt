@@ -102610,8 +102610,6 @@
 ::1 www.babylonia.es
 ::1 babymamashowerscenev4u.web.app
 ::1 www.babymamashowerscenev4u.web.app
-::1 babymodepur.com
-::1 www.babymodepur.com
 ::1 babynippon.com
 ::1 www.babynippon.com
 ::1 babynose.xyz
@@ -126950,6 +126948,8 @@
 ::1 www.bomfynk.bar
 ::1 bomgawankind.tk
 ::1 www.bomgawankind.tk
+::1 bomiafx.com
+::1 www.bomiafx.com
 ::1 bomiljeogrillendchan.tk
 ::1 www.bomiljeogrillendchan.tk
 ::1 bomjjx.tokyo
@@ -438472,6 +438472,8 @@
 ::1 www.markt-apo-uelsen.de
 ::1 markt-shop.com
 ::1 www.markt-shop.com
+::1 markt.agency
+::1 www.markt.agency
 ::1 markt.life
 ::1 www.markt.life
 ::1 markt010.nl
@@ -481994,6 +481996,8 @@
 ::1 www.nhclxt.tokyo
 ::1 nhcngq.shop
 ::1 www.nhcngq.shop
+::1 nhcol.com
+::1 www.nhcol.com
 ::1 nhcondorental.buzz
 ::1 www.nhcondorental.buzz
 ::1 nhcow2g.cyou
