@@ -149728,8 +149728,6 @@
 ::1 www.catagonora.gq
 ::1 catalanzingbu.tk
 ::1 www.catalanzingbu.tk
-::1 catalia.de
-::1 www.catalia.de
 ::1 catalinares.xyz
 ::1 www.catalinares.xyz
 ::1 catalog-sg.it
@@ -151542,6 +151540,8 @@
 ::1 www.ccwdjv9.tokyo
 ::1 ccwfam.tokyo
 ::1 www.ccwfam.tokyo
+::1 ccwjl.com
+::1 www.ccwjl.com
 ::1 ccwojp.work
 ::1 www.ccwojp.work
 ::1 ccwoun.tokyo
@@ -166644,6 +166644,8 @@
 ::1 www.circuscasino1.fr
 ::1 circuscasinoenligne.fr
 ::1 www.circuscasinoenligne.fr
+::1 circuscasinofr.fr
+::1 www.circuscasinofr.fr
 ::1 circwedcimaver.tk
 ::1 www.circwedcimaver.tk
 ::1 cirderpsubttomu.ml
@@ -185450,6 +185452,8 @@
 ::1 www.cpam92.fr
 ::1 cpamameli.fr
 ::1 www.cpamameli.fr
+::1 cpamaude.fr
+::1 www.cpamaude.fr
 ::1 cpamcarte.fr
 ::1 www.cpamcarte.fr
 ::1 cpamcartevital.fr
@@ -219926,6 +219930,8 @@
 ::1 www.dominiosvision.com
 ::1 domino-handel.de
 ::1 www.domino-handel.de
+::1 domino-store.com
+::1 www.domino-store.com
 ::1 domino-tile.ru
 ::1 www.domino-tile.ru
 ::1 dominushealthcare.com
@@ -232622,6 +232628,8 @@
 ::1 www.ecentrinonde.gq
 ::1 ecepudimasuh.tk
 ::1 www.ecepudimasuh.tk
+::1 eceq.org
+::1 www.eceq.org
 ::1 eceqap.bar
 ::1 www.eceqap.bar
 ::1 eceqap.rest
@@ -264572,6 +264580,8 @@
 ::1 www.felixspin-official.fr
 ::1 felixspin1.fr
 ::1 www.felixspin1.fr
+::1 felixspinfr.fr
+::1 www.felixspinfr.fr
 ::1 felixspinjouer.fr
 ::1 www.felixspinjouer.fr
 ::1 felkeedirahasac.tk
@@ -280844,6 +280854,8 @@
 ::1 www.fridayroll2.fr
 ::1 fridayrollcasino-online.de
 ::1 www.fridayrollcasino-online.de
+::1 fridayrollfr.fr
+::1 www.fridayrollfr.fr
 ::1 fridly.xyz
 ::1 www.fridly.xyz
 ::1 friedleastarena.com
@@ -300006,6 +300018,8 @@
 ::1 www.glittomnamasand.tk
 ::1 glitzbets-fr.fr
 ::1 www.glitzbets-fr.fr
+::1 glitzbets1.fr
+::1 www.glitzbets1.fr
 ::1 glitzermoment.com
 ::1 www.glitzermoment.com
 ::1 glizoahedrucaltoaftidsy.online
@@ -302150,6 +302164,8 @@
 ::1 www.godxwr.rest
 ::1 godz-app.fr
 ::1 www.godz-app.fr
+::1 godz-bet.fr
+::1 www.godz-bet.fr
 ::1 godz-casiino.fr
 ::1 www.godz-casiino.fr
 ::1 godz-casino-fr.fr
@@ -302550,6 +302566,8 @@
 ::1 www.golcussmeldersgopo.tk
 ::1 gold-bet-casino.fr
 ::1 www.gold-bet-casino.fr
+::1 gold-bet-fr.fr
+::1 www.gold-bet-fr.fr
 ::1 gold-bet-online.fr
 ::1 www.gold-bet-online.fr
 ::1 gold-casino.fr
@@ -305232,6 +305250,8 @@
 ::1 www.governorshyrow.com
 ::1 govertilojobsdu.tk
 ::1 www.govertilojobsdu.tk
+::1 govfr.fr
+::1 www.govfr.fr
 ::1 govoui.bar
 ::1 www.govoui.bar
 ::1 govoui.rest
@@ -334398,6 +334418,8 @@
 ::1 www.honey-vital.fr
 ::1 honeybets.fr
 ::1 www.honeybets.fr
+::1 honeybetz1.fr
+::1 www.honeybetz1.fr
 ::1 honeymo43frauds.band
 ::1 www.honeymo43frauds.band
 ::1 honeymoondaughters.com
@@ -353918,6 +353940,8 @@
 ::1 www.infeasi67buff.download
 ::1 infeethesudo.gq
 ::1 www.infeethesudo.gq
+::1 infernocasino.fr
+::1 www.infernocasino.fr
 ::1 infernos-casino.fr
 ::1 www.infernos-casino.fr
 ::1 infernos-official.fr
@@ -364438,8 +364462,6 @@
 ::1 www.ivermectin.org
 ::1 ivermectinkoupit.com
 ::1 www.ivermectinkoupit.com
-::1 ivernamart.com
-::1 www.ivernamart.com
 ::1 iverspantry.xyz
 ::1 www.iverspantry.xyz
 ::1 ives7io.web.app
@@ -369140,6 +369162,8 @@
 ::1 www.jazzscabamburhatour.gq
 ::1 jazzspooksoil.com
 ::1 www.jazzspooksoil.com
+::1 jb-brennholz.com
+::1 www.jb-brennholz.com
 ::1 jb-health.de
 ::1 www.jb-health.de
 ::1 jb006k.cyou
@@ -433138,6 +433162,8 @@
 ::1 www.madbaloocar.ml
 ::1 madbuculub.ml
 ::1 www.madbuculub.ml
+::1 madcasiino-fr.fr
+::1 www.madcasiino-fr.fr
 ::1 madcasinno.fr
 ::1 www.madcasinno.fr
 ::1 madcasino-777.fr
@@ -433178,8 +433204,12 @@
 ::1 www.madcasinologin777.fr
 ::1 madcasinoo.fr
 ::1 www.madcasinoo.fr
+::1 madcasinos-fr.fr
+::1 www.madcasinos-fr.fr
 ::1 madcasinos.fr
 ::1 www.madcasinos.fr
+::1 madcassino-fr.fr
+::1 www.madcassino-fr.fr
 ::1 madcassino-france.fr
 ::1 www.madcassino-france.fr
 ::1 madcassinofrance.fr
@@ -449140,6 +449170,8 @@
 ::1 www.midvebesareades.gq
 ::1 midvolecpi.tk
 ::1 www.midvolecpi.tk
+::1 midwayschiesspulver.de
+::1 www.midwayschiesspulver.de
 ::1 midwestboater.com
 ::1 www.midwestboater.com
 ::1 midwifemother.com
@@ -466928,6 +466960,8 @@
 ::1 www.mybiconsn.xyz
 ::1 mybiddd.com
 ::1 www.mybiddd.com
+::1 mybillpoint.com
+::1 www.mybillpoint.com
 ::1 mybinance.fr
 ::1 www.mybinance.fr
 ::1 mybirkenstock.fr
@@ -467592,6 +467626,8 @@
 ::1 www.myh999000.com
 ::1 myhaikou.cn
 ::1 www.myhaikou.cn
+::1 myhanna.de
+::1 www.myhanna.de
 ::1 myharciarawsndol.tk
 ::1 www.myharciarawsndol.tk
 ::1 myhbc.com
@@ -485136,6 +485172,8 @@
 ::1 www.nirvana-casino.fr
 ::1 nirvana-fr.fr
 ::1 www.nirvana-fr.fr
+::1 nirvanacasino-fr.fr
+::1 www.nirvanacasino-fr.fr
 ::1 nirvanacasino.fr
 ::1 www.nirvanacasino.fr
 ::1 nirynripely.cf
@@ -498982,8 +499020,6 @@
 ::1 www.oeltiger.com
 ::1 oeltop.de
 ::1 www.oeltop.de
-::1 oeluno.de
-::1 www.oeluno.de
 ::1 oelunox.de
 ::1 www.oelunox.de
 ::1 oelup.de
@@ -504570,8 +504606,6 @@
 ::1 www.onlinecarvan.online
 ::1 onlinecasino-runa.fr
 ::1 www.onlinecasino-runa.fr
-::1 onlinecasinodeutschliste.de
-::1 www.onlinecasinodeutschliste.de
 ::1 onlinecasinoextra2.fr
 ::1 www.onlinecasinoextra2.fr
 ::1 onlinecasinomitschnellerauszahlung.de
@@ -507686,6 +507720,8 @@
 ::1 www.orange-secure.fr
 ::1 orange-support-infos.fr
 ::1 www.orange-support-infos.fr
+::1 orange-support.fr
+::1 www.orange-support.fr
 ::1 orange-vocal.fr
 ::1 www.orange-vocal.fr
 ::1 orange-web.fr
@@ -533552,6 +533588,8 @@
 ::1 www.pistolocasino1.fr
 ::1 pistolocasino2.fr
 ::1 www.pistolocasino2.fr
+::1 pistolocasinos-fr.fr
+::1 www.pistolocasinos-fr.fr
 ::1 pistolofrance.fr
 ::1 www.pistolofrance.fr
 ::1 pistoloonline.fr
@@ -533776,6 +533814,8 @@
 ::1 www.piviltenotatan.tk
 ::1 pivirmohadis.cf
 ::1 www.pivirmohadis.cf
+::1 pivo-ants.fr
+::1 www.pivo-ants.fr
 ::1 pivonoms.net
 ::1 www.pivonoms.net
 ::1 piw7h.bar
@@ -547436,6 +547476,8 @@
 ::1 www.princess-peach-showtime-offline-free.github.io
 ::1 princesscasino.fr
 ::1 www.princesscasino.fr
+::1 princesscasino1.fr
+::1 www.princesscasino1.fr
 ::1 princesspollyfr.fr
 ::1 www.princesspollyfr.fr
 ::1 princessroomfr.fr
@@ -552342,6 +552384,8 @@
 ::1 www.protradestudio.ru
 ::1 protrailermarkt.com
 ::1 www.protrailermarkt.com
+::1 protransf24.fr
+::1 www.protransf24.fr
 ::1 protrecjeuco.ml
 ::1 www.protrecjeuco.ml
 ::1 protregsolecro.ga
@@ -618106,6 +618150,8 @@
 ::1 www.service-frais-douane.fr
 ::1 service-fraude.fr
 ::1 www.service-fraude.fr
+::1 service-fraudeconformite.fr
+::1 www.service-fraudeconformite.fr
 ::1 service-g7taxi.fr
 ::1 www.service-g7taxi.fr
 ::1 service-gestion-amende.fr
@@ -622490,6 +622536,8 @@
 ::1 www.shinywilds-online.fr
 ::1 shinywildscas1no-fr.fr
 ::1 www.shinywildscas1no-fr.fr
+::1 shinywildscasino-fr.fr
+::1 www.shinywildscasino-fr.fr
 ::1 shinywildsfr.fr
 ::1 www.shinywildsfr.fr
 ::1 shinywildsfrance.fr
@@ -630862,6 +630910,8 @@
 ::1 www.slott-casinos.fr
 ::1 slott-france.fr
 ::1 www.slott-france.fr
+::1 slottcasino-fr.fr
+::1 www.slottcasino-fr.fr
 ::1 slotter.fr
 ::1 www.slotter.fr
 ::1 slottica-cas1no.fr
@@ -640598,6 +640648,8 @@
 ::1 www.spingrannycasino-fr.fr
 ::1 spingrannyfr.fr
 ::1 www.spingrannyfr.fr
+::1 spingrannyfr1.fr
+::1 www.spingrannyfr1.fr
 ::1 spingrannyfrance.fr
 ::1 www.spingrannyfrance.fr
 ::1 spingrannyy.fr
@@ -679128,6 +679180,8 @@
 ::1 www.thorboeje.xyz
 ::1 thorcas1no-fr.fr
 ::1 www.thorcas1no-fr.fr
+::1 thorcasiino-fr.fr
+::1 www.thorcasiino-fr.fr
 ::1 thorcasino-enligne.fr
 ::1 www.thorcasino-enligne.fr
 ::1 thorcasino-fr.fr
@@ -679140,8 +679194,12 @@
 ::1 www.thorcasino1.fr
 ::1 thorcasinofrance.fr
 ::1 www.thorcasinofrance.fr
+::1 thorcasinos-fr.fr
+::1 www.thorcasinos-fr.fr
 ::1 thorcasinos.fr
 ::1 www.thorcasinos.fr
+::1 thorcassino-fr.fr
+::1 www.thorcassino-fr.fr
 ::1 thordi.xyz
 ::1 www.thordi.xyz
 ::1 thorechazi.web.app
@@ -704026,6 +704084,8 @@
 ::1 www.twintifdetinammo.ga
 ::1 twintitimullever.cf
 ::1 www.twintitimullever.cf
+::1 twintwincasino.fr
+::1 www.twintwincasino.fr
 ::1 twinumtapteci.tk
 ::1 www.twinumtapteci.tk
 ::1 twinurinnacoon.cf
@@ -742964,6 +743024,8 @@
 ::1 www.volerbet-fr.fr
 ::1 volerbet.fr
 ::1 www.volerbet.fr
+::1 volerbetcasino-fr.fr
+::1 www.volerbetcasino-fr.fr
 ::1 volerbetcasino1.fr
 ::1 www.volerbetcasino1.fr
 ::1 volerenotur.tk
@@ -755632,8 +755694,12 @@
 ::1 www.westace-casinos.fr
 ::1 westace-official.fr
 ::1 www.westace-official.fr
+::1 westacecasiino-fr.fr
+::1 www.westacecasiino-fr.fr
 ::1 westacecasino-fr.fr
 ::1 www.westacecasino-fr.fr
+::1 westacecasinos-fr.fr
+::1 www.westacecasinos-fr.fr
 ::1 westacecasinos.fr
 ::1 www.westacecasinos.fr
 ::1 westaces-fr.fr
@@ -791714,6 +791780,8 @@
 ::1 www.yonexdeutschland.com
 ::1 yonexdeutschland.de
 ::1 www.yonexdeutschland.de
+::1 yonexfr.fr
+::1 www.yonexfr.fr
 ::1 yonexs.at
 ::1 www.yonexs.at
 ::1 yonganwl.cn

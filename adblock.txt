@@ -74866,7 +74866,6 @@
 ||catachoda.tk^$document
 ||catagonora.gq^$document
 ||catalanzingbu.tk^$document
-||catalia.de^$document
 ||catalinares.xyz^$document
 ||catalog-sg.it^$document
 ||catalogue-prime.fr^$document
@@ -75773,6 +75772,7 @@
 ||ccw1j6b.tokyo^$document
 ||ccwdjv9.tokyo^$document
 ||ccwfam.tokyo^$document
+||ccwjl.com^$document
 ||ccwojp.work^$document
 ||ccwoun.tokyo^$document
 ||ccwybw.tokyo^$document
@@ -83324,6 +83324,7 @@
 ||circuscasino-enligne.fr^$document
 ||circuscasino1.fr^$document
 ||circuscasinoenligne.fr^$document
+||circuscasinofr.fr^$document
 ||circwedcimaver.tk^$document
 ||cirderpsubttomu.ml^$document
 ||cirdiposttretakfon.tk^$document
@@ -92727,6 +92728,7 @@
 ||cpam69.fr^$document
 ||cpam92.fr^$document
 ||cpamameli.fr^$document
+||cpamaude.fr^$document
 ||cpamcarte.fr^$document
 ||cpamcartevital.fr^$document
 ||cpamcartevitale.fr^$document
@@ -109965,6 +109967,7 @@
 ||dominionswordecology.com^$document
 ||dominiosvision.com^$document
 ||domino-handel.de^$document
+||domino-store.com^$document
 ||domino-tile.ru^$document
 ||dominushealthcare.com^$document
 ||domiretestpounor.gq^$document
@@ -116313,6 +116316,7 @@
 ||ecenthanmebers.tk^$document
 ||ecentrinonde.gq^$document
 ||ecepudimasuh.tk^$document
+||eceq.org^$document
 ||eceqap.bar^$document
 ||eceqap.rest^$document
 ||ecercirfettreb.ga^$document
@@ -132288,6 +132292,7 @@
 ||felixspin-casino.fr^$document
 ||felixspin-official.fr^$document
 ||felixspin1.fr^$document
+||felixspinfr.fr^$document
 ||felixspinjouer.fr^$document
 ||felkeedirahasac.tk^$document
 ||feller24867.live^$document
@@ -140424,6 +140429,7 @@
 ||fridayroll-fr.fr^$document
 ||fridayroll2.fr^$document
 ||fridayrollcasino-online.de^$document
+||fridayrollfr.fr^$document
 ||fridly.xyz^$document
 ||friedleastarena.com^$document
 ||friednourishment.com^$document
@@ -150005,6 +150011,7 @@
 ||glitterfarms.com^$document
 ||glittomnamasand.tk^$document
 ||glitzbets-fr.fr^$document
+||glitzbets1.fr^$document
 ||glitzermoment.com^$document
 ||glizoahedrucaltoaftidsy.online^$document
 ||glizoakri.net^$document
@@ -151077,6 +151084,7 @@
 ||godxwr.bar^$document
 ||godxwr.rest^$document
 ||godz-app.fr^$document
+||godz-bet.fr^$document
 ||godz-casiino.fr^$document
 ||godz-casino-fr.fr^$document
 ||godz-cassino.fr^$document
@@ -151277,6 +151285,7 @@
 ||golcuk.xyz^$document
 ||golcussmeldersgopo.tk^$document
 ||gold-bet-casino.fr^$document
+||gold-bet-fr.fr^$document
 ||gold-bet-online.fr^$document
 ||gold-casino.fr^$document
 ||gold-ex-casino.fr^$document
@@ -152618,6 +152627,7 @@
 ||governmentsuggests.biz^$document
 ||governorshyrow.com^$document
 ||govertilojobsdu.tk^$document
+||govfr.fr^$document
 ||govoui.bar^$document
 ||govoui.rest^$document
 ||govtname.com^$document
@@ -167201,6 +167211,7 @@
 ||honey-bets.fr^$document
 ||honey-vital.fr^$document
 ||honeybets.fr^$document
+||honeybetz1.fr^$document
 ||honeymo43frauds.band^$document
 ||honeymoondaughters.com^$document
 ||honfitamnastmo.tk^$document
@@ -176961,6 +176972,7 @@
 ||infcii.tokyo^$document
 ||infeasi67buff.download^$document
 ||infeethesudo.gq^$document
+||infernocasino.fr^$document
 ||infernos-casino.fr^$document
 ||infernos-official.fr^$document
 ||infernos-officiel.fr^$document
@@ -182221,7 +182233,6 @@
 ||iveperranturfspir.tk^$document
 ||ivermectin.org^$document
 ||ivermectinkoupit.com^$document
-||ivernamart.com^$document
 ||iverspantry.xyz^$document
 ||ives7io.web.app^$document
 ||ivesrocher.fr^$document
@@ -184572,6 +184583,7 @@
 ||jazzrenettorssuata.gq^$document
 ||jazzscabamburhatour.gq^$document
 ||jazzspooksoil.com^$document
+||jb-brennholz.com^$document
 ||jb-health.de^$document
 ||jb006k.cyou^$document
 ||jb0ylz.xyz^$document
@@ -216571,6 +216583,7 @@
 ||madasegabthili.tk^$document
 ||madbaloocar.ml^$document
 ||madbuculub.ml^$document
+||madcasiino-fr.fr^$document
 ||madcasinno.fr^$document
 ||madcasino-777.fr^$document
 ||madcasino-com.fr^$document
@@ -216591,7 +216604,9 @@
 ||madcasinologin.fr^$document
 ||madcasinologin777.fr^$document
 ||madcasinoo.fr^$document
+||madcasinos-fr.fr^$document
 ||madcasinos.fr^$document
+||madcassino-fr.fr^$document
 ||madcassino-france.fr^$document
 ||madcassinofrance.fr^$document
 ||madciacoderli.cf^$document
@@ -224572,6 +224587,7 @@
 ||miduda.de^$document
 ||midvebesareades.gq^$document
 ||midvolecpi.tk^$document
+||midwayschiesspulver.de^$document
 ||midwestboater.com^$document
 ||midwifemother.com^$document
 ||midxiav.tokyo^$document
@@ -233466,6 +233482,7 @@
 ||mybfcbx.tokyo^$document
 ||mybiconsn.xyz^$document
 ||mybiddd.com^$document
+||mybillpoint.com^$document
 ||mybinance.fr^$document
 ||mybirkenstock.fr^$document
 ||mybitcoin-casino.fr^$document
@@ -233798,6 +233815,7 @@
 ||myh984543.com^$document
 ||myh999000.com^$document
 ||myhaikou.cn^$document
+||myhanna.de^$document
 ||myharciarawsndol.tk^$document
 ||myhbc.com^$document
 ||myhbyz.cyou^$document
@@ -242570,6 +242588,7 @@
 ||niruplidesti.tk^$document
 ||nirvana-casino.fr^$document
 ||nirvana-fr.fr^$document
+||nirvanacasino-fr.fr^$document
 ||nirvanacasino.fr^$document
 ||nirynripely.cf^$document
 ||nis-bech.dk^$document
@@ -249493,7 +249512,6 @@
 ||oelsmart.de^$document
 ||oeltiger.com^$document
 ||oeltop.de^$document
-||oeluno.de^$document
 ||oelunox.de^$document
 ||oelup.de^$document
 ||oelvia.de^$document
@@ -252287,7 +252305,6 @@
 ||onlinebusinesssolutions.buzz^$document
 ||onlinecarvan.online^$document
 ||onlinecasino-runa.fr^$document
-||onlinecasinodeutschliste.de^$document
 ||onlinecasinoextra2.fr^$document
 ||onlinecasinomitschnellerauszahlung.de^$document
 ||onlinecasinoparis.com^$document
@@ -253845,6 +253862,7 @@
 ||orange-renouvellement.fr^$document
 ||orange-secure.fr^$document
 ||orange-support-infos.fr^$document
+||orange-support.fr^$document
 ||orange-vocal.fr^$document
 ||orange-web.fr^$document
 ||orange-webmail01.fr^$document
@@ -266778,6 +266796,7 @@
 ||pistolocasino.fr^$document
 ||pistolocasino1.fr^$document
 ||pistolocasino2.fr^$document
+||pistolocasinos-fr.fr^$document
 ||pistolofrance.fr^$document
 ||pistoloonline.fr^$document
 ||pistolos-fr.fr^$document
@@ -266890,6 +266909,7 @@
 ||pividibitkemo.cf^$document
 ||piviltenotatan.tk^$document
 ||pivirmohadis.cf^$document
+||pivo-ants.fr^$document
 ||pivonoms.net^$document
 ||piw7h.bar^$document
 ||piwacimsterva.ga^$document
@@ -273720,6 +273740,7 @@
 ||princess-casino.fr^$document
 ||princess-peach-showtime-offline-free.github.io^$document
 ||princesscasino.fr^$document
+||princesscasino1.fr^$document
 ||princesspollyfr.fr^$document
 ||princessroomfr.fr^$document
 ||princetontic.xyz^$document
@@ -276173,6 +276194,7 @@
 ||protradanameservermfo106eg.biz^$document
 ||protradestudio.ru^$document
 ||protrailermarkt.com^$document
+||protransf24.fr^$document
 ||protrecjeuco.ml^$document
 ||protregsolecro.ga^$document
 ||protrendus.com^$document
@@ -309055,6 +309077,7 @@
 ||service-fr.fr^$document
 ||service-frais-douane.fr^$document
 ||service-fraude.fr^$document
+||service-fraudeconformite.fr^$document
 ||service-g7taxi.fr^$document
 ||service-gestion-amende.fr^$document
 ||service-gestion-prime.fr^$document
@@ -311247,6 +311270,7 @@
 ||shinywilds-fr.fr^$document
 ||shinywilds-online.fr^$document
 ||shinywildscas1no-fr.fr^$document
+||shinywildscasino-fr.fr^$document
 ||shinywildsfr.fr^$document
 ||shinywildsfrance.fr^$document
 ||shiogia.xyz^$document
@@ -315433,6 +315457,7 @@
 ||slott-casino.fr^$document
 ||slott-casinos.fr^$document
 ||slott-france.fr^$document
+||slottcasino-fr.fr^$document
 ||slotter.fr^$document
 ||slottica-cas1no.fr^$document
 ||slotticacasino.fr^$document
@@ -320301,6 +320326,7 @@
 ||spingranny4.fr^$document
 ||spingrannycasino-fr.fr^$document
 ||spingrannyfr.fr^$document
+||spingrannyfr1.fr^$document
 ||spingrannyfrance.fr^$document
 ||spingrannyy.fr^$document
 ||spingreen.fr^$document
@@ -339566,13 +339592,16 @@
 ||thor-fortune-casino.fr^$document
 ||thorboeje.xyz^$document
 ||thorcas1no-fr.fr^$document
+||thorcasiino-fr.fr^$document
 ||thorcasino-enligne.fr^$document
 ||thorcasino-fr.fr^$document
 ||thorcasino-officiel.fr^$document
 ||thorcasino.fr^$document
 ||thorcasino1.fr^$document
 ||thorcasinofrance.fr^$document
+||thorcasinos-fr.fr^$document
 ||thorcasinos.fr^$document
+||thorcassino-fr.fr^$document
 ||thordi.xyz^$document
 ||thorechazi.web.app^$document
 ||thoreside.gq^$document
@@ -352015,6 +352044,7 @@
 ||twinscasino.fr^$document
 ||twintifdetinammo.ga^$document
 ||twintitimullever.cf^$document
+||twintwincasino.fr^$document
 ||twinumtapteci.tk^$document
 ||twinurinnacoon.cf^$document
 ||twinzn.bar^$document
@@ -371484,6 +371514,7 @@
 ||volerbet-casino.fr^$document
 ||volerbet-fr.fr^$document
 ||volerbet.fr^$document
+||volerbetcasino-fr.fr^$document
 ||volerbetcasino1.fr^$document
 ||volerenotur.tk^$document
 ||volfelogretur.gq^$document
@@ -377818,7 +377849,9 @@
 ||westace-casino-888.fr^$document
 ||westace-casinos.fr^$document
 ||westace-official.fr^$document
+||westacecasiino-fr.fr^$document
 ||westacecasino-fr.fr^$document
+||westacecasinos-fr.fr^$document
 ||westacecasinos.fr^$document
 ||westaces-fr.fr^$document
 ||westacescasino.fr^$document
@@ -395859,6 +395892,7 @@
 ||yonex-france.fr^$document
 ||yonexdeutschland.com^$document
 ||yonexdeutschland.de^$document
+||yonexfr.fr^$document
 ||yonexs.at^$document
 ||yonganwl.cn^$document
 ||yongde.xyz^$document
