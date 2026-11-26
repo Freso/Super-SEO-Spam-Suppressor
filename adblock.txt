@@ -40503,6 +40503,7 @@
 ||amonbet1.fr^$document
 ||amonbetcasino-fr.fr^$document
 ||amonbetcasino.fr^$document
+||amonbetcasinos.fr^$document
 ||amonbetfrance.fr^$document
 ||amonbetonline.fr^$document
 ||amonbets-fr.fr^$document
@@ -65742,6 +65743,7 @@
 ||brennholz-friedrich.com^$document
 ||brennholz-hans.de^$document
 ||brennholz-haus.com^$document
+||brennholz-haus.de^$document
 ||brennholz-hofmann.de^$document
 ||brennholz-konig.de^$document
 ||brennholz-land.com^$document
@@ -74043,6 +74045,7 @@
 ||casinoalexanderfr.fr^$document
 ||casinoallwins.fr^$document
 ||casinoallyspin.fr^$document
+||casinoamonbet.fr^$document
 ||casinoamunbet.fr^$document
 ||casinoamunra.fr^$document
 ||casinoandfriends.fr^$document
@@ -74139,6 +74142,7 @@
 ||casinoenclair.fr^$document
 ||casinoenligneargentreel.fr^$document
 ||casinoenlignefiable.fr^$document
+||casinoenlignefiables.fr^$document
 ||casinoenlignefranceretraitrapide.fr^$document
 ||casinoenlignenouveau.fr^$document
 ||casinoenligneretraitimmediate.fr^$document
@@ -85707,6 +85711,7 @@
 ||clubsoundradio.de^$document
 ||clubsultporjongwa.gq^$document
 ||clubtbl.com^$document
+||clubtickets.fr^$document
 ||clubtna.com^$document
 ||clubtrouvillesurmer.fr^$document
 ||clubulcelebritatilor.ro^$document
@@ -102623,6 +102628,7 @@
 ||dentvedurchtirest.gq^$document
 ||denugaprohost.my.id^$document
 ||denunciationsincerelyfreelance.com^$document
+||denuppad.com^$document
 ||denussmalaje.tk^$document
 ||denutk.tokyo^$document
 ||denuvostore.com^$document
@@ -109516,7 +109522,9 @@
 ||docpro.biz^$document
 ||docrelurreto.ml^$document
 ||docreph.xyz^$document
+||docs24pro.fr^$document
 ||docsandsutiko.tk^$document
+||docsentpro.fr^$document
 ||docslasopa190.weebly.com^$document
 ||docslasopa198.weebly.com^$document
 ||docslasopa312.weebly.com^$document
@@ -119138,6 +119146,7 @@
 ||eldentouaveromcont.tk^$document
 ||elderlymedicaltreatment.buzz^$document
 ||elderlyoh.web.app^$document
+||elderscrollsonline.fr^$document
 ||eldesjutireza.gq^$document
 ||eldestore.de^$document
 ||eldethlimisste.ga^$document
@@ -119814,7 +119823,6 @@
 ||elrpirw.tokyo^$document
 ||elrukathihou.tk^$document
 ||elrumisstocater.ml^$document
-||elryiuyg.shop^$document
 ||elryoa.tokyo^$document
 ||els.im^$document
 ||elsacasigfi.ml^$document
@@ -134771,6 +134779,8 @@
 ||fisentforcamo.cf^$document
 ||fiserssabufiphul.ml^$document
 ||fisevarvodocjunc.ml^$document
+||fish-road-game.fr^$document
+||fish-road-machine-asous.fr^$document
 ||fish996.com^$document
 ||fishact.my.id^$document
 ||fishandspins.fr^$document
@@ -134790,7 +134800,9 @@
 ||fishmaterialistic.com^$document
 ||fishmonthssound.rest^$document
 ||fishr.xyz^$document
+||fishroad-game.fr^$document
 ||fishroad-jeu.fr^$document
+||fishroad-machineasous.fr^$document
 ||fishyoverallsupplement.com^$document
 ||fisicalowcost.it^$document
 ||fisinolongtou.ga^$document
@@ -150917,7 +150929,6 @@
 ||gnosunretconttarcent.tk^$document
 ||gnosunylso.tk^$document
 ||gnosziobechve.tk^$document
-||gnozfqwb.shop^$document
 ||gnp-fastdns9ryttb2n.biz^$document
 ||gnp-fastdnsg2gz9oyt.biz^$document
 ||gnp6su.cyou^$document
@@ -165355,7 +165366,6 @@
 ||hildebrandt-bekleidung.de^$document
 ||hildglobosuntrek.tk^$document
 ||hilelabeli.tk^$document
-||hilfeexpress.com^$document
 ||hilfewise.com^$document
 ||hilffire.tk^$document
 ||hilfiger-france.fr^$document
@@ -167054,6 +167064,7 @@
 ||holzbriketts-kaufen.com^$document
 ||holzbriketts-profi.de^$document
 ||holzcoins.com^$document
+||holzelite.de^$document
 ||holzera.de^$document
 ||holzfeuerlust.de^$document
 ||holzfursfeuer.de^$document
@@ -179150,6 +179161,7 @@
 ||instagam.fr^$document
 ||instagra.fr^$document
 ||instagraam.fr^$document
+||instagram-com.fr^$document
 ||instagram-compte.fr^$document
 ||instagram-connexion.fr^$document
 ||instagram-login.fr^$document
@@ -179971,7 +179983,6 @@
 ||investopidia.com^$document
 ||investorgrate.com^$document
 ||investpremier.fr^$document
-||investproai.fr^$document
 ||investsierraleone.biz^$document
 ||invesurnere.cf^$document
 ||invetuvitjugg.tk^$document
@@ -185640,6 +185651,8 @@
 ||jeton-rouge-casino.fr^$document
 ||jeton-rouge-fr.fr^$document
 ||jeton-rouge-france.fr^$document
+||jeton-rouge-online.fr^$document
+||jeton-rouge-play.fr^$document
 ||jeton-rougefr.fr^$document
 ||jeton-rouges-fr.fr^$document
 ||jeton-rouges-france.fr^$document
@@ -185647,8 +185660,11 @@
 ||jeton-rougesfr.fr^$document
 ||jeton-rougex.fr^$document
 ||jetone.org^$document
+||jetonrouge-app.fr^$document
+||jetonrouge-bonus.fr^$document
 ||jetonrouge-enligne.fr^$document
 ||jetonrouge-fr.fr^$document
+||jetonrouge-login.fr^$document
 ||jetonrouge1.fr^$document
 ||jetonrougecasino.fr^$document
 ||jetonrougecasino1.fr^$document
@@ -185659,6 +185675,9 @@
 ||jetonrougecasinologin.fr^$document
 ||jetonrougecassinos.fr^$document
 ||jetonrougefrance.fr^$document
+||jetonrougeofficial.fr^$document
+||jetonrougeonline.fr^$document
+||jetonrougeplay.fr^$document
 ||jetonrouges-fr.fr^$document
 ||jetonrouges-france.fr^$document
 ||jetonrouges.fr^$document
@@ -194185,6 +194204,7 @@
 ||kieunn.tokyo^$document
 ||kievzhd.bar^$document
 ||kieytv.cyou^$document
+||kiezstoff.shop^$document
 ||kif6kd.cyou^$document
 ||kifaslilenolbe.ml^$document
 ||kifcxy.tokyo^$document
@@ -194422,6 +194442,7 @@
 ||king-makercasino.fr^$document
 ||king-movie.pw^$document
 ||king2006.com^$document
+||kinga-livraisons.fr^$document
 ||kingancars.com^$document
 ||kingbackmamerna.tk^$document
 ||kingbesgangngesonev.gq^$document
@@ -201115,6 +201136,7 @@
 ||laposte-frais-dedouanement.fr^$document
 ||laposte-fraiscolis.fr^$document
 ||laposte-france.fr^$document
+||laposte-labanquepostale.fr^$document
 ||laposte-lenquetecarrepro.fr^$document
 ||laposte-lettre.fr^$document
 ||laposte-livraison.fr^$document
@@ -213583,6 +213605,7 @@
 ||lucklipchahipqui.tk^$document
 ||luckmp.com^$document
 ||luckpobulti.gq^$document
+||luckquackcasino.fr^$document
 ||luckrio-casino.fr^$document
 ||luckrio.fr^$document
 ||luckriocasino.fr^$document
@@ -219439,7 +219462,6 @@
 ||marktraverso.com^$document
 ||marktsmart.de^$document
 ||markvexo-ai.com^$document
-||markvexoki.at^$document
 ||markw4.cyou^$document
 ||marlaciroloo.tk^$document
 ||marlacumedet.ml^$document
@@ -237130,7 +237152,6 @@
 ||nbkxna.bar^$document
 ||nblago.ru^$document
 ||nblenet.xyz^$document
-||nblfauhs.shop^$document
 ||nbljpm.cyou^$document
 ||nblmfla.tk^$document
 ||nblwlwq.bar^$document
@@ -245884,7 +245905,6 @@
 ||nrxwqa.rest^$document
 ||nryjii.tokyo^$document
 ||nryvudz.tokyo^$document
-||nrzmbfhh.shop^$document
 ||nrzppk.tokyo^$document
 ||nrzvcp.bar^$document
 ||nrzvcp.rest^$document
@@ -252700,6 +252720,7 @@
 ||onlyspins1.fr^$document
 ||onlyspins2.fr^$document
 ||onlyspinscasino-fr.fr^$document
+||onlyspinscassino-fr.fr^$document
 ||onlyspinsfr.fr^$document
 ||onlyspinss-fr.fr^$document
 ||onlyspinss-france.fr^$document
@@ -259643,7 +259664,6 @@
 ||pamaterstodi.tk^$document
 ||pamavisub.cf^$document
 ||pamcomunicazioni.it^$document
-||pamdiuvx.shop^$document
 ||pamealyfonlord.tk^$document
 ||pameatacanremo.tk^$document
 ||pamebib.ga^$document
@@ -283201,6 +283221,7 @@
 ||quickwin-mobile.fr^$document
 ||quickwin-online.fr^$document
 ||quickwin1.fr^$document
+||quickwincasino-fr.fr^$document
 ||quickwincasino1.fr^$document
 ||quickwincasinoapp.fr^$document
 ||quickwincasinoavis.fr^$document
@@ -293630,7 +293651,6 @@
 ||rgfstv.rest^$document
 ||rggftad.rest^$document
 ||rggllj.bar^$document
-||rggpbknu.shop^$document
 ||rggpwf.tokyo^$document
 ||rggrnr.cyou^$document
 ||rggudl.cyou^$document
@@ -300066,6 +300086,7 @@
 ||rubyslotsfrance.fr^$document
 ||rubyvegas-enligne.fr^$document
 ||rubyvegas-online.fr^$document
+||rubyvegascasino-fr.fr^$document
 ||rubyvegascasino777.fr^$document
 ||rubyvegascasinoapp.fr^$document
 ||rubyvegascasinoavis.fr^$document
@@ -333579,6 +333600,7 @@
 ||tavorn.ru^$document
 ||tavxuj.tokyo^$document
 ||tawacrolecint.tk^$document
+||tawagold.com^$document
 ||tawarticage.cf^$document
 ||tawatisibesrent.tk^$document
 ||tawdparali.cf^$document
@@ -343707,6 +343729,7 @@
 ||titangelcorp.xyz^$document
 ||titanium.xyz^$document
 ||titanlock-official.fr^$document
+||titanluck-fr.fr^$document
 ||titannaturdown.tk^$document
 ||titantrade.com^$document
 ||titanwolf.org^$document
@@ -354738,6 +354761,7 @@
 ||ugalelthyna.cf^$document
 ||ugalliance.com^$document
 ||ugandl.xyz^$document
+||ugap-france.fr^$document
 ||ugap-interne.fr^$document
 ||ugascepipiba.cf^$document
 ||ugaukq.work^$document
@@ -378099,7 +378123,6 @@
 ||werstillrecrejoja.tk^$document
 ||wersxantmitpi.tk^$document
 ||werszoloconphe.tk^$document
-||wertalmpro.at^$document
 ||wertangtorr.ga^$document
 ||wertaycritirunex.tk^$document
 ||wertcountcoobabalcho.tk^$document
@@ -379574,6 +379597,7 @@
 ||wilddice-plays.fr^$document
 ||wilddicecas1no-fr.fr^$document
 ||wilddicecas1no.fr^$document
+||wilddicecasino-fr.fr^$document
 ||wilddicecasino24.fr^$document
 ||wilddicecasinoo.fr^$document
 ||wilddicecasinos.fr^$document
@@ -379644,6 +379668,7 @@
 ||wildrobin-online.fr^$document
 ||wildrobincas1no-fr.fr^$document
 ||wildrobincasino-fr.fr^$document
+||wildrobincasinos-fr.fr^$document
 ||wildrobinfrance.fr^$document
 ||wildrosiwifichea.tk^$document
 ||wilds-robin.fr^$document
@@ -379663,6 +379688,7 @@
 ||wildsino2.fr^$document
 ||wildsino3.fr^$document
 ||wildsino6.fr^$document
+||wildsinocasino-fr.fr^$document
 ||wildsinocasino1.fr^$document
 ||wildsinofr.fr^$document
 ||wildsinojouer.fr^$document
@@ -402780,7 +402806,6 @@
 ||zigcynacomta.tk^$document
 ||zigggastclapavexib.tk^$document
 ||ziggssanchintvani.tk^$document
-||zignalor.at^$document
 ||zigoko.bar^$document
 ||zigora.tokyo^$document
 ||zigsai.bar^$document
