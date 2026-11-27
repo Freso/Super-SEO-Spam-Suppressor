@@ -38209,7 +38209,6 @@
 ||alpatubelllen.cf^$document
 ||alpauhiggting.tk^$document
 ||alpaysiometfia.ml^$document
-||alpbeat.com^$document
 ||alpebitwara.cf^$document
 ||alpecfedisvu.cf^$document
 ||alpeconbewin.cf^$document
@@ -62755,10 +62754,12 @@
 ||bnox.fr^$document
 ||bnp-acces.fr^$document
 ||bnp-cle-digitale.fr^$document
+||bnp-coin.com^$document
 ||bnp-espace-particuliers.fr^$document
 ||bnp-group.fr^$document
 ||bnp-immobilier.fr^$document
 ||bnp-otc.com^$document
+||bnp-otccoin.com^$document
 ||bnp-paiement-annulation.fr^$document
 ||bnp-paribas-banque.fr^$document
 ||bnp-paribas-cledigital.fr^$document
@@ -65730,6 +65731,7 @@
 ||brendens.website^$document
 ||brenderoci.ga^$document
 ||brenhen.icu^$document
+||brenholz-karl.de^$document
 ||brenhorcochosy.gq^$document
 ||breninapliapec.tk^$document
 ||brenizebtama.ml^$document
@@ -77773,6 +77775,7 @@
 ||cfcaps.rest^$document
 ||cfco2013.fr^$document
 ||cfd.diamond-tradeltd.com^$document
+||cfd.eliteai-t.com^$document
 ||cfdbrokernsz.web.app^$document
 ||cfddbyf.bar^$document
 ||cfdgeh.cyou^$document
@@ -119286,7 +119289,6 @@
 ||elektro-ecke.de^$document
 ||elektro-evolution.de^$document
 ||elektro-friedrich.com^$document
-||elektro-hettich.de^$document
 ||elektro-meisner.com^$document
 ||elektro-outlet24.myshopify.com^$document
 ||elektro-rock.com^$document
@@ -119542,6 +119544,7 @@
 ||elitacolusov.tk^$document
 ||elitamuramen.gq^$document
 ||elite-idraet-aarhus.dk^$document
+||elite-patrimoine.com^$document
 ||elite-utility-app.com^$document
 ||eliteautosalesia.com^$document
 ||elitebet.fr^$document
@@ -134393,6 +134396,7 @@
 ||finestwood.ee^$document
 ||finesubmission.com^$document
 ||finetechnology.xyz^$document
+||finetero.com^$document
 ||finetguytadel.tk^$document
 ||fineweine.com^$document
 ||finewineaccess.com^$document
@@ -153825,6 +153829,7 @@
 ||gravithowmoter.cf^$document
 ||graviti.com^$document
 ||graviti.com^$document
+||gravity-market.com^$document
 ||gravity38.ru^$document
 ||gravityharryexperienced.com^$document
 ||gravjoiwallterri.ga^$document
@@ -167046,7 +167051,6 @@
 ||holz-abl-zentrale.de^$document
 ||holz-brennholzhandel.de^$document
 ||holz-deal24.de^$document
-||holz-market.com^$document
 ||holz-pellet-bestequalitat.de^$document
 ||holz-pellets24.com^$document
 ||holz-premium.de^$document
@@ -173777,6 +173781,7 @@
 ||igmcmq.rest^$document
 ||igmetall-meinung.de^$document
 ||igmfyr.rest^$document
+||igmholdings.com^$document
 ||igmiletag.tk^$document
 ||igmveo.tokyo^$document
 ||ignateignategranite.com^$document
@@ -174926,7 +174931,6 @@
 ||ilulay.tokyo^$document
 ||ilulkifgoci.ml^$document
 ||ilumanic.tk^$document
-||ilumina.center^$document
 ||ilunenkleson.gq^$document
 ||ilupinnancess.tk^$document
 ||ilusanacanin.tk^$document
@@ -181054,6 +181058,7 @@
 ||isalflakofer.ml^$document
 ||isalinmucasi.ga^$document
 ||isalnieprotab.cf^$document
+||isaloge-investissement.com^$document
 ||isalpurrithe.tk^$document
 ||isalrelvoicompdoct.cf^$document
 ||isalrutyrkau.tk^$document
@@ -191610,7 +191615,6 @@
 ||kapgubustbarmcornpou.ml^$document
 ||kapironacom.ga^$document
 ||kapitaalkern.com^$document
-||kapital-direkt.de^$document
 ||kapitalcheck.de^$document
 ||kapitalizm.xyz^$document
 ||kapitalmagazin.de^$document
@@ -215392,6 +215396,8 @@
 ||lyxmyz.com^$document
 ||lyxnyfsm.cyou^$document
 ||lyxopw.bar^$document
+||lyxorassetmanagement.com^$document
+||lyxorpro.com^$document
 ||lyxvyk.tokyo^$document
 ||lyxxyb168.com^$document
 ||lyy4t.bar^$document
@@ -240584,7 +240590,6 @@
 ||nextbinary.com^$document
 ||nextbonus.icu^$document
 ||nextcar.xyz^$document
-||nextchain.at^$document
 ||nextcosculomasa.gq^$document
 ||nextdetest.com^$document
 ||nextdetictasu.cf^$document
@@ -249698,6 +249703,7 @@
 ||oek4du.cyou^$document
 ||oeknzp.tokyo^$document
 ||oekonomaforeningen.dk^$document
+||oekoranch.de^$document
 ||oektkt.cyou^$document
 ||oekvhh.bar^$document
 ||oekw.com.cn^$document
@@ -252606,7 +252612,6 @@
 ||onlinestealthcontrol.com^$document
 ||onlinesupport24.top^$document
 ||onlinesurfsafe.com^$document
-||onlineteddy.com^$document
 ||onlinetestovani.biz^$document
 ||onlineticket.fr^$document
 ||onlinetoolsale.com^$document
@@ -287728,6 +287733,7 @@
 ||raysurpbreaktecma.ga^$document
 ||raytech.xyz^$document
 ||raython.com^$document
+||raytomore.com^$document
 ||raytranitefdisa.cf^$document
 ||raytrenucunther.cf^$document
 ||rayvarupmakila.tk^$document
@@ -308584,6 +308590,7 @@
 ||sensahome.fr^$document
 ||sensationalconnote.com^$document
 ||sensdizlik.ga^$document
+||sensecap.io^$document
 ||sensecountrypart.biz^$document
 ||sensegraphics.se^$document
 ||sensehandnumber.buzz^$document
@@ -329102,6 +329109,7 @@
 ||swisscorummanagement.com^$document
 ||swisse-pro.fr^$document
 ||swissedgponbipyt.gq^$document
+||swissepargne.com^$document
 ||swisslide.fr^$document
 ||swisslif.fr^$document
 ||swisslife-contact.fr^$document
@@ -330544,6 +330552,7 @@
 ||t4s0so.cyou^$document
 ||t4sfac.tokyo^$document
 ||t4szis.cyou^$document
+||t4trade.com^$document
 ||t4ul10.shop^$document
 ||t4xocmc.shop^$document
 ||t4xss7.cyou^$document
@@ -333600,7 +333609,7 @@
 ||tavorn.ru^$document
 ||tavxuj.tokyo^$document
 ||tawacrolecint.tk^$document
-||tawagold.com^$document
+||tawagold.store^$document
 ||tawarticage.cf^$document
 ||tawatisibesrent.tk^$document
 ||tawdparali.cf^$document
@@ -347276,6 +347285,7 @@
 ||trachoutraluvinsa.tk^$document
 ||trachpielanveha.ml^$document
 ||trachtafactkit.tk^$document
+||trachtenhemdvibe.com^$document
 ||tracicexenmaigros.tk^$document
 ||tracilbemezme.tk^$document
 ||tracilmiburci.tk^$document
@@ -351259,6 +351269,7 @@
 ||tuenkers.xyz^$document
 ||tueperdisapomo.gq^$document
 ||tueretangcanrile.gq^$document
+||tuerschlossratgeber.com^$document
 ||tuesakaziwert.tk^$document
 ||tuesdayaroused.com^$document
 ||tuespeslanpocalsing.gq^$document
@@ -357114,6 +357125,7 @@
 ||unipbusoundcharci.ml^$document
 ||unipeg.xyz^$document
 ||unipfesrelide.tk^$document
+||uniqa-alternatives.com^$document
 ||uniqleo.fr^$document
 ||uniqlo-fr.fr^$document
 ||uniqlo-france.fr^$document
@@ -357330,6 +357342,7 @@
 ||universalpacoche.es^$document
 ||universalprotection.de^$document
 ||universalstudioshollywood.fr^$document
+||universaltrade.io^$document
 ||universdesjouetsfr.fr^$document
 ||universdumaillot.fr^$document
 ||universeshop.eu^$document
@@ -378045,6 +378058,7 @@
 ||werk-werkzeuge.com^$document
 ||werkbank-klappbar.de^$document
 ||werkbankli.tk^$document
+||werkbau24.com^$document
 ||werkcakejuncma.ga^$document
 ||werke-anhangers.com^$document
 ||werkelio.de^$document
@@ -378070,6 +378084,7 @@
 ||werkzeugemaschinen.com^$document
 ||werkzeugerasenmaher.de^$document
 ||werkzeugheld24.de^$document
+||werkzeugkammer.com^$document
 ||werkzeugland.com^$document
 ||werkzeugmarkt.ch^$document
 ||werkzeugmaschinenstore.com^$document
@@ -378152,6 +378167,7 @@
 ||weser-sonnenschutz.de^$document
 ||weserstore.de^$document
 ||wesgagadubzo.tk^$document
+||weshowtech.de^$document
 ||wesmantcomnaporn.ga^$document
 ||wesmaywomanwoman.biz^$document
 ||wesolapani.pl^$document
@@ -379382,6 +379398,7 @@
 ||wieskatressecess.tk^$document
 ||wiesmann-mode.de^$document
 ||wiesmokcelmune.tk^$document
+||wiesndress.com^$document
 ||wiesnkinder.de^$document
 ||wiessman.fr^$document
 ||wiesuamyslandggat.cf^$document
@@ -382065,7 +382082,6 @@
 ||wohnchantzuwel.web.app^$document
 ||wohndekode.com^$document
 ||wohnelektro.com^$document
-||wohnen-diy.com^$document
 ||wohngartenshop.de^$document
 ||wohnish.de^$document
 ||wohnlichtshop.com^$document
@@ -405634,7 +405650,6 @@
 ||zyoonut.tokyo^$document
 ||zyp6wk.cyou^$document
 ||zyphorbit-at.com^$document
-||zyphorbit.at^$document
 ||zypkpg.shop^$document
 ||zypnereaccoces.ml^$document
 ||zypocquiregici.gq^$document
