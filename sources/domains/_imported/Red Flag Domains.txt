@@ -1,4 +1,4 @@
-#last-update:2026-11-27
+#last-update:2026-11-28
 000webhost.fr
 000webhostapp.fr
 01labanquepostale.fr
@@ -6710,6 +6710,7 @@ bitwin-casino.fr
 bitwincasino.fr
 bitzamo.fr
 biucosmetics.fr
+biwarden.fr
 bizbet.fr
 bizzo-casino.fr
 bizzo-online.fr
@@ -7488,7 +7489,9 @@ buildabear-france.fr
 buildabearfr.fr
 buildabearfrance.fr
 bulkcrapuninstaller.fr
+bull-spins.fr
 bullesonore.fr
+bullspins.fr
 bundesanzeiger.fr
 bunqsupport.fr
 bunsbet.fr
@@ -13599,6 +13602,7 @@ decathlon-sav.fr
 decathlonparis.fr
 decathlons.fr
 dechatlon.fr
+decl-ants.fr
 declaration-ameli.fr
 declarationameli.fr
 declarationca3dgfip.fr
@@ -16672,6 +16676,7 @@ finances-dgflip.fr
 finances-gouv-brif.fr
 finances-gouv-dgfp-controle-tva.fr
 finances-gouv-info.fr
+finances-public.fr
 finances-publique.fr
 finances-verbalisations.fr
 financesgouv.fr
@@ -17143,6 +17148,7 @@ fr-frumzi.fr
 fr-funbetcasino.fr
 fr-galec.fr
 fr-galy.fr
+fr-gameavenue.fr
 fr-gatesofolympus.fr
 fr-gcc.fr
 fr-generixgroup.fr
@@ -21352,6 +21358,7 @@ ivybetcasinobonus777.fr
 ivybetcasinologin.fr
 ivybets.fr
 iwank.fr
+iwarden.fr
 iwetransfer.fr
 iwildcasino.fr
 iwnamax.fr
@@ -36700,6 +36707,8 @@ sharkfrance.fr
 shazam2-filmtickets.fr
 shein-coupon.fr
 sheinmystore.fr
+sherluck-casino.fr
+sherluck-online.fr
 shieldplsyp.fr
 shiiva.fr
 shikaka-fr.fr
@@ -37874,6 +37883,7 @@ spinago.fr
 spinalto-casino.fr
 spinalto-enligne.fr
 spinalto-fr.fr
+spinalto-france.fr
 spinalto1.fr
 spinaltocasino.fr
 spinaltofr.fr
@@ -38182,6 +38192,8 @@ spinoloco-casino.fr
 spinorhino-fr.fr
 spinorhinocasino-fr.fr
 spinorhinocasino1.fr
+spinostra-casino.fr
+spinostra.fr
 spinpanda-casino.fr
 spinpanda-fr.fr
 spinpanda.fr
@@ -38233,6 +38245,8 @@ spinsino-casino.fr
 spinsino-fr.fr
 spinsino.fr
 spinsino1.fr
+spinsky-casino.fr
+spinsky-online.fr
 spinslynx.fr
 spinsofglory-casino.fr
 spinsofglory-fr.fr
@@ -40018,6 +40032,7 @@ ticketseiffel.paris
 ticketselect.fr
 ticketsevents.fr
 ticketsflash.fr
+ticketshellfest.fr
 ticketshow.fr
 ticketsjoparis2024.fr
 ticketsjul.fr
@@ -40138,8 +40153,10 @@ tirage-carte-voyance.fr
 tiseo.fr
 tissotfrance.fr
 titan-casino.fr
+titan-luck-casino.fr
 titanbetcasino.fr
 titanlock-official.fr
+titanluck-casino.fr
 titanluck-fr.fr
 tjparis-justice.fr
 tkees-france.fr
@@ -44475,6 +44492,7 @@ zadigetvoltairefrance.fr
 zadigoutlet.fr
 zalanado.fr
 zalando-ptive.fr
+zalandofficiel.fr
 zalandon.fr
 zalandoutlet.fr
 zalanodo.fr
